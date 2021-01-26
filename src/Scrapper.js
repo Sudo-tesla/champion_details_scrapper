@@ -40,7 +40,14 @@ const ayumiloveChampionList = async () => {
             }
         }
 
-        try {
+
+
+
+
+        //fixChampionDetailsURLError();
+
+
+       try {
             for(let trackingIndex = 0;trackingIndex<championList.length;trackingIndex++) {
                 console.log(trackingIndex);
                 console.log(championList[trackingIndex].name);
@@ -63,6 +70,7 @@ const ayumiloveChampionList = async () => {
         catch(err) {
             console.log(err.message);
         }
+        await storeBaseChampionInfoList();
 
 
         return championList;
@@ -78,12 +86,56 @@ const ayumiloveChampionList = async () => {
 ayumiloveChampionList().then(list =>{ console.log(list.length)
 }
 );
+async function storeBaseChampionInfoList() {
+    let files = fs.readdirSync(directories.details);
+    let championBaseInfoMap = {};
+    for (let fileName of files) {
+        let champion =championFromFile({dir: directories.details, name: fileName});
+        championBaseInfoMap[champion.name] = champion.details;
+    }
+    console.log(championBaseInfoMap);
+    fs.writeFile('../champions-base-info.json',JSON.stringify(championBaseInfoMap,null, 4), function(err) {
+        if(err) {
+            return console.log(err);
+        }
+        console.log("The file was saved!");
+    });
+
+
+}
+//one time tool used to fix an error without polling the server for every fix
+//error fixed : included https:// prefix to champion avatar url
+function fixChampionDetailsURLError() {
+    let files = fs.readdirSync(directories.details);
+
+    for (let fileName of files) {
+
+        const jsonString = fs.readFileSync(directories.details+fileName);
+        const champion = JSON.parse(jsonString);
+        champion.avatarUrl = 'https://'+champion.avatarUrl;
+        storeChampion(champion);
+
+    }
+}
+function championFromFile({dir,name}){
+    try {
+        const jsonString = fs.readFileSync(dir+name);
+        const champion = JSON.parse(jsonString);
+        let details = champion.class;
+        details.avatarUrl = champion.avatarUrl;
+        details.detailsUrl = 'https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/'+name+'?raw=true'
+        return {name : champion.name, details : details};
+    } catch(err) {
+        console.log(err)
+        return
+    }
+}
 
 function storeImage(championObject) {
 
     const file = fs.createWriteStream( generateFileName(championObject.name,extensions.image,directories.avatar));
 
-    const request = http.get('https://'+championObject.avatarUrl, function(response) {
+    const request = http.get(championObject.avatarUrl, function(response) {
         response.pipe(file);
     });
 
@@ -105,10 +157,7 @@ function generateFileName(name,extension,dir) {
     filename=filename.replace(/-/g, '_');
 
     return dir + filename + extension;
-
-
 }
-
 
 
 
@@ -156,7 +205,7 @@ async function extractChampionDetails(championObject) {
     details.class = championClass;
     details.stats = championStats.toJSON();
     details.skills = skills;
-    details.avatarUrl = imageUrl;
+    details.avatarUrl = 'https://'+imageUrl;
 
 
     return details;
@@ -188,6 +237,7 @@ function extractChampionClass(outerHTML) {
         overViewTrim(splitData[2]),
         overViewTrim(splitData[3]));
 }
+
 function extractChampionStats(outerHTML) {
     let splitData = outerHTML.split('<br>');
     return new Stats(
@@ -211,8 +261,6 @@ function overViewTrim(dataSlice) {
     return dataSplit.substr(0,dataSplit.length-3);
 }
 
-
-
 class Stats{
 
     constructor(hp,atk,def,spd,crate,cdmg,resist,acc) {
@@ -234,6 +282,7 @@ class Stats{
     }
 
 }
+
 class Skills {
     constructor(cd,mincd,dmgscaling,abilityname,description,books) {
         this.cd = cd;
@@ -252,6 +301,7 @@ class Skills {
     }
 
 }
+
 function extractSkill(paragraph) {
     console.log(paragraph.outerHTML);
     let ability = paragraph.querySelector('strong').textContent;
@@ -334,6 +384,7 @@ function getCooldown(skillText) {
 
     return parseInt(cd[0]);
 }
+
 function getDamageScaling(skillText) {
 
     const regex = /(?<=\[).+?(?=\])/g;
