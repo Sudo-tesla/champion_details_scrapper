@@ -61,6 +61,16 @@
                 "Level 5: Damage +5%",
                 "Level 6: Cooldown -1"
             ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "War Machine",
+            "description": " Increases this Champion’s SPD by 6 and C.DMG by 7% for each enemy this Champion kills in a Round. Stacks up to +30 SPD and +35% C.DMG. Stacks will reset if this Champion is killed. Whenever an enemy Champion is revived, fills this Champion’s Turn Meter by 30% for each revived enemy, then places a 50% [Increase ATK] buff and a 30% [Increase C.DMG] buff on this Champion for 1 turn.",
+            "books": []
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/King_Garog.png"

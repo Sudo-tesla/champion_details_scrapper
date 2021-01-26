@@ -48,6 +48,40 @@
                 "Level 5: Buff/Debuff Chance +10%",
                 "Level 6: Cooldown -1"
             ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Head Ringer",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a [Stun] debuff for 1 turn. Has a 25% chance of placing the [Stun] debuff for 2 turns instead and stealing 50% of the target’s current Turn Meter. Resets the cooldown of this Skill if the target is killed.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +10%",
+                "Level 3: Buff/Debuff Chance +15%",
+                "Level 4: Damage +20%",
+                "Level 5: Cooldown -1",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Charmed Life",
+            "description": " Places one of the following buffs on this Champion for 2 turns at the start of each turn: a 50% [Increase ATK] buff, a 30% [Increase C.DMG] buff, a 30% [Increase C.RATE] buff, a 25% [Strengthen] buff, or a [Block Damage] buff.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ATK in all Battles by 25%.",
+            "books": []
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Cillian_the_Lucky.png"

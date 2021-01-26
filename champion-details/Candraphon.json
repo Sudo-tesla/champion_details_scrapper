@@ -31,6 +31,50 @@
                 "Level 4: Damage +10%",
                 "Level 5: Damage +10%"
             ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Butcher’s Glee",
+            "description": " Attacks all enemies. Grants an Extra Turn and resets the cooldown of On the Hunt Skill if this attack kills an enemy.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 5,
+            "dmgscaling": [],
+            "abilityname": "On the Hunt",
+            "description": " Places a [Perfect Veil] buff, a 50% [Increase ATK] buff, a 30% [Increase SPD] buff, and a 30% [Increase C.DMG] buff on this Champion for 2 turns.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "From the Shadows",
+            "description": " [Passive Effect] Damage increases by 40% while attacking under a [Veil] or [Perfect Veil] buff. Receives 40% less damage while under a [Veil] or [Perfect Veil] buff. Also boosts this Champion’s Turn Meter by 15% each time this Champion receives damage under a [Veil] or [Perfect Veil] buff. Does not work if this Champion is the only alive ally on the team.",
+            "books": [
+                "[Active Effect] Places a [Perfect Veil] buff on this Champion for 1 turn each time an enemy’s Turn Meter is filled. This buff cannot be removed."
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally Attack in Arena by 33%",
+            "books": []
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Candraphon.png"

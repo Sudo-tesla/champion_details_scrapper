@@ -58,31 +58,26 @@ const ayumiloveChampionList = async () => {
         }
 
         //fixChampionDetailsURLError();
+        let extractedChamp = await extractChampionDetails(championList[52]);
+        storeChampion(extractedChamp);
 
        try {
-            for(let trackingIndex = 0;trackingIndex<championList.length;trackingIndex++) {
+           for(let trackingIndex = 0;trackingIndex<championList.length;trackingIndex++) {
                 console.log(trackingIndex);
                 console.log(championList[trackingIndex].name);
 
-                let existsState = fileExists({filename:championList[trackingIndex].name,isImage:true,isJson:true});
-                console.log(existsState);
-                if(existsState.jsonExists ===false) {
+/*                let existsState = fileExists({filename:championList[trackingIndex].name,isImage:true,isJson:true});
+                console.log(existsState);*/
 
-                    let extractedChamp = await extractChampionDetails(championList[trackingIndex]);
-                    storeChampion(extractedChamp);
-                    if(existsState.imageExists ===false) {
-                        storeImage(extractedChamp);
-                    }
-                } else {
-                    console.log("Skipped")
-                }
+                let extractedChamp = await extractChampionDetails(championList[trackingIndex]);
+                storeChampion(extractedChamp);
 
             }
         }
         catch(err) {
             console.log(err.message);
         }
-        await storeBaseChampionInfoList();
+        //await storeBaseChampionInfoList();
 
         return championList;
 
@@ -198,7 +193,7 @@ async function extractChampionDetails(championObject) {
 
         if(p.textContent.startsWith("✰") || p.textContent.startsWith("★")) {
             flag=true;
-        } else if(flag & isNaN(p.textContent.charAt(0)) & p.querySelector('strong') !== null &&  !(p.textContent.includes("Equipment") || p.textContent.includes('set'))){
+        } else if(flag & isNaN(p.textContent.charAt(0)) & p.querySelector('strong') !== null &&  !(p.textContent.includes("Equipment") || p.textContent.includes(' set'))){
 
             skills[skills.length] = extractSkill(p).toJSON();
         } else if(flag) {

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "abilityname": "Dark Bolt",
-            "description": " Attacks 1 enemy. Has an 80% chance of placing a 2.5% [Poison] debuff for 2 turns.",
+            "description": "\nAttacks 1 enemy. Has an 80% chance of placing a 2.5% [Poison] debuff for 2 turns.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Buff/Debuff Chance +10%",
@@ -40,7 +40,7 @@
                 "ATK"
             ],
             "abilityname": "Acid Rain",
-            "description": " Attacks all enemies. Has an extra 15% chance of inflicting a critical hit. Fill the Turn Meter of this champion by 25% for each enemy killed.",
+            "description": "\nAttacks all enemies. Has an extra 15% chance of inflicting a critical hit. Fill the Turn Meter of this champion by 25% for each enemy killed.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -55,7 +55,7 @@
                 "ATK"
             ],
             "abilityname": "Disintegrate",
-            "description": " Attacks 4 times at random. Has a 40% chance of placing a 5% [Poison] debuff for 2 turns.",
+            "description": "\nAttacks 4 times at random. Has a 40% chance of placing a 5% [Poison] debuff for 2 turns.",
             "books": [
                 "Level 2: Damage +10%",
                 "Level 3: Buff/Debuff Chance +5%",
@@ -69,7 +69,7 @@
             "mincd": 0,
             "dmgscaling": [],
             "abilityname": "Aura",
-            "description": " Increases Ally HP in all battles by 15%.",
+            "description": "\nIncreases Ally HP in all battles by 15%.",
             "books": []
         }
     ],

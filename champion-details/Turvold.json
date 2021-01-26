@@ -42,6 +42,30 @@
             "books": [
                 "Level 2: Cooldown -1"
             ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Juggernaut",
+            "description": " Attacks 1 enemy 2 times. Damage increases according to the number of buffs on this Champion. If the target is killed, resets the cooldown of this skill.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Cooldown -1",
+                "Level 5: Damage +10%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ATK in Faction Crypts by 42%.",
+            "books": []
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Turvold.png"

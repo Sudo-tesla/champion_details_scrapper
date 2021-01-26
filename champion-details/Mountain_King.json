@@ -63,6 +63,16 @@
                 "Level 3: Damage +5%",
                 "Level 4: Cooldown -1"
             ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Fabled Skill",
+            "description": " Increases this Champion’s ATK by 50% each time this Champion kills an enemy. Stacks up to 100%. Resets each round.",
+            "books": []
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Mountain_King.png"

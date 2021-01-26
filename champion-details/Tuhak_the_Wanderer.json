@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "abilityname": "Unfair Fight",
-            "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of increasing the cooldown of one of the target’s Skills by 1 turn at random. Increases the cooldowns of all of the target’s Skills by 1 turn instead ifthis Champion has less than 50% HP when attacking on each hit.",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of increasing the cooldown of one of the target’s Skills by 1 turn at random. Increases the cooldowns of all of the target’s Skills by 1 turn instead if this Champion has less than 50% HP when attacking on each hit.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",

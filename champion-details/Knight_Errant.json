@@ -31,6 +31,44 @@
                 "Level: 4 Buff/Debuff Chance +5%",
                 "Level: 5 Buff/Debuff Chance +5%"
             ]
+        },
+        {
+            "cd": 4,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Mordhau",
+            "description": " Attacks 1 enemy. Has a 60% chance of placing a [Stun] debuff for 1 turn. Resets the cooldowns on each of this Champion’s skills if the target is killed.",
+            "books": [
+                "Level: 2 Damage +10%",
+                "Level: 3 Buff/Debuff Chance +10%",
+                "Level: 4 Buff/Debuff Chance +10%",
+                "Level: 5 Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 6,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Death Warrant",
+            "description": " Attacks 1 enemy. Has a 60% chance of placing a 25% [Weaken] debuff for 2 turns. Damage is increased by 75% if this Champion has full HP.",
+            "books": [
+                "Level: 2 Damage +10%",
+                "Level: 3 Buff/Debuff Chance +10%",
+                "Level: 4 Buff/Debuff Chance +10%",
+                "Level: 5 Buff/Debuff Chance +20%"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally DEF in Dungeons by 32%.",
+            "books": []
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Knight_Errant.png"

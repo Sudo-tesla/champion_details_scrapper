@@ -23,7 +23,7 @@
             "dmgscaling": [
                 "ATK"
             ],
-            "abilityname": "Doom lnescapable",
+            "abilityname": "Doom Inescapable",
             "description": " Attacks 1 enemy 2 times. Will ignore [Shield] buffs.",
             "books": [
                 "Level 2: Damage +5%",

@@ -46,6 +46,29 @@
                 "Level: 4 Damage +15%",
                 "Level: 5 Cooldown -1"
             ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Energy Drain",
+            "description": " Attacks all enemies. Decreases the Turn Meter by 20%. Resets the cooldowns on each of this Champion’s skills if any target is killed. Has an extra 15% chance of inflicting a critical hit.",
+            "books": [
+                "Level: 2 Damage +5%",
+                "Level: 3 Damage +10%",
+                "Level: 4 Damage +10%",
+                "Level: 5 Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally C.RATE in all Battles by 19%.",
+            "books": []
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Queen_Eva.png"

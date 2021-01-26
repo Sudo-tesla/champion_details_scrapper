@@ -46,6 +46,24 @@
                 "Level 4: Cooldown -1",
                 "Level 5: Cooldown -1"
             ]
+        },
+        {
+            "cd": 7,
+            "mincd": 6,
+            "dmgscaling": [],
+            "abilityname": "Seal of Magic",
+            "description": " Resets the cooldowns of all ally skills. Fills the Turn Meter of all allies except this Champion by 20%.",
+            "books": [
+                "Level 2: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally SPD in the Arena by 30%.",
+            "books": []
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Prince_Kymar.png"

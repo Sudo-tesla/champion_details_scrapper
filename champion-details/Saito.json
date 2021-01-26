@@ -60,6 +60,24 @@
                 "Level 4: Damage +5%",
                 "Level 5: Cooldown -1"
             ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Vendetta",
+            "description": " Will ignore 7.5% of enemy DEF for each time this Champion attacks the same target enemy in consecutive attacks or Turns. Stacks up to 30%. The stack will be lost and reset if this Champion targets and attacks a different enemy.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ATK in Dungeons by 30%",
+            "books": []
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Saito.png"

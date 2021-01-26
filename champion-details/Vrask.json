@@ -24,7 +24,7 @@
                 "HP"
             ],
             "abilityname": "Whack",
-            "description": "\nAttacks 1 enemy. Fills this Champion’s Turn Meter by 20% if this attack is critical.",
+            "description": " Attacks 1 enemy. Fills this Champion’s Turn Meter by 20% if this attack is critical.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -39,7 +39,7 @@
                 "HP"
             ],
             "abilityname": "Lightning Strike",
-            "description": "\nAttacks 1 enemy.",
+            "description": " Attacks 1 enemy.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +10%",
@@ -54,7 +54,7 @@
                 "Passive"
             ],
             "abilityname": "Cannibalism",
-            "description": "\nHeals all allies by 10% of his MAX HP when he inflicts a critical hit.",
+            "description": " Heals all allies by 10% of his MAX HP when he inflicts a critical hit.",
             "books": []
         },
         {
@@ -62,7 +62,7 @@
             "mincd": 0,
             "dmgscaling": [],
             "abilityname": "Aura",
-            "description": "\nIncreases Ally DEF in Dungeons by 33%.",
+            "description": " Increases Ally DEF in Dungeons by 33%.",
             "books": []
         }
     ],

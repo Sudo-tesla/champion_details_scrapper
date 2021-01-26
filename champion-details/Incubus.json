@@ -32,6 +32,22 @@
                 "Level 5: Damage +5%",
                 "Level 6: Damage +5%"
             ]
+        },
+        {
+            "cd": 4,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Demon Fangs",
+            "description": " Attacks 3 times at random. Resets the cooldown of this skill if the target is killed.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%",
+                "Level 6: Damage +5%"
+            ]
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Incubus.png"
