@@ -1,15 +1,16 @@
+/**
+ * Scrapper for https://ayumilove.net/ to extract champion data
+ * Developed by <sudotesla@gmail.com> 2020
+ */
+
 const { JSDOM } = require("jsdom")
 const axios = require('axios')
 const fs = require('fs');
-
 const http = require('https'); // or 'https' for https:// URLs
 
 const sourceLink = "https://ayumilove.net/raid-shadow-legends-list-of-champions-by-ranking/";
-
-
 const extensions = {json : '.json',image : '.png'}
 const directories = {details: '../champion-details/',avatar : '../images/avatar/'}
-
 
 class Champion {
     constructor(name, url) {
@@ -18,6 +19,22 @@ class Champion {
     }
 }
 
+class Class {
+    constructor(faction,rarity,role,affinity) {
+        this.faction =faction;
+        this.rarity = rarity;
+        this.role = role;
+        this.affinity = affinity;
+
+    }
+    toJSON() {
+        return Object.getOwnPropertyNames(this).reduce((a, b) => {
+            a[b] = this[b];
+            return a;
+        }, {});
+    }
+
+}
 
 const ayumiloveChampionList = async () => {
 
@@ -30,9 +47,9 @@ const ayumiloveChampionList = async () => {
 
         let tierIndex =0;
 
-        for(tier of u1) {
+        for(let tier of u1) {
             const champs  = tier.querySelectorAll("li");
-            for(champ of champs) {
+            for(let champ of champs) {
                 championList[championList.length] = new Champion(champ.textContent.split('|')[0].trim(),champ.querySelector("a")?.href);
             }
             if(++tierIndex>24) {
@@ -40,12 +57,7 @@ const ayumiloveChampionList = async () => {
             }
         }
 
-
-
-
-
         //fixChampionDetailsURLError();
-
 
        try {
             for(let trackingIndex = 0;trackingIndex<championList.length;trackingIndex++) {
@@ -72,11 +84,7 @@ const ayumiloveChampionList = async () => {
         }
         await storeBaseChampionInfoList();
 
-
         return championList;
-
-
-
 
     } catch (error) {
         throw error;
@@ -127,7 +135,7 @@ function championFromFile({dir,name}){
         return {name : champion.name, details : details};
     } catch(err) {
         console.log(err)
-        return
+
     }
 }
 
@@ -186,8 +194,7 @@ async function extractChampionDetails(championObject) {
     let flag = false;
     let skills = []
 
-    for(p of p1) {
-
+    for(let p of p1) {
 
         if(p.textContent.startsWith("✰") || p.textContent.startsWith("★")) {
             flag=true;
@@ -212,22 +219,7 @@ async function extractChampionDetails(championObject) {
 
 
 }
-class Class {
-    constructor(faction,rarity,role,affinity) {
-        this.faction =faction;
-        this.rarity = rarity;
-        this.role = role;
-        this.affinity = affinity;
 
-    }
-    toJSON() {
-        return Object.getOwnPropertyNames(this).reduce((a, b) => {
-            a[b] = this[b];
-            return a;
-        }, {});
-    }
-
-}
 function extractChampionClass(outerHTML) {
     let splitData = outerHTML.split('<br>');
 
