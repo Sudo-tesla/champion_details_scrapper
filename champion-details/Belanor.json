@@ -1,0 +1,80 @@
+{
+    "name": "Belanor",
+    "class": {
+        "faction": "High Elves",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "15,195",
+        "atk": "1,520",
+        "def": "1,046",
+        "spd": "105",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Swordleader",
+            "description": " Attacks 1 enemy. Places a 30% [Increase C.RATE] buff on all allies for 1 turn if this attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Damage +10%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Insurmountable",
+            "description": " Places a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff for 2 turns on 1 enemy, then attacks them. Places a [Perfect Veil] buff on this Champion for 2 turns after attacking.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Damage +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Overkill",
+            "description": " Attacks 1 enemy. Will attack the enemy with the lowest HP with any surplus damage if this attack kills an enemy. The surplus damage cannot be critical.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 4,
+            "dmgscaling": [],
+            "abilityname": "Tactical Partner",
+            "description": " Activates this Champion’s Swordleader skill. Also activates Zavia’s Poison Rain Skill when <a href=\"//ayumilove.net/raid-shadow-legends-zavia-skill-mastery-equip-guide/\">Zavia</a> is on the same team.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally C.RATE in all Battles by 24%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Belanor.png"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Septimus",
+    "class": {
+        "faction": "Banner Lords",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "13,710",
+        "atk": "1,674",
+        "def": "991",
+        "spd": "102",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Septimus.png"
+}

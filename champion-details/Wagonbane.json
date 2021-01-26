@@ -1,0 +1,69 @@
+{
+    "name": "Wagonbane",
+    "class": {
+        "faction": "Ogryn Tribes",
+        "rarity": "Rare",
+        "role": "Support",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "17,175",
+        "atk": "947",
+        "def": "936",
+        "spd": "97",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Eye Blight",
+            "description": " Attacks 1 enemy. Has a 35% chance of placing a 50% Decrease ACC debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +5%",
+                "Level 7: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Hackgore Magic",
+            "description": " Attacks 1 enemies. Places a 7.5% Continuous Heal buff on the ally with the lowest HP for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 5,
+            "dmgscaling": [],
+            "abilityname": "Start The Mayhem",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a 60% Decrease DEF debuff for 2 turns. Also has a 75% chance of decreasing the target’s Turn Meter by 15%.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Buff/Debuff Chance +5%",
+                "Level 7: Buff/Debuff Chance +15%"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Wagonbane.png"
+}

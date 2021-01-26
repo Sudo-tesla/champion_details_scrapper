@@ -1,0 +1,69 @@
+{
+    "name": "Mountain King",
+    "class": {
+        "faction": "Dwarves",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "31,050",
+        "atk": "1,432",
+        "def": "1,112",
+        "spd": "85",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "90",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "HP",
+                "ATK"
+            ],
+            "abilityname": "Thunder Cleave",
+            "description": " Attacks 1 enemy.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "HP",
+                "ATK"
+            ],
+            "abilityname": "Enchanted Axe",
+            "description": " Attacks 1 enemy. Ignores 50% of the target’s DEF.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "HP",
+                "ATK"
+            ],
+            "abilityname": "Regal Force",
+            "description": " Attacks 1 enemy. Ignores [Shield] and [Block Damage] buffs.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Mountain_King.png"
+}

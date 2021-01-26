@@ -1,0 +1,54 @@
+{
+    "name": "Cillian the Lucky",
+    "class": {
+        "faction": "Banner Lords",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "13,215",
+        "atk": "1,432",
+        "def": "1,266",
+        "spd": "98",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Trip Up",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 35% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Each hit also has a 35% chance of stealing 30% of the target’s current Turn Meter.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Inflict Misfortune",
+            "description": " Attacks 1 enemy. Has an 85% chance of placing a [Block Cooldown Skills] debuff for 4 turns. Also has a 35% chance of placing a [Block Cooldown Skills] debuff on all other enemies for 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Cillian_the_Lucky.png"
+}

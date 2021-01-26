@@ -1,0 +1,39 @@
+{
+    "name": "Novitiate",
+    "class": {
+        "faction": "The Sacred Order",
+        "rarity": "Common",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "10,245",
+        "atk": "892",
+        "def": "628",
+        "spd": "83",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Harrying Shot",
+            "description": " Attacks 1 enemy. Has a 10% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Damage +5%",
+                "Level 6: Buff/Debuff Chance +10%",
+                "Level 7: Damage +10%"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Novitiate.png"
+}

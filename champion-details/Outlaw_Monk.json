@@ -1,0 +1,47 @@
+{
+    "name": "Outlaw Monk",
+    "class": {
+        "faction": "The Sacred Order",
+        "rarity": "Uncommon",
+        "role": "Attack",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "12,225",
+        "atk": "1,244",
+        "def": "694",
+        "spd": "96",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Dagger Throw",
+            "description": " Attacks 1 enemy. Has a 10% chance of granting an Extra Turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Foul Play",
+            "description": " Places two 5% [Poison] debuffs on the target for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Outlaw_Monk.png"
+}

@@ -1,0 +1,68 @@
+{
+    "name": "Bonekeeper",
+    "class": {
+        "faction": "Orcs",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "13,545",
+        "atk": "1,531",
+        "def": "870",
+        "spd": "98",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Batter",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Precision Strike",
+            "description": " Attacks 1 enemy. This attack deals 50% extra C.DMG.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Killing Haze",
+            "description": " Attacks 1 enemy. Places an extra hit if this attack is critical. Fills the Turn Meters of all allies by 15% if this attack kills an enemy.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Bonekeeper.png"
+}

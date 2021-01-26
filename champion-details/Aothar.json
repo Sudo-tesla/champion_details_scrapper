@@ -1,0 +1,78 @@
+{
+    "name": "Aothar",
+    "class": {
+        "faction": "The Sacred Order",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "14,535",
+        "atk": "1,509",
+        "def": "826",
+        "spd": "92",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Rage",
+            "description": " Attacks 1 enemy 2 times. Has a 15% chance of stealing 1 random buff from the target.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Holy Flame",
+            "description": " Attacks 4 times at random. Places a 5% [Poison] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Damage +10%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Brand",
+            "description": " Attacks 1 enemy. Places a [Block Cooldown Skills] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Cooldown -1",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ATK in all Battles by 21%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Aothar.png"
+}

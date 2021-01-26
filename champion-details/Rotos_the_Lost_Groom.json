@@ -1,0 +1,38 @@
+{
+    "name": "Rotos the Lost Groom",
+    "class": {
+        "faction": "Undead Hordes",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "11,895",
+        "atk": "1,520",
+        "def": "1,266",
+        "spd": "90",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "40",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK",
+                "HP"
+            ],
+            "abilityname": "Terror Scourge",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also has a 25% chance of granting an Extra Turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Rotos_the_Lost_Groom.png"
+}

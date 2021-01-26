@@ -1,0 +1,78 @@
+{
+    "name": "Panthera",
+    "class": {
+        "faction": "Skinwalkers",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "13,545",
+        "atk": "1,277",
+        "def": "848",
+        "spd": "97",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Claws Upon Claws",
+            "description": " Attacks 1 enemy 3 times. Each critical hit has a 50% chance of decreasing the target’s Turn Meter by 3%.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Buff/Debuff Chance +5%",
+                "Level 7: Damage +5%",
+                "Level 8: Damage +10%",
+                "Level 9: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Devitalize",
+            "description": " Attacks 1 enemy 2 times. Each hit has an 85% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Damage +5%",
+                "Level 7: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Vanish to Shadows",
+            "description": " Places a [Perfect Veil] buff and a 30% [Reflect Damage] buff on this Champion for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ACC in Dungeons by 40.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Panthera.png"
+}

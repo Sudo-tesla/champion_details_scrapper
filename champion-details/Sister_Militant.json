@@ -1,0 +1,37 @@
+{
+    "name": "Sister Militant",
+    "class": {
+        "faction": "The Sacred Order",
+        "rarity": "Common",
+        "role": "Attack",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "10,140",
+        "atk": "870",
+        "def": "639",
+        "spd": "98",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Wide Swing",
+            "description": " Attacks all enemies.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Sister_Militant.png"
+}

@@ -1,0 +1,75 @@
+{
+    "name": "Drexthar Bloodtwin",
+    "class": {
+        "faction": "Demonspawn",
+        "rarity": "Legendary",
+        "role": "Defense",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "18,990",
+        "atk": "914",
+        "def": "1,398",
+        "spd": "100",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "50",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "abilityname": "Eldritch Flames",
+            "description": " Attacks 1 enemy 3 times. Has a 30% chance of placing an [HP Burn] for 2 turns. Heals this Champion by 20% of the damage inflicted if the target is afflicted by a [HP Burn] debuff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "abilityname": "Burning Lash",
+            "description": " Attacks all enemies. Has a 40% chance of placing a [Provoke] debuff for 1 turn. This chance increases to 100% if the target is under a [HP Burn] debuff. Also places places a 50% Decrease",
+            "books": [
+                "ATK] debuff for 2 turns if the [Provoke] debuff is placed.",
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Fiery Blood",
+            "description": " Has a 55% chance of placing a [HP Burn] debuff for 2 turns on the attacker when hit. This Champion’s RES increases by 10 for every enemy under a [HP Burn] debuff. Stacks up to 50.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ACC in all Battles by 70.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Drexthar_Bloodtwin.png"
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Squire",
+    "class": {
+        "faction": "Banner Lords",
+        "rarity": "Uncommon",
+        "role": "Defense",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "15,690",
+        "atk": "760",
+        "def": "947",
+        "spd": "96",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "abilityname": "Overhead Swing",
+            "description": " Attacks 1 enemy.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "abilityname": "Weapon Breaker",
+            "description": " Attacks all enemies. Has a 30% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Damage +10%",
+                "Level 6: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Squire.png"
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Lurker",
+    "class": {
+        "faction": "Dark Elves",
+        "rarity": "Common",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "10,740",
+        "atk": "815",
+        "def": "672",
+        "spd": "96",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Viral Arrow",
+            "description": " Attacks 1 enemy. Has a 15% chance of placing a 2.5% [Poison] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%",
+                "Level 6: Buff/Debuff Chance +5%",
+                "Level 7: Buff/Debuff Chance +10%"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Lurker.png"
+}

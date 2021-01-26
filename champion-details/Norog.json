@@ -1,0 +1,69 @@
+{
+    "name": "Norog",
+    "class": {
+        "faction": "Skinwalkers",
+        "rarity": "Legendary",
+        "role": "Defense",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "16,845",
+        "atk": "1,156",
+        "def": "1,299",
+        "spd": "106",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "50",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "abilityname": "Maul",
+            "description": " Attacks 1 enemy. Has a 40% chance of placing a [Block Cooldown Skills] debuff for 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "abilityname": "Ice Pillar",
+            "description": " Attacks all enemies. Places a [Block Buffs] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Thick Skin",
+            "description": " Immune to [Stun], [Freeze], [Sleep] debuffs. Decreases the damage taken by all alies that are under 1 or more buffs by 15%. Decreases the damage taken by all allies that are under no active buffs by 25%.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally DEF in Dungeons by 40%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Norog.png"
+}

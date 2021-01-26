@@ -1,0 +1,73 @@
+{
+    "name": "Chancellor Yasmin",
+    "class": {
+        "faction": "Banner Lords",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "16,680",
+        "atk": "1,101",
+        "def": "1,090",
+        "spd": "109",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Resounding Smash",
+            "description": " Attacks 1 enemy. Places an extra hit if the target has no active buffs.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Damage +10%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 2,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Touch of Vigor",
+            "description": " Heals an ally by 40% of their MAX HP. Heals by 60% instead if the ally has 50% HP or less.",
+            "books": [
+                "Level 2: Heal +5%",
+                "Level 3: Heal +5%",
+                "Level 4: Heal +10%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [],
+            "abilityname": "Lulling Chant",
+            "description": " Has a 50% chance of removing all buffs from all enemies. Then places a [Sleep] debuff for 1 turn on all enemies who have active buffs.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +5%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally SPD in all Battles by 20%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Chancellor_Yasmin.png"
+}

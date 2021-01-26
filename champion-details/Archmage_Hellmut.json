@@ -1,0 +1,84 @@
+{
+    "name": "Archmage Hellmut",
+    "class": {
+        "faction": "Banner Lords",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "18,825",
+        "atk": "925",
+        "def": "1,123",
+        "spd": "108",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Arcane Dynamo",
+            "description": " Attacks 1 enemy. Fills this Champion’s Turn Meter by 10%. Fills the Turn Meter by 20% if this attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Timeslip",
+            "description": " Attacks 1 enemy. Also attack all other enemies if the first attack is critical. Each hit has a 50% chance of placing a [Stun] debuff for 1 turn. After attacking, decreases the Turn Meters of each enemy without a [Stun] debuff by 20%.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Damage +10%",
+                "Level 7: Buff/Debuff Chance +15%",
+                "Level 8: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Psychic Guidance",
+            "description": " Places a 30% [Increase SPD] buff, a 30% [Increase C.RATE] buff and a 30% [Increase C.DMG] buff on all allies for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Chrono Isolation",
+            "description": " Immune to Turn Meter decreasing effects.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increase Ally SPD in the Arena by 17%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Archmage_Hellmut.png"
+}

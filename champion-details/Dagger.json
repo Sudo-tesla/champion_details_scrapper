@@ -1,0 +1,79 @@
+{
+    "name": "Dagger",
+    "class": {
+        "faction": "Banner Lords",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "12,720",
+        "atk": "1,387",
+        "def": "793",
+        "spd": "101",
+        "crate": "15%",
+        "cdmg": "57%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Double Daggers",
+            "description": " Attacks 1 enemy 2 times. Each critical hit decreases the target’s Turn Meter by 4%.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Precision Sabotage",
+            "description": " Attacks all enemies. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +10%",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Swordbreak Knife",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a 25% [Decrease ATK] debuff for 2 turns. Has a 50% chance of placing a 50% [Decrease ATK] debuff instead if the target is under a [Decrease DEF] debuff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +10%",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ATK in Faction Crypts by 20%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Dagger.png"
+}

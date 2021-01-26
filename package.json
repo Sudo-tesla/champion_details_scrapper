@@ -1,0 +1,23 @@
+{
+  "name": "champion_details_scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "collections": "^5.1.12",
+    "fs": "0.0.1-security",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "jsdom": "^16.4.0"
+  }
+}

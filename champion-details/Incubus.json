@@ -1,0 +1,38 @@
+{
+    "name": "Incubus",
+    "class": {
+        "faction": "Demonspawn",
+        "rarity": "Uncommon",
+        "role": "Attack",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "11,235",
+        "atk": "1,145",
+        "def": "859",
+        "spd": "95",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Javelin",
+            "description": " Attacks 1 enemy. Has a 10% chance of placing an extra hit.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%",
+                "Level 6: Damage +5%"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Incubus.png"
+}

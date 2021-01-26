@@ -1,0 +1,37 @@
+{
+    "name": "Balthus Drauglord",
+    "class": {
+        "faction": "Undead Hordes",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "18,000",
+        "atk": "848",
+        "def": "1,255",
+        "spd": "97",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "45",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "abilityname": "Shield Strike",
+            "description": " Attacks 1 enemy. Has a 30% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Balthus_Drauglord.png"
+}

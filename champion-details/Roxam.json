@@ -1,0 +1,87 @@
+{
+    "name": "Roxam",
+    "class": {
+        "faction": "Lizardmen",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "16,020",
+        "atk": "1,553",
+        "def": "958",
+        "spd": "98",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Chroma Shift",
+            "description": " Attacks 1 enemy. Has a 50% chance of filling this Champion’s Turn Meter by 10%. Also has a 50% chance of placing a [Perfect Veil] buff on this Champion for 1 turn if this attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Jungle Ambush",
+            "description": " Attacks 1 enemy. Fills this Champion’s Turn Meter by 50%. Has a 75% chance of placing a [Stun] debuff on the target for 1 turn when attacking while undera [Veil] or [Perfect Veil] buff. Has a 75% chance of placing a [Sleep] debuff on the target for 1 turn when attacking without a [Veil] or [Perfect Veil] buff. Places a [Perfect Veil] buff on this Champion for 2 turns after attacking without a [Veil] or [Perfect Veil] buff.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level.3: Buff/Debuff Chance +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Flicker Step",
+            "description": " While under a [Veil] or [Perfect Veil] buff: Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff. Decreases the cooldown of Jungle Ambush by 2 turns. While not under a [Veil] or [Perfect Veil] buff: Attacks 1 enemy. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff before attacking. Places a [Perfect Veil] buff on this Champion for 2 turns after attacking.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Chameleon",
+            "description": " Places a [Block Debuffs] and a 25% [Strengthen] buff on this Champion for 1 turn, and a 15% [Continuous Heal] buff for 2 turns whenever they receive a [Veil] or [Perfect Veil] buff.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally C.RATE in Doom Tower battles by 23%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Roxam.png"
+}

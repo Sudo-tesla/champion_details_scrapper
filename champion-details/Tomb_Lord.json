@@ -1,0 +1,52 @@
+{
+    "name": "Tomb Lord",
+    "class": {
+        "faction": "Knight Revenant",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "18,165",
+        "atk": "1,387",
+        "def": "980",
+        "spd": "99",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "20"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Crippling Blows",
+            "description": " Attacks 1 enemy 3 times. Places a 30% [Decrease SPD] debuff on the target for 2 turns if this attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Death Burst",
+            "description": " Attacks 1 enemy. If the hit is critical, has a 70% chance of placing four 5% [Poison] debuffs on all enemies for 1 turn.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +5%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Tomb_Lord.png"
+}

@@ -1,0 +1,72 @@
+{
+    "name": "Tigersoul",
+    "class": {
+        "faction": "Barbarians",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "11,070",
+        "atk": "1,255",
+        "def": "1,035",
+        "spd": "96",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Scorpion Tips",
+            "description": " Attacks 1 enemy. Has a 40% chance of placing a 5% [Poison] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Damage +5%",
+                "Level 7: Buff/Debuff Chance +5%",
+                "Level 8: Damage +5%",
+                "Level 9: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Wearying Tactics",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a 15% [Weaken] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Buff/Debuff Chance +5%",
+                "Level 7: Damage +10%",
+                "Level 8: Buff/Debuff Chance +10%",
+                "Level 9: Damage +10%"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Tiger’s Strength",
+            "description": " Places a [Block Debuffs] buff and a 60% [Increase DEF] buff on this Champion for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 8: Cooldown -1",
+                "Level 4: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Tigersoul.png"
+}

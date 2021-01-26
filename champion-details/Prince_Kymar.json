@@ -1,0 +1,52 @@
+{
+    "name": "Prince Kymar",
+    "class": {
+        "faction": "Demonspawn",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "18,990",
+        "atk": "1,046",
+        "def": "1,266",
+        "spd": "103",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "40",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Phantom Fire",
+            "description": " Attacks all enemies. Places a 5% [Poison] debuff for 1 turn if this attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Abyssal Gaze",
+            "description": " Attacks all enemies. Removes all buffs. Places a [Sleep] debuff for 1 turn.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Cooldown -1",
+                "Level 5: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Prince_Kymar.png"
+}

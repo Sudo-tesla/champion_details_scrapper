@@ -1,0 +1,37 @@
+{
+    "name": "Knight-Errant",
+    "class": {
+        "faction": "Banner Lords",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "18,660",
+        "atk": "1,387",
+        "def": "672",
+        "spd": "96",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "15"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Half-Sword",
+            "description": " Attacks 1 enemy. Has a 30% chance of placing a [Leech] debuff for 2 turns. Will ignore 30% of the target’s DEF.",
+            "books": [
+                "Level: 2 Buff/Debuff Chance +5%",
+                "Level: 3 Buff/Debuff Chance +5%",
+                "Level: 4 Buff/Debuff Chance +5%",
+                "Level: 5 Buff/Debuff Chance +5%"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Knight_Errant.png"
+}

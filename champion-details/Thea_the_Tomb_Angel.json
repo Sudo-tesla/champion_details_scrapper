@@ -1,0 +1,68 @@
+{
+    "name": "Thea the Tomb Angel",
+    "class": {
+        "faction": "Knight Revenant",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "16,020",
+        "atk": "1,542",
+        "def": "969",
+        "spd": "90",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Befoulment",
+            "description": " Attacks 2 times at random. Has a 75% chance of placing a [Hex] debuff for 5 turns. This debuff cannot be resisted. Each critical hit decreases the cooldown of the [Not Of This World] skill by 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 5,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Hexreaper",
+            "description": " Attacks all enemies. Damage increases by 50% for each [Hex] debuff on the enemy team. Stacks up to 300% Removes all [Hex] debuff from all enemies after attacking.",
+            "books": [
+                "Level 2: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 6,
+            "dmgscaling": [],
+            "abilityname": "Not of This World",
+            "description": " Places a [Perfect Veil] buff on this Champion for 3 turns. Grants an Extra Turn.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Cruel Angel",
+            "description": " Has a 50% chance of placing a [True Fear] debuff on all enemies for 1 turn when an enemy loses 30% or more of their MAX HP in a single hit.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Thea_the_Tomb_Angel.png"
+}

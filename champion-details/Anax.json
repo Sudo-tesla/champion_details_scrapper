@@ -1,0 +1,82 @@
+{
+    "name": "Anax",
+    "class": {
+        "faction": "Undead Hordes",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "14,205",
+        "atk": "1,542",
+        "def": "815",
+        "spd": "90",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Piercing Shotels",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Deathly Ichors",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 75% chance of placing a 50% [Decrease ACC] debuff and a 5% [Poison] debuff for 3 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +10%",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Soul Feast",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. Heals this Champion by 50% of the damage inflicted.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +10%",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Revenant",
+            "description": " Passive Effect: Places a 60% [Increase DEF] buff on this Champion for 2 turns when their HP drops below 75%. Places a 50% [Increase ATK] buff on this Champion for 2 turns when their HP drops below 50%.",
+            "books": [
+                "Active Effect: Grants an Extra Turn when this Champion’s HP drops below 10%."
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Anax.png"
+}

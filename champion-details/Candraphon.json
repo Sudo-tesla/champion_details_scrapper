@@ -1,0 +1,37 @@
+{
+    "name": "Candraphon",
+    "class": {
+        "faction": "Demonspawn",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "17,505",
+        "atk": "1,509",
+        "def": "903",
+        "spd": "96",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Punish Hubris",
+            "description": " Attacks 1 enemy. Places an extra hit if the target is under any buff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Damage +10%"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Candraphon.png"
+}

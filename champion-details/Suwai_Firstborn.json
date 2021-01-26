@@ -1,0 +1,70 @@
+{
+    "name": "Suwai Firstborn",
+    "class": {
+        "faction": "Barbarians",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "14,040",
+        "atk": "1,343",
+        "def": "1,024",
+        "spd": "96",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Render Helpless",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Places a 50% [Increase ATK] buff and a 30% [Increase C.DMG] buff on this Champion for 2 turns if this attack kills an enemy.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Utter Rampage",
+            "description": " Attacks 1 enemy. Attacks all enemies with a second hit if this attack is critical. This hit deals 80% of the damage inflicted from the first hit. This attack will always be a normal hit.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Deaden Reactions",
+            "description": " Attacks 1 enemy. Before attacking, has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +10%",
+                "Level 7: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Suwai_Firstborn.png"
+}

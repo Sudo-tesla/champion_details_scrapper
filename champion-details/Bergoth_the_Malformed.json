@@ -1,0 +1,64 @@
+{
+    "name": "Bergoth the Malformed",
+    "class": {
+        "faction": "Knight Revenant",
+        "rarity": "Epic",
+        "role": "HP",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "21,810",
+        "atk": "716",
+        "def": "1,134",
+        "spd": "95",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "45",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "HP"
+            ],
+            "abilityname": "Nightmare Juggernaut",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing 15% [Continuous Heal] buff on this Champion for 1 turn if this attack is Critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "HP"
+            ],
+            "abilityname": "Chemical Stench",
+            "description": " Attacks all enemies. Has a 30% chance of placing a [Provoke] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +15%",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Canister",
+            "description": " Whenever this Champion is attacked, heals all allies except this Champion by 20% of the damage received.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "ayumilove.net/files/games/raid_shadow_legends/avatar/Bergoth_the_Malformed.png"
+}
