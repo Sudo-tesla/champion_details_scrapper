@@ -55,7 +55,7 @@
                 "DEF"
             ],
             "abilityname": "Pyretic Release",
-            "description": " Attacks all enemies. Has a 50% chance of increasing the cooldowns of all skills by 2 turns on enemies under [HP Burn] debuffs. Also places a [Shield] buff equal to 20% of this Champion’s MAX HP on all allies for 2 turns. Instantly activates this skill when this Champion is revived by <a href=\"https://ayumilove.net/raid-shadow-legends-rian-the-conjurer-skill-mastery-equip-guide/\">Rian the Conjurer</a>.",
+            "description": " Attacks all enemies. Has a 50% chance of increasing the cooldowns of all skills by 2 turns on enemies under [HP Burn] debuffs. Also places a [Shield] buff equal to 20% of this Champion’s MAX HP on all allies for 2 turns. Instantly activates this skill when this Champion is revived by Rian the Conjurer.",
             "books": [
                 "Level 2: Buff/Debuff Chance +5%",
                 "Level 3: Shield +5%",

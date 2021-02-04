@@ -75,7 +75,7 @@
                 "Passive"
             ],
             "abilityname": "Spurn Oblivion",
-            "description": " Will decrease damage from a single enemy hit so that incoming damage will not exceed 50% of this Champion’s MAX HP from that hit. Can occur once per enemy attack. Grants an Extra Turn if this damage reduction occurs. [Does not work against Bosses] Decreases the damage taken from Bosses by 15%. Decreases the damage taken from Bosses by 30% if <a href=\"https://ayumilove.net/raid-shadow-legends-siphi-the-lost-bride-skill-mastery-equip-guide/\">Siphi the Lost Bride</a> is on the same team.",
+            "description": " Will decrease damage from a single enemy hit so that incoming damage will not exceed 50% of this Champion’s MAX HP from that hit. Can occur once per enemy attack. Grants an Extra Turn if this damage reduction occurs. [Does not work against Bosses] Decreases the damage taken from Bosses by 15%. Decreases the damage taken from Bosses by 30% if Siphi the Lost Bride is on the same team.",
             "books": []
         }
     ],

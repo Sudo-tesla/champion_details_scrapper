@@ -7,7 +7,7 @@ const { JSDOM } = require("jsdom")
 const axios = require('axios')
 const fs = require('fs');
 const http = require('https'); // or 'https' for https:// URLs
-
+const textUtil = require('./Util/textUtil');
 const sourceLink = "https://ayumilove.net/raid-shadow-legends-list-of-champions-by-ranking/";
 const extensions = {json : '.json',image : '.png'}
 const directories = {details: '../champion-details/',avatar : '../images/avatar/'}
@@ -36,7 +36,7 @@ class Class {
 
 }
 
-const ayumiloveChampionList = async () => {
+const ayumiloveChampionList = new  Promise(async (resolve,reject) => {
 
     try {
         let championList = [];
@@ -50,6 +50,7 @@ const ayumiloveChampionList = async () => {
         for(let tier of u1) {
             const champs  = tier.querySelectorAll("li");
             for(let champ of champs) {
+                //Extracts the champions name from the listing. Champions name is always the first element before the '|'
                 championList[championList.length] = new Champion(champ.textContent.split('|')[0].trim(),champ.querySelector("a")?.href);
             }
             if(++tierIndex>24) {
@@ -57,46 +58,72 @@ const ayumiloveChampionList = async () => {
             }
         }
 
-        //fixChampionDetailsURLError();
-        let extractedChamp = await extractChampionDetails(championList[52]);
-        storeChampion(extractedChamp);
-
-       try {
-           for(let trackingIndex = 0;trackingIndex<championList.length;trackingIndex++) {
-                console.log(trackingIndex);
-                console.log(championList[trackingIndex].name);
-
-/*                let existsState = fileExists({filename:championList[trackingIndex].name,isImage:true,isJson:true});
-                console.log(existsState);*/
-
-                let extractedChamp = await extractChampionDetails(championList[trackingIndex]);
-                storeChampion(extractedChamp);
-
-            }
-        }
-        catch(err) {
-            console.log(err.message);
-        }
-        //await storeBaseChampionInfoList();
-
-        return championList;
+        resolve(championList);
 
     } catch (error) {
-        throw error;
+        reject(error)
     }
-};
+});
 
-ayumiloveChampionList().then(list =>{ console.log(list.length)
+ayumiloveChampionList.then((list) =>{
+        console.log(list.length);//storeChampion(500,list)
+        let result = list.find((champion)=>champion.name.includes('Rotos'));
+        console.log(result);
+        /*extractChampionDetails(result).then(r => {
+            //console.log(r);
+
+        });*/
+
+            filterHrefFromChampionDetails(list)
+
+
+    }
+).catch((error) => {
+    console.log(error.message);
+});
+
+
+function filterHrefFromChampionDetails(lists) {
+
+    for(let champion of lists) {
+        try {
+            console.log(champion.name);
+            let championObject = getChampionFromFile(champion.name)
+            championObject = removeHrefTags(championObject);
+            console.log(championObject);
+            storeChampion(championObject);
+            //removeHrefTags(championObject)
+        }catch (err) {
+            console.log( "Champion : "+ champion.name+" does not have a details file stored");
+            return null;
+        }
+
+    }
+
+
 }
-);
+
+function storeExtractedChampions(base =0,championList) {
+    try {
+        for(let trackingIndex = base;trackingIndex<championList.length;trackingIndex++) {
+            let extractedChamp =  extractChampionDetails(championList[trackingIndex]);
+            storeChampion(extractedChamp);
+
+        }
+    }
+    catch(err) {
+        console.log(err.message);
+    }
+}
+
 async function storeBaseChampionInfoList() {
     let files = fs.readdirSync(directories.details);
     let championBaseInfoMap = {};
     for (let fileName of files) {
-        let champion =championFromFile({dir: directories.details, name: fileName});
+        let champion =championBaseInfoFromFile({dir: directories.details, name: fileName});
         championBaseInfoMap[champion.name] = champion.details;
     }
-    console.log(championBaseInfoMap);
+
     fs.writeFile('../champions-base-info.json',JSON.stringify(championBaseInfoMap,null, 4), function(err) {
         if(err) {
             return console.log(err);
@@ -120,7 +147,7 @@ function fixChampionDetailsURLError() {
 
     }
 }
-function championFromFile({dir,name}){
+function championBaseInfoFromFile({dir,name}){
     try {
         const jsonString = fs.readFileSync(dir+name);
         const champion = JSON.parse(jsonString);
@@ -133,7 +160,37 @@ function championFromFile({dir,name}){
 
     }
 }
+function readChampionFromFile(dir) {
 
+    try{
+        const jsonString = fs.readFileSync(dir);
+        const champion = JSON.parse(jsonString);
+        return champion;
+    }catch (err) {
+        console.log(err);
+    }
+
+}
+
+function getChampionFromFile(name) {
+    let filename = generateFileName(name,extensions.json,directories.details);
+    return readChampionFromFile(filename);
+
+}
+
+function removeHrefTags(champion) {
+
+    let skills = champion.skills;
+
+    for(let skill of skills) {
+
+        skill.description = textUtil.removeReference(skill.description,textUtil.tagDetails);
+
+    }
+
+    return champion;
+
+}
 function storeImage(championObject) {
 
     const file = fs.createWriteStream( generateFileName(championObject.name,extensions.image,directories.avatar));
@@ -172,7 +229,7 @@ async function extractChampionDetails(championObject) {
     const u1 = document.querySelector("tbody");
 
     let columns = u1.querySelectorAll('td');
-    console.log(columns.outerHTML);
+
 
     let imageUrl = columns[0].querySelector("img").getAttribute('src').substr(2);
 
@@ -200,7 +257,7 @@ async function extractChampionDetails(championObject) {
             break
         }
     }
-    //console.log(skills);
+
 
     let details = {};
     details.name = championObject.name;
@@ -290,7 +347,7 @@ class Skills {
 }
 
 function extractSkill(paragraph) {
-    console.log(paragraph.outerHTML);
+
     let ability = paragraph.querySelector('strong').textContent;
     let cooldown= getCooldown(ability);
     let minCD = cooldown;
@@ -300,7 +357,14 @@ function extractSkill(paragraph) {
     let skillName = getName(ability);
 
     let skillData = paragraph.outerHTML.split('<br>');
-    let skillDescription = skillData[1];
+
+
+
+
+    let skillDescription = textUtil.removeReference(skillData[1],textUtil.tagDetails);
+
+
+
     let books = [];
     let bookIndex = 0;
 
@@ -318,11 +382,11 @@ function extractSkill(paragraph) {
         }
         //only lines is a multiplier exception
         if(bookIndex>0 ) {
-            //console.log(books[bookIndex - 1], "before trim");
+
             if( books[bookIndex-1].includes("</p>")) {
                 books[bookIndex-1] =books[bookIndex-1].substr(0,books[bookIndex-1].length-4) ;
             }
-            //console.log(books[bookIndex - 1], "after trim");
+
 
         }
 
@@ -343,12 +407,13 @@ function extractSkill(paragraph) {
 
 }
 
+
 function fileExists({filename,isImage,isJson}) {
     let exists = {imageExists : false,jsonExists : false};
 
     if(isImage) {
         let path = generateFileName(filename,extensions.image,directories.avatar);
-        console.log(path);
+
         exists.imageExists = fs.existsSync(path);
     }
     if(isJson) {

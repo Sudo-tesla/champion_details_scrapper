@@ -24,7 +24,7 @@
                 "HP"
             ],
             "abilityname": "Flourish of Slaughter",
-            "description": " Attacks all enemies. Has a 50% chance of decreasing each target’s Turn Meter by 5%. Attacks all enemies 2 times instead of 1 and the chance of decreasing each target’s Turn Meter increases to 100% if <a href=\"//ayumilove.net/raid-shadow-legends-minaya-skill-mastery-equip-guide/\">Minaya</a> is on the same team. The damage of each hit will be decreased by 50%.",
+            "description": " Attacks all enemies. Has a 50% chance of decreasing each target’s Turn Meter by 5%. Attacks all enemies 2 times instead of 1 and the chance of decreasing each target’s Turn Meter increases to 100% if Minaya is on the same team. The damage of each hit will be decreased by 50%.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -37,7 +37,7 @@
             "mincd": 3,
             "dmgscaling": [],
             "abilityname": "Beastly Bellow",
-            "description": " Has a 75% chance of placing a [Provoke] debuff on all enemies for 1 turn. Places a [Block Debuffs] buff and a 60% [Increase DEF] buff on this Champion for 2 turns. Removes all debuffs from this Champion before placing the [Block Debuffs] and [Increase DEF] buffs if <a href=\"//ayumilove.net/raid-shadow-legends-minaya-skill-mastery-equip-guide/\">Minaya</a> is on the team.",
+            "description": " Has a 75% chance of placing a [Provoke] debuff on all enemies for 1 turn. Places a [Block Debuffs] buff and a 60% [Increase DEF] buff on this Champion for 2 turns. Removes all debuffs from this Champion before placing the [Block Debuffs] and [Increase DEF] buffs if Minaya is on the team.",
             "books": [
                 "Level 2: Buff/Debuff Chance +10%",
                 "Level 3: Buff/Debuff Chance +15%",
@@ -66,7 +66,7 @@
                 "Passive"
             ],
             "abilityname": "Ferocious Guard",
-            "description": " Counterattacks when hit by enemies under [Decrease ATK], [Decrease DEF], or [Decrease SPD] debuffs. Always counterattacks when hit if <a href=\"//ayumilove.net/raid-shadow-legends-minaya-skill-mastery-equip-guide/\">Minaya</a> is on the same team.",
+            "description": " Counterattacks when hit by enemies under [Decrease ATK], [Decrease DEF], or [Decrease SPD] debuffs. Always counterattacks when hit if Minaya is on the same team.",
             "books": []
         },
         {
