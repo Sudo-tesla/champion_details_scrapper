@@ -89,10 +89,10 @@ function filterHrefFromChampionDetails(lists) {
         try {
             console.log(champion.name);
             let championObject = getChampionFromFile(champion.name)
-            championObject = removeHrefTags(championObject);
+            championObject = removeTags(championObject);
             console.log(championObject);
             storeChampion(championObject);
-            //removeHrefTags(championObject)
+            //removeTags(championObject)
         }catch (err) {
             console.log( "Champion : "+ champion.name+" does not have a details file stored");
             return null;
@@ -178,13 +178,14 @@ function getChampionFromFile(name) {
 
 }
 
-function removeHrefTags(champion) {
+function removeTags(champion) {
 
     let skills = champion.skills;
 
     for(let skill of skills) {
 
         skill.description = textUtil.removeReference(skill.description,textUtil.tagDetails);
+        skill.description = textUtil.replaceTag(skill.description,textUtil.spanDetails);
 
     }
 

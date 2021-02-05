@@ -51,7 +51,7 @@
                 "Passive"
             ],
             "abilityname": "Bloodstain Ritual",
-            "description": " Damages this Champion by 10% of their MAX HP at the start of each turn. Heals all allies except this Champion equal to half of the lost HP. Places a 30% [Decrease SPD] debuff on this Champion for 1 turn at the start of each turn. Also has a 50% chance of placing a [Fear] debuff on this Champion for 1 turn. <span class=\"details\">The lost HP refers to the current total HP subtracted from the total MAX HP, instead of the half of 10% MAX HP loss! For example, if her HP is 40%, she heals her allies by 30% of her MAX HP (100 – 40% and then divided by 2 = 30%)</span>",
+            "description": " Damages this Champion by 10% of their MAX HP at the start of each turn. Heals all allies except this Champion equal to half of the lost HP. Places a 30% [Decrease SPD] debuff on this Champion for 1 turn at the start of each turn. Also has a 50% chance of placing a [Fear] debuff on this Champion for 1 turn. [The lost HP refers to the current total HP subtracted from the total MAX HP, instead of the half of 10% MAX HP loss! For example, if her HP is 40%, she heals her allies by 30% of her MAX HP (100 – 40% and then divided by 2 = 30%)]",
             "books": [
                 "Level 2: Heal +5%",
                 "Level 3: Heal +5%",
