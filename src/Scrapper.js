@@ -2,15 +2,16 @@
  * Scrapper for https://ayumilove.net/ to extract champion data
  * Developed by <sudotesla@gmail.com> 2020
  */
-
 const { JSDOM } = require("jsdom")
 const axios = require('axios')
 const fs = require('fs');
 const http = require('https'); // or 'https' for https:// URLs
-const textUtil = require('./Util/textUtil');
+const textUtil = require('./Util/TextUtil');
+const fileUtil = require('./Util/FileUtil');
+const extensions = require('./Constants/Extensions');
+const directories = require('./Constants/Directories');
 const sourceLink = "https://ayumilove.net/raid-shadow-legends-list-of-champions-by-ranking/";
-const extensions = {json : '.json',image : '.png'}
-const directories = {details: '../champion-details/',avatar : '../images/avatar/'}
+
 
 class Champion {
     constructor(name, url) {
@@ -69,12 +70,15 @@ ayumiloveChampionList.then((list) =>{
         console.log(list.length);//storeChampion(500,list)
         let result = list.find((champion)=>champion.name.includes('Rotos'));
         console.log(result);
-        /*extractChampionDetails(result).then(r => {
-            //console.log(r);
+        let existRequest = {filename:result.name+'cow',isImage:true,isJson:true};
+        console.log(fileUtil.fileExists(existRequest));
 
-        });*/
+    /*extractChampionDetails(result).then(r => {
+        //console.log(r);
 
-            filterHrefFromChampionDetails(list)
+    });*/
+
+            //filterHrefFromChampionDetails(list)
 
 
     }
@@ -173,7 +177,7 @@ function readChampionFromFile(dir) {
 }
 
 function getChampionFromFile(name) {
-    let filename = generateFileName(name,extensions.json,directories.details);
+    let filename = fileUtil.formatFileName({name:name,extension:extensions.JSON,dir:directories.details});
     return readChampionFromFile(filename);
 
 }
@@ -194,7 +198,7 @@ function removeTags(champion) {
 }
 function storeImage(championObject) {
 
-    const file = fs.createWriteStream( generateFileName(championObject.name,extensions.image,directories.avatar));
+    const file = fs.createWriteStream( fileUtil.formatFileName({name:championObject.name,extension:extensions.PNG,dir:directories.avatar}));
 
     const request = http.get(championObject.avatarUrl, function(response) {
         response.pipe(file);
@@ -204,7 +208,10 @@ function storeImage(championObject) {
 }
 function storeChampion(championObject) {
 
-    fs.writeFile(generateFileName(championObject.name,extensions.json,directories.details), JSON.stringify(championObject,null, 4), function(err) {
+    fs.writeFile(fileUtil.formatFileName(
+        {name:championObject.name,extension:extensions.JSON,dir:directories.details}),
+        JSON.stringify(championObject,null, 4),
+        function(err) {
         if(err) {
             return console.log(err);
         }
@@ -212,13 +219,6 @@ function storeChampion(championObject) {
     });
 }
 
-function generateFileName(name,extension,dir) {
-    let filename = name;
-    filename=filename.replace(/\s/g, '_');
-    filename=filename.replace(/-/g, '_');
-
-    return dir + filename + extension;
-}
 
 
 
@@ -408,24 +408,6 @@ function extractSkill(paragraph) {
 
 }
 
-
-function fileExists({filename,isImage,isJson}) {
-    let exists = {imageExists : false,jsonExists : false};
-
-    if(isImage) {
-        let path = generateFileName(filename,extensions.image,directories.avatar);
-
-        exists.imageExists = fs.existsSync(path);
-    }
-    if(isJson) {
-        let path = generateFileName(filename,extensions.json,directories.details);
-
-        exists.jsonExists = fs.existsSync(path);
-    }
-
-    return exists;
-
-}
 
 function getCooldown(skillText) {
 
