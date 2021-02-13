@@ -434,7 +434,7 @@ function getName(ability) {
 
 }
 
-function main() {
+async function main() {
 
     ayumiloveChampionList.then((list) =>{
             console.log(list.length);//storeChampion(500,list)
@@ -451,7 +451,7 @@ function main() {
         console.log(error.message);
     });
 
-
+    await storeBaseChampionInfoList()
 }
 
-main();
+main().then();
