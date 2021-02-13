@@ -1,14 +1,15 @@
 const fs = require('fs');
-const extentions = require('../Constants/Extensions');
-
+const extensions = require('../Constants/Extensions');
 const directories = require('../Constants/Directories');
-class fileExists {
+
+class FileExistence {
     constructor(imageExists,jsonExists) {
         this.imageExists = imageExists;
         this.jsonExists = jsonExists;
     }
 }
-const  formatFileName = ({name,extension,dir}) => {
+
+const formatFileName = ({name,extension,dir}) => {
     let filename = name;
     filename=filename.replace(/\s/g, '_');
     filename=filename.replace(/-/g, '_');
@@ -16,20 +17,29 @@ const  formatFileName = ({name,extension,dir}) => {
     return dir + filename + extension;
 }
 
-exports.formatFileName = formatFileName;
+const fileToJson = (dir) => {
 
-exports.fileExists = ({filename,isImage,isJson}) => {
+    try{
+        const jsonString = fs.readFileSync(dir);
+        return  JSON.parse(jsonString);
 
-    let exists = new fileExists(false,false);
+    }catch (err) {
+        console.log(err);
+    }
+}
+
+const fileExists = ({filename,isImage,isJson}) => {
+
+    let exists = new FileExistence(false,false);
 
     if(isImage) {
 
-        let path = formatFileName({name:filename,extension:extentions.PNG,dir:directories.avatar});
+        let path = formatFileName({name:filename,extension:extensions.PNG,dir:directories.avatar});
 
         exists.imageExists = fs.existsSync(path);
     }
     if(isJson) {
-        let path = formatFileName({name:filename,extension:extentions.PNG,dir:directories.details});
+        let path = formatFileName({name:filename,extension:extensions.PNG,dir:directories.details});
 
         exists.jsonExists = fs.existsSync(path);
     }
@@ -38,4 +48,6 @@ exports.fileExists = ({filename,isImage,isJson}) => {
 
 }
 
-
+exports.fileExists =fileExists;
+exports.fileToJson = fileToJson;
+exports.formatFileName = formatFileName;

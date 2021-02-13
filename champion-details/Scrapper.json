@@ -1,0 +1,75 @@
+{
+    "name": "Scrapper",
+    "class": {
+        "faction": "Barbarians",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "14,370",
+        "atk": "1,233",
+        "def": "837",
+        "spd": "102",
+        "crate": "15%",
+        "cdmg": "57%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Arena Arts",
+            "description": " Attacks 1 enemy. Places a [Shield] buff on this Champion for 2 turns equal to 5% of the damage inflicted if this attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Shield +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Shield +5%",
+                "Level 6: Damage +5%",
+                "Level 7: Shield +5%",
+                "Level 8: Damage +5%",
+                "Level 9: Shield +5%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 2,
+            "dmgscaling": [],
+            "abilityname": "Crowd Pleaser",
+            "description": " Attacks 1 enemy. Destroys the targets MAX HP by 30% of the damage dealt. Places a [Shield] buff on this Champion for 2 turns equal to 30% of this champions MAX HP if this attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Shield +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Shield +5%",
+                "Level 6: Damage +5%",
+                "Level 7: Shield +10%",
+                "Level 8: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Showoff",
+            "description": " Increases the damage inflicted by this Champion equal to the percentage of MAX HP destroyed on the target.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ATK in Doom Tower by 25%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Scrapper.png"
+}

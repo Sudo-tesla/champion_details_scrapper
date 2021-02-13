@@ -1,0 +1,74 @@
+{
+    "name": "Flailer",
+    "class": {
+        "faction": "Dwarves",
+        "rarity": "Rare",
+        "role": "Defense",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "15,525",
+        "atk": "958",
+        "def": "1,035",
+        "spd": "93",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "40",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "abilityname": "Tangle Bash",
+            "description": " Attacks 1 enemy. Has a 25% chance of decreasing the target’s Turn Meter by 10%",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 2,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "abilityname": "Noble Stand",
+            "description": " Places a 30% [Increase DEF] buff on this Champion and the ally with the lowest HP for 2 Turns. Also Fills this champion’s turn meter by 25%.",
+            "books": [
+                "Level 2: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "abilityname": "Fury Swipe",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a [Provoke] debuff for 1 turn.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff chance +5%",
+                "Level 5: Buff/Debuff chance +10%",
+                "Level 6: Buff/Debuff chance +10%",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally DEF in Faction Wars Crypts by 17%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Flailer.png"
+}

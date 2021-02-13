@@ -1,0 +1,81 @@
+{
+    "name": "Godseeker Aniri",
+    "class": {
+        "faction": "The Sacred Order",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "15,195",
+        "atk": "1,046",
+        "def": "1,244",
+        "spd": "99",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "45",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "abilityname": "Blade of Blessings",
+            "description": " Attacks 1 enemy. Heal the ally with the lowest HP by 5% of their MAX HP. Cannot heal this champion.",
+            "books": [
+                "Level 2: Damage 5%",
+                "Level 3: Heal 5%",
+                "Level: Damage +5%",
+                "Level 5: Heal +5%",
+                "Level 6: Damage +5%",
+                "Level 7: Heal +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "abilityname": "Quest for Meaning",
+            "description": " Attacks all enemies. Heal all allies by 15% of their MAX HP, then decreases the duration of all buffs on all enemies by 1 turn and increases the duration of all buffs on all allies by 1 turn.",
+            "books": [
+                "Level 2: Heal +5%",
+                "Level 3: Heal +5%",
+                "Level 4: Heal +5%",
+                "Level 5: Heal +5%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 7,
+            "mincd": 4,
+            "dmgscaling": [],
+            "abilityname": "Rise of Glory",
+            "description": " Revives a dead ally with 50% HP, then fills their Turn Meter by 50% and resets the cooldowns of all their skills",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 7,
+            "mincd": 4,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Guardian Angel",
+            "description": " Passive Effect: Increases the amount of healing allies receive by 10%. Active Effect: If an ally is about to get killed by a fatal hit, preempts that hit and instantly places a [Revive On Death] buff on them for 1 turn before the damage is taken.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1",
+                "Level 4: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Godseeker_Aniri.png"
+}

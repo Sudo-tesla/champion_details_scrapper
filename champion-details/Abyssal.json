@@ -1,0 +1,70 @@
+{
+    "name": "Abyssal",
+    "class": {
+        "faction": "Demonspawn",
+        "rarity": "Rare",
+        "role": "Support",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "18,330",
+        "atk": "815",
+        "def": "991",
+        "spd": "95",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Void Gaze",
+            "description": " Attacks all enemies. Has a 15% chance of placing a [Block Buffs] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Abyssal Renewal",
+            "description": " Heals all allies by 15% of their MAX HP.",
+            "books": [
+                "Level 2: Heal +5%",
+                "Level 3: Heal +10%",
+                "Level 4: Heal +10%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 4,
+            "dmgscaling": [],
+            "abilityname": "Wards of Madness",
+            "description": " Places a 30% [Increase DEF] buff and a 25% [Increase ATK] buff on all allies for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally SPD in Faction Wars Crypts by 16%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Abyssal.png"
+}

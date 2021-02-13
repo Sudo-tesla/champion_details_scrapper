@@ -1,0 +1,88 @@
+{
+    "name": "Countess Lix",
+    "class": {
+        "faction": "Demonspawn",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "17,175",
+        "atk": "1,498",
+        "def": "936",
+        "spd": "100",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "20"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Festering Caress",
+            "description": " Attacks 1 enemy 2 times. Has a 30% chance of placing a 25% [Weaken] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Mire of Misery",
+            "description": " Attacks all enemies 3 times. Each hit has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Each hit also has a 75% chance of decreasing the enemy’s Turn Meter by 10%.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Buff/Debuff Chance +15%",
+                "Level 5 Cooldown -1"
+            ]
+        },
+        {
+            "cd": 7,
+            "mincd": 5,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Time Dilation",
+            "description": " Attacks all enemies. Has a 75% chance of placing a [Block cooldown Skills] debuff for 2 turns. Also decreases the cooldowns of all ally skills, except this champion’s, by 1 turn.",
+            "books": [
+                "Level 2: Buff/Debuff chance +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff chance +15%",
+                "Level 5: Cooldown -1",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Unredeemed",
+            "description": " Removes one random debuff from Astralon and this champion at the start of each turn. Only available if <a href=\"//ayumilove.net/raid-shadow-legends-astralon-skill-mastery-equip-guide/\">Astralon</a> is on the team.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Channel Woe",
+            "description": " Fills this champion’s Turn Meter by 5% each time an ally receives a debuff.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Countess_Lix.png"
+}
