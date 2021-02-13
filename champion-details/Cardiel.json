@@ -1,0 +1,82 @@
+{
+    "name": "Cardiel",
+    "class": {
+        "faction": "The Sacred Order",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "19,650",
+        "atk": "1,013",
+        "def": "1,255",
+        "spd": "106",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "50",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Cow the Wicked",
+            "description": " Attacks 1 enemy. Heals all allies by 7.5% of their MAX HP. Also places a [True Fear] debuff for 1 turn if the target is a champion from the Demonspawn, Undead Hordes or Knight Revenant factions.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Heal +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Heal +5%",
+                "Level 6: Damage +10%",
+                "Level 7: Heal +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Angelsong",
+            "description": " Removes all debuffs from all allies, then places a [Block Debuffs] buff and a [Revive on Death Buff] on all allies for 2 turns. The [Revive on Death] buff cannot be removed.",
+            "books": [
+                "Level 2: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 4,
+            "dmgscaling": [],
+            "abilityname": "Heavenly Host",
+            "description": " Places a 30% [Increase C.RATE] buff and a 30% [Increase C.DMG] buff on all allies for 2 turns, then teams up will all allies to attack a target enemy. Decreases the cooldown of this skill by 1 turn if an enemy is killed from this attack.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Fiend Warden",
+            "description": " Allies receive 20% less damage from Champions from the Demonspawn, Undead Hordes or Knight Revenant Factions. Whenever an ally attacks, has a 15% chance to team up with them and join their attack. This champion will attack with their default skill. Always joins Sicia Flametongue’s attacks if they are in the same team. Can only join ally’s attack once per turn. Cardiel will not team up on ally attacks when they counterattack or when team up to attack with other champions.",
+            "books": [
+                "Level 2: Buff/Debuff Chance 5%",
+                "Level 3: Buff/Debuff Chance 5%",
+                "Level 4: Buff/Debuff Chance 5%"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally SPD in all Battles by 19%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Cardiel.png"
+}

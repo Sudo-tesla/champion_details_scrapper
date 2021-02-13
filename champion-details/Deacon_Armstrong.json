@@ -1,0 +1,74 @@
+{
+    "name": "Deacon Armstrong",
+    "class": {
+        "faction": "The Sacred Order",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "17,835",
+        "atk": "947",
+        "def": "1,167",
+        "spd": "100",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "15"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Mace of Contempt",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a [Leech] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Damage +10%",
+                "Level 7: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Sweeping Retribution",
+            "description": " Attacks all enemies. Has an 80% chance of placing a 60% [Decrease DEF] debuff for 2 turns",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Time Compression",
+            "description": " Fills the Turn Meters of all allies by 15% and decreases the Turn Meters of all enemies by 15%. Grants an Extra Turn.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally SPD in all Battles by 19%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Deacon_Armstrong.png"
+}

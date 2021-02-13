@@ -1,0 +1,72 @@
+{
+    "name": "Lodric Falconheart",
+    "class": {
+        "faction": "The Sacred Order",
+        "rarity": "Epic",
+        "role": "HP",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "18,825",
+        "atk": "947",
+        "def": "1,101",
+        "spd": "96",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "45",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "HP"
+            ],
+            "abilityname": "Strike of Dismay",
+            "description": " Attacks 1 enemy. Has a 40% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Damage +10%",
+                "Level 7: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Hold Out",
+            "description": " Removes all debuffs from one ally, then places a 50% [Ally Protection] buff on that ally for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 2,
+            "dmgscaling": [],
+            "abilityname": "Falcon’s Wings",
+            "description": " Places a [Shield] buff on all allies for 2 turns equal to 20% of this Champion’s MAX HP.",
+            "books": [
+                "Level 2: Shield +5%",
+                "Level 3: Shield +5%",
+                "Level 4: Shield +5%",
+                "Level 5: Shield +5%",
+                "Level 6: Cooldown -1",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally HP in the Doom Tower by 25%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Lodric_Falconheart.png"
+}

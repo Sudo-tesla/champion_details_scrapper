@@ -1,0 +1,69 @@
+{
+    "name": "Klodd Beastfeeder",
+    "class": {
+        "faction": "Ogryn Tribes",
+        "rarity": "Epic",
+        "role": "HP",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "21,645",
+        "atk": "815",
+        "def": "1,046",
+        "spd": "110",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "New Stabby Hand",
+            "description": " Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease C.RATE] debuff for 2 turns",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Get Behind Me",
+            "description": " Places a [Shield] buff on all allies equal to 20% of this champion’s MAX HP for 2 turns.",
+            "books": [
+                "Level 2: Shield +5%",
+                "Level 3: Shield +10%",
+                "Level 4: Shield +10%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Beast Escape",
+            "description": " Places a 30% [Increase SPD] buff and a 50% [Increase ACC] buff on all allies for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Delicious Giblets",
+            "description": " Heals the ally with the lowest HP by 10% of their MAX HP at the start of this Champion’s turn.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Klodd_Beastfeeder.png"
+}
