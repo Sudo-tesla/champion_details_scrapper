@@ -348,7 +348,9 @@ function extractSkill(paragraph) {
     let skillName = getName(ability);
     let skillData = paragraph.outerHTML.split('<br>');
     let skillDescription = textUtil.removeReference(skillData[1],textUtil.tagDetails);
+    skillDescription = textUtil.removeReference(skillDescription,textUtil.spanDetails);
 
+    console.log(skillDescription);
 
     let books = [];
     let bookIndex = 0;
@@ -435,6 +437,25 @@ function getName(ability) {
 }
 
 async function main() {
+
+    olChampionList.then((list) =>{
+            console.log(list.length);//storeChampion(500,list)
+
+
+            //testing the results search
+        for(let champ of list) {
+            extractChampionDetails(champ).then((r)=>{
+
+                console.log(r);
+                storeChampion(r)
+
+            })
+        }
+
+        }
+    ).catch((error) => {
+        console.log(error.message);
+    });
 
     ayumiloveChampionList.then((list) =>{
             console.log(list.length);//storeChampion(500,list)

@@ -11,17 +11,17 @@ exports.spanDetails = {
 }
 exports.removeReference = (text, {startTag,midTag, endTag}) => {
 
-    if(!text.includes(startTag)) {
-        return text
+    while(text.includes(startTag)) {
+        let firstIndex = text.indexOf(startTag);
+        let endIndex = text.indexOf(midTag,firstIndex);
+        let closeIndex = text.indexOf(endTag);
+
+        text =  text.substring(0, firstIndex) +
+            text.substring(endIndex + midTag.length, closeIndex) +
+            text.substring(closeIndex + endTag.length);
     }
+    return text
 
-    let firstIndex = text.indexOf(startTag);
-    let endIndex = text.indexOf(midTag,firstIndex);
-    let closeIndex = text.indexOf(endTag);
-
-    return text.substring(0, firstIndex) +
-        text.substring(endIndex + midTag.length, closeIndex) +
-        text.substring(closeIndex + endTag.length);
 }
 
 exports.replaceTag = (text, {startTag,midTag, endTag}) => {
