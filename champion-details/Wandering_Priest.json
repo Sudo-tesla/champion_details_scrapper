@@ -1,0 +1,72 @@
+{
+    "name": "Wandering Priest",
+    "class": {
+        "faction": "Barbarians",
+        "rarity": "Rare",
+        "role": "Support",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "17,175",
+        "atk": "859",
+        "def": "1,024",
+        "spd": "102",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Brilliant Lightning",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Damage +5%",
+                "Level 7: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Volt Barrage",
+            "description": " Removes all debuffs from a target ally, then heals them by 30% of their MAX HP and places a [Veil] buff on them for 2 turns.",
+            "books": [
+                "Level 2: Heal 5%",
+                "Level 3: Heal 5%",
+                "Level 4: Heal 5%",
+                "Level 5: Heal 5%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Transcend the Real",
+            "description": " Places a 15% [Strengthen] buff and a 25% [Increase ACC] buff on all allies for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally DEF in Faction Crypts by 20%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Wandering_Priest.png"
+}

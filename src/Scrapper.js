@@ -13,6 +13,7 @@ const directories = require('./Constants/Directories');
 const sourceLink = "https://ayumilove.net/raid-shadow-legends-list-of-champions-by-ranking/";
 
 
+
 class Champion {
     constructor(name, url) {
         this.name = name;
@@ -118,14 +119,11 @@ const olChampionList = new  Promise(async (resolve,reject) => {
         const dom = new JSDOM(data);
         const { document } = dom.window;
         const u1 = document.querySelector("ol");
-
-
             const champs  = u1.querySelectorAll("li");
             for(let champ of champs) {
                 //Extracts the champions name from the listing. Champions name is always the first element before the '|'
                 championList[championList.length] = new Champion(champ.textContent.split('|')[0].trim(),'https:'+champ.querySelector("a")?.href);
             }
-
         resolve(championList);
 
     } catch (error) {
@@ -168,6 +166,23 @@ async function storeBaseChampionInfoList() {
     }
 
     fs.writeFile('../champions-base-info.json',JSON.stringify(championBaseInfoMap,null, 4), function(err) {
+        if(err) {
+            return console.log(err);
+        }
+        console.log("The file was saved!");
+    });
+
+}
+
+async function storeSimulatorChampionInfoList() {
+    let files = fs.readdirSync(directories.details);
+    let championBaseInfoMap = {};
+    for (let fileName of files) {
+        let champion =championBaseInfoFromFile({dir: directories.details, name: fileName});
+        championBaseInfoMap[champion.name] = { affinity: champion.details.affinity, rarity: champion.details.rarity};
+    }
+
+    fs.writeFile('../simulator-champions-base-info.json',JSON.stringify(championBaseInfoMap,null, 4), function(err) {
         if(err) {
             return console.log(err);
         }
@@ -251,7 +266,7 @@ function storeChampion(championObject) {
 
 
 async function extractChampionDetails(championObject) {
-
+    console.log(championObject.name);
     const { data } = await axios.get(championObject.url);
     const dom = new JSDOM(data);
     const { document } = dom.window;
@@ -270,6 +285,7 @@ async function extractChampionDetails(championObject) {
     let championClass = extractChampionClass(overview).toJSON();
     let statsOver = columns[1].querySelectorAll('p')[1].outerHTML;
 
+
     let championStats = extractChampionStats(statsOver);
 
     const p1 = document.querySelectorAll("p");
@@ -281,12 +297,16 @@ async function extractChampionDetails(championObject) {
 
         if(p.textContent.startsWith("✰") || p.textContent.startsWith("★")) {
             flag=true;
-        } else if(flag & isNaN(p.textContent.charAt(0)) & p.querySelector('strong') !== null &&  !(p.textContent.includes("Equipment") || p.textContent.includes(' set'))){
+
+        } else if(flag & isNaN(p.textContent.charAt(0)) & p.querySelector('strong') !== null &&  !(p.textContent.includes("Equipment") || p.textContent.includes(' set') || p.textContent.includes('RAID Shadow Legends –'))){
+
             skills[skills.length] = extractSkill(p).toJSON();
+
         } else if(flag) {
             break
         }
     }
+
 
     let details = {};
     details.name = championObject.name;
@@ -347,10 +367,12 @@ function extractSkill(paragraph) {
     let dmgScalng = getDamageScaling(ability);
     let skillName = getName(ability);
     let skillData = paragraph.outerHTML.split('<br>');
+
+
     let skillDescription = textUtil.removeReference(skillData[1],textUtil.tagDetails);
     skillDescription = textUtil.removeReference(skillDescription,textUtil.spanDetails);
 
-    console.log(skillDescription);
+    //console.log(skillDescription);
 
     let books = [];
     let bookIndex = 0;
@@ -449,7 +471,10 @@ async function main() {
                 console.log(r);
                 storeChampion(r)
 
-            })
+            }).catch((error) => {
+                console.log(error.message);
+            });
+
         }
 
         }
@@ -459,20 +484,59 @@ async function main() {
 
     ayumiloveChampionList.then((list) =>{
             console.log(list.length);//storeChampion(500,list)
-            let result = list.find((champion)=>champion.name.includes('Rotos'));
+            //let result = list.find((champion)=>champion.name.includes('Rotos'));
 
             //testing the results search
+/*
             extractChampionDetails(result).then(r => {
                 console.log(r.name);
 
             });
+*/
+
+            for(champ of list) {
+
+
+                try{
+
+                   let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
+                    if(hasStoredResources === false) {
+                        console.log(champ);
+                        try {
+                             extractChampionDetails(champ).then((res) =>{
+                                storeChampion(res);
+                                storeImage(res);
+
+                            }).catch((error) => {
+                                console.log(error.message);
+                            });
+
+                        }catch (err) {
+                            console.log(err);
+                        }
+                    }
+
+                }catch (err) {
+
+                }
+               /* console.log(fileUtil.fileExists({name: champ.name, isImage: true, isJson: true}));
+                if(!fileUtil.fileExists({name :champ.name,isImage:false,isJson :true}).jsonExists) {
+                    console.log(champ);
+                }*/
+            }
+
+        storeBaseChampionInfoList()
+        storeSimulatorChampionInfoList()
+
 
         }
     ).catch((error) => {
         console.log(error.message);
     });
 
-    await storeBaseChampionInfoList()
+    //await storeBaseChampionInfoList()
 }
 
-main().then();
+main().then().catch((error) => {
+    console.log(error.message);
+});

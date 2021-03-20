@@ -1,0 +1,64 @@
+{
+    "name": "Fanatic",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Rare",
+        "role": "Support",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "14,865",
+        "atk": "1,013",
+        "def": "1,024",
+        "spd": "97",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Devil Hunt",
+            "description": " Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns. Has a 30% of placing a 60% [Decrease DEF] debuff instead if the target is under 2 or more debuffs.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Cursebearer",
+            "description": " Attacks 1 enemy. Has a 75% chance of transferring 2 random debuffs from this champion to the target.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Buff/Debuff Chance +15%",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [],
+            "abilityname": "Rally Cry",
+            "description": " Places a 50% [Increase ATK] buff on all allies for 2 turns and removes one random debuff from each ally",
+            "books": [
+                "Level 2: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Fanatic.png"
+}

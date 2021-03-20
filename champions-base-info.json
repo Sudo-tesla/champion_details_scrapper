@@ -479,6 +479,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Bloodhorn.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Bloodhorn.json?raw=true"
     },
+    "Bloodmask": {
+        "faction": "Shadowkin",
+        "rarity": "Rare",
+        "role": "HP",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Bloodmask.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Bloodmask.json?raw=true"
+    },
     "Bloodpainter": {
         "faction": "Skinwalkers",
         "rarity": "Rare",
@@ -695,6 +703,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Chevalier.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Chevalier.json?raw=true"
     },
+    "Chonoru": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Chonoru.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Chonoru.json?raw=true"
+    },
     "Chopper": {
         "faction": "Orcs",
         "rarity": "Rare",
@@ -750,6 +766,14 @@
         "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Conquerer.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Conquerer.json?raw=true"
+    },
+    "Conscript": {
+        "faction": "Shadowkin",
+        "rarity": "Uncommon",
+        "role": "Attack",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Conscript.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Conscript.json?raw=true"
     },
     "Corpse Collector": {
         "faction": "Undead Hordes",
@@ -1223,6 +1247,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Fahrakin_the_Fat.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Fahrakin_the_Fat.json?raw=true"
     },
+    "Fanatic": {
+        "faction": "Shadowkin",
+        "rarity": "Rare",
+        "role": "Support",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Fanatic.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Fanatic.json?raw=true"
+    },
     "Fang Cleric": {
         "faction": "Dark Elves",
         "rarity": "Epic",
@@ -1422,6 +1454,14 @@
         "affinity": "Void",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Geargrinder.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Geargrinder.json?raw=true"
+    },
+    "Genzin": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Genzin.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Genzin.json?raw=true"
     },
     "Gerhard the Stone": {
         "faction": "Banner Lords",
@@ -1927,6 +1967,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Infernal_Baroness.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Infernal_Baroness.json?raw=true"
     },
+    "Infiltrator": {
+        "faction": "Shadowkin",
+        "rarity": "Uncommon",
+        "role": "Attack",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Infiltrator.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Infiltrator.json?raw=true"
+    },
     "Inithwe Bloodtwin": {
         "faction": "Demonspawn",
         "rarity": "Legendary",
@@ -2014,6 +2062,14 @@
         "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Jinglehunter.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Jinglehunter.json?raw=true"
+    },
+    "Jintoro": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Jintoro.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Jintoro.json?raw=true"
     },
     "Jizoh": {
         "faction": "Lizardmen",
@@ -2214,6 +2270,14 @@
         "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Lich.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Lich.json?raw=true"
+    },
+    "Lifetaker": {
+        "faction": "Shadowkin",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Lifetaker.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Lifetaker.json?raw=true"
     },
     "Lightsworn": {
         "faction": "The Sacred Order",
@@ -2671,6 +2735,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Oathbound.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Oathbound.json?raw=true"
     },
+    "Oboro": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Oboro.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Oboro.json?raw=true"
+    },
     "Occult Brawler": {
         "faction": "Ogryn Tribes",
         "rarity": "Epic",
@@ -2782,6 +2854,14 @@
         "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Perforator.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Perforator.json?raw=true"
+    },
+    "Pestilus": {
+        "faction": "Knight Revenant",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Pestilus.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Pestilus.json?raw=true"
     },
     "Peydma": {
         "faction": "Demonspawn",
@@ -3215,6 +3295,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Runic_Warder.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Runic_Warder.json?raw=true"
     },
+    "Sachi": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Sachi.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Sachi.json?raw=true"
+    },
     "Saito": {
         "faction": "Undead Hordes",
         "rarity": "Legendary",
@@ -3414,6 +3502,14 @@
         "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Shirimani.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Shirimani.json?raw=true"
+    },
+    "Sicia Flametongue": {
+        "faction": "Demonspawn",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Sicia_Flametongue.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Sicia_Flametongue.json?raw=true"
     },
     "Sicia Flametoungue": {
         "faction": "Demonspawn",
@@ -3935,6 +4031,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Tomb_Lord.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Tomb_Lord.json?raw=true"
     },
+    "Toragi the Frog": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "HP",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Toragi_the_Frog.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Toragi_the_Frog.json?raw=true"
+    },
     "Tormentor": {
         "faction": "Demonspawn",
         "rarity": "Rare",
@@ -4247,6 +4351,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Wanderer.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Wanderer.json?raw=true"
     },
+    "Wandering Priest": {
+        "faction": "Barbarians",
+        "rarity": "Rare",
+        "role": "Support",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Wandering_Priest.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Wandering_Priest.json?raw=true"
+    },
     "Warboy": {
         "faction": "Orcs",
         "rarity": "Common",
@@ -4414,6 +4526,14 @@
         "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Yeoman.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Yeoman.json?raw=true"
+    },
+    "Yoshi the Drunkard": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Yoshi_the_Drunkard.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Yoshi_the_Drunkard.json?raw=true"
     },
     "Zargala": {
         "faction": "Orcs",

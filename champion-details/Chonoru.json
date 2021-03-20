@@ -1,0 +1,68 @@
+{
+    "name": "Chonoru",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "12,555",
+        "atk": "1,509",
+        "def": "958",
+        "spd": "99",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Night Blossom",
+            "description": " Attacks 1 Enemy. Has a 40% chance of placing [Block Buffs] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Reign of Fear",
+            "description": " Attacks 3 times at random. Each hit has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Lay Bare",
+            "description": " Removes all [Increase DEF] buffs from all enemies, then attacks all enemies. Decreases the cooldown of Lay Bare by 1 turn for each enemy killed by this skill.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Chonoru.png"
+}

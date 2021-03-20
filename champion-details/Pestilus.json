@@ -1,0 +1,72 @@
+{
+    "name": "Pestilus",
+    "class": {
+        "faction": "Knight Revenant",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "20,145",
+        "atk": "848",
+        "def": "1,112",
+        "spd": "94",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "15"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Blood Call",
+            "description": " Attacks 2 times at random. Has a 30% chance of placing a [Leech] Debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage 5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Damage +5%",
+                "Level 7: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Flames Within",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a [HP Burn] debuff for 2 turns. Heals all allies by 15% of their MAX HP if the [HP Burn] debuff is placed. Fills the Turn Meters of all allies by 15% if the [HP Burn] debuff is not placed.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Damage +5%",
+                "Level 7: Buff/Debuff Chance +10%",
+                "Level 8: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Battle Weirding",
+            "description": " Places a 50% [Increase ACC] buff and a 30% [Increases C.DMG] buff on all allies for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ACC in the Doom Tower by 50",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Pestilus.png"
+}

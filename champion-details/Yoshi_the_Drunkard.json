@@ -1,0 +1,85 @@
+{
+    "name": "Yoshi the Drunkard",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "19,650",
+        "atk": "1,299",
+        "def": "969",
+        "spd": "103",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "40",
+        "acc": "20"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Strong Booze",
+            "description": " Attacks 1 enemy. Has 30% chance of placing a [Stun] debuff for 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 2,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Flaming Spirits",
+            "description": " Attacks 2 times at random. Has 75% chance of placing a 50% [Decrease ACC] debuff and a [HP Burn] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +15%",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Battle Toast",
+            "description": " Places a 50% [Increase ATK] buff and a 50% [Increase ACC] buff on all allies for 2 turns. Also has a 50% chance of placing a [True Fear] debuff on all enemies for 1 turn. Has a 75% chance instead on enemies under [Increase ATK] buffs.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +10%",
+                "Level 3: Buff/Debuff Chance +15%",
+                "Level 4: Cooldown -1",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Partier",
+            "description": " Fills this Champion’s Turn Meter by 4% each time an enemy receives a buff.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally SPD in all Battles by 19%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Yoshi_the_Drunkard.png"
+}
