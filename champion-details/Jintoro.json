@@ -1,0 +1,81 @@
+{
+    "name": "Jintoro",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "15,360",
+        "atk": "1,487",
+        "def": "1,068",
+        "spd": "102",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Soul Drinker",
+            "description": " Attacks 1 enemy. Grants an Extra Turn if this attack kills an enemy",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Blood Freeze",
+            "description": " Attacks 1 enemy. Steals 100% of the target’s turn meter. Decreases the cooldown of Oni’s Rage by 1 turn if the target is immune to Turn Meter reduction effects.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Oni’s Rage",
+            "description": " Attacks 1 enemy. Places a 60% [Decrease DEF] and 25% [Weaken] debuff for 2 turns. Will attack 5 times instead of 1 on every 4th use of this skill against the same target in one round.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Vigorous",
+            "description": " All Turn Meter fill effects are increased by 50% on this Champion.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ATK in all Battles by 29%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Jintoro.png"
+}

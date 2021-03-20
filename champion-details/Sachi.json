@@ -1,0 +1,80 @@
+{
+    "name": "Sachi",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "14,865",
+        "atk": "1,222",
+        "def": "1,090",
+        "spd": "102",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Sickle Sweep",
+            "description": " Attacks all enemies. Has a 40% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 2,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Hear Pierce",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease C.RATE] debuff and a [Leech] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +15%",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Shadow Ambush",
+            "description": " Places a 50% [Increase ATK] buff on all allies for 2 turns, then attacks 1 enemy. Fills the Turn Meters of all allies by 20% if this attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Cooldown -1",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "False Death",
+            "description": " Revives a random ally with 30% HP whenever this Champion kills an enemy. Has a 50% chance of placing [Fear] debuff on all the enemies for 1 turn whenever an ally is revived.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Sachi.png"
+}

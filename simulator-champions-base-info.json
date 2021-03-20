@@ -1,0 +1,2286 @@
+{
+    "Abbess": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Abyssal": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Achak the Wendarin": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Acolyte": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Adjudicator": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Admonitor": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Adriel": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Aina": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Akoth the Seared": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Alaric the Hooded": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Alika": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Altan": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Alure": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Amarantine Skeleton": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Anax": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Angar": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Anointed": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Aothar": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Aox the Rememberer": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Apothecary": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Arbalester": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Arbiter": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Arcanist": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Archer": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Archmage Hellmut": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Aristocrat": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Armiger": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Armina": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Astralith": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Astralon": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Athel": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Atur": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Avenger": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Avir the Alchemage": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Axeman": {
+        "affinity": "Force",
+        "rarity": "Common"
+    },
+    "Azure": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Bad-el-Kazar": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Baerdal Fellhammer": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Balthus Drauglord": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Bandit": {
+        "affinity": "Spirit",
+        "rarity": "Common"
+    },
+    "Banshee": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Baron": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Baroth the Bloodsoaked": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Basher": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Basileus Roanas": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Basilisk": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Battlesage": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Battle Sister": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Beast Wrestler": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Belanor": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Bellower": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Bergoth the Malformed": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Berserker": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Big ‘Un": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Black Knight": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Blind Seer": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Bloodbraid": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Bloodfeather": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Bloodgorged": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Bloodhorn": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Bloodmask": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Bloodpainter": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Bogwalker": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Boltsmith": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Bombardier": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Bonekeeper": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Bone Knight": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Brakus the Shifter": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Broadmaw": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Brute": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Bully": {
+        "affinity": "Spirit",
+        "rarity": "Common"
+    },
+    "Bulwark": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Bushi": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Bystophus": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Cagebreaker": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Candraphon": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Canoness": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Captain Temila": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Cardiel": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Cardinal": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Catacomb Councilor": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Cataphract": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Centurion": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Chancellor Yasmin": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Channeler": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Chaplain": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Chemist": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Chevalier": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Chonoru": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Chopper": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Cillian the Lucky": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Coffin Smasher": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Coldheart": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Commander": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Confessor": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Conquerer": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Conscript": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Corpse Collector": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Corpulent Cadaver": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Countess Lix": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Courtier": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Crimson Helm": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Crimson Slayer": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Crossbowman": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Crowned Druid": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Cruetraxa": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Crusader": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Crusher": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Crypt-King Graal": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Crypt Witch": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Cudgeler": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Cultist": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Cupidus": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Dagger": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Dark Athel": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Dark Elhain": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Daywalker": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Deacon Armstrong": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Dead Crusader": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Deathchanter": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Deathknight": {
+        "affinity": "Magic",
+        "rarity": "Common"
+    },
+    "Deathless": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Death Hound": {
+        "affinity": "Magic",
+        "rarity": "Common"
+    },
+    "Defiled Sinner": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Delver": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Dervish": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Dhampir": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Dhukk the Pierced": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Diabolist": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Dilgol": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Dolor Lorekeeper": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Doompriest": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Doomscreech": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Dracomorph": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Draconis": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Drake": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Drexthar Bloodtwin": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Drokgul the Gaunt": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Drowned Bloatwraith": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Duchess Lilitu": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Duelist": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Dunestrider": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Elder": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Elder Skarg": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Elegaius": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Elenaril": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Elfguard": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Elhain": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Erinyes": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Errol": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Eviscerator": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Excruciator": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Executioner": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Exemplar": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Faceless": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Fahrakin the Fat": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Fanatic": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Fang Cleric": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Fayne": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Fellhound": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Fenax": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Fencer": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Fireblade": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Flailer": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Flesheater": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Fleshmonger": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Flesh-Tearer": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Flinger": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Fodbor the Bard": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Foli": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Fortress Goon": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Frontline Warrior": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Frostbringer": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Frostskin": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Frozen Banshee": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Furystoker": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Fu-Shan": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Gala Longbraids": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Galek": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Galkut": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Gator": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Geargrinder": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Genzin": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Gerhard the Stone": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Ghostborn": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Ghoulish Ranger": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Ghrush the Mangler": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Gladiator": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Gloril Brutebane": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Gnarlhorn": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Godseeker Aniri": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Golden Reaper": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Gomlok Skyhide": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Goremask": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Gorgorab": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Grandmaster": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Grappler": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Gravechill Killer": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Graybeard": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Grimskin": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Grinner": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Grizzled Jarl": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Grohak the Bloodied": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Grumbler": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Grunch Killjoy": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Guardian": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Gurgoh the Augur": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Gurptuk Moss-Beard": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Haarken Greatblade": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Hakkorhn Smashlord": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Halberdier": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Hardscale": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Harrier": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Haruspex": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Harvester": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Harvest Jack": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Hatchet Slinger": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Headsman": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Head Taker": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Heartpiercer": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Hegemon": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Heiress": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Hellfang": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Hellgazer": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Hellhound": {
+        "affinity": "Spirit",
+        "rarity": "Common"
+    },
+    "Herald": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Hexia": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Hexweaver": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "High Khatun": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Hill Nomad": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Hollow": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Honor Guard": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Hope": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Hordin": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Hospitaller": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Hound Spawn": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Hungerer": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Huntress": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Hurler": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Husk": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Hyria": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Icebound Prospector": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Ifrit": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Ignatius": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Incubus": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Infernal Baroness": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Infiltrator": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Inithwe Bloodtwin": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Inquisitor Shamael": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Interceptor": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Intercessor": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Ironclad": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Iron Brago": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Ithos": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Jaeger": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Jarang": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Jareg": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Jinglehunter": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Jintoro": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Jizoh": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Jotun": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Judge": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Judicator": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Juliana": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Justiciar": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Kael": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Kaiden": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Kallia": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Kantra the Cyclone": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Karam": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Khoronar": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "King Garog": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Klodd Beastfeeder": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Knecht": {
+        "affinity": "Spirit",
+        "rarity": "Common"
+    },
+    "Knight-Errant": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Kreela Witch-Arm": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Krisk the Ageless": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Kurzad Deepheart": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Kytis": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Lady Etessa": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Lamellar": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Lanakis the Chosen": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Lemure": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Lich": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Lifetaker": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Lightsworn": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Line Infantry": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Little Miss Annie": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Lodric Falconheart": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Longbeard": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Lordly Legionary": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Lord Champfort": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Lord Shazar": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Lua": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Lugan the Steadfast": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Luria": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Lurker": {
+        "affinity": "Magic",
+        "rarity": "Common"
+    },
+    "Luthiea": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Lydia the Deathsiren": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Lyssandra": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Madame Serris": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Madman": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Maeve": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Magekiller": {
+        "affinity": "Spirit",
+        "rarity": "Common"
+    },
+    "Magister": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Magmablood": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Magus": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Maiden": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Malbranche": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Maneater": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Marked": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Marksman": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Marquess": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Marquis": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Martyr": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Masked Fearmonger": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Master Butcher": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Maulie Tankard": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Mausoleum Mage": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Ma’Shalled": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Melga Steelgirdle": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Metalshaper": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Militia": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Minaya": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Miscreated Monster": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Missionary": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Mistress of Hymns": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Mortu-Macaab": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Mother Superior": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Mountain King": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Muckstalker": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Myrmidon": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Mystic Hand": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Narma the Returned": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Nazana": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Necrohunter": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Nekhret the Great": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Nethril": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Nogdar the Headhunter": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Norog": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Novitiate": {
+        "affinity": "Spirit",
+        "rarity": "Common"
+    },
+    "Oathbound": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Oboro": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Occult Brawler": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Ogryn Jailer": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Oldbeard": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Old Hermit Jorrg": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Outlander": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Outlaw Monk": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Outrider": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Ox": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Painsmith": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Pain Keeper": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Panthera": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Paragon": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Penitent": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Perforator": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Pestilus": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Peydma": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Pigsticker": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Pikeman": {
+        "affinity": "Magic",
+        "rarity": "Common"
+    },
+    "Pilgrim": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Pitiless One": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Pitspawn": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Pit Cur": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Pit Fighter": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Pounder": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Preacher": {
+        "affinity": "Force",
+        "rarity": "Common"
+    },
+    "Preserver": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Prince Kymar": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Prundar": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Psylar": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Purgator": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Pyxniel": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Quaestor": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Quargan the Crowned": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Queen Eva": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Rae": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Ragemonger": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Raglin": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Raider": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Ranger": {
+        "affinity": "Force",
+        "rarity": "Common"
+    },
+    "Rearguard Sergeant": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Rector Drath": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Redeemer": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Reinbeast": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Relickeeper": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Reliquary Tender": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Renegade": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Renouncer": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Retainer": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Rhazin Scarhide": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Rian the Conjurer": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Richtoff the Bold": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Ripper": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Ripperfist": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Ritualist": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Robar": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Rocktooth": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Rock Breaker": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Romero": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Roshcard the Tower": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Rotos the Lost Groom": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Rotting Mage": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Rowan": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Roxam": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Royal Guard": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Royal Huntsman": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Ruffstone": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Rugnor Goldgleam": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Runekeeper Dazdurk": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Runic Warder": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Sachi": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Saito": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Samar Gemcursed": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Sanctum Protector": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Sandbow": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Sandlashed Survivor": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Sanguinia": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Satyr": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Saurus": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Scrapper": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Scyl of the Drakes": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Seducer": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Seeker": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Seer": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Seneschal": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Sentinel": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Septimus": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Sepulcher Sentinel": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Sergeant": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Sethallia": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Shaman": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Shamrock": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Sharpshooter": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Shatterbones": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Shieldguard": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Shirimani": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Sicia Flametongue": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Sicia Flametoungue": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Siegebreaker": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Sikara": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Sinesha": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Siphi the Lost Bride": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Sir Nicholas": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Sister Militant": {
+        "affinity": "Force",
+        "rarity": "Common"
+    },
+    "Skartorsis": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Skellag": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Skink": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Skinner": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Skirmisher": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Skullcrown": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Skullcrusher": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Skullsquire": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Skullsworn": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Skull Lord Var-Gall": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Skytouched Shaman": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Slasher": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Slayer": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Slicer": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Slitherbrute": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Sniper": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Snorting Thug": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Solaris": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Sorceress": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Soulbond Bowyer": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Souldrinker": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Soulless": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Spider": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Spikehead": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Spirithost": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Spiritwalker": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Squire": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Stag Knight": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Stalker": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Stalwart": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Steadfast Marshal": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Steelskull": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Steel Bowyer": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Stitched Beast": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Stoneskin": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Stout Axeman": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Suntribe": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Suwai Firstborn": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Suzerain Katonn": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Swordsman": {
+        "affinity": "Magic",
+        "rarity": "Common"
+    },
+    "Tainix Hateflower": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Tallia": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Tarshon": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Taurus": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Tayrel": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Teela Goremane": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Templar": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Temptress": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Terrorbeast": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Teshada": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Thea the Tomb Angel": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Thenasil": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Theurgist": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Thrall": {
+        "affinity": "Magic",
+        "rarity": "Common"
+    },
+    "Thrasher": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Throatcutter": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Tigersoul": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Tomb Lord": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Toragi the Frog": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Tormentor": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Tormin the Cold": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Torturehelm": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Totem": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Towering Titan": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Tracker": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Treefeller": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Troglodyte": {
+        "affinity": "Spirit",
+        "rarity": "Common"
+    },
+    "Trunda Giltmallet": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Tuhak the Wanderer": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Tunnel Steward": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Turvold": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Twinclaw Disciple": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Tyrant Ixlimor": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Ultimate Galek": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Umbral Enchantress": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Urost the Soulcage": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Ursala the Mourner": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Ursine Icecrusher": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Ursine Ironhide": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Ursuga Warcaller": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Uugo": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Valerie": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Valkyrie": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Valla": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Vanguard": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Venus": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Vergis": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Vergumkaar": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Veteran": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
+    "Vigilante": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Vilespawn": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    },
+    "Visix the Unbowed": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Vizier Ovelis": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Vogoth": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Vrask": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Vulpine": {
+        "affinity": "Force",
+        "rarity": "Uncommon"
+    },
+    "Wagonbane": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Wanderer": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Wandering Priest": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Warboy": {
+        "affinity": "Magic",
+        "rarity": "Common"
+    },
+    "Warcaster": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Warchanter": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Warchief": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Warden": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Warlord": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Warmaiden": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Warpriest": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "War Mother": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
+    "Whisper": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
+    "Windtalker": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Witness": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
+    "Woad-Painted": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Word Bearer": {
+        "affinity": "Magic",
+        "rarity": "Uncommon"
+    },
+    "Wretch": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
+    "Wurlim Frostking": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Wyvernbane": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
+    "Yaga the Insatiable": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Yakarl the Scourge": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Yannica": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Yeoman": {
+        "affinity": "Magic",
+        "rarity": "Common"
+    },
+    "Yoshi the Drunkard": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Zargala": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Zavia": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
+    "Zelotah": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Zephyr Sniper": {
+        "affinity": "Spirit",
+        "rarity": "Uncommon"
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "name": "Oboro",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "15,360",
+        "atk": "1,454",
+        "def": "826",
+        "spd": "101",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Spreading Chaos",
+            "description": " Attacks 1 enemy. Has a 40% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Will Attack all enemies instead if the target is under 4 or more debuffs.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Mystic Smoke",
+            "description": " Attacks 1 enemy 2 times. The second hit has a 75% chance of transferring all debuffs from this champion to the target. The first hit has a 75% chance of stealing all the buffs from the target when attacking under a [Veil] or [Perfect Veil] buff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Ninja Arts",
+            "description": " Places a 30% [Increase C.RATE] buff and a 30% [Increase C.DMG] buff on this champion for 2 turns, then attacks 1 enemy. Places a [Perfect Veil] buff on this champion for 2 turns if this attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +10%",
+                "Level 6: Cooldown -1",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Vanish",
+            "description": " Places a [Revive on death] buff on this champion for 3 turns whenever they receive a [Veil] or [Perfect Veil] buff.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ATK in Dungeons by 33%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Oboro.png"
+}

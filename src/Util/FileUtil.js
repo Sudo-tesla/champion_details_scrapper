@@ -11,6 +11,7 @@ class FileExistence {
 
 const formatFileName = ({name,extension,dir}) => {
     let filename = name;
+    //console.log(name);
     filename=filename.replace(/\s/g, '_');
     filename=filename.replace(/-/g, '_');
 
@@ -39,7 +40,7 @@ const fileExists = ({filename,isImage,isJson}) => {
         exists.imageExists = fs.existsSync(path);
     }
     if(isJson) {
-        let path = formatFileName({name:filename,extension:extensions.PNG,dir:directories.details});
+        let path = formatFileName({name:filename,extension:extensions.JSON,dir:directories.details});
 
         exists.jsonExists = fs.existsSync(path);
     }
