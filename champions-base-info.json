@@ -303,14 +303,6 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Baerdal_Fellhammer.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Baerdal_Fellhammer.json?raw=true"
     },
-    "Balthus Drauglord": {
-        "faction": "Undead Hordes",
-        "rarity": "Epic",
-        "role": "Defense",
-        "affinity": "Spirit",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Balthus_Drauglord.png",
-        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Balthus_Drauglord.json?raw=true"
-    },
     "Bandit": {
         "faction": "Banner Lords",
         "rarity": "Common",
@@ -1295,6 +1287,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Fencer.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Fencer.json?raw=true"
     },
+    "Fenshi": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Fenshi.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Fenshi.json?raw=true"
+    },
     "Fireblade": {
         "faction": "Banner Lords",
         "rarity": "Uncommon",
@@ -1494,6 +1494,14 @@
         "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ghrush_the_Mangler.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ghrush_the_Mangler.json?raw=true"
+    },
+    "Giscard the Sigiled": {
+        "faction": "Banner Lords",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Giscard_the_Sigiled.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Giscard_the_Sigiled.json?raw=true"
     },
     "Gladiator": {
         "faction": "Knight Revenant",
@@ -2615,6 +2623,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Mistress_of_Hymns.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Mistress_of_Hymns.json?raw=true"
     },
+    "Mordecai": {
+        "faction": "The Sacred Order",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Mordecai.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Mordecai.json?raw=true"
+    },
     "Mortu-Macaab": {
         "faction": "Demonspawn",
         "rarity": "Legendary",
@@ -3151,6 +3167,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Richtoff_the_Bold.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Richtoff_the_Bold.json?raw=true"
     },
+    "Riho Bonespear": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Riho_Bonespear.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Riho_Bonespear.json?raw=true"
+    },
     "Ripper": {
         "faction": "Skinwalkers",
         "rarity": "Epic",
@@ -3582,6 +3606,14 @@
         "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Skellag.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Skellag.json?raw=true"
+    },
+    "Skimfos the Consumed": {
+        "faction": "Demonspawn",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Skimfos_the_Consumed.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Skimfos_the_Consumed.json?raw=true"
     },
     "Skink": {
         "faction": "Lizardmen",
@@ -4166,6 +4198,14 @@
         "affinity": "Void",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Umbral_Enchantress.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Umbral_Enchantress.json?raw=true"
+    },
+    "Underpriest Brogni": {
+        "faction": "Dwarves",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Magic",
+        "avatarUrl": "https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Underpriest_Brogni.json?raw=true"
     },
     "Urost the Soulcage": {
         "faction": "Undead Hordes",

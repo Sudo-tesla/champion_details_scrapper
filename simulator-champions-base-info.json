@@ -151,10 +151,6 @@
         "affinity": "Void",
         "rarity": "Epic"
     },
-    "Balthus Drauglord": {
-        "affinity": "Spirit",
-        "rarity": "Epic"
-    },
     "Bandit": {
         "affinity": "Spirit",
         "rarity": "Common"
@@ -647,6 +643,10 @@
         "affinity": "Force",
         "rarity": "Rare"
     },
+    "Fenshi": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
     "Fireblade": {
         "affinity": "Spirit",
         "rarity": "Uncommon"
@@ -744,6 +744,10 @@
         "rarity": "Rare"
     },
     "Ghrush the Mangler": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
+    "Giscard the Sigiled": {
         "affinity": "Spirit",
         "rarity": "Epic"
     },
@@ -1307,6 +1311,10 @@
         "affinity": "Spirit",
         "rarity": "Epic"
     },
+    "Mordecai": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
     "Mortu-Macaab": {
         "affinity": "Spirit",
         "rarity": "Legendary"
@@ -1575,6 +1583,10 @@
         "affinity": "Spirit",
         "rarity": "Legendary"
     },
+    "Riho Bonespear": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
     "Ripper": {
         "affinity": "Force",
         "rarity": "Epic"
@@ -1790,6 +1802,10 @@
     "Skellag": {
         "affinity": "Force",
         "rarity": "Uncommon"
+    },
+    "Skimfos the Consumed": {
+        "affinity": "Void",
+        "rarity": "Epic"
     },
     "Skink": {
         "affinity": "Magic",
@@ -2082,6 +2098,10 @@
     "Umbral Enchantress": {
         "affinity": "Void",
         "rarity": "Epic"
+    },
+    "Underpriest Brogni": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
     },
     "Urost the Soulcage": {
         "affinity": "Void",

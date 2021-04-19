@@ -1,0 +1,83 @@
+{
+    "name": "Underpriest Brogni",
+    "class": {
+        "faction": "Dwarves",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "22,965",
+        "atk": "782",
+        "def": "1,266",
+        "spd": "100",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "90",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Deepcrystal Scourge",
+            "description": " Attacks 1 enemy. Has a 45% chance of placing a [HP Burn] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Cavern’s Grasp",
+            "description": " Attacks all enemies. Has a 75% chance of removing 1 random buff from all enemies. Has a 75% chance of removing 1 random debuff from all allies. Increases the value of [Shield] buffs on all allies by 30% of the damage inflicted.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Resilient Glow",
+            "description": " Places a [Block Debuff] buff and a 50% [Increase ATK] on all allies for 2 turns. Also places a [Shield] buff on all allies for 2 turns equal to 30% of this Champion’s MAX HP. The [Shield] buff cannot be removed.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Redoubt",
+            "description": " Whenever an ally under [Shield] buff is attacked, reflects 25% of the damage inflicted on the [Shield] back to the attacker. Also heals that ally by 25% of the damage inflicted on the [Shield]. If there are multiple Champions in the team with this Skill, only one will activate.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally RESIST in Doom Tower battles by 60.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png"
+}
