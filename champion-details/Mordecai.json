@@ -1,0 +1,72 @@
+{
+    "name": "Mordecai",
+    "class": {
+        "faction": "The Sacred Order",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "13,545",
+        "atk": "1,244",
+        "def": "1,156",
+        "spd": "100",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Purgatory",
+            "description": " Attacks 1 enemy. Has a 30% chance of decreasing the target’s Turn Meter by 10%. Has a 60% chance instead if the target is under a [HP Burn] debuff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Time’s Undoing",
+            "description": " Has a 75% chance of decreasing the Turn Meters of all enemies by 15%. Fills the Turn Meters of all allies by 15%.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +5%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [],
+            "abilityname": "Heavenly Flames",
+            "description": " Has a 75% chance of placing a [HP Burn] debuff on all enemies for 2 turns. Places a 50% [Increase ATK] buff on all allies for 3 turns.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +5%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ACC in all Battles by 40.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Mordecai.png"
+}

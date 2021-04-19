@@ -31,7 +31,43 @@
                 "Level 4: Buff/Debuff Chance +5%",
                 "Level 5: Buff/Debuff Chance +5%"
             ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "abilityname": "Doomwheels",
+            "description": "Attacks all enemies. Has a 75% chance of placing a 30% [Decrease C.RATE] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +10%",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Enchanted Shields ",
+            "description": "Reflects 30% of the damage this Champion receives back to the attacker.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": "Increases Ally DEF in Faction Crypts by 30%",
+            "books": []
         }
+
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Balthus_Drauglord.png"
 }
