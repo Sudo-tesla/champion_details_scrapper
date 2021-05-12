@@ -496,7 +496,7 @@ async function main() {
 
             for(champ of list) {
 
-
+                console.log(champ);
                 try{
 
                    let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;

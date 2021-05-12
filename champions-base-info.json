@@ -303,6 +303,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Baerdal_Fellhammer.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Baerdal_Fellhammer.json?raw=true"
     },
+    "Balthus Drauglord": {
+        "faction": "Undead Hordes",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Balthus_Drauglord.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Balthus_Drauglord.json?raw=true"
+    },
     "Bandit": {
         "faction": "Banner Lords",
         "rarity": "Common",

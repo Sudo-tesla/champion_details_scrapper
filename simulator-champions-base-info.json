@@ -151,6 +151,10 @@
         "affinity": "Void",
         "rarity": "Epic"
     },
+    "Balthus Drauglord": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
     "Bandit": {
         "affinity": "Spirit",
         "rarity": "Common"
