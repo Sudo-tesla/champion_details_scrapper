@@ -496,12 +496,12 @@ async function main() {
 
             for(champ of list) {
 
-
+                console.log(champ);
                 try{
 
                    let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
                     if(hasStoredResources === false) {
-                        console.log(champ);
+                       // console.log(champ);
                         try {
                              extractChampionDetails(champ).then((res) =>{
                                 storeChampion(res);
@@ -540,3 +540,21 @@ async function main() {
 main().then().catch((error) => {
     console.log(error.message);
 });
+
+let once = {
+    name: 'Ramantu Drakesblood',
+     url: 'https://ayumilove.net/raid-shadow-legends-ramantu-drakesblood-skill-mastery-equip-guide/'
+}
+let twice =  {
+    name: 'Ruel the Huntmaster',
+    url: 'https://ayumilove.net/raid-shadow-legends-ruel-the-huntmaster-skill-mastery-equip-guide/'
+}
+/*extractChampionDetails(twice).then((res) =>{
+    storeChampion(res);
+    storeImage(res);
+
+}).catch((error) => {
+    console.log(error.message);
+});
+storeBaseChampionInfoList()
+storeSimulatorChampionInfoList()*/

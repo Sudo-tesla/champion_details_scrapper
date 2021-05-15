@@ -21,7 +21,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [
-                "ATK"
+                "HP"
             ],
             "abilityname": "Shieldsplitter",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -36,10 +36,10 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [
-                "ATK"
+                "HP"
             ],
             "abilityname": "Flailing Assault",
-            "description": " Attacks 4 times at random. Has a 50% chance of placing a [Provoke] debuff for 1 turn.",
+            "description": " Attacks 4 times at random. The first hit has a 100% chance of placing a [Provoke] debuff for 1 turn. Each of the other hits has a 50% chance of placing a [Provoke] debuff for 1 turn.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -53,7 +53,7 @@
             "mincd": 4,
             "dmgscaling": [],
             "abilityname": "Bullish Vitality",
-            "description": " Places a 60% [Increase DEF] buff on all allies for 2 turns. Places a 15% [Continuous Heal] buff on this Champion for 2 turns, as well as a [Shield] buff on this Champion equal to 30% of their MAX HP for 2 turns.",
+            "description": " Places a 60% [Increase DEF] buff on all allies for 2 turns. Places a 15% [Continuous Heal] buff on this Champion for 2 turns, as well as a [Shield] buff on this Champion equal to 30% of their MAX HP for 3 turns. Grants an Extra Turn.",
             "books": [
                 "Level 2: Shield +5%",
                 "Level 3: Shield +5%",

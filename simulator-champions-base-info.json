@@ -151,6 +151,10 @@
         "affinity": "Void",
         "rarity": "Epic"
     },
+    "Balthus Drauglord": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
     "Bandit": {
         "affinity": "Spirit",
         "rarity": "Common"
@@ -891,6 +895,10 @@
         "affinity": "Force",
         "rarity": "Rare"
     },
+    "Helior": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
     "Hellfang": {
         "affinity": "Spirit",
         "rarity": "Rare"
@@ -1531,6 +1539,10 @@
         "affinity": "Spirit",
         "rarity": "Rare"
     },
+    "Ramantu Drakesblood": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
     "Ranger": {
         "affinity": "Force",
         "rarity": "Common"
@@ -1640,6 +1652,10 @@
         "rarity": "Epic"
     },
     "Royal Huntsman": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Ruel the Huntmaster": {
         "affinity": "Spirit",
         "rarity": "Legendary"
     },

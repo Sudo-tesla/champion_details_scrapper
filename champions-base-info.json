@@ -303,6 +303,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Baerdal_Fellhammer.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Baerdal_Fellhammer.json?raw=true"
     },
+    "Balthus Drauglord": {
+        "faction": "Undead Hordes",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Balthus_Drauglord.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Balthus_Drauglord.json?raw=true"
+    },
     "Bandit": {
         "faction": "Banner Lords",
         "rarity": "Common",
@@ -1783,6 +1791,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Heiress.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Heiress.json?raw=true"
     },
+    "Helior": {
+        "faction": "Banner Lords",
+        "rarity": "Legendary",
+        "role": "Defense",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Helior.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Helior.json?raw=true"
+    },
     "Hellfang": {
         "faction": "Demonspawn",
         "rarity": "Rare",
@@ -3063,6 +3079,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Raider.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Raider.json?raw=true"
     },
+    "Ramantu Drakesblood": {
+        "faction": "Lizardmen",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ramantu_Drakesblood.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ramantu_Drakesblood.json?raw=true"
+    },
     "Ranger": {
         "faction": "Dark Elves",
         "rarity": "Common",
@@ -3286,6 +3310,14 @@
         "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Royal_Huntsman.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Royal_Huntsman.json?raw=true"
+    },
+    "Ruel the Huntmaster": {
+        "faction": "Dark Elves",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ruel_the_Huntmaster.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ruel_the_Huntmaster.json?raw=true"
     },
     "Ruffstone": {
         "faction": "Ogryn Tribes",
