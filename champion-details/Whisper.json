@@ -39,7 +39,7 @@
                 "ATK"
             ],
             "abilityname": "Charged Assault",
-            "description": " Attacks 1 enemy. Places a 50% [Increase ATK] buff on this Champion for 1 turn before attacking if the target has higher MAX HP than this Champion. Will ignore DEF if the target is under a [Weaken] debuff.",
+            "description": " Attacks 1 enemy. Places a 50% [Increase ATK] and a 30% [Increase C.RATE] buff on this Champion for 1 turn before attacking if the target has higher MAX HP than this Champion. Will ignore DEF if the target is under a [Weaken] debuff.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +10%",
@@ -48,8 +48,8 @@
             ]
         },
         {
-            "cd": 6,
-            "mincd": 5,
+            "cd": 5,
+            "mincd": 4,
             "dmgscaling": [
                 "ATK"
             ],

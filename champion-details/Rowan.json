@@ -55,7 +55,7 @@
                 "ATK"
             ],
             "abilityname": "Blade Surge",
-            "description": " Attacks 1 enemy 4 times. Each hit has a 50% chance of placing a 5% [Poison] debuff for 2 turns.",
+            "description": " Attacks 1 enemy 4 times. Each hit has a 75% chance of placing a 5% [Poison] debuff for 2 turns.",
             "books": [
                 "Level: 2 Damage +10%",
                 "Level: 3 Buff/Debuff Chance +10%",

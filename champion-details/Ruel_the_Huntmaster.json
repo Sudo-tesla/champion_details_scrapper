@@ -1,0 +1,82 @@
+{
+    "name": "Ruel the Huntmaster",
+    "class": {
+        "faction": "Dark Elves",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "13,545",
+        "atk": "1,696",
+        "def": "980",
+        "spd": "97",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Vile Arrows",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Transfers a random debuff from this Champion to the target if the target is under a [Hex] debuff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Unleash the Hunt",
+            "description": " Attacks all enemies. Places an extra hit on enemies under [Hex] debuffs. Will ignore 25% of each target’s DEF if there are 4 or more enemies are under [Hex] debuffs.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Damage +10%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 4,
+            "dmgscaling": [],
+            "abilityname": "Stalk Prey",
+            "description": " Places a 50% [Increase ACC] buff on allies for 2 turns, then places a [Hex] debuff on all enemies for 2 turns. Also places a [Perfect Veil] buff on this Champion for 2 turns and fills this Champion Turn Meter by 50%.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Marked Quarry",
+            "description": " Decreases the speed of enemies under [Hex] debuffs by 5% and decreases the RES of those enemies by 10%. Also increases the damage enemies under [Hex] debuffs receive by 10% and decreases the value of heals they receive by 30%. These effects do not stack if there are multiple Ruel the Huntmaster on the same team.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally C.RATE in all battles by 20%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ruel_the_Huntmaster.png"
+}

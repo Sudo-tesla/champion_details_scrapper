@@ -7,9 +7,9 @@
         "affinity": "Void"
     },
     "stats": {
-        "hp": "18,330",
+        "hp": "16,185",
         "atk": "1,398",
-        "def": "683",
+        "def": "826",
         "spd": "94",
         "crate": "15%",
         "cdmg": "60%",
@@ -26,10 +26,10 @@
             "abilityname": "Ensorcelled Axe",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
             "books": [
-                "Level 2: Damage +5%",
-                "Level 3: Damage +5%",
-                "Level 4: Buff/Debuff Chance +5%",
-                "Level 5: Buff/Debuff Chance +5%"
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +10%"
             ]
         },
         {
@@ -39,7 +39,7 @@
                 "ATK"
             ],
             "abilityname": "Fey Protection",
-            "description": " Attacks 1 enemy 3 times. Places a [Shield] buff on this Champion equal to 30% of the damage inflicted for 3 turns.",
+            "description": " Attacks 1 enemy 3 times. Each hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns if the target is under a [Heal Reduction] debuff. Places a [Shield] buff on this Champion for 3 turns equal to 30% of the damage inflicted.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",

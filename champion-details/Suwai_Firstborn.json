@@ -39,18 +39,18 @@
                 "ATK"
             ],
             "abilityname": "Utter Rampage",
-            "description": " Attacks 1 enemy. Attacks all enemies with a second hit if this attack is critical. This hit deals 80% of the damage inflicted from the first hit. This attack will always be a normal hit.",
+            "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
             "books": [
-                "Level 2: Damage +5%",
-                "Level 3: Damage +5%",
-                "Level 4: Damage +5%",
-                "Level 5: Damage +5%",
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
                 "Level 6: Cooldown -1"
             ]
         },
         {
-            "cd": 5,
-            "mincd": 4,
+            "cd": 4,
+            "mincd": 3,
             "dmgscaling": [
                 "ATK"
             ],
