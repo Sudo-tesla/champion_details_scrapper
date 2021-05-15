@@ -147,6 +147,10 @@
         "affinity": "Force",
         "rarity": "Legendary"
     },
+    "Baerdal Fellhammer": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
     "Balthus Drauglord": {
         "affinity": "Spirit",
         "rarity": "Epic"
@@ -266,6 +270,10 @@
     "Brakus the Shifter": {
         "affinity": "Force",
         "rarity": "Legendary"
+    },
+    "Broadmaw": {
+        "affinity": "Void",
+        "rarity": "Epic"
     },
     "Brute": {
         "affinity": "Magic",
@@ -602,6 +610,10 @@
     "Executioner": {
         "affinity": "Magic",
         "rarity": "Rare"
+    },
+    "Exemplar": {
+        "affinity": "Void",
+        "rarity": "Epic"
     },
     "Faceless": {
         "affinity": "Void",
@@ -1627,6 +1639,10 @@
         "affinity": "Spirit",
         "rarity": "Rare"
     },
+    "Rowan": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
     "Roxam": {
         "affinity": "Magic",
         "rarity": "Legendary"
@@ -1883,6 +1899,10 @@
         "affinity": "Force",
         "rarity": "Epic"
     },
+    "Soulless": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
     "Spider": {
         "affinity": "Force",
         "rarity": "Epic"
@@ -1942,6 +1962,10 @@
     "Suntribe": {
         "affinity": "Magic",
         "rarity": "Uncommon"
+    },
+    "Suwai Firstborn": {
+        "affinity": "Void",
+        "rarity": "Epic"
     },
     "Suzerain Katonn": {
         "affinity": "Spirit",
@@ -2042,6 +2066,10 @@
     "Totem": {
         "affinity": "Spirit",
         "rarity": "Rare"
+    },
+    "Towering Titan": {
+        "affinity": "Void",
+        "rarity": "Epic"
     },
     "Tracker": {
         "affinity": "Force",
@@ -2155,6 +2183,10 @@
         "affinity": "Spirit",
         "rarity": "Uncommon"
     },
+    "Visix the Unbowed": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
     "Vizier Ovelis": {
         "affinity": "Force",
         "rarity": "Legendary"
@@ -2219,6 +2251,10 @@
         "affinity": "Magic",
         "rarity": "Legendary"
     },
+    "Whisper": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
     "Windtalker": {
         "affinity": "Magic",
         "rarity": "Uncommon"
@@ -2238,6 +2274,10 @@
     "Wretch": {
         "affinity": "Force",
         "rarity": "Rare"
+    },
+    "Wurlim Frostking": {
+        "affinity": "Void",
+        "rarity": "Legendary"
     },
     "Wyvernbane": {
         "affinity": "Spirit",
