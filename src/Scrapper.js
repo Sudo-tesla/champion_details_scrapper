@@ -10,7 +10,8 @@ const textUtil = require('./Util/TextUtil');
 const fileUtil = require('./Util/FileUtil');
 const extensions = require('./Constants/Extensions');
 const directories = require('./Constants/Directories');
-const sourceLink = "https://ayumilove.net/raid-shadow-legends-list-of-champions-by-ranking/";
+//const sourceLink = "https://ayumilove.net/raid-shadow-legends-list-of-champions-by-ranking/";
+const sourceLink = "https://ayumilove.net/category/raid-shadow-legends/";
 
 
 
@@ -87,7 +88,7 @@ const ayumiloveChampionList = new  Promise(async (resolve,reject) => {
         const { data } = await axios.get(sourceLink);
         const dom = new JSDOM(data);
         const { document } = dom.window;
-        const u1 = document.querySelectorAll("ul");
+        const u1 = document.querySelectorAll("ol");
 
         let tierIndex =0;
 
@@ -124,6 +125,7 @@ const olChampionList = new  Promise(async (resolve,reject) => {
                 //Extracts the champions name from the listing. Champions name is always the first element before the '|'
                 championList[championList.length] = new Champion(champ.textContent.split('|')[0].trim(),'https:'+champ.querySelector("a")?.href);
             }
+        console.log(championList.length);
         resolve(championList);
 
     } catch (error) {
@@ -266,12 +268,12 @@ function storeChampion(championObject) {
 
 
 async function extractChampionDetails(championObject) {
-    console.log(championObject.name);
+
     const { data } = await axios.get(championObject.url);
     const dom = new JSDOM(data);
     const { document } = dom.window;
     const u1 = document.querySelector("tbody");
-    console.log(championObject.name);
+
     let columns = u1.querySelectorAll('td');
     let imageUrl;
     try {
@@ -380,6 +382,7 @@ function extractSkill(paragraph) {
     if(skillData.length>2) {
         for(let i = 2;i<skillData.length;i++) {
             if(skillData[i].includes('Multiplier')){
+                console.log(getMultipliers(skillData[i]));;
                 continue
             }
             books[bookIndex] = skillData[i].trim();
@@ -457,7 +460,11 @@ function getName(ability) {
     }
 
 }
+function getMultipliers(multiplierString) {
+    let res = multiplierString.split(':')[1].split('</')[0];
 
+    return res;
+}
 async function main() {
 
     olChampionList.then((list) =>{
@@ -496,7 +503,7 @@ async function main() {
 
             for(champ of list) {
 
-                console.log(champ);
+               /* console.log(champ);*/
                 try{
 
                    let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
@@ -541,20 +548,21 @@ main().then().catch((error) => {
     console.log(error.message);
 });
 
-let once = {
-    name: 'Ramantu Drakesblood',
-     url: 'https://ayumilove.net/raid-shadow-legends-ramantu-drakesblood-skill-mastery-equip-guide/'
+
+let seer =  {
+    name: 'Seer',
+    url: 'https://ayumilove.net/raid-shadow-legends-seer-skill-mastery-equip-guide//'
 }
-let twice =  {
-    name: 'Ruel the Huntmaster',
-    url: 'https://ayumilove.net/raid-shadow-legends-ruel-the-huntmaster-skill-mastery-equip-guide/'
-}
-/*extractChampionDetails(twice).then((res) =>{
-    storeChampion(res);
-    storeImage(res);
+
+
+extractChampionDetails(seer).then((res) =>{
+    //storeChampion(res);
+    //storeImage(res);
 
 }).catch((error) => {
     console.log(error.message);
 });
+/*
 storeBaseChampionInfoList()
-storeSimulatorChampionInfoList()*/
+storeSimulatorChampionInfoList()
+*/

@@ -287,6 +287,10 @@
         "affinity": "Void",
         "rarity": "Rare"
     },
+    "Burangiri": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
     "Bushi": {
         "affinity": "Spirit",
         "rarity": "Epic"
@@ -333,6 +337,10 @@
     },
     "Chancellor Yasmin": {
         "affinity": "Force",
+        "rarity": "Epic"
+    },
+    "Chani": {
+        "affinity": "Magic",
         "rarity": "Epic"
     },
     "Channeler": {
@@ -731,9 +739,17 @@
         "affinity": "Void",
         "rarity": "Rare"
     },
+    "Genbo the Dishonored": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
     "Genzin": {
         "affinity": "Spirit",
         "rarity": "Legendary"
+    },
+    "Geomancer": {
+        "affinity": "Force",
+        "rarity": "Epic"
     },
     "Gerhard the Stone": {
         "affinity": "Magic",
@@ -785,6 +801,10 @@
     },
     "Gorgorab": {
         "affinity": "Magic",
+        "rarity": "Epic"
+    },
+    "Gorlos Hellmaw": {
+        "affinity": "Spirit",
         "rarity": "Epic"
     },
     "Grandmaster": {
@@ -950,6 +970,10 @@
     "Hospitaller": {
         "affinity": "Magic",
         "rarity": "Rare"
+    },
+    "Hotatsu": {
+        "affinity": "Magic",
+        "rarity": "Epic"
     },
     "Hound Spawn": {
         "affinity": "Force",
@@ -1251,6 +1275,10 @@
         "affinity": "Void",
         "rarity": "Epic"
     },
+    "Marauder": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
     "Marked": {
         "affinity": "Magic",
         "rarity": "Rare"
@@ -1539,6 +1567,7 @@
         "affinity": "Spirit",
         "rarity": "Rare"
     },
+    "Raid Shadow Legends Warcrusher Unkillable Clan Boss Guide": {},
     "Ramantu Drakesblood": {
         "affinity": "Void",
         "rarity": "Legendary"
@@ -2142,6 +2171,10 @@
     "Uugo": {
         "affinity": "Magic",
         "rarity": "Epic"
+    },
+    "Vagabond": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
     },
     "Valerie": {
         "affinity": "Magic",

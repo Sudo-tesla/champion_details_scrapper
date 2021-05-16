@@ -1,0 +1,73 @@
+{
+    "name": "Vagabond",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Rare",
+        "role": "Support",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "12,555",
+        "atk": "1,200",
+        "def": "991",
+        "spd": "94",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Dreamer’s Curse",
+            "description": " Attacks 1 enemy. Has a 20% chance of placing a [Sleep] debuff for 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Buff/Debuff Chance +10%",
+                "Level 7: Damage +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Ominous Visit",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a [Block Buffs] debuff for 1 turn. Also fills this Champion’s Turn Meter by 15% and fills the Turn Meter of the ally with the highest Turn Meter by 15%.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Join the Troupe",
+            "description": " Fills the Turn meters of all allies by 15% and places a 25% [Increase ATK] buff on all allies for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increase Ally ACC in Arena Battles by 30.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Vagabond.png"
+}
