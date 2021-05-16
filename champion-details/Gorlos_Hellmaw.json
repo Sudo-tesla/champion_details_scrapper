@@ -1,0 +1,77 @@
+{
+    "name": "Gorlos Hellmaw",
+    "class": {
+        "faction": "Demonspawn",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "12,720",
+        "atk": "1,354",
+        "def": "1,101",
+        "spd": "99",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "15"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Hungary Shafts",
+            "description": " Attacks 1 enemy 2 times. Each hit fills this Champion’s turn Meter by 10% if the target is under a [Decrease DEF], [HP Burn], or [Decrease ACC] debuff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Raging Hunger",
+            "description": " Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Buff/Debuff chance +15%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Gnashing Fangs",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff and a 50% [Decrease ACC] debuff for 3 turns. Fills this Champion’s Turn Mmeter by 20% if this attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +15%",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ATK in Doom Tower battles by 30%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Gorlos_Hellmaw.png"
+}

@@ -575,6 +575,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Bulwark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Bulwark.json?raw=true"
     },
+    "Burangiri": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Burangiri.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Burangiri.json?raw=true"
+    },
     "Bushi": {
         "faction": "The Sacred Order",
         "rarity": "Epic",
@@ -670,6 +678,14 @@
         "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Chancellor_Yasmin.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Chancellor_Yasmin.json?raw=true"
+    },
+    "Chani": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Chani.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Chani.json?raw=true"
     },
     "Channeler": {
         "faction": "Skinwalkers",
@@ -1463,6 +1479,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Geargrinder.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Geargrinder.json?raw=true"
     },
+    "Genbo the Dishonored": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Genbo_the_Dishonored.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Genbo_the_Dishonored.json?raw=true"
+    },
     "Genzin": {
         "faction": "Shadowkin",
         "rarity": "Legendary",
@@ -1470,6 +1494,14 @@
         "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Genzin.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Genzin.json?raw=true"
+    },
+    "Geomancer": {
+        "faction": "Dwarves",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Geomancer.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Geomancer.json?raw=true"
     },
     "Gerhard the Stone": {
         "faction": "Banner Lords",
@@ -1574,6 +1606,14 @@
         "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Gorgorab.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Gorgorab.json?raw=true"
+    },
+    "Gorlos Hellmaw": {
+        "faction": "Demonspawn",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Gorlos_Hellmaw.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Gorlos_Hellmaw.json?raw=true"
     },
     "Grandmaster": {
         "faction": "Banner Lords",
@@ -1902,6 +1942,14 @@
         "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Hospitaller.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Hospitaller.json?raw=true"
+    },
+    "Hotatsu": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Hotatsu.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Hotatsu.json?raw=true"
     },
     "Hound Spawn": {
         "faction": "Demonspawn",
@@ -2503,6 +2551,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Maneater.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Maneater.json?raw=true"
     },
+    "Marauder": {
+        "faction": "Shadowkin",
+        "rarity": "Rare",
+        "role": "HP",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Marauder.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Marauder.json?raw=true"
+    },
     "Marked": {
         "faction": "Barbarians",
         "rarity": "Rare",
@@ -3078,6 +3134,11 @@
         "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Raider.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Raider.json?raw=true"
+    },
+    "Raid Shadow Legends Warcrusher Unkillable Clan Boss Guide": {
+        "faction": "",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Warcaster.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Raid_Shadow_Legends_Warcrusher_Unkillable_Clan_Boss_Guide.json?raw=true"
     },
     "Ramantu Drakesblood": {
         "faction": "Lizardmen",
@@ -4286,6 +4347,14 @@
         "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Uugo.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Uugo.json?raw=true"
+    },
+    "Vagabond": {
+        "faction": "Shadowkin",
+        "rarity": "Rare",
+        "role": "Support",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Vagabond.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Vagabond.json?raw=true"
     },
     "Valerie": {
         "faction": "Banner Lords",
