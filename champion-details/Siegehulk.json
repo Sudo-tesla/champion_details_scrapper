@@ -1,0 +1,76 @@
+{
+    "name": "Siegehulk",
+    "class": {
+        "faction": "Ogryn Tribes",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "15030",
+        "atk": "1542",
+        "def": "760",
+        "spd": "95",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Battering Ram",
+            "description": " Attacks 1 enemy. Decreases the target’s Turn Meter by 15% if the target is under a [Decrease DEF] debuff or [Decrease SPD] debuff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Thrashing Fit",
+            "description": " Places a 50% [Increase ATK] buff on this Champion for 2 turns, then attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Siege Breaker",
+            "description": " Places a 30% [Increase C.RATE] buff and a 30% [Increase C.DMG] buff on this Champion for 2 turns, then attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease SPD] debuff on the target for 2 turns.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Buff/Debuff Chance +15%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally C.RATE in Doom Tower Battles by 24%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://www.inteleria.com/wp-content/uploads/2019/11/siegehulk_profile.png"
+}

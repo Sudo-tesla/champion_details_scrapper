@@ -1,0 +1,88 @@
+{
+    "name": "Hurndig",
+    "class": {
+        "faction": "Dwarves",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "spd": "",
+        "crate": "%",
+        "cdmg": "%",
+        "resist": "",
+        "acc": ""
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Lethal Lust",
+            "description": " Attacks 1 enemy. Grants an Extra Turn and decreases the cooldown of the Statis Strike skill by 2 turns if this attack kills an enemy.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Arcane Tempest",
+            "description": " Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff an a 50% [Decrease ACC] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Statis Strike",
+            "description": " Attacks 1 enemy. Fully depletes the target’s Turn Meter. Will also attack all enemies if the first attack is critical. This AoE attack has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. Will also place a [HP Burn] debuff for 2 turns after the attack on the enemies whose Turn Meters are below 30%.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Staid",
+            "description": " Fills this Champion’s Turn Meter by 10% every time they are hit. Occurs once per hit. Also fills this Champion’s Turn Meter by 20% whenever an ally dies.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ATK in Arena Battles by 35%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Hurndig.png"
+}

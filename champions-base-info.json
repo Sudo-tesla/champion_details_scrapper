@@ -1983,6 +1983,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Hurler.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Hurler.json?raw=true"
     },
+    "Hurndig": {
+        "faction": "Dwarves",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Hurndig.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Hurndig.json?raw=true"
+    },
     "Husk": {
         "faction": "Undead Hordes",
         "rarity": "Epic",
@@ -2310,6 +2318,14 @@
         "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Lady_Etessa.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Lady_Etessa.json?raw=true"
+    },
+    "Lady Kimi": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Lady_Kimi.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Lady_Kimi.json?raw=true"
     },
     "Lamellar": {
         "faction": "The Sacred Order",
@@ -2791,6 +2807,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Nethril.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Nethril.json?raw=true"
     },
+    "Nobel": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Nobel.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Nobel.json?raw=true"
+    },
     "Nogdar the Headhunter": {
         "faction": "Orcs",
         "rarity": "Legendary",
@@ -3134,11 +3158,6 @@
         "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Raider.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Raider.json?raw=true"
-    },
-    "Raid Shadow Legends Warcrusher Unkillable Clan Boss Guide": {
-        "faction": "",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Warcaster.png",
-        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Raid_Shadow_Legends_Warcrusher_Unkillable_Clan_Boss_Guide.json?raw=true"
     },
     "Ramantu Drakesblood": {
         "faction": "Lizardmen",
@@ -3643,6 +3662,14 @@
         "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Siegebreaker.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Siegebreaker.json?raw=true"
+    },
+    "Siegehulk": {
+        "faction": "Ogryn Tribes",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Siegehulk.json?raw=true"
     },
     "Sikara": {
         "faction": "Barbarians",
