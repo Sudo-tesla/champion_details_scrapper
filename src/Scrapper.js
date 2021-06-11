@@ -555,14 +555,14 @@ let seer =  {
 }
 
 
-extractChampionDetails(seer).then((res) =>{
+/*extractChampionDetails(seer).then((res) =>{
     storeChampion(res);
     storeImage(res);
 
 }).catch((error) => {
     console.log(error.message);
-});
+});*/
 
 storeBaseChampionInfoList()
 storeSimulatorChampionInfoList()
-
+storeBaseChampionInfoList()
