@@ -991,6 +991,10 @@
         "affinity": "Force",
         "rarity": "Rare"
     },
+    "Hurndig": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
     "Husk": {
         "affinity": "Force",
         "rarity": "Epic"
@@ -1154,6 +1158,10 @@
     "Lady Etessa": {
         "affinity": "Force",
         "rarity": "Epic"
+    },
+    "Lady Kimi": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
     },
     "Lamellar": {
         "affinity": "Force",
@@ -1395,6 +1403,10 @@
         "affinity": "Spirit",
         "rarity": "Legendary"
     },
+    "Nobel": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
     "Nogdar the Headhunter": {
         "affinity": "Spirit",
         "rarity": "Legendary"
@@ -1567,7 +1579,6 @@
         "affinity": "Spirit",
         "rarity": "Rare"
     },
-    "Raid Shadow Legends Warcrusher Unkillable Clan Boss Guide": {},
     "Ramantu Drakesblood": {
         "affinity": "Void",
         "rarity": "Legendary"
@@ -1819,6 +1830,10 @@
     "Siegebreaker": {
         "affinity": "Spirit",
         "rarity": "Rare"
+    },
+    "Siegehulk": {
+        "affinity": "Magic",
+        "rarity": "Epic"
     },
     "Sikara": {
         "affinity": "Magic",

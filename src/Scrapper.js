@@ -10,8 +10,8 @@ const textUtil = require('./Util/TextUtil');
 const fileUtil = require('./Util/FileUtil');
 const extensions = require('./Constants/Extensions');
 const directories = require('./Constants/Directories');
-//const sourceLink = "https://ayumilove.net/raid-shadow-legends-list-of-champions-by-ranking/";
-const sourceLink = "https://ayumilove.net/category/raid-shadow-legends/";
+const sourceLink = "https://ayumilove.net/raid-shadow-legends-list-of-champions-by-ranking/";
+//const sourceLink = "https://ayumilove.net/category/raid-shadow-legends/";
 
 
 
@@ -550,19 +550,19 @@ main().then().catch((error) => {
 
 
 let seer =  {
-    name: 'Seer',
-    url: 'https://ayumilove.net/raid-shadow-legends-seer-skill-mastery-equip-guide//'
+    name: 'Nobel',
+    url: 'https://ayumilove.net/raid-shadow-legends-nobel-skill-mastery-equip-guide/'
 }
 
 
 extractChampionDetails(seer).then((res) =>{
-    //storeChampion(res);
-    //storeImage(res);
+    storeChampion(res);
+    storeImage(res);
 
 }).catch((error) => {
     console.log(error.message);
 });
-/*
+
 storeBaseChampionInfoList()
 storeSimulatorChampionInfoList()
-*/
+
