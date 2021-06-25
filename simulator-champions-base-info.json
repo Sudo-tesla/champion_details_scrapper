@@ -111,6 +111,10 @@
         "affinity": "Magic",
         "rarity": "Epic"
     },
+    "Assassin": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
     "Astralith": {
         "affinity": "Spirit",
         "rarity": "Legendary"
@@ -807,6 +811,10 @@
         "affinity": "Spirit",
         "rarity": "Epic"
     },
+    "Gory": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
     "Grandmaster": {
         "affinity": "Magic",
         "rarity": "Rare"
@@ -919,6 +927,10 @@
         "affinity": "Force",
         "rarity": "Legendary"
     },
+    "Hellborn Sprite": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
     "Hellfang": {
         "affinity": "Spirit",
         "rarity": "Rare"
@@ -950,6 +962,10 @@
     "Hill Nomad": {
         "affinity": "Magic",
         "rarity": "Rare"
+    },
+    "Hoforees the Tusked": {
+        "affinity": "Force",
+        "rarity": "Epic"
     },
     "Hollow": {
         "affinity": "Void",
@@ -1375,6 +1391,10 @@
         "affinity": "Magic",
         "rarity": "Rare"
     },
+    "Mycolus": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
     "Myrmidon": {
         "affinity": "Magic",
         "rarity": "Rare"
@@ -1430,6 +1450,10 @@
     "Occult Brawler": {
         "affinity": "Spirit",
         "rarity": "Epic"
+    },
+    "Odachi": {
+        "affinity": "Force",
+        "rarity": "Rare"
     },
     "Ogryn Jailer": {
         "affinity": "Force",
@@ -1858,6 +1882,10 @@
     "Skartorsis": {
         "affinity": "Force",
         "rarity": "Legendary"
+    },
+    "Skathix": {
+        "affinity": "Void",
+        "rarity": "Epic"
     },
     "Skellag": {
         "affinity": "Force",

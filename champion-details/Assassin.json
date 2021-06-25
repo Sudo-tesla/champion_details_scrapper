@@ -1,0 +1,79 @@
+{
+    "name": "Assassin",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "13,380",
+        "atk": "1,365",
+        "def": "771",
+        "spd": "89",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "King’s End",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a 5% [Poison] debuff for 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +15%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Lingering Death",
+            "description": " Attacks 1 enemy. Has a 50% chance of increasing the duration of all debuffs on the enemy by 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Draught of Sleep",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a 15% [Weaken] debuff for 2 turns",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increase Ally SPD in all Battles by 10%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Assassin.png"
+}

@@ -10,8 +10,8 @@ const textUtil = require('./Util/TextUtil');
 const fileUtil = require('./Util/FileUtil');
 const extensions = require('./Constants/Extensions');
 const directories = require('./Constants/Directories');
-const sourceLink = "https://ayumilove.net/raid-shadow-legends-list-of-champions-by-ranking/";
-//const sourceLink = "https://ayumilove.net/category/raid-shadow-legends/";
+//const sourceLink = "https://ayumilove.net/raid-shadow-legends-list-of-champions-by-ranking/";
+const sourceLink = "https://ayumilove.net/category/raid-shadow-legends/";
 
 
 
@@ -123,7 +123,9 @@ const olChampionList = new  Promise(async (resolve,reject) => {
             const champs  = u1.querySelectorAll("li");
             for(let champ of champs) {
                 //Extracts the champions name from the listing. Champions name is always the first element before the '|'
+                if(champ.textContent.contains('|')) {
                 championList[championList.length] = new Champion(champ.textContent.split('|')[0].trim(),'https:'+champ.querySelector("a")?.href);
+                }
             }
         console.log(championList.length);
         resolve(championList);
@@ -544,9 +546,11 @@ async function main() {
     //await storeBaseChampionInfoList()
 }
 
+/*
 main().then().catch((error) => {
     console.log(error.message);
 });
+*/
 
 
 let seer =  {
@@ -555,13 +559,13 @@ let seer =  {
 }
 
 
-extractChampionDetails(seer).then((res) =>{
+/*extractChampionDetails(seer).then((res) =>{
     storeChampion(res);
     storeImage(res);
 
 }).catch((error) => {
     console.log(error.message);
-});
+});*/
 
 storeBaseChampionInfoList()
 storeSimulatorChampionInfoList()
