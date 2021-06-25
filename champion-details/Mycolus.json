@@ -1,0 +1,69 @@
+{
+    "name": "Mycolus",
+    "class": {
+        "faction": "Ogryn Tribes",
+        "rarity": "Rare",
+        "role": "Support",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "15,855",
+        "atk": "892",
+        "def": "1,079",
+        "spd": "93",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "40",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Vigor Spores",
+            "description": " Attacks 1 enemy. Heals this champion by 30% of the damage inflicted. Also heals the ally with the lowest HP by 10% of their MAX HP. This heal will not affect this Champion.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%",
+                "Level 6: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "abilityname": "Fungal Privilege",
+            "description": " Places a [Shield] buff on this Champion for 2 turns equal to 20% of their MAX HP, then places a 25% [Ally Protection] buff on all allies except this Champion for 2 turns. Will also heal all allies except this Champion by 10% of their MAX HP.",
+            "books": [
+                "Level 2: Heal +5%",
+                "Level 3: Heal +5%",
+                "Level 4: Heal +5%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Absorption Roots",
+            "description": " Decreases the damage all allies receive by 5%. This champion will receive that damage instead.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally DEF in Faction Wars by 21%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Mycolus.png"
+}

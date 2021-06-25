@@ -1,0 +1,79 @@
+{
+    "name": "Gory",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "14,535",
+        "atk": "1,476",
+        "def": "859",
+        "spd": "90",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Cold Comfort",
+            "description": " Attacks 1 enemy 2 times. Places an extra hit if the target is under a [Freeze] debuff. Heals this Champion by 10% of the damage inflicted.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Frost Jutsu",
+            "description": " Attacks 3 times at random. Each hit has a 75% chance of placing a [Freeze] debuff for 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "abilityname": "Frost Breaker",
+            "description": " Attacks 1 enemy. Will ignore [Increase DEF] and [Shield] buffs. Will also ignore 50% of the target’s DEF if they are under a [Freeze] debuff. Places a [Counterattack] buff and a 50% [Increase ATK] buff on this Champion for 2 turns if this attack kills an enemy.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Cooldown -1",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Dignity",
+            "description": " Counterattacks with the Cold Comfort skill whenever an enemy places a [Stun], [Sleep], [Freeze], [Provoke], [Fear] or [True Fear] debuff on an ally.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Gory.png"
+}

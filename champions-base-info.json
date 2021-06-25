@@ -223,6 +223,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Armina.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Armina.json?raw=true"
     },
+    "Assassin": {
+        "faction": "Shadowkin",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Assassin.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Assassin.json?raw=true"
+    },
     "Astralith": {
         "faction": "Dark Elves",
         "rarity": "Legendary",
@@ -1615,6 +1623,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Gorlos_Hellmaw.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Gorlos_Hellmaw.json?raw=true"
     },
+    "Gory": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Gory.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Gory.json?raw=true"
+    },
     "Grandmaster": {
         "faction": "Banner Lords",
         "rarity": "Rare",
@@ -1839,6 +1855,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Helior.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Helior.json?raw=true"
     },
+    "Hellborn Sprite": {
+        "faction": "Demonspawn",
+        "rarity": "Rare",
+        "role": "Support",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Hellborn_Sprite.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Hellborn_Sprite.json?raw=true"
+    },
     "Hellfang": {
         "faction": "Demonspawn",
         "rarity": "Rare",
@@ -1902,6 +1926,14 @@
         "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Hill_Nomad.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Hill_Nomad.json?raw=true"
+    },
+    "Hoforees the Tusked": {
+        "faction": "Skinwalkers",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Hoforees_the_Tusked.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Hoforees_the_Tusked.json?raw=true"
     },
     "Hollow": {
         "faction": "Undead Hordes",
@@ -2751,6 +2783,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Muckstalker.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Muckstalker.json?raw=true"
     },
+    "Mycolus": {
+        "faction": "Ogryn Tribes",
+        "rarity": "Rare",
+        "role": "Support",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Mycolus.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Mycolus.json?raw=true"
+    },
     "Myrmidon": {
         "faction": "Banner Lords",
         "rarity": "Rare",
@@ -2862,6 +2902,14 @@
         "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Occult_Brawler.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Occult_Brawler.json?raw=true"
+    },
+    "Odachi": {
+        "faction": "Shadowkin",
+        "rarity": "Rare",
+        "role": "Defense",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Odachi.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Odachi.json?raw=true"
     },
     "Ogryn Jailer": {
         "faction": "Ogryn Tribes",
@@ -3718,6 +3766,14 @@
         "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Skartorsis.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Skartorsis.json?raw=true"
+    },
+    "Skathix": {
+        "faction": "Lizardmen",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Skathix.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Skathix.json?raw=true"
     },
     "Skellag": {
         "faction": "Undead Hordes",
