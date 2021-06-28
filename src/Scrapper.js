@@ -13,8 +13,6 @@ const directories = require('./Constants/Directories');
 //const sourceLink = "https://ayumilove.net/raid-shadow-legends-list-of-champions-by-ranking/";
 const sourceLink = "https://ayumilove.net/category/raid-shadow-legends/";
 
-
-
 class Champion {
     constructor(name, url) {
         this.name = name;
@@ -81,37 +79,6 @@ class Skills {
 
 }
 
-const ayumiloveChampionList = new  Promise(async (resolve,reject) => {
-
-    try {
-        let championList = [];
-        const { data } = await axios.get(sourceLink);
-        const dom = new JSDOM(data);
-        const { document } = dom.window;
-        const u1 = document.querySelectorAll("ol");
-
-        let tierIndex =0;
-
-        for(let tier of u1) {
-            const champs  = tier.querySelectorAll("li");
-            for(let champ of champs) {
-                //Extracts the champions name from the listing. Champions name is always the first element before the '|'
-                championList[championList.length] = new Champion(champ.textContent.split('|')[0].trim(),champ.querySelector("a")?.href);
-            }
-            if(++tierIndex>24) {
-                break;
-            }
-        }
-
-        resolve(championList);
-
-    } catch (error) {
-        reject(error)
-    }
-});
-
-
-
 const olChampionList = new  Promise(async (resolve,reject) => {
 
     try {
@@ -123,8 +90,9 @@ const olChampionList = new  Promise(async (resolve,reject) => {
             const champs  = u1.querySelectorAll("li");
             for(let champ of champs) {
                 //Extracts the champions name from the listing. Champions name is always the first element before the '|'
-                if(champ.textContent.contains('|')) {
-                championList[championList.length] = new Champion(champ.textContent.split('|')[0].trim(),'https:'+champ.querySelector("a")?.href);
+                if(champ.textContent.includes('| Raid Shadow Legends Skill Mastery Equip Guide')) {
+                    //console.log(champ.textContent);
+                    championList[championList.length] = new Champion(champ.textContent.split('|')[0].trim(),champ.querySelector("a")?.href);
                 }
             }
         console.log(championList.length);
@@ -168,6 +136,7 @@ async function storeBaseChampionInfoList() {
         let champion =championBaseInfoFromFile({dir: directories.details, name: fileName});
         championBaseInfoMap[champion.name] = champion.details;
     }
+
 
     fs.writeFile('../champions-base-info.json',JSON.stringify(championBaseInfoMap,null, 4), function(err) {
         if(err) {
@@ -370,13 +339,17 @@ function extractSkill(paragraph) {
     let minCD = coolDown;
     let dmgScalng = getDamageScaling(ability);
     let skillName = getName(ability);
-    let skillData = paragraph.outerHTML.split('<br>');
+    //let skillData = paragraph.outerHTML.split('<br>');
+    //sanitize input from spans
+    let skillData =textUtil.removeReference(paragraph.outerHTML,textUtil.spanDetails).split('<br>');
+
+    console.log(skillData);
 
 
     let skillDescription = textUtil.removeReference(skillData[1],textUtil.tagDetails);
     skillDescription = textUtil.removeReference(skillDescription,textUtil.spanDetails);
 
-    //console.log(skillDescription);
+
 
     let books = [];
     let bookIndex = 0;
@@ -386,12 +359,15 @@ function extractSkill(paragraph) {
             if(skillData[i].includes('Multiplier')){
                 console.log(getMultipliers(skillData[i]));;
                 continue
+            } else if (skillData[i].includes('Note:')) {
+                continue;
+            }else {
+                books[bookIndex] = skillData[i].trim();
+                if(books[bookIndex].includes('Cooldown')){
+                    minCD--;
+                }
+                bookIndex++;
             }
-            books[bookIndex] = skillData[i].trim();
-            if(books[bookIndex].includes('Cooldown')){
-                minCD--;
-            }
-            bookIndex++;
         }
         //only lines is a multiplier exception
         if(bookIndex>0 ) {
@@ -467,106 +443,69 @@ function getMultipliers(multiplierString) {
 
     return res;
 }
+function upsertChampionDetails(champ ) {
+    try{
+        let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
+        if(hasStoredResources === false) {
+            // console.log(champ);
+            try {
+                extractChampionDetails(champ).then((res) =>{
+                    storeChampion(res);
+                    storeImage(res);
+
+                }).catch((error) => {
+                    console.log(error.message);
+                });
+
+            }catch (err) {
+                console.log(err);
+            }
+        }
+
+    }catch (err) {
+        console.log(err);
+    }
+}
 async function main() {
 
     olChampionList.then((list) =>{
-            console.log(list.length);//storeChampion(500,list)
 
-
-            //testing the results search
-        for(let champ of list) {
-            extractChampionDetails(champ).then((r)=>{
-
-                console.log(r);
-                storeChampion(r)
-
-            }).catch((error) => {
-                console.log(error.message);
-            });
-
-        }
-
-        }
-    ).catch((error) => {
-        console.log(error.message);
-    });
-
-    ayumiloveChampionList.then((list) =>{
-            console.log(list.length);//storeChampion(500,list)
-            //let result = list.find((champion)=>champion.name.includes('Rotos'));
-
-            //testing the results search
-/*
-            extractChampionDetails(result).then(r => {
-                console.log(r.name);
-
-            });
-*/
-
-            for(champ of list) {
-
-               /* console.log(champ);*/
-                try{
-
-                   let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
-                    if(hasStoredResources === false) {
-                       // console.log(champ);
-                        try {
-                             extractChampionDetails(champ).then((res) =>{
-                                storeChampion(res);
-                                storeImage(res);
-
-                            }).catch((error) => {
-                                console.log(error.message);
-                            });
-
-                        }catch (err) {
-                            console.log(err);
-                        }
-                    }
-
-                }catch (err) {
-
-                }
-               /* console.log(fileUtil.fileExists({name: champ.name, isImage: true, isJson: true}));
-                if(!fileUtil.fileExists({name :champ.name,isImage:false,isJson :true}).jsonExists) {
-                    console.log(champ);
-                }*/
-            }
-
+        list.forEach(upsertChampionDetails);
         storeBaseChampionInfoList()
         storeSimulatorChampionInfoList()
-
-
         }
     ).catch((error) => {
         console.log(error.message);
     });
 
-    //await storeBaseChampionInfoList()
 }
 
-/*
+
 main().then().catch((error) => {
     console.log(error.message);
 });
-*/
+
 
 
 let seer =  {
-    name: 'Nobel',
-    url: 'https://ayumilove.net/raid-shadow-legends-nobel-skill-mastery-equip-guide/'
+    name: 'Rotos the Lost Groom',
+    url: 'https://ayumilove.net/raid-shadow-legends-rotos-the-lost-groom-skill-mastery-equip-guide/'
 }
 
 
-/*extractChampionDetails(seer).then((res) =>{
-    storeChampion(res);
-    storeImage(res);
+extractChampionDetails(seer).then((res) =>{
+
+    //storeChampion(res);
+    //storeImage(res);
+
+    console.log(res.skills);
 
 }).catch((error) => {
     console.log(error.message);
-});*/
+});
 
+/*
 storeBaseChampionInfoList()
 storeSimulatorChampionInfoList()
+*/
 
