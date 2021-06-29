@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.8 DEF"
+            ],
             "abilityname": "Bonebreaker",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 6 DEF"
             ],
             "abilityname": "Spreading Ice",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [Freeze] debuff for 1 turn. If the target has a [Freeze] debuff, has a 25% chance of placing it on another enemy.",
@@ -53,6 +59,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Tower of Power",
             "description": " Increases the resistance of all allies by 15 for each active buff on this Champion.",
             "books": []
@@ -61,6 +68,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Magic Ally ATK in all Battles by 20%.",
             "books": []

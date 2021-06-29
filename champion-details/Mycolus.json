@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.2 ATK"
+            ],
             "abilityname": "Vigor Spores",
             "description": " Attacks 1 enemy. Heals this champion by 30% of the damage inflicted. Also heals the ally with the lowest HP by 10% of their MAX HP. This heal will not affect this Champion.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Fungal Privilege",
             "description": " Places a [Shield] buff on this Champion for 2 turns equal to 20% of their MAX HP, then places a 25% [Ally Protection] buff on all allies except this Champion for 2 turns. Will also heal all allies except this Champion by 10% of their MAX HP.",
             "books": [
@@ -52,6 +56,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Absorption Roots",
             "description": " Decreases the damage all allies receive by 5%. This champion will receive that damage instead.",
             "books": []
@@ -60,6 +65,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in Faction Wars by 21%.",
             "books": []

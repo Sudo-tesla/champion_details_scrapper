@@ -24,6 +24,9 @@
                 "DEF",
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.7 DEF + 1.8 ATK"
+            ],
             "abilityname": "Ravage",
             "description": " Attacks all enemies. Has a 25% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 4,
             "mincd": 2,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Flameborn Vigor",
             "description": " Places a 7.5% [Continuous Heal] buff and a 15% [Reflect Damage] buff on all allies for 2 turns.",
             "books": [
@@ -48,6 +52,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Deflect",
             "description": " Places a [Block Damage] buff on an ally for 1 turn.",
             "books": [
@@ -58,6 +63,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in Faction Crypts by 19%.",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.5 ATK"
+            ],
             "abilityname": "Soulsuck Tendrils",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Leech] debuff for 2 turns. Has a 50% chance of placing a [Leech] debuff for 2 turns on 2 random enemies if this Champion has full HP.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 5.8 ATK"
+            ],
             "abilityname": "Fateful Trickster",
             "description": " Attacks 1 enemy. Has a 60% chance of stealing 2 random buffs from the target. Also has a 60% chance of decreasing the target’s Tum Meter by 50%. Steals 50% of the target’s max Turn Meter instead if this Champion has full HP.",
             "books": [
@@ -54,6 +60,9 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [
+                " Multiplier: 2.3 ATK"
+            ],
             "abilityname": "Wild Surge",
             "description": " Attacks all enemies 2 times. Each hit has a 75% chance of placing a 60% [Decrease DEF] debuff on all enemies for 2 turns. The first hit on each target also has a 75% chance of decreasing the target’s Turn Meter by 10%. The second hit on each target also has a 75% chance of placing a 25% [Weaken] debuff for 2 turns if this Champion has full HP.",
             "books": [
@@ -69,6 +78,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Enchanter",
             "description": " Whenever 4 or more buffs are placed on the enemy team in a single turn, places a [Shield] buff on this Champion for equal to 15% of this Champion’s MAX HP for 2 turns.",
             "books": []

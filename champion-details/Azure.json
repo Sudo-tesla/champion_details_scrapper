@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.1 ATK"
+            ],
             "abilityname": "Lunge",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a [Stun] debuff for 1 turn. This chance increases to 100% if the target has an [Increase SPD] buff.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aegis",
             "description": " Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns. Places a [Shield] buff on this Champion equal to 40% of this Champion’s MAX HP for 2 turns. This buff cannot be removed.",
             "books": [
@@ -50,6 +54,9 @@
             "dmgscaling": [
                 "ATK",
                 "HP"
+            ],
+            "multiplier": [
+                " Multiplier: 2 ATK + 0.2 HP"
             ],
             "abilityname": "Coup de Grace",
             "description": " Attacks 1 enemy. Places an extra hit if the target has a [Stun] debuff. The extra hit is always critical. Steals 50% of the target’s Turn Meter if they are not under a [Stun] debuff.",
@@ -66,6 +73,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in all Battles by 25%.",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Scar for Life",
             "description": " Attacks 1 enemy. Decreases their MAX HP by 10% of the damage inflicted.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 3 ATK + 1.5 ATK * (1 – TARGET HP PERCENT)"
             ],
             "abilityname": "No Quarter",
             "description": " Attacks 1 enemy 2 times. Damage increases as the target’s HP decreases.",
@@ -54,6 +60,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.3 ATK"
+            ],
             "abilityname": "Heavy Slam",
             "description": " Attacks 1 enemy. Will ignore 50% of the target’s DEF. Decreases their MAX HP by 30% of the damage inflicted.",
             "books": [
@@ -66,6 +75,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Force Ally C.RATE in all Battles by 23%.",
             "books": []

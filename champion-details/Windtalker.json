@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.4 ATK"
+            ],
             "abilityname": "Thunder",
             "description": " Attacks 1 enemy. Has a 15% chance of placing a 25% [Decrease ACC] debuff for 1 turn.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 4,
             "mincd": 2,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Spiritual Wind",
             "description": " Places a 60% [Increase DEF] buff on a target ally for 2 turns. Heals the target by 20% of their MAX HP.",
             "books": [

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.8 ATK"
+            ],
             "abilityname": "Stupefy",
             "description": " Attacks 1 enemy. Has a 60% chance of placing a [Sleep] debuff for 1 turn. Has a 50% chance of granting an Extra Turn if placing a [Sleep] debuff.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 6.3 ATK"
+            ],
             "abilityname": "Slobber Knocker",
             "description": " Attacks 1 enemy. Places a [Stun] debuff for 1 turn. Places a [Stun] debuff on a target for 2 turns if the target is under a [Sleep] debuff.",
             "books": [
@@ -51,6 +57,9 @@
             "cd": 5,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [
+                " Multiplier: 7.15 ATK"
+            ],
             "abilityname": "And Stay Down",
             "description": " Attacks 1 enemy. Enemies killed by this skill cannot revived.",
             "books": [

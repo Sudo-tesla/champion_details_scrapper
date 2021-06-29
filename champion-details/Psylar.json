@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2 ATK"
+            ],
             "abilityname": "Surge",
             "description": " Attacks all enemies.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.8 ATK"
+            ],
             "abilityname": "Toxic Cloud",
             "description": " Attacks all enemies. Has an 80% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
             "books": [
@@ -52,6 +58,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Leaden Legs",
             "description": " Places a 30% [Decrease SPD] debuff on all enemies for 2 turns. Decreases the Turn Meter of all enemies by 40%.",
             "books": [
@@ -63,6 +70,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally SPD in Faction Crypts by 22%.",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.5 ATK"
+            ],
             "abilityname": "Lightning Slash",
             "description": " Attacks all enemies.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Nature’s Touch",
             "description": " Places a 50% [Increase ATK] buff on all allies for 2 turns, then removes all debuffs on all allies. This buff cannot be removed.",
             "books": [
@@ -46,6 +50,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Mother’s Embrace",
             "description": " Places a [Revive on Death] buff on a target ally for 3 turns. The ally will instantly revive when killed.",
             "books": [
@@ -57,6 +62,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally SPD in all Battles by 19%.",
             "books": []

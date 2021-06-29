@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.8 ATK"
+            ],
             "abilityname": "Shatter Shell",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 1.4 ATK"
             ],
             "abilityname": "Crunch Frenzy",
             "description": " Attacks 4 times at random. Each hit has a 40% chance of placing a [Sleep] debuff for 1 turn.",
@@ -54,6 +60,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.5 ATK"
+            ],
             "abilityname": "Burn Away",
             "description": " Attacks all enemies. Decreases each target’s MAX HP by 50% of the damage inflicted. Grants an Extra Turn if this attack kills an enemy.",
             "books": [
@@ -67,6 +76,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Spirit Ally ATK in all Battles by 40%.",
             "books": []

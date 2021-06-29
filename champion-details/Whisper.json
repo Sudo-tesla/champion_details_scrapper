@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Softening Drive",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 25% [Weaken] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 3.8 ATK"
             ],
             "abilityname": "Charged Assault",
             "description": " Attacks 1 enemy. Places a 50% [Increase ATK] and a 30% [Increase C.RATE] buff on this Champion for 1 turn before attacking if the target has higher MAX HP than this Champion. Will ignore DEF if the target is under a [Weaken] debuff.",
@@ -53,6 +59,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.6 ATK"
+            ],
             "abilityname": "Unyielding Flurry",
             "description": " Attacks 1 enemy 2 times. Grants an Extra Turn if the target is under [Decrease DEF] and [Weaken] debuffs.",
             "books": [
@@ -68,6 +77,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Unrelenting",
             "description": " Has a 10% chance of granting an Extra Turn whenever this Champion lands a critical hit. Increases damage inflicted on Bosses by 20%.",
             "books": []
@@ -76,6 +86,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Dungeons by 29 %.",
             "books": []

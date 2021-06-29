@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.5 DEF"
+            ],
             "abilityname": "Feed on Suffering",
             "description": " Attacks 1 enemy. Heals this Champion by 15% of the damage inflicted.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Freakish Resilience",
             "description": " Heals this Champion by 30% of their MAX HP and places a 30% [Increase DEF] buff on this Champion for 2 turns.",
             "books": [
@@ -49,6 +53,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Soul Possession",
             "description": " Exchanges remaining HP levels with a target enemy, then equalizes the HP of all allies.",
             "books": [

@@ -61,10 +61,11 @@ class Stats{
 }
 
 class Skills {
-    constructor(cd,mincd,dmgscaling,abilityname,description,books) {
+    constructor(cd,mincd,dmgscaling,multiplier,abilityname,description,books) {
         this.cd = cd;
         this.mincd = mincd
         this.dmgscaling = dmgscaling;
+        this.multiplier =multiplier;
         this.abilityname = abilityname;
         this.description = description;
         this.books = books;
@@ -151,6 +152,7 @@ async function storeSimulatorChampionInfoList() {
     let files = fs.readdirSync(directories.details);
     let championBaseInfoMap = {};
     for (let fileName of files) {
+
         let champion =championBaseInfoFromFile({dir: directories.details, name: fileName});
         championBaseInfoMap[champion.name] = { affinity: champion.details.affinity, rarity: champion.details.rarity};
     }
@@ -180,7 +182,14 @@ function fixChampionDetailsURLError() {
 function championBaseInfoFromFile({dir,name}){
     try {
         const jsonString = fs.readFileSync(dir+name);
+/*        if('Seer.json'===name)  {
+
+            console.log(jsonString);
+
+        }*/
+        console.log(name);
         const champion = JSON.parse(jsonString);
+
         let details = champion.class;
         details.avatarUrl = champion.avatarUrl;
         details.detailsUrl = 'https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/'+name+'?raw=true'
@@ -215,7 +224,6 @@ function removeSkillTags(champion) {
 function storeImage(championObject) {
 
     const file = fs.createWriteStream( fileUtil.formatFileName({name:championObject.name,extension:extensions.PNG,dir:directories.avatar}));
-    console.log(championObject.avatarUrl);
     const request = http.get(championObject.avatarUrl, function(response) {
         response.pipe(file);
     });
@@ -339,11 +347,10 @@ function extractSkill(paragraph) {
     let minCD = coolDown;
     let dmgScalng = getDamageScaling(ability);
     let skillName = getName(ability);
+    let multiplier = [];
     //let skillData = paragraph.outerHTML.split('<br>');
     //sanitize input from spans
     let skillData =textUtil.removeReference(paragraph.outerHTML,textUtil.spanDetails).split('<br>');
-
-    console.log(skillData);
 
 
     let skillDescription = textUtil.removeReference(skillData[1],textUtil.tagDetails);
@@ -357,7 +364,8 @@ function extractSkill(paragraph) {
     if(skillData.length>2) {
         for(let i = 2;i<skillData.length;i++) {
             if(skillData[i].includes('Multiplier')){
-                console.log(getMultipliers(skillData[i]));;
+                //console.log(getMultipliers(skillData[i]));
+                multiplier.push(getMultipliers(skillData[i]));
                 continue
             } else if (skillData[i].includes('Note:')) {
                 continue;
@@ -386,6 +394,7 @@ function extractSkill(paragraph) {
         coolDown,
         minCD,
         dmgScalng,
+        multiplier,
         skillName,
         skillDescription,
         books
@@ -439,20 +448,27 @@ function getName(ability) {
 
 }
 function getMultipliers(multiplierString) {
-    let res = multiplierString.split(':')[1].split('</')[0];
+    //let res = multiplierString.split(':')[1].split('</')[0];
+    return  multiplierString.split('</')[0]
+        .replace(/Total Buffs/g, 'Buffs')
+        .replace(/Enemy MAX HP/g, 'Emax')
+        .replace('Damage Multiplier','Multiplier');
 
-    return res;
 }
 function upsertChampionDetails(champ ) {
     try{
         let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
 
+        //hasStoredResources = !champ.name.trim().startsWith('K');
+        console.log(champ.name);
+        console.log(hasStoredResources);
         if(hasStoredResources === false) {
-            // console.log(champ);
+
             try {
                 extractChampionDetails(champ).then((res) =>{
+
                     storeChampion(res);
-                    storeImage(res);
+                    //storeImage(res);
 
                 }).catch((error) => {
                     console.log(error.message);
@@ -472,8 +488,8 @@ async function main() {
     olChampionList.then((list) =>{
 
         list.forEach(upsertChampionDetails);
-        storeBaseChampionInfoList()
-        storeSimulatorChampionInfoList()
+        //storeBaseChampionInfoList()
+        //storeSimulatorChampionInfoList()
         }
     ).catch((error) => {
         console.log(error.message);
@@ -489,8 +505,8 @@ main().then().catch((error) => {
 
 
 let seer =  {
-    name: 'Rotos the Lost Groom',
-    url: 'https://ayumilove.net/raid-shadow-legends-rotos-the-lost-groom-skill-mastery-equip-guide/'
+    name: 'Seer',
+    url: 'https://ayumilove.net/raid-shadow-legends-seer-skill-mastery-equip-guide/'
 }
 
 
@@ -505,8 +521,8 @@ extractChampionDetails(seer).then((res) =>{
     console.log(error.message);
 });
 
-/*
+
 storeBaseChampionInfoList()
 storeSimulatorChampionInfoList()
-*/
+
 

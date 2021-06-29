@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.7 ATK"
+            ],
             "abilityname": "Let Fly",
             "description": " Attacks 1 enemy.",
             "books": [
@@ -38,6 +41,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 3.2 ATK"
             ],
             "abilityname": "Veinfire Venom",
             "description": " Attacks 1 enemy 2 times. Each hit has a 15% chance of placing a 15% [Weaken] debuff for 2 turns.",

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.2 ATK"
+            ],
             "abilityname": "Talon Knives",
             "description": " Attacks all enemies. Heals by 15% of the damage inflicted if this Champion has less than 50% HP. Boosts this Champion’s Turn Meter by 20% instead if this Champion has 50% HP or higher.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Immortal Skies",
             "description": " Removes all debuffs from all allies, then places a [Revive On Death] buff and a [Block Debuffs] buff on all allies for 2 turns.",
             "books": [
@@ -50,6 +54,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Bloodstain Ritual",
             "description": " Damages this Champion by 10% of their MAX HP at the start of each turn. Heals all allies except this Champion equal to half of the lost HP. Places a 30% [Decrease SPD] debuff on this Champion for 1 turn at the start of each turn. Also has a 50% chance of placing a [Fear] debuff on this Champion for 1 turn. The lost HP refers to the current total HP subtracted from the total MAX HP, instead of the half of 10% MAX HP loss! For example, if her HP is 40%, she heals her allies by 30% of her MAX HP (100 – 40% and then divided by 2 = 30%)",
             "books": [
@@ -63,6 +68,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in all Battles by 25%.",
             "books": []

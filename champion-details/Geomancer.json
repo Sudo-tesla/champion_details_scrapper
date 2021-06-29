@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.4 ATK"
+            ],
             "abilityname": "Tremor Staff",
             "description": " Attacks all enemies. Has a 30% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 6 ATK"
+            ],
             "abilityname": "Creeping Petrify",
             "description": " Removes all buffs from a target enemy, then attacks them. Steals all buffs if the target is under a [HP Burn] debuff placed by this champion. Reduces the cooldown of Quicksand Grasp by 2 turns if the target is killed by this skill while under a [HP Burn] debuff placed by this Champion.",
             "books": [
@@ -52,6 +58,7 @@
             "cd": 5,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Quicksand Grasp",
             "description": " Fully depletes the target’s Turn Meter. Fills the Champion’s Turn Meter by the amount the target loses. Has a 75% chance of placing a [HP Burn] and a 25% [Weaken] debuff on the target for 3 turns.",
             "books": [
@@ -69,6 +76,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Stoneguard",
             "description": " Decreases the damage all allies receive by 15% and deflects that damage onto each enemy under a [HP Burn] debuff placed by this Champion. Whenever this Champion is attacked, deflects 30% of the damage instead.",
             "books": []
@@ -77,6 +85,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in all battles by 25%.",
             "books": []

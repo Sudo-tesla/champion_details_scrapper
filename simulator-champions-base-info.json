@@ -375,6 +375,10 @@
         "affinity": "Magic",
         "rarity": "Legendary"
     },
+    "Cleopterix": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
     "Coffin Smasher": {
         "affinity": "Magic",
         "rarity": "Rare"
@@ -1515,6 +1519,10 @@
         "affinity": "Void",
         "rarity": "Epic"
     },
+    "Pharsalas Gravedirt": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
     "Pigsticker": {
         "affinity": "Magic",
         "rarity": "Rare"
@@ -1847,10 +1855,6 @@
         "affinity": "Force",
         "rarity": "Legendary"
     },
-    "Sicia Flametoungue": {
-        "affinity": "Force",
-        "rarity": "Legendary"
-    },
     "Siegebreaker": {
         "affinity": "Spirit",
         "rarity": "Rare"
@@ -2163,6 +2167,10 @@
         "affinity": "Void",
         "rarity": "Epic"
     },
+    "Tuhanarak": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
     "Tunnel Steward": {
         "affinity": "Spirit",
         "rarity": "Uncommon"
@@ -2234,6 +2242,10 @@
     "Vanguard": {
         "affinity": "Void",
         "rarity": "Rare"
+    },
+    "Venomage": {
+        "affinity": "Magic",
+        "rarity": "Epic"
     },
     "Venus": {
         "affinity": "Void",

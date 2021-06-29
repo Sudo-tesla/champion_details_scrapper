@@ -24,6 +24,9 @@
                 "ATK",
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 1.5 ATK + 0.12 HP"
+            ],
             "abilityname": "Pounce",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [Block Buffs] debuff for 2 turns.",
             "books": [
@@ -42,6 +45,9 @@
                 "ATK",
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 2.5 ATK + 0.2 HP"
+            ],
             "abilityname": "Strangle",
             "description": " Attacks 1 enemy. Places a [Sleep] debuff for 2 turns if the target has no active buffs.",
             "books": [
@@ -58,6 +64,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Herbal Balm",
             "description": " Places a 15% [Continuous Heal] buff on this Champion for 2 turns if incoming damage exceeds 20% HP in one attack.",
             "books": []
@@ -66,6 +73,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Faction Crypts by 22%.",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 1.55 DEF"
+            ],
             "abilityname": "Piercing Blade",
             "description": " Attacks 1 enemy 2 times. Increases the inflicted damage by 15% if the target is under a [Shield] buff.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.8 DEF"
+            ],
             "abilityname": "Crush The Wall",
             "description": " Removes all [Shield] buffs on all enemies, then attacks all enemies. Has a 30% chance of placing a 60% [Decrease DEF] debuff on all enemies for 2 turns.",
             "books": [
@@ -52,6 +58,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Fortified Core",
             "description": " Places a [Shield] buff on this Champion for 3 turns equal to 20% of their MAX HP. Also places a 60% [Increase DEF] buff on this Champion for 3 turns and fills this Champion’s Turn Meter by 50%.",
             "books": [
@@ -64,6 +71,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Resolute Defense",
             "description": " Decreases the damage received by this Champion by 15% while under a [Shield] buff.",
             "books": []
@@ -72,6 +80,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally RESIST in the Arena by 45.",
             "books": []

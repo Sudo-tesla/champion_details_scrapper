@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.2 HP"
+            ],
             "abilityname": "Inhuman Force",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a [Stun] debuff for 1 turn.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 4,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Rallying Bellow",
             "description": " Removes all debuffs from all allies, then places a [Block Debuffs] buff on all allies for 2 turns. Heals all allies by 15% of this Champion’s HP. Heals each ally by an extra 10% of this Champion’s MAX HP for each debuff removed from them.",
             "books": [
@@ -51,6 +55,9 @@
             "dmgscaling": [
                 "MAX HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.5 HP"
+            ],
             "abilityname": "Blood Offering",
             "description": " Sacrifices HP equal to 25% of this Champion’s MAX HP, then attacks all enemies. Damage inflicted is equal to 50% of this Champion’s MAX HP. This attack is always a normal hit. The HP sacrifice will happen even if it kills this Champion.",
             "books": [
@@ -61,6 +68,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Dungeons by 33%.",
             "books": []

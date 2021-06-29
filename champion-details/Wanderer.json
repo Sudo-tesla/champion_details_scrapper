@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.9 ATK"
+            ],
             "abilityname": "Lay On",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 15% [Weaken] debuff for 2 turns.",
             "books": [
@@ -40,6 +43,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.75 ATK"
+            ],
             "abilityname": "Blade Symphony",
             "description": " Attacks 1 enemy 2 times. Decreases the target’s Turn Meter by 10% if this attack is critical. Fills this Champion’s Turn Meter by 10% if this attack is critical.",
             "books": [
@@ -55,6 +61,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 6.3 ATK"
+            ],
             "abilityname": "Pierce Through",
             "description": " Attacks 1 enemy. Will ignore 25% of the target’s DEF.",
             "books": [
@@ -68,6 +77,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Dungeons by 21%.",
             "books": []

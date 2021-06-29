@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.1 ATK"
+            ],
             "abilityname": "Ferocity",
             "description": " Attacks 1 enemy 2 times. Has a 10% chance of granting an Extra Turn.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 5,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 6.4 ATK"
             ],
             "abilityname": "Bloody Swath",
             "description": " Attacks 1 enemy. Has an 80% chance of placing a 25% [Weaken] debuff for 3 turns.",
@@ -53,6 +59,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 6.4 ATK"
+            ],
             "abilityname": "Overmaster",
             "description": " Attacks 1 enemy. Before attacking, has an 80% chance of placing a 60% [Decrease DEF] debuff for 3 turns. Heals this Champion by 10% of the damage inflicted.",
             "books": [
@@ -66,6 +75,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ACC in Faction Crypts by 40.",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.5 ATK"
+            ],
             "abilityname": "Multiply Misery",
             "description": " Attacks 1 enemy. Has a 40% chance of transferring 1 random debuff from this Champion to the target.",
             "books": [
@@ -35,6 +38,7 @@
             "cd": 4,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Warleader",
             "description": " Heals all allies by 30% of their MAX HP. Increases the duration of all ally buffs by 1 turn.",
             "books": [
@@ -50,6 +54,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.5 ATK"
+            ],
             "abilityname": "Lay Low",
             "description": " Attacks all enemies. Decreases the duration of all enemy buffs by 1 turn. Increases the duration of all enemy debuffs by 1 turn.",
             "books": [
@@ -63,6 +70,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Faction Crypts by 27%.",
             "books": []

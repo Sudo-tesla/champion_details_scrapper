@@ -24,6 +24,9 @@
                 "HP",
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 0.1 HP + 0.1 DEF"
+            ],
             "abilityname": "Angry Mallet",
             "description": " Attacks 1 enemy. Places a [Shield] buff on this Champion equal to 10% of their MAX HP for 2 turns.",
             "books": [
@@ -41,6 +44,9 @@
                 "HP",
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 0.2 HP + 1.5 DEF"
+            ],
             "abilityname": "No Coming Back",
             "description": " Attacks 1 enemy. Places a 50% [Heal Reduction] debuff for 2 turns.",
             "books": [
@@ -54,6 +60,7 @@
             "cd": 5,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Shoulder the Weight",
             "description": " Places a 25% [Ally Protection] buff on all allies for 2 turns. Places a 30% [Increase DEF] buff on this Champion for 2 turns.",
             "books": [
@@ -65,6 +72,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Dungeon by 25%.",
             "books": []

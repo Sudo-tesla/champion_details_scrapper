@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 5 ATK"
+            ],
             "abilityname": "Curse of Longing",
             "description": " Attacks 1 enemy. Has an 80% chance of placing a [Sleep] debuff for 1 turn if the target’s Turn Meter is equal to or above 50%. This debuff cannot be resisted. Heals all allies by 5% of their MAX HP if the target’s Turn Meter is below 50%.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Whirlwind Romance",
             "description": " Places a [Block Debuffs] buff on all allies for 2 turns, then fills the Turn Meters of all allies by 10% and places a 60% [Increase DEF] buff and a 30% [Increase SPD] buff on all allies for 2 turns.",
             "books": [
@@ -47,6 +51,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Love Beyond Death",
             "description": " Revives a single ally with 55% HP and a full Turn Meter. Places a 50% [Increase ATK] buff and a 30% [Increase C.RATE] buff on that ally for 2 turns.",
             "books": [
@@ -60,6 +65,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Eternal Bond",
             "description": " Heals each ally by 10% of their MAX HP at the start of their turn. Has a 40% chance of removing [Freeze] and [Fear] debuffs from each ally at the start of their turn. Removes all debuffs from Rotos the Lost Groom at the start of their turn if they are on the same team.",
             "books": [
@@ -71,6 +77,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally RESIST in all Battles by 80.",
             "books": []

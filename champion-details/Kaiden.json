@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.7 DEF"
+            ],
             "abilityname": "Halberd’s Fall",
             "description": " Attacks 1 enemy. Has a 15% chance of placing a [Provoke] debuff for turn.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.4 DEF"
+            ],
             "abilityname": "Shatter Sweep",
             "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
             "books": [
@@ -52,6 +58,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Favor of the Chamber",
             "description": " Revives 2 random allies with 50% HP and places a 60% [Increase DEF] buff on them for 1 turn.",
             "books": [

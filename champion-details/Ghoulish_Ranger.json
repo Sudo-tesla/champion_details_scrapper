@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                "\nMultiplier: 2.3 ATK"
+            ],
             "abilityname": "Numbing Arrows",
             "description": "\nAttacks 1 enemy. Has a 35% chance of placing a 25% [Decrease ACC] debuff for 2 turns. Places an extra hit if the target is under a [Decrease ACC] debuff.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                "\nMultiplier: 3.3 ATK"
             ],
             "abilityname": "Foul Festering",
             "description": "\nAttacks 1 enemy. Has a 45% chance of placing a [Leech] debuff for 2 turns.",
@@ -54,6 +60,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                "\nMultiplier: 1.25 ATK"
             ],
             "abilityname": "Cryptfire",
             "description": "\nAttacks 3 times at random. Has a 30% chance of placing a [HP Burn] debuff for 2 turns.",

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 4.2 DEF"
+            ],
             "abilityname": "Heavy Chop",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 25% [Decrease ACC] debuff for 1 turn.",
             "books": [

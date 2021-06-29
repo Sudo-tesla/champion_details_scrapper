@@ -24,6 +24,9 @@
                 "DEF",
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.6 DEF + 2 ATK"
+            ],
             "abilityname": "Bloodied Mace",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [Leech] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 4,
             "mincd": 2,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Misdirect",
             "description": " Places a [Perfect Veil] buff an a 15% [Continuous Heal] buff on an ally for 2 turns.",
             "books": [
@@ -48,6 +52,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Lordly Challenge",
             "description": " Places a [Counterattack] buff on this Champion for 2 turns. Has a 50% chance of placing a [Provoke] debuff on all enemies for 1 turn.",
             "books": [

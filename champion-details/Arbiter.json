@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.8 ATK"
+            ],
             "abilityname": "Gaze of Justice",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 25% [Weaken] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.2 ATK"
+            ],
             "abilityname": "Enforced Humility",
             "description": " Attacks all enemies 1 time. Has a 75% chance of decreasing the duration of all enemy buffs by 1 turn.",
             "books": [
@@ -49,6 +55,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Mentor of Heroes",
             "description": " Fills the Turn Meters of all allies by 30% and places a 50% [Increase ATK] buff on all allies for 2 turns. Heals all allies by 25% of their MAX HP if they have less than 50% HP.",
             "books": [
@@ -59,6 +66,7 @@
             "cd": 7,
             "mincd": 5,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Destiny’s Call",
             "description": " Revives all dead allies to 35% HP, then fills the Turn Meters of all allies by 20%. Grants an Extra Turn to this Champion if an ally was successfully revived.",
             "books": [
@@ -70,6 +78,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally SPD in the Arena by 30%.",
             "books": []

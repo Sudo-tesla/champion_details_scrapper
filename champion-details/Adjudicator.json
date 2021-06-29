@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.7 ATK"
+            ],
             "abilityname": "Isolation Cell",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a 50% [Heal Reduction] debuff for 2 turns.",
             "books": [
@@ -38,6 +41,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 5.9 ATK"
             ],
             "abilityname": "Slowing Sanction",
             "description": " Attacks 1 enemy. Has a 50% chance of decreasing the Turn Meter by 20%",
@@ -56,6 +62,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.7 ATK"
+            ],
             "abilityname": "Penalize",
             "description": " Attacks 2 times at random. Has a 50% chance of increasing the cooldown of one of the target’s Skills by 1 turn at random.",
             "books": [
@@ -71,6 +80,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ACC in all Battles by 40",
             "books": []

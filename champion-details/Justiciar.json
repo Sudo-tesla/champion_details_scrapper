@@ -24,6 +24,9 @@
                 "ATK",
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.65 ATK + DEF"
+            ],
             "abilityname": "Hold the Line",
             "description": " Attacks 1 enemy. Increases this Champion’s DEF by 3% (up to 10 times in one round).",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "DEF",
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 5.5 DEF + ATK"
             ],
             "abilityname": "Contemptuous Blow",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Provoke] debuff on the target for 1 turn.",
@@ -56,6 +62,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Comeback",
             "description": " When this Champion is hit with a critical hit, counterattacks using their default skill and decreases the buffs duration on the target by 1 turn.",
             "books": []
@@ -64,6 +71,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in Faction Crypts by 19%.",
             "books": []

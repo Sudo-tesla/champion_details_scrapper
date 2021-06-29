@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.2 ATK"
+            ],
             "abilityname": "Hobble Pierce",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 5.9 ATK"
             ],
             "abilityname": "Setback",
             "description": " Attacks 1 enemy. Has a 35% chance of decreasing the target’s Turn Meter by 20%",
@@ -54,6 +60,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 6.1 ATK"
             ],
             "abilityname": "Cursefire Spear",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff for 2 turns.",

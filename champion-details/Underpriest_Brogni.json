@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 6.5 ATK"
+            ],
             "abilityname": "Deepcrystal Scourge",
             "description": " Attacks 1 enemy. Has a 45% chance of placing a [HP Burn] debuff for 2 turns.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 6.6 ATK"
+            ],
             "abilityname": "Cavern’s Grasp",
             "description": " Attacks all enemies. Has a 75% chance of removing 1 random buff from all enemies. Has a 75% chance of removing 1 random debuff from all allies. Increases the value of [Shield] buffs on all allies by 30% of the damage inflicted.",
             "books": [
@@ -53,6 +59,7 @@
             "cd": 5,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Resilient Glow",
             "description": " Places a [Block Debuff] buff and a 50% [Increase ATK] on all allies for 2 turns. Also places a [Shield] buff on all allies for 2 turns equal to 30% of this Champion’s MAX HP. The [Shield] buff cannot be removed.",
             "books": [
@@ -66,6 +73,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Redoubt",
             "description": " Whenever an ally under [Shield] buff is attacked, reflects 25% of the damage inflicted on the [Shield] back to the attacker. Also heals that ally by 25% of the damage inflicted on the [Shield]. If there are multiple Champions in the team with this Skill, only one will activate.",
             "books": []
@@ -74,6 +82,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally RESIST in Doom Tower battles by 60.",
             "books": []

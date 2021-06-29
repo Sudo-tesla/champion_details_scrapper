@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.6 DEF"
+            ],
             "abilityname": "Molten Pummeling",
             "description": " Attacks 1 enemy. Has a 20% chance of decreasing the duration of all buffs by 1 turn.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 5.1 DEF"
             ],
             "abilityname": "Fearless Charge",
             "description": " Places a 60% [Increase DEF] buff on all allies for 3 turns, then attacks 1 enemy. Has a 75% chance of placing a [Stun] debuff for 1 turn. Has a 75% chance of placing a [Stun] debuff for 2 turns instead of the target is under two or more buffs.",
@@ -55,6 +61,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.7 DEF"
+            ],
             "abilityname": "Battle Storm",
             "description": " Attacks all enemies. Has a 50% chance of placing a [Provoke] debuff for 1 turn. Also, places a 50% [Decrease ATK] debuff on all enemies for 2 turns if Iron Brago is under an [Increase DEF] buff.",
             "books": [
@@ -72,6 +81,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Bestow Strength",
             "description": " Increases the DEF of all allies by 10% of this Champion’s DEF.",
             "books": []
@@ -80,6 +90,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in Doom Tower battles by 34%.",
             "books": []

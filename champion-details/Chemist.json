@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.35 ATK"
+            ],
             "abilityname": "Trick Saws",
             "description": " Attacks 1 enemy 2 times.",
             "books": [
@@ -38,6 +41,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 7 ATK"
             ],
             "abilityname": "Alchemic Stunner",
             "description": " Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn. This chance increases to 30% if the target’s HP is below 50%",

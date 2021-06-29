@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.5 ATK"
+            ],
             "abilityname": "Go No Further",
             "description": " Attacks 1 enemy.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Repel the Horde",
             "description": " Places a 15% [Reflect Damage] buff on this Champion for 2 turns. Has an 85% chance of placing a 15% [Reflect Damage] buff on a random ally for 2 turns. Also has a 35% chance of placing a [Provoke] debuff on 2 random enemies for 1 turn.",
             "books": [
@@ -52,6 +56,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Thrives on Danger",
             "description": " Heals this Champion by 50% of the damage taken while under a [Reflect Damage] buff. Also has a 25% chance of increasing the duration of all attackers’ debuffs by 1 turn when hit while under a [Reflect Damage] buff.",
             "books": []

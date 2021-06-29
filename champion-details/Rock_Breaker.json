@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 2.5 DEF"
+            ],
             "abilityname": "Whirling Hammers",
             "description": " Attacks 1 enemy. Increases this Champion’s DEF by 4% each time this Skill is used. Stacks up to 20%.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Chest Thump",
             "description": " Has a 75% chance of placing a [Provoke] debuff on all enemies for 1 turn. Places a [Counterattack] buff on this Champion for 2 turns.",
             "books": [
@@ -51,6 +55,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Iron Hide",
             "description": " Has a 25% chance of decreasing damage inflicted on this Champion by 50% each time this Champion is attacked.",
             "books": [
@@ -63,6 +68,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in the Arena by 30%",
             "books": []

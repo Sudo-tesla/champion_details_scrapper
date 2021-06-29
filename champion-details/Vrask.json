@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.1 HP"
+            ],
             "abilityname": "Whack",
             "description": " Attacks 1 enemy. Fills this Champion’s Turn Meter by 20% if this attack is critical.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "HP"
+            ],
+            "multiplier": [
+                " Multiplier: 0.15 HP"
             ],
             "abilityname": "Lightning Strike",
             "description": " Attacks 1 enemy.",
@@ -53,6 +59,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Cannibalism",
             "description": " Heals all allies by 10% of his MAX HP when he inflicts a critical hit.",
             "books": []
@@ -61,6 +68,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in Dungeons by 33%.",
             "books": []

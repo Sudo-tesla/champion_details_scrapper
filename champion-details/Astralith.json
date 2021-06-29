@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.6 ATK"
+            ],
             "abilityname": "Assault Leader",
             "description": " Attacks 1 enemy. Fills the Turn Meter of a random ally by 15%. Fills the Turn Meter of all allies by a further 15% if this attack is critical.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 5.6 ATK"
+            ],
             "abilityname": "Heart Rot",
             "description": " Attacks 1 enemy. Places two [Bomb] debuffs that detonate after 1 turns. This debuff cannot be resisted.",
             "books": [
@@ -51,6 +57,7 @@
             "cd": 7,
             "mincd": 5,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Judgement",
             "description": " [Active Effect] Exchanges remaining HP levels with a target enemy, then attacks with the default skill. Cannot be used on a Boss. [Passive Effect] Gains an Extra Turn and decreases the cooldown of this Skill by 3 turns if this Champion’s HP drops below 20% when attacked.",
             "books": [
@@ -62,6 +69,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally SPD in the Arena by 28%",
             "books": []

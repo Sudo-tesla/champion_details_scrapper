@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 4.4 DEF"
+            ],
             "abilityname": "Leg Pierce",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 5,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 5.8 DEF"
             ],
             "abilityname": "Somnolent Toxin",
             "description": " Attacks 1 enemy. Has a 45% chance of placing a [Sleep] debuff for 1 turn. Places a 15% [Weaken] debuff for 2 turns if this Skill does not place a [Sleep] debuff.",
@@ -53,6 +59,7 @@
             "cd": 6,
             "mincd": 5,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Ward Off",
             "description": " Decreases the Turn Meter of all enemies by 15%",
             "books": [

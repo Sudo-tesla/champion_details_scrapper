@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.5 ATK"
+            ],
             "abilityname": "Grotesque Strength",
             "description": " Has a 50% chance of placing a 25% [Increase ATK] buff on this Champion for 2 turns, then attacks 1 enemy.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.8 ATK"
+            ],
             "abilityname": "Ghoulish Feeding",
             "description": " Attacks 1 enemy 3 times. Heals this Champion by 20% of the damage inflicted.",
             "books": [
@@ -52,6 +58,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Army of Death",
             "description": " Teams up with 3 random allies to attack a single enemy. The allies joining the attack will use their default skills.",
             "books": [

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.9 ATK"
+            ],
             "abilityname": "Hooked Arrowheads",
             "description": " Attacks 1 enemy 2 times. The second hit has a 10% chance of placing a 2.5% [Poison] debuff for 2 turns.",
             "books": [
@@ -39,6 +42,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 6.6 ATK"
             ],
             "abilityname": "Stinging Rebuke",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",

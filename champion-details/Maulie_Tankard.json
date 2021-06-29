@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.3 DEF"
+            ],
             "abilityname": "Roast",
             "description": " Attacks 1 enemy. Damage increases by 50% if the target is under a [HP Burn] debuff.",
             "books": [
@@ -35,6 +38,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Bar Brawl",
             "description": " Places a [Provoke] debuff on all enemies for 1 turn. Has a 50% chance of placing a [Provoke] debuff on the target for 2 turns instead. Places a 30% [Reflect Damage] buff on this Champion for 2 turns.",
             "books": [
@@ -45,6 +49,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Cheers!",
             "description": " Revives an ally with 50% HP and fills their Turn Meter by 50%. Places a [Block Damage] buff on that ally for 1 turn.",
             "books": [
@@ -60,6 +65,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Rowdy Crowd",
             "description": " Fills the Turn Meters of all allies by 15% when this Champion is hit. Fills the Turn Meters of all allies by 25% when this Champion is hit by a Boss.",
             "books": [

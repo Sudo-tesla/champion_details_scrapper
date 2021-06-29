@@ -24,6 +24,9 @@
                 "ATK",
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 1.1 ATK + 0.05 HP"
+            ],
             "abilityname": "Scrabbling Claws",
             "description": " Attacks 1 enemy 2 times. Has a 25% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
             "books": [
@@ -38,6 +41,7 @@
             "cd": 5,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Warning Screech",
             "description": " Fills the Turn Meter of all allies by 30%. Places a 60% [Increase DEF] buff on all allies for 2 turns.",
             "books": [
@@ -51,6 +55,7 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [],
             "abilityname": "Shelter",
             "description": " Attacks all enemies. Places a [Shield] buff equal to 30% MAX HP on this Champion for 2 turns. Damage increases according to this Champion’s MAX HP.",
             "books": [
@@ -64,6 +69,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Faction Crypts by 21%.",
             "books": []

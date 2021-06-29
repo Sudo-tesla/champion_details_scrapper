@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 4 DEF"
+            ],
             "abilityname": "Transference Bolt",
             "description": " Attacks 1 enemy. Has a 30% chance of stealing 1 random buff from the target.",
             "books": [
@@ -38,6 +41,7 @@
             "cd": 3,
             "mincd": 2,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Fortified Steel",
             "description": " Places a [Shield] buff on all allies for 2 turns. The value of [Shield] is proportional to this Champion’s Level.",
             "books": [
@@ -51,6 +55,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Rescue",
             "description": " Removes all debuffs from an ally with the lowest HP, then heals this ally by 20% of this Champion’s MAX HP. Places a 25% [Increase DEF] buff on the target for 3 turns.",
             "books": [
@@ -63,6 +68,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in Faction Crypts by 15%.",
             "books": []

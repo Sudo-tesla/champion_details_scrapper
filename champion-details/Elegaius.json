@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.18 HP"
+            ],
             "abilityname": "Spirits of Spite",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a [Block Active Skills] debuff for 1 turn. The chance increases by 0.75% for every 1% of HP this Champion loses.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.26 HP"
+            ],
             "abilityname": "Dead Stop",
             "description": " Attacks 1 enemy. Puts the target’s skills on cooldown. If the enemy team has any duplicates of the target Champion, will also put all their skills on cooldown.",
             "books": [
@@ -51,6 +57,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "HP"
+            ],
+            "multiplier": [
+                " Multiplier: 0.2 HP"
             ],
             "abilityname": "Ghost Rage",
             "description": " Attacks all enemies. Has a 75% chance of removing 2 random buffs. Has a 75% chance of decreasing all enemies’ Turn Meters by 20%. Decreases enemy Tum Meters by a further 0.2% for every 1% of HP this Champion loses.",
@@ -67,6 +76,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Spurned by Death",
             "description": " Prevents this Champion’s death and keeps them alive on 1 HP when hit by a fatal hit. If this skill prevents this Champion’s death, heals them by 10% of their MAX HP, fills their Turn Meter by 20%, and places a [Shield] buff on them equal to 30% of their MAX HP for 2 turns. Will not prevent this Champion’s death if they are under a [Heal Reduction] debuff.",
             "books": [

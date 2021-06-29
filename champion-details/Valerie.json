@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Swing",
             "description": " Attacks 1 enemy.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Energizing Presence",
             "description": " Increases the duration of all buffs on all allies by 1 turn. Also decreases the duration of all debuffs on all allies by 1 turn. Places a 25% [Increase ATK] buff on all allies for 2 turns.",
             "books": [
@@ -46,6 +50,7 @@
             "cd": 5,
             "mincd": 5,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Protect",
             "description": " Places a [Shield] buff on all allies for 2 turns. The value of the [Shield] depends on this Champion’s Level. Heals each ally according to the number of buffs they are currently under.",
             "books": [
@@ -59,6 +64,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Faction Crypts by 22%",
             "books": []

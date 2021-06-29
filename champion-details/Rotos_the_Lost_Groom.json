@@ -24,6 +24,9 @@
                 "ATK",
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 1.9 ATK + 0.19 HP"
+            ],
             "abilityname": "Terror Scourge",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also has a 25% chance of granting an Extra Turn.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "ATK",
                 "HP"
+            ],
+            "multiplier": [
+                " Multiplier: 3.5 ATK + 0.3 HP"
             ],
             "abilityname": "Vitality Plunder",
             "description": " Attacks 1 enemy. Decreases the target’s MAX HP by 20%, then adds that HP to this Champion’s own MAX HP. [Cannot decrease a single Champion’s MAX HP by more than 60% in one Battle. Cannot increase this Champion’s MAX HP by more than 60,000. Does not decrease Boss’ MAX HP. This Champion’s MAX HP will be increased by 15,000 when this Skill is used against Bosses]",
@@ -56,6 +62,9 @@
                 "ATK",
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 2.1 ATK + 0.19 HP"
+            ],
             "abilityname": "Fated Destruction",
             "description": " Attacks 1 enemy. Will ignore 60% of the target’s DEF. Will also ignore [Unkillable] and [Block Damage] buffs. Enemies killed by this skill cannot be revived if this Champion has gained maximum amount of HP from the Vitality Plunder skill. Grants an Extra Turn if this skill kills an enemy.",
             "books": [
@@ -72,6 +81,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Spurn Oblivion",
             "description": " Will decrease damage from a single enemy hit so that incoming damage will not exceed 50% of this Champion’s MAX HP from that hit. Can occur once per enemy attack. Grants an Extra Turn if this damage reduction occurs. [Does not work against Bosses] Decreases the damage taken from Bosses by 15%. Decreases the damage taken from Bosses by 30% if Siphi the Lost Bride is on the same team.",
             "books": []

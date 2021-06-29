@@ -1,0 +1,89 @@
+{
+    "name": "Tuhanarak",
+    "class": {
+        "faction": "Barbarians",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "21,645",
+        "atk": "859",
+        "def": "1,277",
+        "spd": "106",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "20"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: ? ATK"
+            ],
+            "abilityname": "Sun’s Kiss",
+            "description": " Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Places a 15% [Continuous Heal] buff on this champion for 1 turn. Also places a 15% [Continuous Heal] buff for 1 turn on the ally with the lowest HP.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff chance +10%",
+                "Level 5: Buff/Debuff chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [
+                " Multiplier: ? ATK"
+            ],
+            "abilityname": "Radiant Suffering",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a 50% [Decrease ATK] debuff and a [Block Buffs] debuff for 2 turns. Also applies a [Debuff Spread] effect, taking 2 random debuffs from the target and placing them on all enemies.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff chance +10%",
+                "Level 5: Buff/Debuff chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Desert Fitness",
+            "description": " Places a 60% [Increase DEF] buff and a 30% [Increase SPD] buff on all allies for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Inviolable",
+            "description": " Removes 1 random debuff from all allies at the start of each turn. Removes 2 random debuffs instead from allies under [Continuous Heal]",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ACC in all battles by 70.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Tuhanarak.png"
+}

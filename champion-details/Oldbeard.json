@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 5 ATK"
+            ],
             "abilityname": "Gut Punch",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
             "books": [
@@ -38,6 +41,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 7.5 ATK"
             ],
             "abilityname": "Outlast",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Leech] debuff for 2 turns.",

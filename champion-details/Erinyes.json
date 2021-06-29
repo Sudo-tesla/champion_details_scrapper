@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.1 ATK"
+            ],
             "abilityname": "Razor Claws",
             "description": " Attacks 1 enemy. Has a 90% chance of placing a 5% [Poison] debuff for 2 turns.",
             "books": [
@@ -38,6 +41,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 3.2 ATK"
             ],
             "abilityname": "Almighty Curse",
             "description": " Attacks all enemies. Has a 75% chance of increasing the duration of all debuffs on the target by 1 turn.",
@@ -55,6 +61,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 5 ATK"
+            ],
             "abilityname": "Engulfing Flame",
             "description": " Attacks 1 enemy. Places a [Block Buffs] debuff for 2 turns.",
             "books": [
@@ -69,6 +78,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ACC in Dungeons by 70.",
             "books": []

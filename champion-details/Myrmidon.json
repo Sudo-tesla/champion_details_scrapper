@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.1 DEF"
+            ],
             "abilityname": "Bone Splitter",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a [Provoke] debuff for 1 turn if the target has higher MAX HP than this Champion.",
             "books": [
@@ -42,6 +45,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.8 DEF"
+            ],
             "abilityname": "Disarm Sweep",
             "description": " Attacks all enemies. Has a 60% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
             "books": [
@@ -58,6 +64,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "In Their Midst",
             "description": " Places a 50% [Ally Protection] buff on all allies for 2 turns. Places a 15% [Continuous Heal] buff on this Champion for 2 turns.",
             "books": [
@@ -69,6 +76,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in Dungeons by 20%.",
             "books": []

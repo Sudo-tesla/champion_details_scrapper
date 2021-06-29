@@ -24,6 +24,9 @@
                 "ATK",
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 1.9 ATK + 3 DEF"
+            ],
             "abilityname": "Pillage",
             "description": " Attacks 1 enemy. Has a 30% chance of stealing 1 random buff from the target.",
             "books": [
@@ -38,6 +41,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "HP"
+            ],
+            "multiplier": [
+                " Multiplier: 0.3 HP * (1 + Dead Allies)"
             ],
             "abilityname": "Bloodlust",
             "description": " Attacks 1 enemy. Damage is proportional to this Champion’s MAX HP and increases according to the number of dead allies.",
@@ -54,6 +60,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Unkillable",
             "description": " Revives this Champion with 50% HP when killed.",
             "books": []
@@ -62,6 +69,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Dungeons by 33%.",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Render Helpless",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Places a 50% [Increase ATK] buff and a 30% [Increase C.DMG] buff on this Champion for 2 turns if this attack kills an enemy.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 4.1 ATK"
             ],
             "abilityname": "Utter Rampage",
             "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
@@ -53,6 +59,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 6.6 ATK"
             ],
             "abilityname": "Deaden Reactions",
             "description": " Attacks 1 enemy. Before attacking, has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",

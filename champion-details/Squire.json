@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.5 DEF"
+            ],
             "abilityname": "Overhead Swing",
             "description": " Attacks 1 enemy.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 3.9 DEF"
             ],
             "abilityname": "Weapon Breaker",
             "description": " Attacks all enemies. Has a 30% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",

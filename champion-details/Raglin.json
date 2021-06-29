@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.6 ATK"
+            ],
             "abilityname": "Repent",
             "description": " Attacks 1 enemy 3 times. Fills the Turn Meter of 3 random allies by 15%. Allies can only have their Turn Meter filled once per turn by this Skill.",
             "books": [
@@ -36,6 +39,9 @@
             "cd": 4,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Mercy",
             "description": " Removes all debuffs on all allies, then heals them. The heal amount is proportional to this Champion’s ATK.",
             "books": [
@@ -49,6 +55,7 @@
             "cd": 3,
             "mincd": 2,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Miracle",
             "description": " Revives an ally with 75% HP and a full Turn Meter.",
             "books": [
@@ -59,6 +66,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in all Battles by 33%",
             "books": []

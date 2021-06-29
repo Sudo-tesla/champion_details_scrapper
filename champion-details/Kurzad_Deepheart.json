@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2 ATK"
+            ],
             "abilityname": "Bushwhack",
             "description": " Attacks 1 enemy. Places an extra hit if this attack is critical. The extra hit places a 30% [Decrease SPD] debuff for 2 turns.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.3 ATK"
+            ],
             "abilityname": "Flailing Pick",
             "description": " Attacks all enemies. Each critical hit fills this Champion’s Turn Meter by 7.5%.",
             "books": [
@@ -54,6 +60,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 3 ATK"
             ],
             "abilityname": "Deep Ambush",
             "description": " Places a 50% [Increase ACC] buff on all allies for 2 turns, then attacks all enemies. Has a 75% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",

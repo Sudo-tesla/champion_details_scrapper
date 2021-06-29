@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.3 ATK"
+            ],
             "abilityname": "Sizzling Strike",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 7.3 ATK"
             ],
             "abilityname": "Brand of Shame",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff and two 5% [Poison] debuffs for 2 turns.",
@@ -53,6 +59,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Beatdown",
             "description": " Places a 30% [Increase C.RATE] buff and a 30% [Increase C.DMG] buff on all allies except this champion for 3 turns. Then, all allies except this champion will attack 1 target enemy.",
             "books": [
@@ -66,6 +73,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Body Block",
             "description": " Deflect 20% of all incoming damage this champion receives onto all allies. The damage will be spread equally across all allies.",
             "books": []

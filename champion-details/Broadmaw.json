@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.8 ATK"
+            ],
             "abilityname": "Ice Blast",
             "description": " Attacks 1 enemy. Has a 35% chance of placing a [Freeze] debuff for 1 turn.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Gift",
             "description": " Places a 30% [Increase C.RATE] buff and a 15% [Increase SPD] buff on all allies for 2 turns. Also fills the Turn Meters of all allies by 15%.",
             "books": [
@@ -47,6 +51,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Resurrect",
             "description": " Revives 2 random dead allies with 25% HP. Places a [Block Damage] buff on the revived allies for 1 turn.",
             "books": [
@@ -61,6 +66,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in the Faction Crypts by 33%.",
             "books": []

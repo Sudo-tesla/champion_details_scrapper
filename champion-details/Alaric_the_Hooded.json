@@ -23,6 +23,7 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [],
             "abilityname": "Red Fury",
             "description": " Attacks 1 enemy. Has a 30% chance of decreasing the target’s Turn Meter by 7.5%. Decreases the Turn Meter by a further 3% for each buff on the target.",
             "books": [
@@ -39,6 +40,7 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [],
             "abilityname": "Demand Chivalry",
             "description": " Attacks 1 enemy. Has a 50% chance of removing 2 random buffs from the target before attacking. Has a 75% chance of stealing 2 random buffs instead if the target has 4 or more buffs.",
             "books": [
@@ -55,6 +57,7 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [],
             "abilityname": "Crimson Warlord",
             "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff and a 50% [Decrease ACC] debuff on all enemies for 2 turns.",
             "books": [
@@ -68,6 +71,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Faction Crypts by 29%.",
             "books": []

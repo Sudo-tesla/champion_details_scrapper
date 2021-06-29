@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 6.7 ATK"
+            ],
             "abilityname": "Rending Claws",
             "description": " Attacks 1 enemy. Has an 35% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
             "books": [
@@ -38,6 +41,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Pack Leader",
             "description": " Places a 50% [Ally Protection] and a 60% [Increase DEF] buff on all allies for 2 turns.",
             "books": [
@@ -50,6 +54,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Sheltering Scales",
             "description": " Places a 15% [Continuous Heal] buff on an ally for 1 turn whenever an ally loses 20% of their MAX HP in one hit.",
             "books": []
@@ -58,6 +63,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in all battles by 33%.",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.7 DEF"
+            ],
             "abilityname": "Caning",
             "description": " Attacks 1 enemy. Places a 15% [Continuous Heal] buff on the ally with the lowest HP for 1 turn.",
             "books": [
@@ -36,6 +39,9 @@
             "mincd": 5,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 3.1 DEF"
             ],
             "abilityname": "Open Slay",
             "description": " Attacks 1 enemy 2 times. Revives a random ally with full HP if this attack kills the enemy.",
@@ -52,6 +58,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "It Glows",
             "description": " When an ally is attacked, places a [Shield] buff equal to 35% of this Champion’s MAX HP on that ally for 2 turns. Occurs once per turn. Will not place a [Shield] buff on this Champion.",
             "books": [

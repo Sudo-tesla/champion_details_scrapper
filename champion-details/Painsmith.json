@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.8 ATK"
+            ],
             "abilityname": "Pickaxe Crunch",
             "description": " Attacks 1 enemy.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 5.9 ATK"
             ],
             "abilityname": "Utter Destruction",
             "description": " Attacks 1 enemy. Enemies killed by this skill cannot be revived. Places a [Block Debuffs] buff on this Champion for 2 turns if this attack kills an enemy.",
@@ -54,6 +60,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 6 ATK"
+            ],
             "abilityname": "Helpless Victim",
             "description": " Attacks 1 enemy. Damage increases by 15% if the target has no active buffs.",
             "books": [
@@ -68,6 +77,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Dungeons by 21%",
             "books": []

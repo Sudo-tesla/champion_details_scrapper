@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2 ATK"
+            ],
             "abilityname": "Crypt Arrows",
             "description": " Attacks 1 enemy 2 times. Each hit has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 5.6 ATK"
+            ],
             "abilityname": "Gravestorm",
             "description": " Attacks 1 enemy. Has a 50% chance of attacking all enemies with an extra hit.",
             "books": [
@@ -52,6 +58,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 6.1 ATK"
             ],
             "abilityname": "Tomb Stalker",
             "description": " Attacks 1 enemy. Places a [Perfect Veil] buff on this champion for 2 turns if this attack is critical.",

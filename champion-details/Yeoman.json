@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1 ATK"
+            ],
             "abilityname": "Valley",
             "description": " Attacks 1 enemy 3 times. Each hit has a 10% chance to decrease the Turn Meter by 20%.",
             "books": [

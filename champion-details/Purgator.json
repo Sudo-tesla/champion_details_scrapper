@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.5 ATK"
+            ],
             "abilityname": "Doom Inescapable",
             "description": " Attacks 1 enemy 2 times. Will ignore [Shield] buffs.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 3.2 ATK"
             ],
             "abilityname": "Great Purge",
             "description": " Attacks all enemies. Inflicts 10% extra C.DMG for each debuff on this Champion. Stacks up to 50%.",
@@ -53,6 +59,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 5 ATK"
             ],
             "abilityname": "Humble the Heathen",
             "description": " Attacks 1 enemy. Decreases the target’s MAX HP by 20% of the damage inflicted.",

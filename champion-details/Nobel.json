@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.9 ATK"
+            ],
             "abilityname": "Smell Fear",
             "description": " Attacks 1 enemy. Has a 40% chance of decreasing the duration of 2 random buffs on the target by 1 turn. If the target is under a [Fear] or [True Fear] debuff, has a 65% chance of decreasing the duration of all of the target’s buffs by 1 turn instead.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.4 ATK"
+            ],
             "abilityname": "Harbinger",
             "description": " Attacks 1 enemy. Will ignore 30% of the target’s DEF. Fills this Champion’s Turn Meter by 25% after the attack. If the target is under a [Fear] or [True Fear] debuff, decreases the cooldown of the Dismay skill by 1 turn.",
             "books": [
@@ -51,6 +57,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
             ],
             "abilityname": "Dismay",
             "description": " Attacks all enenmies. Has a 75% chance of decreasing each enemy’s Turn Meter by 20%. If there are any enemies under [Fear] or [True Fear] debuffs, will also fill this Champion’s Turn Meter by the amount those enemies lose.",
@@ -67,6 +76,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Desolation",
             "description": " Whenever an enemy’s Turn Meter is fully depleted by any Champion’s, has a 50% chance of placing a [True Fear] debuff on that enemy for 1 turn.",
             "books": [

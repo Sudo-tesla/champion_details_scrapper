@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.2 DEF"
+            ],
             "abilityname": "Sundering Chop",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Resolute Stance",
             "description": " Heals this Champion by 40% of their MAX HP and places a [Counterattack] buff on this Champion for 2 turns.",
             "books": [
@@ -51,6 +55,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 4.7 DEF"
+            ],
             "abilityname": "Hypnotize",
             "description": " Attacks 1 enemy. Decreases the target’s Turn Meter by 50%. If the target’s Turn Meter is fully depleted, places a [Sleep] debuff on them for 1 turn.",
             "books": [
@@ -65,6 +72,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in Faction Crypts by 19%.",
             "books": []

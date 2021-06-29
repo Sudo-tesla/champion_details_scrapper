@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.3 ATK"
+            ],
             "abilityname": "Brutal Verdict",
             "description": " Attacks 1 enemy. Heals this Champion by 10% of their MAX HP. Grants an Extra Turn if this attack kills an enemy.",
             "books": [
@@ -39,6 +42,9 @@
                 "ATK",
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 3.2 ATK + 0.5 HP"
+            ],
             "abilityname": "Gore Feast",
             "description": " Attacks all enemies. After attacking, this champion sacrifices HP equal to 50% of their MAX HP, then place two 15% [Continuous Heal] buffs on this Champion for 2 turns. The HP sacrifice will happen even if it kills this Champion.",
             "books": [
@@ -52,6 +58,9 @@
             "cd": 7,
             "mincd": 5,
             "dmgscaling": [],
+            "multiplier": [
+                " Multiplier: 0.5 HP"
+            ],
             "abilityname": "Last Rites",
             "description": " Sacrifices HP equal to 50% of this Champion’s MAX HP, then equalises HP levels with the target enemy. The HP levels of both this champion and the target enemy will be brought down to the level of the one with the lowest HP. [Does not work against bosses. This champion cannot be killed by this skill]",
             "books": [
@@ -65,6 +74,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Headsman’s Return",
             "description": " Revives this Champion with 50% HP and 50% Turn Meter when killed if all other allies are alive. [Does not work if there are multiple Nogdars on the team or if there are 3 or fewer champions on the team.]",
             "books": []
@@ -73,6 +83,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases ally ATK in all Battles by 33%",
             "books": []

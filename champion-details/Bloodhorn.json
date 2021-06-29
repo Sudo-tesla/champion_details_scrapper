@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.3 ATK"
+            ],
             "abilityname": "Killer Crescent",
             "description": " Attacks 1 enemy. Has a 15% chance of placing a 25% [Decrease ACC] debuff for 2 turns.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 5,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Intervene",
             "description": " Places a 50% [Ally Protection] buff on 2 random allies for 2 turns.",
             "books": [
@@ -49,6 +53,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Deep Defense",
             "description": " If an ally is hit with a critical hit, places a 15% [Continuous Heal] buff on them for 1 turn.",
             "books": []
@@ -57,6 +62,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Faction Crypts by 21%.",
             "books": []

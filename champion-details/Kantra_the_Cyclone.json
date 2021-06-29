@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 1.6 DEF"
+            ],
             "abilityname": "Bane Hatchet",
             "description": " Attacks 1 enemy 2 times. Each hit has a 40% chance of stealing 1 random buff from the target.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 1 DEF"
             ],
             "abilityname": "Chaos Tempest",
             "description": " Attacks all enemies 3 times. Each hit has a 50% chance of placing one of the following debuffs for 2 turns: a [Block Buffs] debuff, a 50% [Decrease ATK] debuff, a 30% [Decrease SPD] debuff, a 25% [Weaken] debuff, a 50% [Decrease ACC] debuff, or a 100% [Heal Reduction] debuff.",
@@ -55,6 +61,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "No Escape",
             "description": " Decreases each enemy’s ACC by 10 for each debuff they are under. This Champion will receive 4% less damage for each debuff on the attacker. Heals this Champion by 1,250 HP each time a debuff expires on",
             "books": [
@@ -65,6 +72,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ACC in all Battles by 60.",
             "books": []

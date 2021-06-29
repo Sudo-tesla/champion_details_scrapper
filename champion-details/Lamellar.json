@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.14 HP"
+            ],
             "abilityname": "Sacred Flame",
             "description": " Attacks 1 enemy. Has a 10% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "HP"
+            ],
+            "multiplier": [
+                " Multiplier: 0.1 HP"
             ],
             "abilityname": "Crystal Burst",
             "description": " Attacks all enemies. Places a 25% [Decrease ATK] debuff for 2 turns",
@@ -53,6 +59,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Diehard",
             "description": " Decreases the damage taken by this Champion by 30% when their HP drops below 30%.",
             "books": []
@@ -61,6 +68,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Faction Crypts by 22%.",
             "books": []

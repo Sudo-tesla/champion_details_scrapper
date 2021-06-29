@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 2 DEF"
+            ],
             "abilityname": "Rimefire",
             "description": " Attacks all enemies. Has a 15% chance of placing a [Freeze] debuff for 1 turn. Instantly activates this Skill whenever an enemy under both a [Freeze] and a [HP Burn] debuff takes damage from the [HP Burn] debuff.",
             "books": [
@@ -35,6 +38,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 3 DEF"
             ],
             "abilityname": "Iceberg Crush",
             "description": " Removes all buffs from a target enemy, then attacks the target 2 times. Steals all buffs instead if the target is under a [Freeze] debuff. Will ignore DEF if the target is under both a [Freeze] and a [HP Burn] debuff.",
@@ -50,6 +56,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.8 DEF"
+            ],
             "abilityname": "Blizzard Rage",
             "description": " Attacks all enemies. Places a [Block Buffs] debuff and a 100% [Heal Reduction] debuff for 2 turns on enemies under [Freeze] debuffs. Has a 60% chance of placing a [Provoke] debuff for 1 turn on enemies not under [Freeze] debuffs. Decreases the cooldown of 1 random Skill of each ally by 1 turn for every enemy attacked under both a [Freeze] and a [HP Burn] debuff.",
             "books": [
@@ -63,6 +72,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Wintry Wind",
             "description": " [Passive Effect] Has a 20% chance of placing a [Freeze] debuff on the enemy each time they receive a buff or have their Turn Meter filled. The 20% chance applies up to twice per enemy turn (once for buffs, once for Turn Meter fills) in cases where an enemy receives multiple of these effects at the same time. Does not work with effects from Artifact Sets, Turn Meter filling effects from Masteries, healing, or those buffs or effects that take place at the start of a Round. [Active Effect] Revives this Champion to 100% HP when killed and places a [Freeze] debuff on this Champion for 1 turn.",
             "books": [
@@ -76,6 +86,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in all Battles by 33%",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.2 DEF"
+            ],
             "abilityname": "Red River",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a [Leech] debuff for 2 turns.",
             "books": [
@@ -42,6 +45,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 4 DEF"
+            ],
             "abilityname": "Rushing Death",
             "description": " Attacks all enemies. Has a 50% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
             "books": [
@@ -57,6 +63,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Oni Icon",
             "description": " Places a 60% [Increase DEF] buff on all allies for 2 turns and a 15% [Continuous Heal] buff on all allies for 1 turn",
             "books": [
@@ -69,6 +76,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Spirit Touched",
             "description": " Removes 1 random debuff from this Champion at the start of each turn. Will remove [Stun], [Sleep], [Freeze], [Fear], [True Fear] and [Provoke] debuffs before other debuffs.",
             "books": []
@@ -77,6 +85,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in all Battles by 25%.",
             "books": []

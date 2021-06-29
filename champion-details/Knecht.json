@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.5 DEF"
+            ],
             "abilityname": "Stab",
             "description": " Attacks 1 enemy. Has an extra 20% chance of inflicting a critical hit.",
             "books": [

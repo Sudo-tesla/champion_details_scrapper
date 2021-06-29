@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.2 ATK"
+            ],
             "abilityname": "Vicious Rip",
             "description": " Attacks 1 enemy 2 times. Has a 20% chance of placing an extra hit.",
             "books": [
@@ -39,6 +42,7 @@
             "cd": 7,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Cry For Blood",
             "description": " Places a 30% [Increase SPD] buff on this Champion for 2 turns. Also places a [Counterattack] buff on this Champion for 2 turns.",
             "books": [
@@ -53,6 +57,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Feral Hunter",
             "description": " Fills this Champion’s Turn Meter by 15% on critical hits. Fills this Champion’s Turn Meter by 50% if this Champion kills an enemy.",
             "books": []
@@ -61,6 +66,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally SPD in Faction Crypts by 13%.",
             "books": []

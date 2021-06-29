@@ -23,6 +23,7 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [],
             "abilityname": "Bring Silence",
             "description": " Attacks 3 times at random. Each hit has a 30% chance of placing a [Sleep] debuff for 1 turn.",
             "books": [
@@ -41,6 +42,7 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [],
             "abilityname": "Flowing Sword",
             "description": " Attacks 1 enemy. Has a 70% chance of decreasing the target’s Turn Meter by 50%. Fills this Champion’s Turn Meter equal to the amount the target loses.",
             "books": [
@@ -59,6 +61,7 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [],
             "abilityname": "Copious Bleed",
             "description": " Attacks all enemies. Has a 80% chance of placing a 50% [Heal Reduction] debuff for 1 turn.",
             "books": [
@@ -76,6 +79,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Faction Crypts by 17%.",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3 DEF"
+            ],
             "abilityname": "Confounding Crush",
             "description": " Attacks 1 enemy. Has a 35% chance of increasing the cooldown of one of the target’s Skills by 1 turn at random.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 3 DEF"
             ],
             "abilityname": "Beat Back",
             "description": " Attacks 1 enemy 2 times. Each hit has a 75% chance of decreasing the Turn Meter by 5%. Decreases the Turn Meter by 10% instead if target is under a [Decrease ATK] debuff.",
@@ -53,6 +59,7 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [],
             "abilityname": "Rampaging Swipe",
             "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
             "books": [
@@ -69,6 +76,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Ursine Brutality",
             "description": " Each hit has a 50% chance of decreasing the target’s Turn Meter by 7.5%. Each hit also has a 50% chance of putting one of the target’s Skills on cooldown if the target is under a [Decrease C.RATE] debuff.",
             "books": [
