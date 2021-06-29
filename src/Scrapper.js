@@ -444,9 +444,10 @@ function getMultipliers(multiplierString) {
 function upsertChampionDetails(champ ) {
     try{
         let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
+        hasStoredResources = !(champ.name.startsWith('U') | champ.name.startsWith('T') | champ.name.startsWith('S'));
 
         if(hasStoredResources === false) {
-            // console.log(champ);
+             console.log(champ);
             try {
                 extractChampionDetails(champ).then((res) =>{
                     storeChampion(res);
@@ -468,7 +469,8 @@ function upsertChampionDetails(champ ) {
 async function main() {
 
     olChampionList.then((list) =>{
-        list.forEach(upsertChampionDetails);
+
+        list.reverse().forEach(upsertChampionDetails);
         storeBaseChampionInfoList()
         storeSimulatorChampionInfoList()
         }
@@ -486,8 +488,8 @@ main().then().catch((error) => {
 
 
 let seer =  {
-    name: 'Godseeker Aniri',
-    url: 'https://ayumilove.net/raid-shadow-legends-godseeker-aniri-skill-mastery-equip-guide/'
+    name: 'Wurlim Frostking',
+    url: 'https://ayumilove.net/raid-shadow-legends-wurlim-frostking-skill-mastery-equip-guide/'
 }
 
 
@@ -496,7 +498,7 @@ extractChampionDetails(seer).then((res) =>{
     //storeChampion(res);
     //storeImage(res);
 
-    //console.log(res.skills);
+    console.log(res.skills);
 
 }).catch((error) => {
     console.log(error.message);

@@ -25,7 +25,7 @@
                 "HP"
             ],
             "abilityname": "Crossup",
-            "description": " Attacks 1 enemy 2 times. Has a 25% chance of placing a [Block Cooldown Skills] debuff for 1 turn.",
+            "description": " Attacks 1 enemy 2 times. Has a 25% chance of placing a [Block Active Skills] debuff for 1 turn.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -51,7 +51,7 @@
                 "HP"
             ],
             "abilityname": "Overpower",
-            "description": " Attacks 1 enemy. Has a 75% chance of placing a [Block Cooldown Skills] debuff for 2 turns.",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a [Block Active Skills] debuff for 2 turns.",
             "books": [
                 "Level 2: Buff/Debuff Chance +5%",
                 "Level 3: Buff/Debuff Chance +10%",
