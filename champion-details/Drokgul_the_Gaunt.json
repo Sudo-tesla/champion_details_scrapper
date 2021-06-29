@@ -57,6 +57,14 @@
                 "Level 4: Shield +10%",
                 "Level 5: Cooldown -1"
             ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally HP in all Battles by 25%.",
+            "books": []
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Drokgul_the_Gaunt.png"

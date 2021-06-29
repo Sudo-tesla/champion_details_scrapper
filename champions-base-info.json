@@ -4495,6 +4495,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Vergumkaar.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Vergumkaar.json?raw=true"
     },
+    "Versulf the Grim": {
+        "faction": "Knight Revenant",
+        "rarity": "Legendary",
+        "role": "HP",
+        "affinity": "Force",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Versulf_the_Grim.json?raw=true"
+    },
     "Veteran": {
         "faction": "Orcs",
         "rarity": "Rare",

@@ -55,7 +55,7 @@
                 "DEF"
             ],
             "abilityname": "Intimidate",
-            "description": " Attacks at random 4 times. Each attack has a 30% chance of placing a [Block Cooldown Skills] debuff for 2 turns. The chance of the [Block Cooldown Skills] debuff increases to 100% if the target is under a [Decrease ATK] debuff.",
+            "description": " Attacks at random 4 times. Each attack has a 30% chance of placing a [Block Active Skills] debuff for 2 turns. The chance of the [Block Active Skills] debuff increases to 100% if the target is under a [Decrease ATK] debuff.",
             "books": [
                 "Level: 2 Buff/Debuff Chance +5%",
                 "Level: 3 Buff/Debuff Chance +5%",

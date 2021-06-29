@@ -51,7 +51,9 @@
         {
             "cd": 4,
             "mincd": 3,
-            "dmgscaling": [],
+            "dmgscaling": [
+                "ATK"
+            ],
             "abilityname": "Salvo",
             "description": " Attacks all enemies.",
             "books": [

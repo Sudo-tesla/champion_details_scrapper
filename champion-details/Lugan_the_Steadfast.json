@@ -49,7 +49,7 @@
                 "ATK"
             ],
             "abilityname": "Mark of Silence",
-            "description": " Attacks all enemies. Has an 80% chance of placing a [Block Cooldown Skills] debuff for 2 turns.",
+            "description": " Attacks all enemies. Has an 80% chance of placing a [Block Active Skills] debuff for 2 turns.",
             "books": [
                 "Level 2: Buff/Debuff Chance +5%",
                 "Level 3: Damage +5%",

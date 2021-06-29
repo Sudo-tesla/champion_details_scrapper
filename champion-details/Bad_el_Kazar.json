@@ -51,7 +51,7 @@
                 "Passive"
             ],
             "abilityname": "Prey Upon",
-            "description": " All allies inflict 15% more damage against targets under [Poison] debuffs.",
+            "description": " All allies inflict 20% more damage against targets under [Poison] debuffs.",
             "books": []
         },
         {

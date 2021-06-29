@@ -55,7 +55,7 @@
                 "DEF"
             ],
             "abilityname": "Undying Evil",
-            "description": " Attacks all enemies. Has an 80% chance of placing a [Provoke] debuff for 2 turns. Places an [Unkillable] buff on this Champion for 2 turns. Places a [Block Cooldown Skills] debuff on this Champion for 5 turns. The [Block Cooldown Skills] debuff cannot be resisted or blocked and cannot be removed.",
+            "description": " Attacks all enemies. Has an 80% chance of placing a [Provoke] debuff for 2 turns. Places an [Unkillable] buff on this Champion for 2 turns. Places a [Block Active Skills] debuff on this Champion for 5 turns. The [Block Active Skills] debuff cannot be resisted or blocked and cannot be removed.",
             "books": [
                 "Level 2: Damage +10%",
                 "Level 3: Damage +10%",

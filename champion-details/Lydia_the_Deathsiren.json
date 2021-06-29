@@ -55,7 +55,7 @@
                 "ATK"
             ],
             "abilityname": "Nullification",
-            "description": " Attacks 1 enemy 2 times. The first hit has a 75% chance of placing a 25% [Poison Sensitivity] debuff for 2 turns. The second hit has a 75% chance of placing a [Block Buffs] and [Block Cooldown Skills] debuff or 2 turns.",
+            "description": " Attacks 1 enemy 2 times. The first hit has a 75% chance of placing a 25% [Poison Sensitivity] debuff for 2 turns. The second hit has a 75% chance of placing a [Block Buffs] and [Block Active Skills] debuff or 2 turns.",
             "books": [
                 "Level 2: Damage +10%",
                 "Level 3: Buff/Debuff Chance +10%",

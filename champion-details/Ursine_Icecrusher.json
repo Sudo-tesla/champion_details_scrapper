@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "abilityname": "Ravaging Paw",
-            "description": " Attacks 1 enemy. Has a 10% chance of placing a [Block Cooldown Skills] debuff for 1 turn.",
+            "description": " Attacks 1 enemy. Has a 10% chance of placing a [Block Active Skills] debuff for 1 turn.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Buff/Debuff Chance +5%",

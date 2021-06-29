@@ -56,7 +56,7 @@
                 "ATK"
             ],
             "abilityname": "Brand",
-            "description": " Attacks 1 enemy. Places a [Block Cooldown Skills] debuff for 2 turns.",
+            "description": " Attacks 1 enemy. Places a [Block Active Skills] debuff for 2 turns.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +10%",

@@ -40,7 +40,7 @@
                 "ATK"
             ],
             "abilityname": "Inflict Misfortune",
-            "description": " Attacks 1 enemy. Has an 85% chance of placing a [Block Cooldown Skills] debuff for 4 turns. Also has a 35% chance of placing a [Block Cooldown Skills] debuff on all other enemies for 1 turn.",
+            "description": " Attacks 1 enemy. Has an 85% chance of placing a [Block Active Skills] debuff for 4 turns. Also has a 35% chance of placing a [Block Active Skills] debuff on all other enemies for 1 turn.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +10%",

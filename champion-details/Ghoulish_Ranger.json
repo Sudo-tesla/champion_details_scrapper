@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "abilityname": "Numbing Arrows",
-            "description": " Attacks 1 enemy. Has a 35% chance of placing a 25% [Decrease ACC] debuff for 2 turns. Places an extra hit if the target is under a [Decrease ACC] debuff.",
+            "description": "\nAttacks 1 enemy. Has a 35% chance of placing a 25% [Decrease ACC] debuff for 2 turns. Places an extra hit if the target is under a [Decrease ACC] debuff.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +10%",
@@ -39,7 +39,7 @@
                 "ATK"
             ],
             "abilityname": "Foul Festering",
-            "description": " Attacks 1 enemy. Has a 45% chance of placing a [Leech] debuff for 2 turns.",
+            "description": "\nAttacks 1 enemy. Has a 45% chance of placing a [Leech] debuff for 2 turns.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -56,7 +56,7 @@
                 "ATK"
             ],
             "abilityname": "Cryptfire",
-            "description": " Attacks 3 times at random. Has a 30% chance of placing a [HP Burn] debuff for 2 turns.",
+            "description": "\nAttacks 3 times at random. Has a 30% chance of placing a [HP Burn] debuff for 2 turns.",
             "books": [
                 "Level 2: Damage +10%",
                 "Level 3: Buff/Debuff Chance +5%",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "abilityname": "Hungary Shafts",
-            "description": " Attacks 1 enemy 2 times. Each hit fills this Champion’s turn Meter by 10% if the target is under a [Decrease DEF], [HP Burn], or [Decrease ACC] debuff.",
+            "description": " Attacks 1 enemy 2 times. Each hit fills this Champion’s Turn Meter by 10% if the target is under a [Decrease DEF], [HP Burn], or [Decrease ACC] debuff.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -54,7 +54,7 @@
                 "ATK"
             ],
             "abilityname": "Gnashing Fangs",
-            "description": " Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff and a 50% [Decrease ACC] debuff for 3 turns. Fills this Champion’s Turn Mmeter by 20% if this attack is critical.",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff and a 50% [Decrease ACC] debuff for 3 turns. Fills this Champion’s Turn Meter by 20% if this attack is critical.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",

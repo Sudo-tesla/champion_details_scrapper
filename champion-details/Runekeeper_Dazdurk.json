@@ -45,11 +45,16 @@
         },
         {
             "cd": 5,
-            "mincd": 5,
+            "mincd": 4,
             "dmgscaling": [],
             "abilityname": "Purity Sigil",
             "description": " Removes all debuffs from all allies, then heals all allies by 25% of this Champion’s MAX HP. Places a 15% [Continuous Heal] buff for 2 turns on allies that have a debuff removed.",
-            "books": []
+            "books": [
+                "Level 2: Heal +5%",
+                "Level 3: Heal +5%",
+                "Level 4: Heal +10%",
+                "Level 5: Cooldown -1"
+            ]
         },
         {
             "cd": 0,

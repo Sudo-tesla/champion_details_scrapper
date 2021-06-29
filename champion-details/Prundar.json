@@ -70,7 +70,7 @@
                 "Passive"
             ],
             "abilityname": "Master of Taunts",
-            "description": " Receives 20% less damage from enemies under [Provoke] debuffs. Has a 25% chance of counterattacking whenever an enemy under a [Provoke] debuff attack either this champion on an ally.",
+            "description": " Receives 20% less damage from enemies under [Provoke] debuffs. Has a 25% chance of counterattacking whenever an enemy under a [Provoke] debuff attack either this champion or an ally.",
             "books": [
                 "Level 2: Buff/Debuff Chance +5%",
                 "Level 3: Buff/Debuff Chance +5%",

@@ -66,8 +66,8 @@
             ]
         },
         {
-            "cd": 0,
-            "mincd": 0,
+            "cd": 5,
+            "mincd": 5,
             "dmgscaling": [
                 "Passive"
             ],

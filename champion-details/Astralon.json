@@ -39,7 +39,7 @@
                 "ATK"
             ],
             "abilityname": "Divine Immanence",
-            "description": " Attacks 1 enemy. Will ignore [Increase DEF], [Strengthen] and [Ally Protection] buffs. Revives a random ally with 40% HP and places a [Shield] buff on them equal to 20% of their MAX HP for 2 turns if this attack kills an enemy. Also places a [Shield] buff on this Champion equal to 20% of their MAX HP for 2 turns if this attack kills and enemy.",
+            "description": " Attacks 1 enemy. Will ignore [Increase DEF], [Strengthen] and [Ally Protection] buffs. Revives a random ally with 40% HP and places a [Shield] buff on them equal to 20% of their MAX HP for 2 turns if this attack kills an enemy. Also places a [Shield] buff on this Champion equal to 20% of their MAX HP for 2 turns if this attack kills an enemy.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -70,7 +70,7 @@
                 "Passive"
             ],
             "abilityname": "Emissary",
-            "description": " Fills this champions turn meter by 3% every time an ally is hit. Decreases incoming damage by 25% if the attack’s ATK is lower than this Champion’s.",
+            "description": " Fills this champion’s turn meter by 3% every time an ally is hit. Decreases incoming damage by 25% if the attack’s ATK is lower than this Champion’s.",
             "books": []
         }
     ],

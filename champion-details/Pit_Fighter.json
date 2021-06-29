@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "abilityname": "True Strike",
-            "description": " Attacks 1 enemy. Has a 25% chance of placing a critical hit.",
+            "description": " Attacks 1 enemy. Has an extra 25% chance of placing a critical hit.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",

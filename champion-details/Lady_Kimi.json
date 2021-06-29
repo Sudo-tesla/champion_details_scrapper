@@ -7,14 +7,14 @@
         "affinity": "Magic"
     },
     "stats": {
-        "hp": "",
-        "atk": "",
-        "def": "",
-        "spd": "",
-        "crate": "%",
-        "cdmg": "%",
-        "resist": "",
-        "acc": ""
+        "hp": "20,475",
+        "atk": "1,068",
+        "def": "1,145",
+        "spd": "115",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "10"
     },
     "skills": [
         {

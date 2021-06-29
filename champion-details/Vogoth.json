@@ -73,6 +73,14 @@
                 "Level 3: Buff/Debuff Chance +10%",
                 "Level 4: Buff/Debuff Chance +10%"
             ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ACC in all Battles by 40.",
+            "books": []
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Vogoth.png"

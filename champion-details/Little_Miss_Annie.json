@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "abilityname": "Pretty Nails",
-            "description": " Attacks 1 enemy 3 times. Each hit has a 50% chance of placing a 100% [Heal Reduction] debuff for 2tums.",
+            "description": " Attacks 1 enemy 3 times. Each hit has a 50% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
             "books": [
                 "Level 2: Damage +10%",
                 "Level 3: Buff/Debuff Chance +5%",

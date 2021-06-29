@@ -7,12 +7,12 @@
         "affinity": "Magic"
     },
     "stats": {
-        "hp": "15030",
-        "atk": "1542",
+        "hp": "15,030",
+        "atk": "1,542",
         "def": "760",
         "spd": "95",
         "crate": "15%",
-        "cdmg": "63%",
+        "cdmg": "60%",
         "resist": "30",
         "acc": "10"
     },
@@ -72,5 +72,5 @@
             "books": []
         }
     ],
-    "avatarUrl": "https://www.inteleria.com/wp-content/uploads/2019/11/siegehulk_profile.png"
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Siegehulk.png"
 }
