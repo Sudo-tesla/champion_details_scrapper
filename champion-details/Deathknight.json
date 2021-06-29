@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 5.5 ATK"
+            ],
             "abilityname": "Rusty Sword",
             "description": " Attacks 1 enemy. Has a 15% chance of placing a [Sleep] debuff for 1 turn.",
             "books": [
@@ -41,6 +44,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Payback",
             "description": " Has a 30% of counterattacking when hit.",
             "books": []

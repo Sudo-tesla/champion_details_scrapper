@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.2 ATK"
+            ],
             "abilityname": "Devour",
             "description": " Attacks 1 enemy 2 times. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
             "books": [
@@ -39,6 +42,7 @@
             "cd": 5,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Tailwind",
             "description": " Fills the Turn Meter of all allies by 30%. Places a 50% [Increase ATK] buff on all allies for 2 turns. Grants an Extra Turn.",
             "books": [
@@ -52,6 +56,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Dark Blood",
             "description": " When critically hit, heals this Champion by 20% HP and places a 60% [Increase DEF] buff on all allies for 2 turns.",
             "books": []
@@ -60,6 +65,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in the Arena by 30%.",
             "books": []

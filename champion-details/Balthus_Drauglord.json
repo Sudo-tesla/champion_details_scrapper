@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                "Multiplier: 4.15 DEF"
+            ],
             "abilityname": "Shield Strike",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                "Multiplier: 4.2 DEF"
+            ],
             "abilityname": "Doomwheels",
             "description": "Attacks all enemies. Has a 75% chance of placing a 30% [Decrease C.RATE] debuff for 2 turns.",
             "books": [
@@ -47,6 +53,25 @@
                 "Level 5: Buff/Debuff Chance +10%",
                 "Level 6: Buff/Debuff Chance +10%",
                 "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "multiplier": [
+                "Multiplier: 6.4 DEF"
+            ],
+            "abilityname": "Driven to Slaughter ",
+            "description": "Attacks 1 enemy. Has a 75% chance of placing a [Provoke] debuff for 2 turns. Also heals this Champion by 20% of their MAX HP.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Cooldown -1"
             ]
         },
         {

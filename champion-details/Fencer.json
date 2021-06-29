@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.3 ATK"
+            ],
             "abilityname": "Enchanted Rapier",
             "description": " Attacks 1 enemy 2 times. Each hit has a 15% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
             "books": [
@@ -39,6 +42,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 5.9 ATK"
             ],
             "abilityname": "Pommel Strike",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [Stun] debuff for 1 turn. Steals 20% of the target’s Turn Meter if the [Stun] debuff is not placed.",
@@ -58,6 +64,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.5 ATK"
+            ],
             "abilityname": "Blade Flourish",
             "description": " Attacks all enemies. Has a 75% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
             "books": [
@@ -73,6 +82,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Dungeons by 23%.",
             "books": []

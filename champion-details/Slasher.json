@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.2 ATK"
+            ],
             "abilityname": "Fearsome Slice",
             "description": " Attacks 1 enemy.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.9 ATK"
+            ],
             "abilityname": "Chop Apart",
             "description": " Attacks 1 enemy 2 times. Has a 25% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
             "books": [
@@ -51,6 +57,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Killing Zeal",
             "description": " Places a 15% [Increase C.RATE] buff and a [Shield] buff on this Champion for 2 turns. The value of the [Shield] is proportional to this Champion’s DEF and C.DMG. Grants an Extra Turn.",
             "books": [
@@ -61,6 +68,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Faction Crypts by 17%.",
             "books": []

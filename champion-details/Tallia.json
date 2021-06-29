@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.2 ATK"
+            ],
             "abilityname": "Hack and Slash",
             "description": " Attacks 1 enemy 3 times.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.9 ATK"
+            ],
             "abilityname": "Rise to Duty",
             "description": " Places a 25% [Increase ATK] buff and a 30% [Increase C.RATE] buff on this Champion for 2 turns, then attacks all enemies. [Has a 75% chance of placing a [Bomb] debuff that will detonate after 3 turns when Fenax is on the same team]",
             "books": [
@@ -52,6 +58,7 @@
             "cd": 6,
             "mincd": 5,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Awesome Presence",
             "description": " Places a [Counterattack] buff on this Champion for 2 turns. Has a 75% chance of placing a 25% [Weaken] debuff on enemies for 2 turns.",
             "books": [
@@ -64,6 +71,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally C.RATE in Dungeons by 15%.",
             "books": []

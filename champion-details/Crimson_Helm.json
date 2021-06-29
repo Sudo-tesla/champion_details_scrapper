@@ -24,6 +24,9 @@
                 "ATK",
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 2.7 ATK + 2 DEF"
+            ],
             "abilityname": "Sucker Punch",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 50% [Decrease ATK] debuff for 1 turn.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 1.4 DEF"
+            ],
             "abilityname": "Vile Tongue",
             "description": " Attacks 4 times at random. Each hit has a 75% chance of placing a [Provoke] debuff for 1 turn. Places a [Block Damage] buff on this Champion for 1 turn.",
             "books": [
@@ -53,6 +59,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "En Garde!",
             "description": " Places a [Revive On Death] buff and a 60% [Increase DEF] buff on all allies for 2 turns.",
             "books": [
@@ -64,6 +71,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Dungeons by 33%.",
             "books": []

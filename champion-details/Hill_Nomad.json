@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3 ATK"
+            ],
             "abilityname": "Sandstorm Blade",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 3,
             "mincd": 2,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Nomad’s Endurance",
             "description": " Places a 7.5% [Continuous Heal] buff on an ally for 2 turns.",
             "books": [
@@ -46,6 +50,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Ambush Tactics",
             "description": " Places a [Veil] buff on an ally for 1 turn and a 25% [Increase ATK] buff for 2 turns. Also places a [Shield] buff on this Champion equal to 20% of their MAX HP for 2 turns.",
             "books": [

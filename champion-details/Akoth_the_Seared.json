@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 4 DEF"
+            ],
             "abilityname": "Molten Punch",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 30% [Decrease C.RATE] debuff for 2 turns.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.5 DEF"
+            ],
             "abilityname": "Pyroclasm",
             "description": " Attacks all enemies. Has a 20% chance of placing a [HP Burn] debuff for 2 turns. The chance of placing the debuff increases by 20% for each alive enemy.",
             "books": [
@@ -53,6 +59,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 3.5 DEF"
             ],
             "abilityname": "Pyretic Release",
             "description": " Attacks all enemies. Has a 50% chance of increasing the cooldowns of all skills by 2 turns on enemies under [HP Burn] debuffs. Also places a [Shield] buff equal to 20% of this Champion’s MAX HP on all allies for 2 turns. Instantly activates this skill when this Champion is revived by Rian the Conjurer.",
@@ -71,6 +80,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Fiery Swatch",
             "description": " Has a 10% chance of placing a [Fear] debuff on an enemy for 1 turn whenever they receive damage from a [HP Burn] debuff.",
             "books": [
@@ -83,6 +93,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in all Battles by 25%.",
             "books": []

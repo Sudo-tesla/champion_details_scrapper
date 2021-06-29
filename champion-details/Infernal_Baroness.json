@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 2.5 DEF"
+            ],
             "abilityname": "Life Syphon",
             "description": " Attacks all enemies. Heals the ally with the lowest HP by 5% of the damage inflicted.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 4.5 DEF"
+            ],
             "abilityname": "Clinging Dark",
             "description": " Attacks all enemies. Has a 50% chance of placing a 50% [Decrease ATK] debuff on all enemies for 2 turns.",
             "books": [
@@ -52,6 +58,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Disappear",
             "description": " Places a [Perfect Veil] buff on an ally for 3 turns.",
             "books": [

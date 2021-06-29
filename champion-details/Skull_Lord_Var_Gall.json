@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 1.35 DEF"
+            ],
             "abilityname": "Gleeful Ripping",
             "description": " Attacks 1 enemy 2 times. Each hit fills this Champion’s Turn Meter by 5%. Has a 30% chance to repeat this skill. Places a 100% [Heal Reduction] debuff on the target for 2 turns if this skill is repeated.",
             "books": [
@@ -35,6 +38,7 @@
             "cd": 3,
             "mincd": 2,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Skull Claim",
             "description": " Places a 25% [Strengthen] buff on this Champion for 2 turns. Has a 75% chance of placing a [Provoke] debuff on a target for 1 turn.",
             "books": [
@@ -49,6 +53,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 3.85 DEF"
             ],
             "abilityname": "Abyssal Clutch",
             "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
@@ -66,6 +73,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Horrific Foe",
             "description": " When attacked, decreases the attacker’s MAX HP by 5%. Cannot decrease a single enemy’s MAX HP by more than 50%. Occurs once per enemy attack. Does not work against bosses. Has a 50% chance of placing a [True Fear] debuff on targets whose MAX HP has been decreased by 20% or more.",
             "books": []
@@ -76,6 +84,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Skull Brood",
             "description": " Revives Skullsworn with 50% HP and 50% Turn Meter at the start of each turn. If there are multiple Skullsworns on the team, only one of them will be revived.",
             "books": []

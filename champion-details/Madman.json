@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3 ATK"
+            ],
             "abilityname": "Wild Slashing",
             "description": " Attacks 1 enemy. Has a 50% chance of attacking all other enemies with a second hit, dealing 30% of the damage inflicted from the first hit.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 3.4 ATK"
             ],
             "abilityname": "Insane Resilience",
             "description": " Attacks all enemies. Heals this Champion by 10% of the damage inflicted if this Champion’s current HP is below 50%.",
@@ -53,6 +59,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 4.5 ATK"
             ],
             "abilityname": "Crazed Lunge",
             "description": " Attacks 1 enemy. Will ignore 30% of the target’s DEF. Ignores [Block Damage] and [Shield] buffs.",

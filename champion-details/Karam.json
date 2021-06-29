@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.3 ATK"
+            ],
             "abilityname": "Bloodstained Swords",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 5% [Poison] debuff for 2 turns.",
             "books": [
@@ -36,6 +39,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: (4.8 + HP% Lost * 4) ATK"
             ],
             "abilityname": "Fit of Rage",
             "description": " Attacks 1 enemy. Has an extra 15% chance of inflicting a critical hit. Damage increases according to the amount of HP this Champion has lost.",
@@ -52,6 +58,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 6.5 ATK"
+            ],
             "abilityname": "Rot Away",
             "description": " Attacks 1 enemy. Deals damage from all [Poison] debuffs on the target instantly.",
             "books": [
@@ -65,6 +74,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ACC in Faction Crypts by 40.",
             "books": []

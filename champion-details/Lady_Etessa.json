@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.5 ATK"
+            ],
             "abilityname": "Blessed Missiles",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a [Block Buffs] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 5.9 ATK"
             ],
             "abilityname": "Whiplash",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Stun] debuff for 1 turn.",
@@ -54,6 +60,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Fiend Purge",
             "description": " Attacks 1 enemy with 2 random allies. Damage inflicted by this Champion and any allies joining this attack will be increased by 10% if the target is under a [Stun] debuff. Allies joining the attack use their default skills.",
             "books": [

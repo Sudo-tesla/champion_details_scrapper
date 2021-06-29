@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.9 ATK"
+            ],
             "abilityname": "Tainted Blade",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [Block Buffs] debuff for 2 turns.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.9 ATK"
+            ],
             "abilityname": "Turn the Tide",
             "description": " Attacks 1 enemy. Steals 2 random buffs from the target.",
             "books": [
@@ -51,6 +57,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Soul Link",
             "description": " Heals the Ally with the lowest HP by 25%, then equalizes the HP levels of all allies.",
             "books": [
@@ -64,6 +71,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Dungeons by 25%.",
             "books": []

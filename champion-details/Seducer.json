@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 2.4 DEF"
+            ],
             "abilityname": "Lulling Touch",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [Sleep] debuff for 1 turn.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.6 DEF"
+            ],
             "abilityname": "Disorienting Blast",
             "description": " Attacks all enemies. Has a 75% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
             "books": [
@@ -52,6 +58,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Twisted Devotion",
             "description": " Places a 30% [Increase DEF] buff on all allies for 2 turns and a [Block Debuffs] buff on all allies for 2 turns.",
             "books": [
@@ -62,6 +69,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Selfless Partner",
             "description": " Places a 50% [Ally Protection] buff on all allies for 2 turns. Places a [Block Damage] buff on this Champion for 1 turn. [Only available when Temptress is on the same team]",
             "books": [
@@ -72,6 +80,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in all Battles by 25%.",
             "books": []

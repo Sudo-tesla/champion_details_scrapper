@@ -24,6 +24,9 @@
                 "ATK",
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 1.5 ATK + 2.7 DEF"
+            ],
             "abilityname": "Shatter",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a [Freeze] debuff for 1 turn.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 4 DEF"
+            ],
             "abilityname": "Subjugate",
             "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff on all enemies for 2 turns. Also has a 55% chance of decreasing each target’s Turn Meter by 20%.",
             "books": [
@@ -53,6 +59,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 1.65 DEF"
             ],
             "abilityname": "Intimidate",
             "description": " Attacks at random 4 times. Each attack has a 30% chance of placing a [Block Active Skills] debuff for 2 turns. The chance of the [Block Active Skills] debuff increases to 100% if the target is under a [Decrease ATK] debuff.",

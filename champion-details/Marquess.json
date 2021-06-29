@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 5 DEF"
+            ],
             "abilityname": "Disdainful Swipe",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
             "books": [
@@ -36,6 +39,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 4.6 DEF"
             ],
             "abilityname": "Crush the Weak",
             "description": " Attacks all enemies. Has a 35% chance of placing a 15% [Weaken] debuff for 2 turns. Deals extra damage to enemies with the [Weaken] debuff.",
@@ -53,6 +59,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 6.5 DEF"
+            ],
             "abilityname": "Freeze Solid",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [Freeze] debuff for 1 turn.",
             "books": [
@@ -69,6 +78,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in Faction Crypts by 15%.",
             "books": []

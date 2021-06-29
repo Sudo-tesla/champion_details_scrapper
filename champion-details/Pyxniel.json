@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3 ATK"
+            ],
             "abilityname": "Mistress of Glamours",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [Veil] buff on a random ally for 1 turn. Cannot place the [Veil] buff on this Champion.",
             "books": [
@@ -40,6 +43,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.3 ATK"
+            ],
             "abilityname": "Grip of Winter",
             "description": " Places a 60% [Increase DEF] buff and a 15% [Continuous Heal] buff on all allies for 2 turns, then attacks all enemies under [Freeze] debuff. Places a 25% [Weaken] debuff for 2 turns on all enemies under [Freeze] debuff.",
             "books": [
@@ -51,6 +57,9 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [
+                " Multiplier: 2 ATK"
+            ],
             "abilityname": "Icicle Barrage",
             "description": " Attacks 5 times at random. Each hit has a 30% chance of placing a [Freeze] debuff for 1 turn. Has a 100% chance of placing a [Freeze] debuff on enemies that receive 2 hits.",
             "books": [
@@ -69,6 +78,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Frostweaver",
             "description": " Whenever an enemy places a [Freeze] debuff on an ally, has a 20% chance of stealing the [Freeze] debuff and placing it on this Champion instead. Has a 25% chance of filling this Champion’s Turn Meter by 25% every time they receive a [Freeze] debuff. Has a 35% chance of removing any [Freeze] debuff from this Champion at the start of every turn. If there are multiple Champions in the team with this Skill, only one will activate.",
             "books": [
@@ -81,6 +91,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally RESIST in Arena Battles by 80.",
             "books": []

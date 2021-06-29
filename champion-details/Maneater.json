@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 5.5 ATK"
+            ],
             "abilityname": "Pummel",
             "description": " Attacks 1 enemy. Places a 50% [Decrease ATK] debuff on all enemies if this attack is critical.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 8.2 ATK"
+            ],
             "abilityname": "Syphon",
             "description": " Attacks 1 enemy. Fully depletes the target’s Turn Meter. Fills this Champion’s Turn Meter equal to the amount the target loses.",
             "books": [
@@ -52,6 +58,9 @@
             "cd": 7,
             "mincd": 5,
             "dmgscaling": [],
+            "multiplier": [
+                " Multiplier: 0.05 HP * (5 – Dead Allies)"
+            ],
             "abilityname": "Ancient Blood",
             "description": " This Champion receives damage, then places an [Unkillable] buff and a [Block Debuffs] buff on all allies for 2 turns. Damage received is equal to 5% MAX HP for each alive ally.",
             "books": [
@@ -63,6 +72,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Dungeons by 33%.",
             "books": []

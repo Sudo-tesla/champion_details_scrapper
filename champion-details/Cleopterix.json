@@ -1,0 +1,88 @@
+{
+    "name": "Cleopterix",
+    "class": {
+        "faction": "Skinwalkers",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "14,535",
+        "atk": "1,531",
+        "def": "1,079",
+        "spd": "102",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: ? ATK"
+            ],
+            "abilityname": "Death Dive",
+            "description": " Attacks 1 enemy. Has a 30% Chance of placing a 25% [Weaken] debuff for 2 turns. The chance increases to 50% if the target is under a [Hex] debuff. Places a [Perfect Veil] buff on this champion for 1 turn if this attack kills an enemy under [Hex] debuff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: ? ATK"
+            ],
+            "abilityname": "Feather Barrage",
+            "description": " Places a 30% [Increase C.RATE] buff on this champion for 2 turns, then attacks all enemies. Has a 75% chance of placing a [Block Active Skills] debuff for 2 turns on targets under [Hex] debuffs.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff chance +10%",
+                "Level 4: Buff/Debuff chance +15%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: ? ATK"
+            ],
+            "abilityname": "Sky Punishment",
+            "description": " Places a 50% [Increase ACC] buff on this champion for 2 turns, then attacks all enemies. Has a 75% chance of placing a [Hex] debuff for 3 turns. Has a 100% chance of placing a [Fear] debuff for 1 turn instead on enemies under [Hex] debuffs.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff chance +10%",
+                "Level 5: Buff/Debuff chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Countermand",
+            "description": " Counterattacks with the default skill every time this Champion loses 30% HP or more in a single turn. Always counterattacks when attacked if 2 or more allies are dead.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Cleopterix.png"
+}

@@ -24,6 +24,9 @@
                 "ATK",
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.8 ATK + 0.08 HP"
+            ],
             "abilityname": "Crossup",
             "description": " Attacks 1 enemy 2 times. Has a 25% chance of placing a [Block Active Skills] debuff for 1 turn.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Undying Fury",
             "description": " Removes all debuffs from this Champion, then fully heals this Champion. Places a 30% [Reflect Damage] buff on this Champion for 2 turns.",
             "books": [
@@ -49,6 +53,9 @@
             "dmgscaling": [
                 "ATK",
                 "HP"
+            ],
+            "multiplier": [
+                " Multiplier: 2 ATK + 0.35 HP"
             ],
             "abilityname": "Overpower",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [Block Active Skills] debuff for 2 turns.",

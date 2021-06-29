@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.6 DEF"
+            ],
             "abilityname": "Curse of Blindness",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Cocoon",
             "description": " Places a 60% [Increase DEF] buff on this Champion for 2 turns. Heals this Champion by 20% of their MAX HP.",
             "books": [
@@ -47,6 +51,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 5.3 DEF"
             ],
             "abilityname": "Enervation",
             "description": " Attacks 1 enemy. Decreases the target’s Turn Meter by 100%. Places a 30% [Decrease SPD] debuff for 2 turns.",
@@ -62,6 +69,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in Faction Crypts by 27%.",
             "books": []

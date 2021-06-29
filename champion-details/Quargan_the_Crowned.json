@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Nature’s Cycle",
             "description": " Attacks 1 enemy. Has a 30% chance of increasing the duration of a random buff on a random ally by 1 turn.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Overgrowth",
             "description": " Heals all allies by 15% of their MAX HP and places a [Shield] buff equal to 15% of their MAX HP on all allies for 2 turns.",
             "books": [
@@ -51,6 +55,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Attunement",
             "description": " Places a [Perfect Veil] buff and a 50% [Increase ATK] buff for 2 turns on all allies whose ATK is higher than their DEF. Places a 60% [Increase DEF] buff for 2 turns and a [Block Debuffs] buff for 1 turn on all allies whose DEF is higher than their ATK.",
             "books": [

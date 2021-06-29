@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.1 ATK"
+            ],
             "abilityname": "Ensorcelled Axe",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 1.8 ATK"
             ],
             "abilityname": "Fey Protection",
             "description": " Attacks 1 enemy 3 times. Each hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns if the target is under a [Heal Reduction] debuff. Places a [Shield] buff on this Champion for 3 turns equal to 30% of the damage inflicted.",
@@ -54,6 +60,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Paranoia",
             "description": " Places a [Counterattack] buff on this Champion for 1 turn at the start of each Round. Places a [Counterattack] buff on this Champion for 1 turn at the end of their turn.",
             "books": []
@@ -62,6 +69,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Dungeons by 32%",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.75 ATK"
+            ],
             "abilityname": "Oppression",
             "description": " [Active Effect] Attacks 1 enemy. Has a 75% chance of placing a [Fear] debuff for 1 turn. Has a 75% chance of increasing the duration of any [Poison Sensitivity] debuffs by 1 turn.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Siren’s Wail",
             "description": " Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff for 2 turns Also places a 25% [Strengthen] buff and a 30% [Increase SPD] buff on all allies for 2 turns.",
             "books": [
@@ -53,6 +59,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 3.2 ATK"
             ],
             "abilityname": "Nullification",
             "description": " Attacks 1 enemy 2 times. The first hit has a 75% chance of placing a 25% [Poison Sensitivity] debuff for 2 turns. The second hit has a 75% chance of placing a [Block Buffs] and [Block Active Skills] debuff or 2 turns.",
@@ -70,6 +79,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Death Hold",
             "description": " Denies enemy revive attempts. This works even if this Champion is dead. If this Champion is alive when an enemy revives is denied, revives all dead allies with 50% HP and 50% Turn Meter. Grants an Extra Turn instead if there are no dead allies. If this Champion is dead when enemy revive is denied, revives this Champion with 50% HP and 50% Turn Meter. This skill will ignore [Block Revive].",
             "books": [
@@ -81,6 +91,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally RESIST in Arena Battles by 100.",
             "books": []

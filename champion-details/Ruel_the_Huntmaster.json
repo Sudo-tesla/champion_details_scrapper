@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.2 ATK"
+            ],
             "abilityname": "Vile Arrows",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Transfers a random debuff from this Champion to the target if the target is under a [Hex] debuff.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3 ATK"
+            ],
             "abilityname": "Unleash the Hunt",
             "description": " Attacks all enemies. Places an extra hit on enemies under [Hex] debuffs. Will ignore 25% of each target’s DEF if there are 4 or more enemies are under [Hex] debuffs.",
             "books": [
@@ -52,6 +58,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Stalk Prey",
             "description": " Places a 50% [Increase ACC] buff on allies for 2 turns, then places a [Hex] debuff on all enemies for 2 turns. Also places a [Perfect Veil] buff on this Champion for 2 turns and fills this Champion Turn Meter by 50%.",
             "books": [
@@ -65,6 +72,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Marked Quarry",
             "description": " Decreases the speed of enemies under [Hex] debuffs by 5% and decreases the RES of those enemies by 10%. Also increases the damage enemies under [Hex] debuffs receive by 10% and decreases the value of heals they receive by 30%. These effects do not stack if there are multiple Ruel the Huntmaster on the same team.",
             "books": []
@@ -73,6 +81,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally C.RATE in all battles by 20%",
             "books": []

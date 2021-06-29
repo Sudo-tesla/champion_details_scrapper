@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.15 HP"
+            ],
             "abilityname": "Thunderous Whallop",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Provoke] debuff for 1 turn if the target’s MAX HP is lower than this Champions.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Hold Fast",
             "description": " Places a 60% [Increase DEF] buff on this Champion for 2 turns. Grants an Extra Turn.",
             "books": [
@@ -46,6 +50,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Covered Retreat",
             "description": " Places a [Veil] buff on all allies except this Champion for 2 turns.",
             "books": [

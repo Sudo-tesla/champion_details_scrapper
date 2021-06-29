@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.7 ATK"
+            ],
             "abilityname": "High Stance",
             "description": " Attacks 1 enemy 2 times. Places an extra hit if this attack is critical. Puts one of target’s skills on full cooldown if the first hit is critical and the target is under a [Weaken] debuff. Increases the cooldown of one of the target’s skills by 2 turns if the first hit is critical and the target is not under a [Weaken] debuff.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 2,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 2.1 ATK"
             ],
             "abilityname": "Pincer Attack",
             "description": " Attacks 3 times at random. Each hit has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
@@ -54,6 +60,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 6.4 ATK"
+            ],
             "abilityname": "Capture",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [Freeze] debuff for 1 turn and a [Block Active Skills] debuff for 2 turns.",
             "books": [
@@ -67,6 +76,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally C.RATE in the Arena by 27%.",
             "books": []

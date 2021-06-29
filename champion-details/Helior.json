@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.2 DEF"
+            ],
             "abilityname": "Sunshine Halberd",
             "description": " Attacks 1 enemy. Increases this champion’s DEF by 5% if this attack is Critical (Stacks up to 20%). Will also heal this champion by 75% of their DEF after attacking if their DEF has already increased by 20%.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3 DEF"
+            ],
             "abilityname": "Solar Blessing",
             "description": " Attacks all enemies. Places a [Shield] buff on all allies for 2 turns equal to 20% of the damage inflicted.",
             "books": [
@@ -52,6 +58,7 @@
             "cd": 5,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Harsh Light",
             "description": " Transfers all debuffs from all allies to a target enemy, then attacks that enemy with the default skill. Converts this Champion’s RES into additional ACC when using this skill.",
             "books": [
@@ -65,6 +72,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Intercessor",
             "description": " Whenever an ally that has 2 or more debuffs is attacked, this Champion will absorb 30% of the damage inflicted on that ally.",
             "books": []
@@ -73,6 +81,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally RESIST in all Battles by 60.",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.15 HP"
+            ],
             "abilityname": "Gears of Gore",
             "description": " Attacks 1 enemy. Places a 7.5% [Continuous Heal] buff on this Champion for 1 turn if this attack is critical.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 5,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Healing Splatter",
             "description": " Heals all allies by 15% of their MAX HP.",
             "books": [
@@ -52,6 +56,7 @@
             "cd": 7,
             "mincd": 5,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Necrocogs",
             "description": " Revives a dead ally with 50% HP and 50% Turn Meter.",
             "books": [
@@ -63,6 +68,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Faction Crypts by 25%.",
             "books": []

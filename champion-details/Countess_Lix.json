@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.6 ATK"
+            ],
             "abilityname": "Festering Caress",
             "description": " Attacks 1 enemy 2 times. Has a 30% chance of placing a 25% [Weaken] debuff for 2 turns.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.15 ATK"
+            ],
             "abilityname": "Mire of Misery",
             "description": " Attacks all enemies 3 times. Each hit has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Each hit also has a 75% chance of decreasing the enemy’s Turn Meter by 10%.",
             "books": [
@@ -52,6 +58,9 @@
             "mincd": 5,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
             ],
             "abilityname": "Time Dilation",
             "description": " Attacks all enemies. Has a 75% chance of placing a [Block cooldown Skills] debuff for 2 turns. Also decreases the cooldowns of all ally skills, except this champion’s, by 1 turn.",
@@ -69,6 +78,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Unredeemed",
             "description": " Removes one random debuff from Astralon and this champion at the start of each turn. Only available if Astralon is on the team.",
             "books": []
@@ -79,6 +89,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Channel Woe",
             "description": " Fills this champion’s Turn Meter by 5% each time an ally receives a debuff.",
             "books": []

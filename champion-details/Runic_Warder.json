@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.1 HP"
+            ],
             "abilityname": "Twin Chops",
             "description": " Attacks 1 enemy 2 times.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "HP"
+            ],
+            "multiplier": [
+                " Multiplier: 0.15 HP"
             ],
             "abilityname": "Superior Steel",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
@@ -53,6 +59,7 @@
             "cd": 5,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Rune of Outlasting",
             "description": " Places a 15% [Reflect Damage] buff and a 7.5% [Continuous Heal] buff on all allies for 2 turns.",
             "books": [

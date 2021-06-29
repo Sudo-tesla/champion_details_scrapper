@@ -24,6 +24,9 @@
                 "ATK",
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 1.5 ATK + 0.15 HP"
+            ],
             "abilityname": "Club",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Provoke] debuff for 1 turn. Damage increases according to this Champion’s MAX HP.",
             "books": [
@@ -38,6 +41,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Hunker Down",
             "description": " Fills the Turn Meter by 50%. Places a 60% [Increase DEF] buff on this Champion for 3 turns.",
             "books": [
@@ -49,6 +53,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 4.5 ATK"
             ],
             "abilityname": "Bellow",
             "description": " Attacks all enemies. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 1 turn.",
@@ -65,6 +72,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally C.RATE in the Arena by 16%.",
             "books": []

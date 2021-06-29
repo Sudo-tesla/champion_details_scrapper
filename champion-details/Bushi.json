@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: ATK * (2.9 + 0.4 * SKILL USED)"
+            ],
             "abilityname": "Rising Storm",
             "description": " Attacks 1 enemy. Damage inflicted increases each time this skill is used. Stacks up to 4 times.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 7 ATK"
             ],
             "abilityname": "Deadly Edge",
             "description": " Attacks 1 enemy. This attack is always critical. Places a 30% [Increase C.RATE] buff and a 15% [Increase SPD] buff on this Champion for 3 turns.",
@@ -53,6 +59,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Unbending",
             "description": " Revives this Champion with 30% HP. Places an [Unkillable] buff on this Champion for 1 turn.",
             "books": [
@@ -64,6 +71,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Arena",
             "description": " Increases Ally SPD in the Arena by 20%.",
             "books": []

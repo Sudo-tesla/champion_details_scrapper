@@ -21,6 +21,9 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [
+                " Multiplier: 3.7 ATK"
+            ],
             "abilityname": "Crusade",
             "description": " Attacks 1 enemy. Grants an Extra Turn if the target is killed.",
             "books": [
@@ -34,6 +37,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Surging Strength",
             "description": " Places a 50% [Increase ATK] buff on this Champion for 4 turns. Grants an Extra Turn.",
             "books": [
@@ -45,6 +49,7 @@
             "cd": 0,
             "mincd": -2,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Ageless Endurance",
             "description": " When hit by an enemy, places a 15% [Continuous Heal] buff on this Champion for 2 turns.",
             "books": [
@@ -56,6 +61,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Campaign by 40%",
             "books": []

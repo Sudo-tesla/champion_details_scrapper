@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3 ATK"
+            ],
             "abilityname": "Tear",
             "description": " Attacks 1 enemy. Has a 15% chance of putting the target’s skills on cooldown.",
             "books": [
@@ -38,6 +41,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 5.1 ATK"
             ],
             "abilityname": "Hunter’s Mark",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 25% [Weaken] debuff for 1 turn.",
@@ -56,6 +62,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.5 ATK"
+            ],
             "abilityname": "Chilling Howl",
             "description": " Attacks all enemies. Has a 50% chance of placing a [Freeze] debuff for 1 turn. [Only available when Hound Spawn is on the same team]",
             "books": [
@@ -71,6 +80,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Dungeons by 21%.",
             "books": []

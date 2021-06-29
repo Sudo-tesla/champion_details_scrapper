@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.5 DEF"
+            ],
             "abilityname": "Drake’s Swiftness",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Also has a 30% chance of decreasing the target’s Turn Meter by 15%.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 1.55 DEF"
+            ],
             "abilityname": "Wingbeat Flurry",
             "description": " Attacks all enemies 2 times. Each hit has a 20% chance of placing a [Stun] debuff for 1 turn.",
             "books": [
@@ -52,6 +58,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Phoenix Rite",
             "description": " Revives an ally with 50% HP and places a 50% [Ally Protection] buff on them for 2 turns.",
             "books": [
@@ -65,6 +72,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Boundless Life",
             "description": " Heals all allies by 10% of their MAX HP at the start of each turn. Also places a 30% [Increase SPD] buff on a random ally for 2 turns.",
             "books": []

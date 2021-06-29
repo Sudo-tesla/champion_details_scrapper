@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.9 ATK"
+            ],
             "abilityname": "Destabilize",
             "description": " Attacks 1 enemy 2 times. Has a 35% chance of placing a 15% [Weaken] debuff for 2 turns.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 6.5 ATK"
+            ],
             "abilityname": "Accursed Scythe",
             "description": " Attacks 1 enemy. Has a 80% chance of placing a [Block Buffs] debuff for 2 turns.",
             "books": [
@@ -54,6 +60,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 7.5 ATK"
             ],
             "abilityname": "Temporal Burst",
             "description": " Attacks 1 enemy. Has a 90% chance of increasing the cooldown of one of the target’s Skills by 2 turns at random.",

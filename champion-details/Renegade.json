@@ -24,6 +24,9 @@
                 "ATK",
                 "SPD"
             ],
+            "multiplier": [
+                " Multiplier: 1.2 ATK + SPD"
+            ],
             "abilityname": "Lingering Pain",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 100% [Heal Reduction] debuff for 1 turn.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.8 ATK"
+            ],
             "abilityname": "Lash Out",
             "description": " Attacks at random 3 times. Has a 50% chance of placing a 15% [Decrease SPD] debuff for 2 turns. Places a 25% [Decrease ACC] debuff for 2 turns if the target has any active buffs.",
             "books": [
@@ -52,6 +58,9 @@
             "cd": 7,
             "mincd": 5,
             "dmgscaling": [],
+            "multiplier": [
+                " Multiplier: 0.3 HP"
+            ],
             "abilityname": "Sacrificial Ritual",
             "description": " Decreases the cooldown of all ally skills by 2 turns. This skill does not affect this Champion, or other Champion’s with this skill. This Champion will receive damage equal to 30% of their MAX HP. This will happen even if it kills the Champion.",
             "books": [
@@ -63,6 +72,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally RESIST in all Battles by 40.",
             "books": []

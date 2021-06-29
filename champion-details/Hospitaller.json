@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Quick Slash",
             "description": " Attacks 1 enemy.",
             "books": [
@@ -36,6 +39,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 2.5 ATK"
             ],
             "abilityname": "Wave of Purification",
             "description": " Attacks all enemies. Has a 50% chance of removing 1 random buff from each target.",
@@ -52,6 +58,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Invigorating Prayers",
             "description": " Places a 15% [Increase SPD] and a 15% [Increase C.RATE] buff on all allies for 2 turns.",
             "books": [
@@ -64,6 +71,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Merciful Partner",
             "description": " Revives a random ally with 25% HP and places a [Block Damage] buff on them for 1 turn whenever Harrier kills an enemy. [Only available when Harrier is on the same team]",
             "books": []
@@ -72,6 +80,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally SPD in all battles by 10%.",
             "books": []

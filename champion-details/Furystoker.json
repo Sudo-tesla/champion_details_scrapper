@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.3 ATK"
+            ],
             "abilityname": "Crush",
             "description": " Attacks 1 enemy. Has a 15% chance of placing an extra hit.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 3,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Remedy",
             "description": " Removes all debuffs from a target ally. Heals the target by 20%. The heal increases according to the amount of debuffs removed.",
             "books": [
@@ -51,6 +55,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Forest Kin",
             "description": " Heals the ally with the lowest HP by 7.5% each turn. This heal can be critical. Will not heal this Champion.",
             "books": []

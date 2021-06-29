@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.2 ATK"
+            ],
             "abilityname": "Split Arrow",
             "description": " Attacks 1 enemy 2 times. Each critical hit fills this Champion’s Turn Meter by 5%.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 3.9 ATK"
             ],
             "abilityname": "Projectile Burst",
             "description": " Attacks all enemies. Each critical hit boosts this Champion’s Turn Meter by 15%.",
@@ -54,6 +60,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Agony Bonds",
             "description": " Each critical hit heals this Champion by 15% of the damage inflicted.",
             "books": []
@@ -62,6 +69,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally C.RATE in all Battles by 19%",
             "books": []

@@ -24,6 +24,9 @@
                 "ATK",
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 2.9 ATK + 2.1 DEF"
+            ],
             "abilityname": "Paralyzing Bite",
             "description": " Attacks 1 enemy. Places a [Sleep] debuff on the target for 1 turn when hit with a critical hit.",
             "books": [

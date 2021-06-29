@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 2.65 DEF"
+            ],
             "abilityname": "Flaming Pigsticker",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Has a 30% chance of placing a [Stun] debuff for 1 turn instead of counterattacking with this skill.",
             "books": [
@@ -41,6 +44,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3 DEF"
+            ],
             "abilityname": "Hulking Tantrum",
             "description": " Attacks all enemies. Has a 50% chance of placing a [Provoke] debuff for 1 turn. Places a 60% [Increase DEF] buff on this champion for 2 turns.",
             "books": [
@@ -57,6 +63,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Giant Strength",
             "description": " Places a 25% [Strengthen] buff and a 15% [Continuous Heal] buff on all allies for 2 turns.",
             "books": [
@@ -69,6 +76,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Master of Taunts",
             "description": " Receives 20% less damage from enemies under [Provoke] debuffs. Has a 25% chance of counterattacking whenever an enemy under a [Provoke] debuff attack either this champion or an ally.",
             "books": [
@@ -83,6 +91,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in the Doom Tower by 30%",
             "books": []

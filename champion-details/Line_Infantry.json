@@ -24,6 +24,9 @@
                 "DEF",
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.65 DEF + 2.2 ATK"
+            ],
             "abilityname": "Spear Goad",
             "description": " Attacks 1 enemy. Has a 10% chance of placing a [Provoke] debuff for 1 turn.",
             "books": [
@@ -40,6 +43,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 2 DEF"
             ],
             "abilityname": "Rabble Rouser",
             "description": " Attacks 2 times at random. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",

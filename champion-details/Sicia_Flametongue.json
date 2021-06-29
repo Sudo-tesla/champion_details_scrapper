@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.05 ATK"
+            ],
             "abilityname": "Towering Inferno",
             "description": " Attacks 1 enemy 3 times. Each hit has a 15% chance of increasing the duration of [HP Burn] debuffs on the target by 1 turn.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 3.7 ATK"
             ],
             "abilityname": "Flame Eruption",
             "description": " Attacks all enemies. Has an 80% chance of placing a 25% [Weaken] debuff for 2 turns. Also has an 80% chance of placing a 60% [Decrease DEF] debuff for 2 turns if there are a least 2 enemies under [HP Burn] debuffs. Then instantly activates any [HP Burn] debuffs on each target and decreases the duration of those [HP Burn] debuffs by 1 turn.",
@@ -54,6 +60,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.5 ATK"
+            ],
             "abilityname": "Firestorm Rite",
             "description": " Places a [HP Burn] debuff on this champion for 3 turns, then attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff on all enemies for 3 turns. Grants an Extra Turn if a [HP Burn] debuff is placed on all enemies.",
             "books": [
@@ -70,6 +79,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Metaphysics",
             "description": " Increases this champion’s SPD by 3 and damage inflicted by 3% for each ally and enemy under a [HP Burn] debuff. If Cardiel is on the team, all allies will heal by 3% of their MAX HP from [HP Burn] debuffs instead of receiving damage and losing HP.",
             "books": [
@@ -82,6 +92,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ACC in all Battles by 60",
             "books": []

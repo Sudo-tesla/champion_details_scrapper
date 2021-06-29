@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.4 ATK"
+            ],
             "abilityname": "Insidious Arrow",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a 25% [Poison Sensitivity] debuff for 2 turns.",
             "books": [
@@ -40,6 +43,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 5.5 ATK"
+            ],
             "abilityname": "Soul Fire",
             "description": " Places a 50% [Increase ACC] buff and a 50% [Increase ATK] buff on this Champion for 2 turns, then attacks 1 enemy. Places a [HP Burn] debuff for 2 turns if this attack is critical.",
             "books": [
@@ -56,6 +62,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Shower of Misery",
             "description": " Attacks all enemies. Has a 50% chance of increasing the duration of all debuffs by 1 turn",
             "books": [
@@ -71,6 +80,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Sureshot",
             "description": " Immune to [Decrease ACC] debuffs. Increases this Champion’s C.RATE by 0.05% for every point of ACC they have.",
             "books": []
@@ -79,6 +89,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increase Ally ACC in all Battles by 40.",
             "books": []

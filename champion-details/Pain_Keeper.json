@@ -24,6 +24,9 @@
                 "DEF",
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: DEF + ATK"
+            ],
             "abilityname": "Unflagging Advance",
             "description": " Attacks 1 enemy 2 times. Fills this Champion’s Turn Meter by 10%.",
             "books": [
@@ -41,6 +44,9 @@
                 "HP",
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 0.12 HP + 2 ATK"
+            ],
             "abilityname": "Spectacular Sweep",
             "description": " Attacks all enemies, then heals all allies by 15% of this Champion’s MAX HP.",
             "books": [
@@ -57,6 +63,7 @@
             "cd": 7,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Combat Tactics",
             "description": " Decreases the cooldown of all allies skills by 1 turn.",
             "books": [
@@ -69,6 +76,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Faction Crypts by 21%.",
             "books": []

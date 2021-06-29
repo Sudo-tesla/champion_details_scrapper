@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2 ATK"
+            ],
             "abilityname": "Axe Frenzy",
             "description": " Attacks 1 enemy 2 times. Has an 80% chance of ignoring 15% of the target’s DEF if this Champion has 50% HP or higher. Has a 10% chance of placing a [Stun] debuff for 1 turn if this Champion has less than 50% HP.",
             "books": [
@@ -40,6 +43,7 @@
             "cd": 7,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Dwarven Fortitude",
             "description": " Places an [Unkillable] buff on this Champion for 2 turns.",
             "books": [
@@ -54,6 +58,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Hatchets For All",
             "description": " Has a 5% chance of counterattacking when hit. Has a 25% chance of counterattacking when hit with a critical hit.",
             "books": [

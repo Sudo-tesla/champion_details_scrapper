@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 1.5 DEF"
+            ],
             "abilityname": "Hefty Flail",
             "description": " Attacks 1 enemy 2 times. Each hit has a 15% chance of placing a 15% [Weaken] debuff for 2 turns.",
             "books": [
@@ -39,6 +42,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 5.5 DEF"
             ],
             "abilityname": "Meteoric Ignition",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff for 2 turns.",
@@ -58,6 +64,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Punishing Defenses",
             "description": " When attacked, has a 30% chance of extending the duration of all debuffs on the attacker by 1 turn.",
             "books": []
@@ -66,6 +73,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in all Battles by 17%",
             "books": []

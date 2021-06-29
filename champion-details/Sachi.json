@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.65 ATK"
+            ],
             "abilityname": "Sickle Sweep",
             "description": " Attacks all enemies. Has a 40% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 2,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 4.7 ATK"
             ],
             "abilityname": "Hear Pierce",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease C.RATE] debuff and a [Leech] debuff for 2 turns.",
@@ -55,6 +61,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.9 ATK"
+            ],
             "abilityname": "Shadow Ambush",
             "description": " Places a 50% [Increase ATK] buff on all allies for 2 turns, then attacks 1 enemy. Fills the Turn Meters of all allies by 20% if this attack is critical.",
             "books": [
@@ -71,6 +80,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "False Death",
             "description": " Revives a random ally with 30% HP whenever this Champion kills an enemy. Has a 50% chance of placing [Fear] debuff on all the enemies for 1 turn whenever an ally is revived.",
             "books": []

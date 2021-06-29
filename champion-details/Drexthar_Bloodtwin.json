@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 1 DEF"
+            ],
             "abilityname": "Eldritch Flames",
             "description": " Attacks 1 enemy 3 times. Has a 30% chance of placing an [HP Burn] for 2 turns. Heals this Champion by 20% of the damage inflicted if the target is afflicted by a [HP Burn] debuff.",
             "books": [
@@ -36,6 +39,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 5.2 DEF"
             ],
             "abilityname": "Burning Lash",
             "description": " Attacks all enemies. Has a 40% chance of placing a [Provoke] debuff for 1 turn. This chance increases to 100% if the target is under a [HP Burn] debuff. Also places places a 50% Decrease",
@@ -54,6 +60,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Fiery Blood",
             "description": " Has a 55% chance of placing a [HP Burn] debuff for 2 turns on the attacker when hit. This Champion’s RES increases by 10 for every enemy under a [HP Burn] debuff. Stacks up to 50.",
             "books": [
@@ -66,6 +73,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ACC in all Battles by 70.",
             "books": []

@@ -1,0 +1,96 @@
+{
+    "name": "Venomage",
+    "class": {
+        "faction": "Lizardmen",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "17,175",
+        "atk": "1,002",
+        "def": "1,156",
+        "spd": "96",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "15"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: ? ATK"
+            ],
+            "abilityname": "Toxicity",
+            "description": " Attacks 1 enemy 2 times. Decreases the targets MAX HP by 75% of the damage inflicted if they are under [Heal Reduction] debuff. Each hit has a 35% chance of activating up to two Poison debuffs on the target.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff chance +5%",
+                "Level 5 Buff/Debuff chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: ? ATK"
+            ],
+            "abilityname": "Neurotoxin",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns if the target is under a [Poison] debuff.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff chance +10%",
+                "Level 4: Buff/Debuff chance +15%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: ? ATK"
+            ],
+            "abilityname": "Fleshmelter Venom",
+            "description": " Attacks all enemies. Has a 75% chance of placing a 100% [Heal Reduction] debuff for 3 turns. Also has a 75% chance of placing two 5% [Poison] debuffs for 2 turns.",
+            "books": [
+                "Level 2: Damage + 10%",
+                "Level 3: Buff/Debuff chance +10%",
+                "Level 4: Buff/Debuff chance +15%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Pain Writhe",
+            "description": " Enemies under [Heal Reduction] debuffs inflict 15% less damage.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ACC in all Battles by 45",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Venomage.png"
+}

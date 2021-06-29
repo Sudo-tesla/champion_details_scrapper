@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.5 ATK"
+            ],
             "abilityname": "Sly Slice",
             "description": " Attacks 1 enemy. Has a 30% chance of stealing 1 random buff from the target.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.4 ATK"
+            ],
             "abilityname": "Flying Daggers",
             "description": " Attacks 4 times at random. Each hit has a 50% chance of placing a [Leech] debuff for 2 turns.",
             "books": [
@@ -53,6 +59,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Vicious Partner",
             "description": " Places a 50% [Increase ATK] and a 30% [Increase C.RATE] buff on this Champion for 2 turns. Grants an Extra Turn when Seducer is on the same team.",
             "books": [

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.26 DEF"
+            ],
             "abilityname": "Repel Intruders",
             "description": " Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 3.4 DEF"
             ],
             "abilityname": "Hallowed Ground",
             "description": " Attacks all enemies, then places a 30% [Increase DEF] buff on all allies for 2 turns.",
@@ -53,6 +59,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 6.3 DEF"
             ],
             "abilityname": "False Bravado",
             "description": " Attacks 1 enemy. Has a 70% chance of placing a [Provoke] debuff for 1 turn.",

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.65 ATK"
+            ],
             "abilityname": "Virulent Cleaver",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a 5% [Poison] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 3 ATK"
             ],
             "abilityname": "Hungering Plague",
             "description": " Attacks 1 enemy 2 times. Each hit has a 50% chance of placing a 5% [Poison] debuff for 2 turns.",
@@ -55,6 +61,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 5.9 ATK"
+            ],
             "abilityname": "Rot From Within",
             "description": " Attacks 1 enemy. Damage increases by 25% against targets under [Poison] debuffs.",
             "books": [
@@ -69,6 +78,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ACC in all Battles by 40",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.8 ATK"
+            ],
             "abilityname": "Savagery",
             "description": " Attacks 1 enemy. Attacks 2 times if the target’s HP percentage is higher than this Champion’s.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 4.4 ATK"
             ],
             "abilityname": "Carnage",
             "description": " Attacks all enemies. Has a 25% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
@@ -54,6 +60,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 6.5 ATK"
+            ],
             "abilityname": "Dominate",
             "description": " Attacks 1 enemy. Has a 60% chance of placing a [Stun] debuff for 2 turns. Also has a 60% chance of placing 30% [Decrease DEF] debuff for 2 turns.",
             "books": [
@@ -67,6 +76,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally SPD in Faction Crypts by 13%.",
             "books": []

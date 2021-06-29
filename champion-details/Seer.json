@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.8 ATK"
+            ],
             "abilityname": "Knock Out",
             "description": " Attacks 1 enemy. Has a 15% chance of granting an Extra Turn.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Clan Banner",
             "description": " Places a 30% [Increase C.RATE] buff on all allies for 2 turns. Places a 25% [Weaken] debuff on all enemies for 2 turns.",
             "books": [
@@ -48,6 +52,10 @@
             "dmgscaling": [
                 "Enemy MAX HP"
             ],
+            "multiplier": [
+                " Multiplier (Boss): 0.1 Emax + 0.005 Emax * Buffs",
+                " Multiplier (Mobs): 0.1 Emax + 0.030 Emax * Buffs"
+            ],
             "abilityname": "Karma Burn",
             "description": " Removes all buffs from all allies and enemies, then attacks all enemies. Damage increases according to the number of buffs removed. Has a 50% chance of placing a [Sleep] debuff on all enemies for 1 turn. The chance of placing a [Sleep] debuff increases by 5% for each buff removed, inflicts less damage to Bosses.",
             "books": [
@@ -59,6 +67,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally RESIST in all Battles by 40.",
             "books": []

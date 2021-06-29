@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.7 DEF"
+            ],
             "abilityname": "Bring Hope",
             "description": " Attacks 1 enemy. Places a 7.5% [Continuous Heal] buff on the ally with the lowest HP for 1 turn.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Succor",
             "description": " Places a 15% [Continuous Heal] buff on all allies for 2 turns. Steal 1 buff from a random enemy.",
             "books": [
@@ -46,6 +50,7 @@
             "cd": 6,
             "mincd": 5,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Divine Benefaction",
             "description": " Places a [Shield] buff on all allies equal to 25% of their MAX HP for 2 turns. Places a 30% [Increase DEF] buff on this Champion for 2 turns.",
             "books": [
@@ -59,6 +64,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 1.4 DEF"
             ],
             "abilityname": "Stalwart Partner",
             "description": " Attacks all enemies 3 times. [Only available when Juliana is on the same team]",

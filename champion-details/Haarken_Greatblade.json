@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.3 ATK"
+            ],
             "abilityname": "Blooded Steel",
             "description": " Attacks 1 enemy. Places an extra hit if this attack is critical.",
             "books": [
@@ -36,6 +39,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 6.2 ATK"
             ],
             "abilityname": "Fearsome Iron Slab",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 25% [Weaken] debuff on the target for 2 turns before attacking.",
@@ -52,6 +58,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 5.5 ATK"
+            ],
             "abilityname": "Infectious Panic",
             "description": " Attacks 1 enemy. Applies a Debuff Spread effect, taking 2 random debuffs from the target and placing them on all enemies. Also extends the duration of those debuffs by 2 turns. Will not extend the duration of debuffs on the initial target.",
             "books": [
@@ -65,6 +74,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Doom Tower battles by 32%.",
             "books": []

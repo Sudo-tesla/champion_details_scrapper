@@ -24,6 +24,9 @@
                 "HP",
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 0.1 HP + ATK"
+            ],
             "abilityname": "Wallop",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Amok",
             "description": " Removes 1 random debuff from all allies. Places a 25% [Increase ATK] buff on all allies for 2 turns.",
             "books": [
@@ -49,6 +53,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Blood Burst",
             "description": " When healed, will attack all enemies inflicting damage proportional to any surplus heal. Damage inflicted is equal to 50% of any surplus heal.",
             "books": []
@@ -57,6 +62,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in all Battles by 16%.",
             "books": []

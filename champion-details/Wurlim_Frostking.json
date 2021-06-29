@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 4 DEF"
+            ],
             "abilityname": "Winds of Winter",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [Freeze] debuff for 1 turn. Places a [Perfect Veil] buff on the ally with the lowest HP for 2 turns if the [Freeze] debuff is placed. Places a [Veil] buff on the ally with the lowest HP for 1 turn if the [Freeze] debuff is not placed.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 4 DEF"
             ],
             "abilityname": "Frostbite Blast",
             "description": " Attacks all enemies. Has a 70% chance of placing a 30% [Decrease C.DMG] debuff for 2 turns and a 50% [Decrease ACC] debuff for 2 turns. These debuffs cannot be resisted. Places a 30% [Increase C.DMG] buff on all allies for 2 turns.",
@@ -53,6 +59,7 @@
             "cd": 5,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Icegrave Armor",
             "description": " Places a 25% [Strengthen] buff and a 60% [Increase DEF] buff on all allies for 2 turns.",
             "books": [
@@ -64,6 +71,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in Doom Tower battles by 40%.",
             "books": []

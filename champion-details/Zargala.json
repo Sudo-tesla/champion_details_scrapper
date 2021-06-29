@@ -23,8 +23,11 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                "\nMultiplier: 3 ATK"
+            ],
             "abilityname": "Split Apart",
-            "description": " Attacks 1 enemy. Has a 50% chance of placing a 25% [Weaken] debuff for 1 turn.",
+            "description": "\nAttacks 1 enemy. Has a 50% chance of placing a 25% [Weaken] debuff for 1 turn.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -38,8 +41,11 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                "\nMultiplier: 5.3 ATK"
+            ],
             "abilityname": "Devastate",
-            "description": " Attacks 1 enemy. Instantly activates the Crack Armor Skill if the target is killed by this attack.",
+            "description": "\nAttacks 1 enemy. Instantly activates the Crack Armor Skill if the target is killed by this attack.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -55,8 +61,11 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                "\nMultiplier: 1.2 ATK"
+            ],
             "abilityname": "Crack Armor",
-            "description": " Attacks all enemies 3 times. After the first hit, has a 50% chance of placing a 60% [Decrease DEF] debuff on all enemies for 2 turns.",
+            "description": "\nAttacks all enemies 3 times. After the first hit, has a 50% chance of placing a 60% [Decrease DEF] debuff on all enemies for 2 turns.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Buff/Debuff Chance +5%",
@@ -69,8 +78,9 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
-            "description": " Increases Ally ACC in all Battles by 40.",
+            "description": "\nIncreases Ally ACC in all Battles by 40.",
             "books": []
         }
     ],

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2 ATK"
+            ],
             "abilityname": "Cones of Cold",
             "description": " Attacks 2 times at random. Has a 15% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.2 ATK"
+            ],
             "abilityname": "Snow Flurry",
             "description": " Attacks 3 times at random. Places a 60% [Decrease DEF] debuff for 2 turns if the target has a [Heal Reduction] debuff.",
             "books": [
@@ -53,6 +59,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Arctic Winds",
             "description": " Places a 30% [Increase SPD] and a 50% [Increase ATK] buff on all allies for 2 turns.",
             "books": [
@@ -63,6 +70,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in Dungeons by 33%.",
             "books": []

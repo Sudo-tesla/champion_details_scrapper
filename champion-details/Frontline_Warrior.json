@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3 DEF"
+            ],
             "abilityname": "Wrath Hew",
             "description": " Attacks 1 enemy.",
             "books": [
@@ -35,6 +38,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Comrades in Arms",
             "description": " Places a 25% [Ally Protection] buff on the ally with the lowest HP for 2 turns. Grants an Extra Turn.",
             "books": [

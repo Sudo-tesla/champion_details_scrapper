@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3 ATK"
+            ],
             "abilityname": "Punish Hubris",
             "description": " Attacks 1 enemy. Places an extra hit if the target is under any buff.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.7 ATK"
+            ],
             "abilityname": "Butcher’s Glee",
             "description": " Attacks all enemies. Grants an Extra Turn and resets the cooldown of On the Hunt Skill if this attack kills an enemy.",
             "books": [
@@ -52,6 +58,7 @@
             "cd": 5,
             "mincd": 5,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "On the Hunt",
             "description": " Places a [Perfect Veil] buff, a 50% [Increase ATK] buff, a 30% [Increase SPD] buff, and a 30% [Increase C.DMG] buff on this Champion for 2 turns.",
             "books": []
@@ -62,6 +69,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "From the Shadows",
             "description": " [Passive Effect] Damage increases by 40% while attacking under a [Veil] or [Perfect Veil] buff. Receives 40% less damage while under a [Veil] or [Perfect Veil] buff. Also boosts this Champion’s Turn Meter by 15% each time this Champion receives damage under a [Veil] or [Perfect Veil] buff. Does not work if this Champion is the only alive ally on the team.",
             "books": [
@@ -72,6 +80,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally Attack in Arena by 33%",
             "books": []

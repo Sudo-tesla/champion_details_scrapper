@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2 ATK"
+            ],
             "abilityname": "Icebreaker",
             "description": " Attacks 1 enemy 2 times. Places an extra hit if the target has a [Freeze] debuff.",
             "books": [
@@ -35,6 +38,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Bonechiller",
             "description": " Removes 2 random buff from each enemy. Has a 80% chance of placing a [Freeze] debuff on all enemies for 1 turn. Grants an Extra Turn.",
             "books": [
@@ -49,6 +53,9 @@
             "mincd": 5,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 6 ATK"
             ],
             "abilityname": "Avalanche",
             "description": " Attacks 1 enemy. Places an extra hit if the target has a [Freeze] debuff.",
@@ -65,6 +72,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Frost Embrace",
             "description": " Has a 50% chance of placing a [Freeze] debuff on the attacker for 1 turn if this champion loses more than 20% of their MAX HP on one attack.",
             "books": []
@@ -73,6 +81,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Faction Crypts by 44%.",
             "books": []

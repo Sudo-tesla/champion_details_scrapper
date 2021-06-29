@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.6 ATK"
+            ],
             "abilityname": "Razing Hand",
             "description": " Attacks 1 enemy. Decreases [Bomb] debuff detonation countdowns by 1 turn.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 5,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 2.3 ATK"
             ],
             "abilityname": "Raining Fire",
             "description": " Attacks 3 times at random. Decreases [Bomb] debuff detonation countdowns by 1 turn.",
@@ -53,6 +59,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.2 ATK"
+            ],
             "abilityname": "Magma Blast",
             "description": " Attacks all enemies 2 times. Each hit has a 75% chance of placing a [Bomb] that detonates after 3 turns.",
             "books": [
@@ -68,6 +77,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Set Ablaze",
             "description": " Places two [Bomb] debuffs on each enemy that detonate after 2 turns when this Champion dies.",
             "books": []

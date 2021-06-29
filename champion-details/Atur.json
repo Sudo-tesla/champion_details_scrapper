@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 4.3 DEF"
+            ],
             "abilityname": "Roaring Leap",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a [Provoke] debuff for 1 turn.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 3.1 DEF"
             ],
             "abilityname": "Raging Bull",
             "description": " Attacks 2 times at random. Each hit has a 50% chance of placing a [Provoke] debuff for 1 turn.",
@@ -54,6 +60,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Adrenaline Rush",
             "description": " Heals this Champion by 15% of their MAX HP and places a [Counterattack] buff on this Champion for 2 turns when hit with a critical hit.",
             "books": [
@@ -66,6 +73,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Vigilant Partner",
             "description": " Immune to [Stun], [Freeze], and [Sleep] debuffs. [Only available when Kallia is on the same team]",
             "books": []

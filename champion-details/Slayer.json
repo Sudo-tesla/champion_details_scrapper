@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Vicious Strike",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.4 ATK"
+            ],
             "abilityname": "Frost Burst",
             "description": " Attacks all enemies.",
             "books": [
@@ -53,6 +59,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 6.2 ATK"
             ],
             "abilityname": "Debilitate",
             "description": " Attacks 1 enemy. Places a 5% [Poison] debuff for 2 turns. Has a 75% chance of placing a [Stun] debuff for 1 turn.",

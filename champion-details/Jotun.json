@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.22 HP"
+            ],
             "abilityname": "Brute Strength",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "HP"
+            ],
+            "multiplier": [
+                " Multiplier: 0.4 HP"
             ],
             "abilityname": "Burning Blade",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff for 4 turns.",
@@ -54,6 +60,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.43 HP"
+            ],
             "abilityname": "Sear Away",
             "description": " Attacks 1 enemy. Decreases the target’s MAX HP by 30% of the damage inflicted. Damage increases by 50% if the target is under a [HP Burn] debuff.",
             "books": [
@@ -67,6 +76,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in Faction Crypts by 29%.",
             "books": []

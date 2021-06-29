@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Necrotic Toxin",
             "description": " Attacks 1 enemy. Has a 45% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 6.2 ATK"
+            ],
             "abilityname": "Mark for Death",
             "description": " Attacks 1 enemy. Places a 25% [Weaken] debuff on the target for 3 turns if the target has a [Heal Reduction] debuff. This debuff cannot be resisted.",
             "books": [
@@ -51,6 +57,9 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Finisher",
             "description": " Attacks all enemies. Places a 50% [Increase ATK] buff on this Champion for 2 turns before attacking. If the target has a [Weaken] debuff, places a 60% [Decrease DEF] debuff on the target for 2 turns.",
             "books": [
@@ -64,6 +73,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Faction Crypts by 27%.",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.1 ATK"
+            ],
             "abilityname": "Crippling Blows",
             "description": " Attacks 1 enemy 3 times. Places a 30% [Decrease SPD] debuff on the target for 2 turns if this attack is critical.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.8 ATK"
+            ],
             "abilityname": "Death Burst",
             "description": " Attacks 1 enemy. Has a 70% chance of placing two 5% [Poison] debuffs on all enemies for 1 turn. If the hit is critical, has a 70% chance of placing four 5% [Poison] debuffs on all enemies for 1 turn.",
             "books": [
@@ -51,6 +57,7 @@
             "cd": 6,
             "mincd": 5,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Blight",
             "description": " Decreases the Turn Meter of all enemies with less than 50% HP by 100%. Has an 80% chance of placing a 50% [Decrease ATK] debuff on all enemies for 2 turns. Also has an 80% chance of placing a 60% [Decrease DEF] debuff on all enemies for 2 turns. Gets an Extra Turn if an enemy’s Turn Meter is decreased by this skill.",
             "books": [
@@ -64,6 +71,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in the Arena by 42%",
             "books": []

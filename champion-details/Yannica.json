@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.1 ATK"
+            ],
             "abilityname": "Even the Odds",
             "description": " Attacks 1 enemy 2 times. Each hit has a 50% chance of placing a [Leech] debuff for 2 turns. Attacks all enemies 2 times instead if this Champion is under a [Veil] buff.",
             "books": [
@@ -36,6 +39,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 7 ATK"
             ],
             "abilityname": "Baffling Speed",
             "description": " Attacks 1 enemy. Places a [Perfect Veil] buff on this Champion for 3 turns if this attack is critical. Grants an Extra Turn.",
@@ -51,6 +57,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.2 ATK"
+            ],
             "abilityname": "Elven Judgement",
             "description": " Attacks all enemies. Will ignore [Shield] buffs. Removes [Shield] buffs from targets if this Champion is under a [Veil] buff or [Perfect Veil] buff, then deals extra damage equal to 15% of the value of the removed [Shield] buffs.",
             "books": [
@@ -64,6 +73,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally Attack in all battles by 30%",
             "books": []

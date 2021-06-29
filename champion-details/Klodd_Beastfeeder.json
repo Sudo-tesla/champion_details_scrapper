@@ -21,6 +21,9 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [
+                " Multiplier: 0.24 HP"
+            ],
             "abilityname": "New Stabby Hand",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease C.RATE] debuff for 2 turns",
             "books": [
@@ -34,6 +37,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Get Behind Me",
             "description": " Places a [Shield] buff on all allies equal to 20% of this champion’s MAX HP for 2 turns.",
             "books": [
@@ -47,6 +51,7 @@
             "cd": 5,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Beast Escape",
             "description": " Places a 30% [Increase SPD] buff and a 50% [Increase ACC] buff on all allies for 2 turns.",
             "books": [
@@ -60,6 +65,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Delicious Giblets",
             "description": " Heals the ally with the lowest HP by 10% of their MAX HP at the start of this Champion’s turn.",
             "books": []

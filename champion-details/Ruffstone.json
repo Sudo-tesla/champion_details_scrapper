@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3 ATK"
+            ],
             "abilityname": "Round Up",
             "description": " Attacks all enemies.",
             "books": [
@@ -36,6 +39,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 4.8 ATK"
             ],
             "abilityname": "Tender Meat",
             "description": " Attacks 1 enemy. Decreases the target’s MAX HP by 15% of the damage inflicted.",
@@ -52,6 +58,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 3.1 ATK"
             ],
             "abilityname": "Slobbering Rush",
             "description": " Attacks 1 enemy. Will ignore 50% of the target’s DEF. Has a 50% chance of granting an Extra Turn if this attack is critical.",

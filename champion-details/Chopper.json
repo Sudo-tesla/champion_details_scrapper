@@ -24,6 +24,9 @@
                 "SPD",
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: (1 + SPD/75) ATK"
+            ],
             "abilityname": "Staggering Hit",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
             "books": [
@@ -39,6 +42,9 @@
             "mincd": 2,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 6.8 ATK"
             ],
             "abilityname": "Grapple",
             "description": " Attacks 1 enemy. Places a [Stun] debuff for 1 turn if the target’s current HP is lower than this Champion’s current HP.",
@@ -56,6 +62,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 8.1 ATK"
+            ],
             "abilityname": "Incapacitate",
             "description": " Attacks 1 enemy. Removes 2 random buffs from the target.",
             "books": [
@@ -69,6 +78,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ACC in the Arena by 40.",
             "books": []

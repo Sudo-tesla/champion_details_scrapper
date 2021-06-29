@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.1 HP"
+            ],
             "abilityname": "Meaty Fists",
             "description": " Attacks 1 enemy 2 times. Each hit has a 15% chance of placing a [Stun] debuff for 1 turn. Has a 50% chance of placing a 60% [Decrease DEF] for 1 turn if the [Stun] debuff is placed.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.2 HP"
+            ],
             "abilityname": "Lightning Storm",
             "description": " Attacks all enemies. Has a 50% chance of placing a [Stun] debuff for 1 turn. Places a [Shield] buff on all allies for 3 turns equal to 25% of the damage inflicted.",
             "books": [
@@ -51,6 +57,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "It’s Alive",
             "description": " Places a 50% [Ally Protection] buff on all allies except this Champion for 3 turns. Heals this Champion by 50% of their MAX HP. Places a 15% [Continuous Heal] buff on this Champion for 3 turns.",
             "books": [
@@ -64,6 +71,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Spooky Groan",
             "description": " Places a [Fear] debuff on the attacker for 1 turn whenever an ally is attacked while under an [Ally Protection] buff.",
             "books": []
@@ -72,6 +80,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in the Arena by 33%.",
             "books": []

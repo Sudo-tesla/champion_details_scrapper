@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 2.3 DEF"
+            ],
             "abilityname": "Bullying",
             "description": " Attacks 1 enemy.",
             "books": [

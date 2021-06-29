@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.7 ATK"
+            ],
             "abilityname": "Grave’s Grasp",
             "description": " Attacks 2 times at random. Each hit has a 35% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
             "books": [
@@ -39,6 +42,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.7 ATK"
+            ],
             "abilityname": "Numbing Chill",
             "description": " Attacks all enemies. Places a 50% [Decrease ATK] debuff for 2 turns. Also has a 50% chance of placing a [Block Active Skills] debuff for 2 turns.",
             "books": [
@@ -54,6 +60,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Fateful Arrival",
             "description": " Always goes first each Round. If multiple Hegemons are in battle, the Hegemon with the highest SPD will move first, followed by the next highest, and so on.",
             "books": []
@@ -62,6 +69,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally C.RATE in all Battles by 19%",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.8 ATK"
+            ],
             "abilityname": "Murderer’s Craft",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns before attacking. If 5 or more enemies are alive, does the following attack instead: Attacks all enemies. Places a 25% [Increase ATK] buff on this Champion for 2 turns before attacking.",
             "books": [
@@ -39,6 +42,9 @@
                 "ATK",
                 "Enemy MAX HP"
             ],
+            "multiplier": [
+                " Multiplier: 6.3 ATK"
+            ],
             "abilityname": "Ripe for Slaughter",
             "description": " Attacks 1 enemy. Then attacks all enemies inflicting damage equal to 15% of their MAX HP if the first hit kills an enemy. This second hit cannot be critical.",
             "books": [
@@ -53,6 +59,9 @@
             "mincd": 5,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 2.9 ATK"
             ],
             "abilityname": "Corrosive Smog",
             "description": " Attacks all enemies. Damage increases by 10% for each enemy alive. Stacks up to 100%.",

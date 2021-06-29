@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3.8 ATK"
+            ],
             "abilityname": "Purgatory",
             "description": " Attacks 1 enemy. Has a 30% chance of decreasing the target’s Turn Meter by 10%. Has a 60% chance instead if the target is under a [HP Burn] debuff.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Time’s Undoing",
             "description": " Has a 75% chance of decreasing the Turn Meters of all enemies by 15%. Fills the Turn Meters of all allies by 15%.",
             "books": [
@@ -50,6 +54,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Heavenly Flames",
             "description": " Has a 75% chance of placing a [HP Burn] debuff on all enemies for 2 turns. Places a 50% [Increase ATK] buff on all allies for 3 turns.",
             "books": [
@@ -63,6 +68,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ACC in all Battles by 40.",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 3.9 DEF"
+            ],
             "abilityname": "Charge",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
             "books": [
@@ -38,6 +41,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 1.7 DEF"
             ],
             "abilityname": "Taunt",
             "description": " Attacks 4 times at random. Each hit has a 25% chance of placing a [Provoke] debuff for 1 turn. Places a [Block Damage] buff on this Champion for 1 turn.",
@@ -55,6 +61,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Contempt",
             "description": " Attacks with this Champion’s default skill whenever an enemy places a debuff on this Champion.",
             "books": [
@@ -65,6 +72,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally RESIST in the Arena by 50.",
             "books": []

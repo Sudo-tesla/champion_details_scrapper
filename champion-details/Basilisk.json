@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 3 ATK"
+            ],
             "abilityname": "Whirling Axe",
             "description": " Attacks all enemies. Places a 25% [Increase ATK] buff on this Champion for 2 turns if this attack is critical.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 6.5 ATK"
             ],
             "abilityname": "Skullclobber",
             "description": " Attacks 1 enemy. Places a [Stun] debuff for 1 turn.",
@@ -53,6 +59,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Whitstand",
             "description": " Revives this Champion to 30% HP when killed and places a [Block Damage] buff for 1 turn.",
             "books": [

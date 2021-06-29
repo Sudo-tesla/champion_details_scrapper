@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.23 HP"
+            ],
             "abilityname": "Crystal Flesh",
             "description": " Attacks 1 enemy. Heals by 15% of the damage inflicted if this champion has 50% HP or less. Fills this Champion’s Turn Meter by 15% if he has more than 50% HP.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.3 HP"
+            ],
             "abilityname": "Emerald Curse",
             "description": " Attacks 1 enemy. Inflicts bonus damage equal to the difference in HP levels between this Champion and the target (+1% damage for every 1% difference). Inflicts bonus damage equal to the difference in the number of buffs on this champion and the target (+10% damage per buff).",
             "books": [
@@ -52,6 +58,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "HP"
+            ],
+            "multiplier": [
+                " Multiplier: 0.15 HP"
             ],
             "abilityname": "Boon Supervision",
             "description": " Attacks all enemies. Has an 80% chance of stealing 2 random buffs before attacking. Places an extra hit on enemies that have any buffs left.",
@@ -71,6 +80,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Diamond Skin",
             "description": " Passive Effect: Places a [Block Damage] Buff on this champion for 1 turn at the start of each round. Active Effect: Blocks incoming damage and places a [Block Damage] Buff on this champion for 1 turn when they receive a hit that would drop their HP below 30%",
             "books": []
@@ -79,6 +89,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in all Battles by 30%",
             "books": []

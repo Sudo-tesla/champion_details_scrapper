@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Scepter of Authority",
             "description": " Attacks 1 enemy. Has a 35% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,7 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Necro Mutation",
             "description": " Heals all allies by 20% of this Champion’s MAX HP. After healing, places a [Perfect Veil] buff for 2 turns on all allies with full HP. Places a 15% [Continuous Heal] buff for 1 turn instead on all allies with less than 100% HP.",
             "books": [
@@ -50,6 +54,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Spirit Form",
             "description": " Revives a single ally with 60% HP and fills their Turn Meter by 60%. Places a [Perfect Veil] buff on them for 3 turns.",
             "books": [
@@ -63,6 +68,7 @@
             "dmgscaling": [
                 "Paassive"
             ],
+            "multiplier": [],
             "abilityname": "Master of Ghosts",
             "description": " Whenever an ally under a [Veil] or [Perfect Veil] buff gets a turn, heals them by 10% of their MAX HP. Also increases the RES of allies under [Veil] or [Perfect Veil] buffs by 50. Will only increase RES once per ally if there are multiple Rectors on the team.",
             "books": []
@@ -71,6 +77,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally RESIST in Doom Tower battles by 55.",
             "books": []

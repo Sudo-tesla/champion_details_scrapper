@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 2.8 ATK"
+            ],
             "abilityname": "Arrow of Rebuke",
             "description": " Attacks 1 enemy. Removes 1 random debuff from this Champion and places it on the target.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 5.1 ATK"
             ],
             "abilityname": "Mass Impalement",
             "description": " Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -53,6 +59,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.5 ATK"
+            ],
             "abilityname": "Divine Wrath",
             "description": " Attacks all enemies. Damage inflicted is proportional to either this Champion’s ATK or the target’s DEF or ATK stat, whichever is highest. Deals an extra 30% C.DMG if the target’s ATK is highest. Ignores 30% of the target’s DEF if the target’s DEF is highest.",
             "books": [
@@ -66,6 +75,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Faction Crypts by 34%.",
             "books": []

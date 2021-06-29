@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 1.9 DEF"
+            ],
             "abilityname": "Mad Chopper",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "DEF"
+            ],
+            "multiplier": [
+                " Multiplier: 3.5 DEF"
             ],
             "abilityname": "Lunatic Outburst",
             "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns. Also has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns on each critical hit.",
@@ -53,6 +59,7 @@
             "cd": 6,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Shrieking Display",
             "description": " Places a [Provoke] debuff for 1 turn on the target enemy. Also has a 75% chance of placing a [Provoke] debuff for 1 turn on 2 random enemies. Places a 30% [Reflect Damage] buff on this champion for 2 turns and a [Unkillable] buff on this champion for 1 turn.",
             "books": [
@@ -64,6 +71,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increase Ally DEF in Faction Crypts by 31%",
             "books": []

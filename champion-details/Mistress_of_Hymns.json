@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4 ATK"
+            ],
             "abilityname": "Bolstering Blow",
             "description": " Attacks 1 enemy. Heals the ally with the lowest HP by 15% of the damage inflicted.",
             "books": [
@@ -38,6 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 5.7 ATK"
+            ],
             "abilityname": "Song of Triumph",
             "description": " Attacks 1 enemy. Places a 15% [Continuous Heal] buff on the 2 allies with the lowest HP for 2 turns if this attack is critical.",
             "books": [
@@ -52,6 +58,7 @@
             "cd": 6,
             "mincd": 5,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Hymn of Rebirth",
             "description": " Revives 2 random allies with 50% HP and places a [Veil] buff on them for 1 turn.",
             "books": [
@@ -62,6 +69,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in all Battles by 25%",
             "books": []

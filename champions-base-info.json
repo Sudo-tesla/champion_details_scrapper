@@ -751,6 +751,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Cillian_the_Lucky.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Cillian_the_Lucky.json?raw=true"
     },
+    "Cleopterix": {
+        "faction": "Skinwalkers",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Cleopterix.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Cleopterix.json?raw=true"
+    },
     "Coffin Smasher": {
         "faction": "Knight Revenant",
         "rarity": "Rare",
@@ -3031,6 +3039,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Peydma.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Peydma.json?raw=true"
     },
+    "Pharsalas Gravedirt": {
+        "faction": "Knight Revenant",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Pharsalas_Gravedirt.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Pharsalas_Gravedirt.json?raw=true"
+    },
     "Pigsticker": {
         "faction": "Orcs",
         "rarity": "Rare",
@@ -3695,14 +3711,6 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Sicia_Flametongue.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Sicia_Flametongue.json?raw=true"
     },
-    "Sicia Flametoungue": {
-        "faction": "Demonspawn",
-        "rarity": "Legendary",
-        "role": "Attack",
-        "affinity": "Force",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Sicia_Flametongue.png",
-        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Sicia_Flametoungue.json?raw=true"
-    },
     "Siegebreaker": {
         "faction": "Ogryn Tribes",
         "rarity": "Rare",
@@ -4327,6 +4335,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Tuhak_the_Wanderer.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Tuhak_the_Wanderer.json?raw=true"
     },
+    "Tuhanarak": {
+        "faction": "Barbarians",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Tuhanarak.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Tuhanarak.json?raw=true"
+    },
     "Tunnel Steward": {
         "faction": "Dwarves",
         "rarity": "Uncommon",
@@ -4471,6 +4487,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Vanguard.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Vanguard.json?raw=true"
     },
+    "Venomage": {
+        "faction": "Lizardmen",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Venomage.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Venomage.json?raw=true"
+    },
     "Venus": {
         "faction": "The Sacred Order",
         "rarity": "Legendary",
@@ -4500,7 +4524,7 @@
         "rarity": "Legendary",
         "role": "HP",
         "affinity": "Force",
-        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Versulf_the_Grim.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Versulf_the_Grim.json?raw=true"
     },
     "Veteran": {

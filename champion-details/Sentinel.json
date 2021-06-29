@@ -24,6 +24,9 @@
                 "ATK",
                 "DEF"
             ],
+            "multiplier": [
+                " Multiplier: 2.6 ATK + 2 DEF"
+            ],
             "abilityname": "Hook",
             "description": " Attacks 1 enemy. Has a 60% chance of placing a [Provoke] debuff for 1 turn if this attack is critical.",
             "books": [
@@ -38,6 +41,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 4.4 ATK"
             ],
             "abilityname": "Glaive Swing",
             "description": " Attacks all enemies. Has a 50% chance of placing a 25% [Decrease ATK] debuff for 2 turns. Has a 50% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
@@ -55,6 +61,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Regeneration",
             "description": " Heals this Champion by 10% HP at the start of each turn. This Heal can be critical.",
             "books": []
@@ -63,6 +70,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally RESIST in Faction Crypts by 30.",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.1 ATK"
+            ],
             "abilityname": "Fate Wave",
             "description": " Attacks 1 enemy. If the hit is critical, places a 15% [Increase C.RATE] buff on a random ally for 2 turns.",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 4,
             "mincd": 3,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Mass Possession",
             "description": " Place a 50% [Increase ATK] buff on all allies for 2 turns.",
             "books": [
@@ -48,6 +52,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Bolster",
             "description": " Heals all allies by 7.5% of their HP and removes 1 random debuff from them at the start of this Champion’s turn.",
             "books": []
@@ -56,6 +61,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Force Ally SPD in all Battles by 15%.",
             "books": []

@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "HP"
             ],
+            "multiplier": [
+                " Multiplier: 0.19 HP"
+            ],
             "abilityname": "Crushing Mass",
             "description": " Attacks 1 enemy. Inflicts additional damage if this Champion is under a [Shield] buff. The damage is equal to 30% of the value of the [Shield].",
             "books": [
@@ -36,6 +39,7 @@
             "cd": 4,
             "mincd": 4,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Disgusting Display",
             "description": " Places a [Shield] buff on this Champion equal to 20% of their MAX HP for 3 turns. Grants an Extra Turn.",
             "books": [
@@ -50,6 +54,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "HP"
+            ],
+            "multiplier": [
+                " Multiplier: 0.3 HP"
             ],
             "abilityname": "Baleful Tenacity",
             "description": " Attacks 1 enemy. Has an 80% chance of placing a [Provoke] debuff for 2 turns.",
@@ -67,6 +74,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally DEF in all Battles by 15%.",
             "books": []

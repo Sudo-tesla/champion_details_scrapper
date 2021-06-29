@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 4.1 ATK"
+            ],
             "abilityname": "Soul Reaper",
             "description": " Attacks 1 enemy. Has an 85% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 4,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 1.6 ATK"
             ],
             "abilityname": "Spikes",
             "description": " Places a 50% [Increase ATK] buff on this Champion for 2 turns, then attacks 4 times at random. The attacks will be critical if the target has any buffs.",
@@ -54,6 +60,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.9 ATK + (HP% Lost / 30) ATK"
+            ],
             "abilityname": "Bleeding Wounds",
             "description": " Attacks all enemies 2 times. Damage increases according to the amount of HP this Champion has lost. This is a secret Skill and only becomes available when this Champion has lost 50% of their HP.",
             "books": [
@@ -67,6 +76,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally HP in the Arena by 33%.",
             "books": []

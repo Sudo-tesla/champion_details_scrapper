@@ -23,6 +23,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 1.85 ATK"
+            ],
             "abilityname": "Growing Hunger",
             "description": " Attacks 1 enemy 2 times. The first hit has a 35% chance of placing a 30% [Decrease SPD] debuff for 2 turns. The second hit has a 35% chance of decreasing the target’s Turn Meter by 10%.",
             "books": [
@@ -37,6 +40,9 @@
             "mincd": 3,
             "dmgscaling": [
                 "ATK"
+            ],
+            "multiplier": [
+                " Multiplier: 3.75 ATK"
             ],
             "abilityname": "Curse Feeder",
             "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns. After attacking, transfers all debuffs except [Stun], [Freeze], [Sleep], [Fear], [True Fear] and [Provoke] from all allies to this Champion.",
@@ -55,6 +61,9 @@
             "dmgscaling": [
                 "ATK"
             ],
+            "multiplier": [
+                " Multiplier: 5.6 ATK"
+            ],
             "abilityname": "Clutch of Woe",
             "description": " Transfers all debuffs from this Champion to a target enemy, then attacks the target. Steals 100% of the target’s Turn Meter if this attack is critical.",
             "books": [
@@ -70,6 +79,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Twisted",
             "description": " Heals this Champion by 5% of their MAX HP for each debuff on them at the start of each turn. If this Champion is under 4 or more debuffs at the start of the turn, places a 50% [Increase ATK] buff and a 30% [Increase C.DMG] buff on this Champion for 2 turns.",
             "books": []
@@ -78,6 +88,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": " Increases Ally ATK in Doom Tower battles by 30%.",
             "books": []
