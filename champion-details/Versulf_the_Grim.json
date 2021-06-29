@@ -1,0 +1,60 @@
+{
+    "name": "Versulf the Grim",
+    "class": {
+        "faction": "Knight Revenant",
+        "rarity": "Legendary",
+        "role": "HP",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "",
+        "atk": "",
+        "def": "",
+        "spd": "",
+        "crate": "%",
+        "cdmg": "%",
+        "resist": "",
+        "acc": ""
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "HP"
+            ],
+            "abilityname": "Stern Admonishing",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a [Provoke] debuff for 1 turn. Also places a [Shield] buff on this Champion for 2 turns equal to 10% to their MAX HP.",
+            "books": []
+        },
+        {
+            "cd": 4,
+            "mincd": 4,
+            "dmgscaling": [
+                "HP"
+            ],
+            "abilityname": "Reign of Sorrow",
+            "description": " Attacks all enemies. Places an extra hit on enemies under [Stun], [Freeze], [Fear], [True Fear], and [Provoke] debuffs. Each hit has a 75% chance of placing a [Leech] debuff for 2 turns.",
+            "books": []
+        },
+        {
+            "cd": 5,
+            "mincd": 5,
+            "dmgscaling": [],
+            "abilityname": "Quality Minions",
+            "description": " Places a 60% [Increase DEF] buff on all allies for 2 turns. Also places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "abilityname": "Infectious Fury",
+            "description": " When hit, has a 20% chance of placing a [Provoke] debuff on the attacker for 1 turn. Occurs once per hit.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png"
+}

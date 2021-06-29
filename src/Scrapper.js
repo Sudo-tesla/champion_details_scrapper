@@ -446,6 +446,7 @@ function getMultipliers(multiplierString) {
 function upsertChampionDetails(champ ) {
     try{
         let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
+
         if(hasStoredResources === false) {
             // console.log(champ);
             try {

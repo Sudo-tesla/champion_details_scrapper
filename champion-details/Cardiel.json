@@ -49,7 +49,7 @@
             "mincd": 4,
             "dmgscaling": [],
             "abilityname": "Heavenly Host",
-            "description": " Places a 30% [Increase C.RATE] buff and a 30% [Increase C.DMG] buff on all allies for 2 turns, then teams up will all allies to attack a target enemy. Decreases the cooldown of this skill by 1 turn if an enemy is killed from this attack.",
+            "description": " Places a 30% [Increase C.RATE] buff and a 30% [Increase C.DMG] buff on all allies for 2 turns, then teams up with all allies to attack a target enemy. Decreases the cooldown of this skill by 1 turn if an enemy is killed from this attack.",
             "books": [
                 "Level 2: Cooldown -1",
                 "Level 3: Cooldown -1"

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "abilityname": "Horror",
-            "description": " Attacks 1 enemy. Has a 50% chance of placing a [Block Cooldown Skills] debuff for 1 turn. Has a 35% chance of placing a [True Fear] debuff for 1 turn on targets under [Block Cooldown Skills] debuffs.",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a [Block Active Skills] debuff for 1 turn. Has a 35% chance of placing a [True Fear] debuff for 1 turn on targets under [Block Active Skills] debuffs.",
             "books": [
                 "Level 2: Damage +10%",
                 "Level 3: Buff/Debuff Chance +15%",
@@ -36,7 +36,7 @@
             "mincd": 3,
             "dmgscaling": [],
             "abilityname": "Shadow Strike",
-            "description": " Attacks all enemies. Inflicts a critical hit against targets under [Block Cooldown Skills] debuffs. Heals by 20% of the damage inflicted.",
+            "description": " Attacks all enemies. Inflicts a critical hit against targets under [Block Active Skills] debuffs. Heals by 20% of the damage inflicted.",
             "books": [
                 "Level 2: Damage +10%",
                 "Level 3: Damage +10%",
@@ -51,7 +51,7 @@
                 "ATK"
             ],
             "abilityname": "Crumble",
-            "description": " Attacks all enemies. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also has a 50% chance of placing a [Block Cooldown Skills] debuff for 2 turns.",
+            "description": " Attacks all enemies. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also has a 50% chance of placing a [Block Active Skills] debuff for 2 turns.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Buff/Debuff Chance +10%",

@@ -37,7 +37,7 @@
                 "HP"
             ],
             "abilityname": "Sanction",
-            "description": " Attacks 1 enemy. Places a [Block Cooldown Skills] debuff and a [Block Buffs] debuff for 2 turns. These debuffs cannot be resisted.",
+            "description": " Attacks 1 enemy. Places a [Block Active Skills] debuff and a [Block Buffs] debuff for 2 turns. These debuffs cannot be resisted.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +10%",

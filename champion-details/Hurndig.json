@@ -7,14 +7,14 @@
         "affinity": "Magic"
     },
     "stats": {
-        "hp": "",
-        "atk": "",
-        "def": "",
-        "spd": "",
-        "crate": "%",
-        "cdmg": "%",
-        "resist": "",
-        "acc": ""
+        "hp": "16,020",
+        "atk": "1,409",
+        "def": "1,101",
+        "spd": "98",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "10"
     },
     "skills": [
         {
@@ -54,7 +54,7 @@
             "dmgscaling": [
                 "ATK"
             ],
-            "abilityname": "Statis Strike",
+            "abilityname": "Stasis Strike",
             "description": " Attacks 1 enemy. Fully depletes the target’s Turn Meter. Will also attack all enemies if the first attack is critical. This AoE attack has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. Will also place a [HP Burn] debuff for 2 turns after the attack on the enemies whose Turn Meters are below 30%.",
             "books": [
                 "Level 2: Damage +10%",

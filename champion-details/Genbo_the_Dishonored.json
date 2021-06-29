@@ -54,16 +54,13 @@
         },
         {
             "cd": 6,
-            "mincd": 5,
+            "mincd": 4,
             "dmgscaling": [],
             "abilityname": "Sword Trance",
             "description": " Places a 30% [Increase C.RATE] buff and a 30% [Increase C.DMG] buff on this Champion for 3 turns, then grants an Extra Turn.",
             "books": [
-                "Level 2: Damage +10%",
-                "Level 3: Buff/Debuff Chance +10%",
-                "Level 4: Damage +10%",
-                "Level 5: Buff/Debuff Chance +10%",
-                "Level 6: Cooldown -1"
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
             ]
         },
         {

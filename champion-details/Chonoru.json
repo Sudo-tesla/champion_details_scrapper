@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "abilityname": "Night Blossom",
-            "description": " Attacks 1 Enemy. Has a 40% chance of placing [Block Buffs] debuff for 2 turns.",
+            "description": " Attacks 1 enemy. Has a 40% chance of placing [Block Buffs] debuff for 2 turns.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",

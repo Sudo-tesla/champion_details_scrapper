@@ -68,7 +68,7 @@
                 "Passive"
             ],
             "abilityname": "Toxic Blood",
-            "description": " When attacks, has a 50% chance of placing a 5% [Poison] Debuff on the attacker for 2 turns. Occurs once per hit.",
+            "description": " When attacked, has a 50% chance of placing a 5% [Poison] Debuff on the attacker for 2 turns. Occurs once per hit.",
             "books": []
         },
         {

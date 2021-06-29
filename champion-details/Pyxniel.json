@@ -52,7 +52,7 @@
             "mincd": 4,
             "dmgscaling": [],
             "abilityname": "Icicle Barrage",
-            "description": " Attacks 5 times at random. Each hit has a 30% chance of placing a [Freeze] debuff for 1 turn. Hasa 100% chance of placing a [Freeze] debuff on enemies that receive 2 hits.",
+            "description": " Attacks 5 times at random. Each hit has a 30% chance of placing a [Freeze] debuff for 1 turn. Has a 100% chance of placing a [Freeze] debuff on enemies that receive 2 hits.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Buff/Debuff Chance +5%",

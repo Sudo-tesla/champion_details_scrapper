@@ -24,7 +24,7 @@
                 "HP"
             ],
             "abilityname": "Spirits of Spite",
-            "description": " Attacks 1 enemy. Has a 25% chance of placing a [Block Cooldown Skills] debuff for 1 turn. The chance increases by 0.75% for every 1% of HP this Champion loses.",
+            "description": " Attacks 1 enemy. Has a 25% chance of placing a [Block Active Skills] debuff for 1 turn. The chance increases by 0.75% for every 1% of HP this Champion loses.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Buff/Debuff Chance +5%",

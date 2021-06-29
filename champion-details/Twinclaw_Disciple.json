@@ -57,7 +57,7 @@
                 "ATK"
             ],
             "abilityname": "Tear to Shreds",
-            "description": " Attacks 1 enemy. Has a 50% chance of placing a [Block Cooldown Skills] debuff for 2 turns. The chance increases to 100% if the target is under a [Heal Reduction] debuff.",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a [Block Active Skills] debuff for 2 turns. The chance increases to 100% if the target is under a [Heal Reduction] debuff.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",

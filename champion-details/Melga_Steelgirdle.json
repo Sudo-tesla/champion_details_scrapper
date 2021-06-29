@@ -57,7 +57,7 @@
             "mincd": 5,
             "dmgscaling": [],
             "abilityname": "Glorious Return",
-            "description": " Revives 2 Random allies with 20% HP and 20% Turn Meter. Also places a [Shield] buff on the revived allies for 2 turns equal to 30% of their max HP.",
+            "description": " Revives 2 random allies with 20% HP and 20% Turn Meter. Also places a [Shield] buff on the revived allies for 2 turns equal to 30% of their max HP.",
             "books": [
                 "Level 2: Cooldown -1",
                 "Level 3: Cooldown -1"

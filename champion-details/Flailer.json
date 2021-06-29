@@ -39,7 +39,7 @@
                 "DEF"
             ],
             "abilityname": "Noble Stand",
-            "description": " Places a 30% [Increase DEF] buff on this Champion and the ally with the lowest HP for 2 Turns. Also Fills this champion’s turn meter by 25%.",
+            "description": " Places a 30% [Increase DEF] buff on this Champion and the ally with the lowest HP for 2 Turns. Also fills this Champion’s Turn Meter by 25%.",
             "books": [
                 "Level 2: Cooldown -1"
             ]

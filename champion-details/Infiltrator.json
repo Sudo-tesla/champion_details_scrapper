@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "abilityname": "Shank",
-            "description": " Attacks 1 enemy",
+            "description": " Attacks 1 enemy.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",

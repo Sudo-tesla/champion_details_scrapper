@@ -54,7 +54,7 @@
                 "ATK"
             ],
             "abilityname": "Destroy Confidence",
-            "description": " Attacks 1 enemy. Has a 50% chance of placing [Block Cooldown Skills] debuff for 2 turns. Has an extra 15% chance of inflicting a critical hit.",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing [Block Active Skills] debuff for 2 turns. Has an extra 15% chance of inflicting a critical hit.",
             "books": [
                 "Level 2: Buff/Debuff Chance +5%",
                 "Level 3: Buff/Debuff Chance +10%",

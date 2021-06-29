@@ -41,7 +41,7 @@
                 "DEF"
             ],
             "abilityname": "Tomb Blight",
-            "description": " Attacks 1 enemy. Has an 80% chance of placing a [Block Cooldown Skills] debuff for 1 turn. Also has an 80% chance of placing a 50% [Heal Reduction] debuff for 2 turns.",
+            "description": " Attacks 1 enemy. Has an 80% chance of placing a [Block Active Skills] debuff for 1 turn. Also has an 80% chance of placing a 50% [Heal Reduction] debuff for 2 turns.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +10%",

@@ -36,7 +36,8 @@
             "cd": 5,
             "mincd": 4,
             "dmgscaling": [
-                "ATK"
+                "ATK",
+                "HP"
             ],
             "abilityname": "Gore Feast",
             "description": " Attacks all enemies. After attacking, this champion sacrifices HP equal to 50% of their MAX HP, then place two 15% [Continuous Heal] buffs on this Champion for 2 turns. The HP sacrifice will happen even if it kills this Champion.",

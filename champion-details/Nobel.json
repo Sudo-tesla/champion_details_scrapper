@@ -7,9 +7,9 @@
         "affinity": "Force"
     },
     "stats": {
-        "hp": "14865",
-        "atk": "1553",
-        "def": "1035",
+        "hp": "14,865",
+        "atk": "1,553",
+        "def": "1,035",
         "spd": "92",
         "crate": "15%",
         "cdmg": "63%",
@@ -75,5 +75,5 @@
             ]
         }
     ],
-    "avatarUrl": "https://www.inteleria.com/wp-content/uploads/2019/11/nobel_profile.png"
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Nobel.png"
 }

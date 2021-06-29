@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "abilityname": "Split",
-            "description": " Attacks 1 enemy. Places a 25% [Increase ATK] buff on this Champion for 1 turns if this attack is critical.",
+            "description": " Attacks 1 enemy. Places a 25% [Increase ATK] buff on this Champion for 1 turn if this attack is critical.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",

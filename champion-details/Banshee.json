@@ -55,7 +55,7 @@
                 "ATK"
             ],
             "abilityname": "Death Ray",
-            "description": " Attacks 2 times at random. Each attack has a 50% chance of placing a [Block Cooldown Skills] debuff for 1 turn.",
+            "description": " Attacks 2 times at random. Each attack has a 50% chance of placing a [Block Active Skills] debuff for 1 turn.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "abilityname": "Snap",
-            "description": " Attacks 1 enemy 2 times.",
+            "description": "\nAttacks 1 enemy 2 times.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -40,7 +40,7 @@
                 "ATK"
             ],
             "abilityname": "Go for the Throat",
-            "description": " Attacks 1 enemy. Damage increases by 20% if this attack is critical.",
+            "description": "\nAttacks 1 enemy. Damage increases by 20% if this attack is critical.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -57,7 +57,7 @@
                 "ATK"
             ],
             "abilityname": "Tearing Jaws",
-            "description": " Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs.",
+            "description": "\nAttacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -72,7 +72,7 @@
             "mincd": 0,
             "dmgscaling": [],
             "abilityname": "Aura",
-            "description": " Increases Ally HP in the Arena by 25%.",
+            "description": "\nIncreases Ally HP in the Arena by 25%.",
             "books": []
         }
     ],

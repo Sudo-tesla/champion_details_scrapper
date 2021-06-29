@@ -55,7 +55,7 @@
                 "ATK"
             ],
             "abilityname": "Frostfire Gale",
-            "description": " Attacks all enemies. Has a 70% chance of placing a [Freeze] debuff for 1 turn on enemies whose ATK is higher than their DEF. Has a 70% chance of placing a [HP Burn] debuf for 1 turn on enemies whose DEF is equal to or higher than their ATK.",
+            "description": " Attacks all enemies. Has a 70% chance of placing a [Freeze] debuff for 1 turn on enemies whose ATK is higher than their DEF. Has a 70% chance of placing a [HP Burn] debuff for 1 turn on enemies whose DEF is equal to or higher than their ATK.",
             "books": [
                 "Level 2: Buff/Debuff Chance +5%",
                 "Level 3: Buff/Debuff Chance +5%",
