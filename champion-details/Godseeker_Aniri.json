@@ -69,7 +69,8 @@
                 "Passive"
             ],
             "abilityname": "Guardian Angel",
-            "description": " Passive Effect: Increases the amount of healing allies receive by 10%. Active Effect: If an ally is about to get killed by a fatal hit, preempts that hit and instantly places a [Revive On Death] buff on them for 1 turn before the damage is taken.",
+            "description": " Passive Effect: Increases the amount of healing allies receive by 10%. Active Effect: If an ally is about to get killed by a fatal hit, preempts that hit and instantly places a [Revive On Death] buff on them for 1 turn before the damage is taken.\n Active Effect: If an ally is about to get killed by a fatal hit, preempts that hit and instantly places a [Revive On Death] buff on them for 1 turn before the damage is taken.",
+
             "books": [
                 "Level 2: Cooldown -1",
                 "Level 3: Cooldown -1",

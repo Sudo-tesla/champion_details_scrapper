@@ -343,8 +343,6 @@ function extractSkill(paragraph) {
     //sanitize input from spans
     let skillData =textUtil.removeReference(paragraph.outerHTML,textUtil.spanDetails).split('<br>');
 
-    console.log(skillData);
-
 
     let skillDescription = textUtil.removeReference(skillData[1],textUtil.tagDetails);
     skillDescription = textUtil.removeReference(skillDescription,textUtil.spanDetails);
@@ -470,7 +468,6 @@ function upsertChampionDetails(champ ) {
 async function main() {
 
     olChampionList.then((list) =>{
-
         list.forEach(upsertChampionDetails);
         storeBaseChampionInfoList()
         storeSimulatorChampionInfoList()
@@ -489,8 +486,8 @@ main().then().catch((error) => {
 
 
 let seer =  {
-    name: 'Rotos the Lost Groom',
-    url: 'https://ayumilove.net/raid-shadow-legends-rotos-the-lost-groom-skill-mastery-equip-guide/'
+    name: 'Godseeker Aniri',
+    url: 'https://ayumilove.net/raid-shadow-legends-godseeker-aniri-skill-mastery-equip-guide/'
 }
 
 
@@ -499,7 +496,7 @@ extractChampionDetails(seer).then((res) =>{
     //storeChampion(res);
     //storeImage(res);
 
-    console.log(res.skills);
+    //console.log(res.skills);
 
 }).catch((error) => {
     console.log(error.message);
