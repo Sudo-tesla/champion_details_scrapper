@@ -80,6 +80,7 @@
             "dmgscaling": [
                 "Passive"
             ],
+            "multiplier": [],
             "abilityname": "Enchanted Shields ",
             "description": "Reflects 30% of the damage this Champion receives back to the attacker.",
             "books": []
@@ -88,6 +89,7 @@
             "cd": 0,
             "mincd": 0,
             "dmgscaling": [],
+            "multiplier": [],
             "abilityname": "Aura",
             "description": "Increases Ally DEF in Faction Crypts by 30%",
             "books": []
