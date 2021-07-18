@@ -88,7 +88,7 @@ const olChampionList = new  Promise(async (resolve,reject) => {
         const dom = new JSDOM(data);
         const { document } = dom.window;
         const u1 = document.querySelector("ol");
-            const champs  = u1.querySelectorAll("li");
+            const champs  = u1.querySelectorAll("ol");
             for(let champ of champs) {
                 //Extracts the champions name from the listing. Champions name is always the first element before the '|'
                 if(champ.textContent.includes('| Raid Shadow Legends Skill Mastery Equip Guide')) {
@@ -182,11 +182,7 @@ function fixChampionDetailsURLError() {
 function championBaseInfoFromFile({dir,name}){
     try {
         const jsonString = fs.readFileSync(dir+name);
-/*        if('Seer.json'===name)  {
 
-            console.log(jsonString);
-
-        }*/
         console.log(name);
         const champion = JSON.parse(jsonString);
 
@@ -222,6 +218,7 @@ function removeSkillTags(champion) {
 
 }
 function storeImage(championObject) {
+
 
     const file = fs.createWriteStream( fileUtil.formatFileName({name:championObject.name,extension:extensions.PNG,dir:directories.avatar}));
     const request = http.get(championObject.avatarUrl, function(response) {
@@ -275,8 +272,8 @@ async function extractChampionDetails(championObject) {
     let skills = []
 
     for(let p of p1) {
-
-        if(p.textContent.startsWith("✰") || p.textContent.startsWith("★")) {
+        console.log(p.textContent);
+        if(p.textContent.startsWith("✰") || p.textContent.startsWith("★") || p.textContent.startsWith("RAID Shadow Legends")) {
             flag=true;
 
         } else if(flag & isNaN(p.textContent.charAt(0)) & p.querySelector('strong') !== null &&  !(p.textContent.includes("Equipment") || p.textContent.includes(' set') || p.textContent.includes('RAID Shadow Legends –'))){
@@ -338,6 +335,10 @@ function overViewTrim(dataSlice) {
     return dataSplit.substr(0,dataSplit.length-3);
 }
 
+function cleansInputs( {text} ) {
+    let skillDescription = textUtil.removeReference(text,textUtil.tagDetails);
+    return textUtil.removeReference(skillDescription,textUtil.spanDetails);
+}
 
 function extractSkill(paragraph) {
 
@@ -351,13 +352,7 @@ function extractSkill(paragraph) {
     //let skillData = paragraph.outerHTML.split('<br>');
     //sanitize input from spans
     let skillData =textUtil.removeReference(paragraph.outerHTML,textUtil.spanDetails).split('<br>');
-
-
-    let skillDescription = textUtil.removeReference(skillData[1],textUtil.tagDetails);
-    skillDescription = textUtil.removeReference(skillDescription,textUtil.spanDetails);
-
-
-
+    let skillDescription = cleansInputs({text:skillData[1]});
     let books = [];
     let bookIndex = 0;
 
@@ -369,12 +364,14 @@ function extractSkill(paragraph) {
                 continue
             } else if (skillData[i].includes('Note:')) {
                 continue;
-            }else {
+            } else if (skillData[i].includes('Level')) {
                 books[bookIndex] = skillData[i].trim();
                 if(books[bookIndex].includes('Cooldown')){
                     minCD--;
                 }
                 bookIndex++;
+            } else {
+                skillDescription += `${skillDescription}\n${skillData[i].trim()}`;
             }
         }
         //only lines is a multiplier exception
@@ -498,22 +495,24 @@ async function main() {
 }
 
 
+/*
 main().then().catch((error) => {
     console.log(error.message);
 });
 
+*/
 
 
 let seer =  {
-    name: 'Seer',
-    url: 'https://ayumilove.net/raid-shadow-legends-seer-skill-mastery-equip-guide/'
+    name: 'Godseeker Aniri',
+    url: 'https://ayumilove.net/raid-shadow-legends-godseeker-aniri-skill-mastery-equip-guide/'
 }
 
 
 extractChampionDetails(seer).then((res) =>{
 
-    //storeChampion(res);
-    //storeImage(res);
+   storeChampion(res);
+   storeImage(res);
 
     console.log(res.skills);
 
@@ -522,7 +521,9 @@ extractChampionDetails(seer).then((res) =>{
 });
 
 
+/*
 storeBaseChampionInfoList()
 storeSimulatorChampionInfoList()
 
 
+*/

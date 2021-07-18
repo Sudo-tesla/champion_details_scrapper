@@ -2855,6 +2855,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Nethril.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Nethril.json?raw=true"
     },
+    "Ninja": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ninja.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ninja.json?raw=true"
+    },
     "Nobel": {
         "faction": "Shadowkin",
         "rarity": "Legendary",

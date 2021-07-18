@@ -1427,6 +1427,10 @@
         "affinity": "Spirit",
         "rarity": "Legendary"
     },
+    "Ninja": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
     "Nobel": {
         "affinity": "Force",
         "rarity": "Legendary"
