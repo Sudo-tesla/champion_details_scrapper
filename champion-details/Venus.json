@@ -76,10 +76,8 @@
             "dmgscaling": [],
             "multiplier": [],
             "abilityname": "Pure Partner",
-            "description": " Removes all buffs from all enemies. Has a 50% chance of granting an Extra Turn.",
-            "books": [
-                "[Only available when <a href=\"https://ayumilove.net/raid-shadow-legends-cupidus-skill-mastery-equip-guide/\">Cupidus</a> is on the same team]"
-            ]
+            "description": " Removes all buffs from all enemies. Has a 50% chance of granting an Extra Turn. Removes all buffs from all enemies. Has a 50% chance of granting an Extra Turn. [Only available when Cupidus is on the same team]",
+            "books": []
         },
         {
             "cd": 0,

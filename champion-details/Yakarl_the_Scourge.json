@@ -41,17 +41,14 @@
             "dmgscaling": [
                 "ATK"
             ],
-            "multiplier": [
-                " Mutliplier: 6 ATK"
-            ],
+            "multiplier": ["  Mutliplier: 6 ATK"],
             "abilityname": "Blizzard Rider",
-            "description": " Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 3 turns and a 75% chance of placing a [Freeze] debuff for 1 turn. Also steals 100% of the target’s Turn Meter and places a 30% [Increase SPD] buff on this Champion for 3 turns.",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 3 turns and a 75% chance of placing a [Freeze] debuff for 1 turn. Also steals 100% of the target’s Turn Meter and places a 30% [Increase SPD] buff on this Champion for 3 turns. Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 3 turns and a 75% chance of placing a [Freeze] debuff for 1 turn. Also steals 100% of the target’s Turn Meter and places a 30% [Increase SPD] buff on this Champion for 3 turns. Damage Mutliplier: 6 ATK",
             "books": [
                 "Level 2: Damage +10%",
                 "Level 3: Buff/Debuff Chance +10%",
                 "Level 4: Buff/Debuff Chance +15%",
-                "Level 5: Cooldown -1",
-                "Damage Mutliplier: 6 ATK"
+                "Level 5: Cooldown -1"
             ]
         },
         {
@@ -80,10 +77,8 @@
             ],
             "multiplier": [],
             "abilityname": "Lord of Ice",
-            "description": " [Passive Effect] Decreases the damage this Champion receives by 10% and increases the damage this Champion inflicts by 10% if there are 1 or more enemies under [Freeze] debuff. Increases this Champion’s SPD by 15 and RES by 50 if there are 2 or more enemies under [Freeze] debuff.",
-            "books": [
-                "[Active Effect] Places an [Unkillable] buff on this Champion for 2 turns whenever there are 3 enemies under [Freeze] debuff."
-            ]
+            "description": " [Passive Effect] Decreases the damage this Champion receives by 10% and increases the damage this Champion inflicts by 10% if there are 1 or more enemies under [Freeze] debuff. Increases this Champion’s SPD by 15 and RES by 50 if there are 2 or more enemies under [Freeze] debuff. [Passive Effect] Decreases the damage this Champion receives by 10% and increases the damage this Champion inflicts by 10% if there are 1 or more enemies under [Freeze] debuff. Increases this Champion’s SPD by 15 and RES by 50 if there are 2 or more enemies under [Freeze] debuff. [Active Effect] Places an [Unkillable] buff on this Champion for 2 turns whenever there are 3 enemies under [Freeze] debuff.",
+            "books": []
         },
         {
             "cd": 0,

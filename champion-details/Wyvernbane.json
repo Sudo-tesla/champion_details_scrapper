@@ -65,14 +65,14 @@
                 " Multiplier: 6.1 ATK"
             ],
             "abilityname": "Cursefire Spear",
-            "description": " Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff for 2 turns.",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff for 2 turns. Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff for 2 turns. Levle 7: Cooldown -1",
             "books": [
                 "Level 2: Damage +10%",
                 "Level 3: Damage +10%",
                 "Level 4: Buff/Debuff Chance +5%",
                 "Level 5: Buff/Debuff Chance +10%",
                 "Level 6: Buff/Debuff Chance +10%",
-                "Levle 7: Cooldown -1"
+                "Level 7: Cooldown -1"
             ]
         }
     ],
