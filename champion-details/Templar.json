@@ -63,10 +63,8 @@
             ],
             "multiplier": [],
             "abilityname": "Contempt",
-            "description": " Attacks with this Champion’s default skill whenever an enemy places a debuff on this Champion.",
-            "books": [
-                "This passive skill is not triggered when an enemy counter attacks Templar’s attack, while applying debuff simultaneously."
-            ]
+            "description": " Attacks with this Champion’s default skill whenever an enemy places a debuff on this Champion. Attacks with this Champion’s default skill whenever an enemy places a debuff on this Champion. This passive skill is not triggered when an enemy counter attacks Templar’s attack, while applying debuff simultaneously.",
+            "books": []
         },
         {
             "cd": 0,

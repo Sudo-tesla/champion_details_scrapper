@@ -85,12 +85,15 @@ const olChampionList = new  Promise(async (resolve,reject) => {
     try {
         let championList = [];
         const { data } = await axios.get(sourceLink);
+
         const dom = new JSDOM(data);
         const { document } = dom.window;
         const u1 = document.querySelector("ol");
-            const champs  = u1.querySelectorAll("li");
-            for(let champ of champs) {
+        const champs  = u1.querySelectorAll("li");
+
+        for(let champ of champs) {
                 //Extracts the champions name from the listing. Champions name is always the first element before the '|'
+                console.log(champ);
                 if(champ.textContent.includes('| Raid Shadow Legends Skill Mastery Equip Guide')) {
                     //console.log(champ.textContent);
                     championList[championList.length] = new Champion(champ.textContent.split('|')[0].trim(),champ.querySelector("a")?.href);
@@ -182,11 +185,7 @@ function fixChampionDetailsURLError() {
 function championBaseInfoFromFile({dir,name}){
     try {
         const jsonString = fs.readFileSync(dir+name);
-/*        if('Seer.json'===name)  {
 
-            console.log(jsonString);
-
-        }*/
         console.log(name);
         const champion = JSON.parse(jsonString);
 
@@ -222,6 +221,7 @@ function removeSkillTags(champion) {
 
 }
 function storeImage(championObject) {
+
 
     const file = fs.createWriteStream( fileUtil.formatFileName({name:championObject.name,extension:extensions.PNG,dir:directories.avatar}));
     const request = http.get(championObject.avatarUrl, function(response) {
@@ -276,7 +276,7 @@ async function extractChampionDetails(championObject) {
 
     for(let p of p1) {
 
-        if(p.textContent.startsWith("✰") || p.textContent.startsWith("★")) {
+        if(p.textContent.startsWith("✰") || p.textContent.startsWith("★") || p.textContent.startsWith("RAID Shadow Legends")) {
             flag=true;
 
         } else if(flag & isNaN(p.textContent.charAt(0)) & p.querySelector('strong') !== null &&  !(p.textContent.includes("Equipment") || p.textContent.includes(' set') || p.textContent.includes('RAID Shadow Legends –'))){
@@ -338,6 +338,10 @@ function overViewTrim(dataSlice) {
     return dataSplit.substr(0,dataSplit.length-3);
 }
 
+function cleansInputs( {text} ) {
+    let skillDescription = textUtil.removeReference(text,textUtil.tagDetails);
+    return textUtil.removeReference(skillDescription,textUtil.spanDetails);
+}
 
 function extractSkill(paragraph) {
 
@@ -351,13 +355,7 @@ function extractSkill(paragraph) {
     //let skillData = paragraph.outerHTML.split('<br>');
     //sanitize input from spans
     let skillData =textUtil.removeReference(paragraph.outerHTML,textUtil.spanDetails).split('<br>');
-
-
-    let skillDescription = textUtil.removeReference(skillData[1],textUtil.tagDetails);
-    skillDescription = textUtil.removeReference(skillDescription,textUtil.spanDetails);
-
-
-
+    let skillDescription = cleansInputs({text:skillData[1]});
     let books = [];
     let bookIndex = 0;
 
@@ -369,26 +367,31 @@ function extractSkill(paragraph) {
                 continue
             } else if (skillData[i].includes('Note:')) {
                 continue;
-            }else {
+            } else if (skillData[i].includes('Level')) {
                 books[bookIndex] = skillData[i].trim();
                 if(books[bookIndex].includes('Cooldown')){
                     minCD--;
                 }
                 bookIndex++;
+            } else {
+                skillDescription += `${skillDescription}\n${cleansInputs({text:skillData[i].trim()})}`;
             }
         }
         //only lines is a multiplier exception
+
         if(bookIndex>0 ) {
             if( books[bookIndex-1].includes("</p>")) {
                 books[bookIndex-1] =books[bookIndex-1].substr(0,books[bookIndex-1].length-4) ;
             }
         }
 
-    } else {
-
-        skillDescription = skillDescription.substr(0,skillDescription.length-4);
-
     }
+
+    if(skillDescription.includes("</p>")) {
+        skillDescription = skillDescription.substr(0,skillDescription.length-4);
+    }
+
+    skillDescription = skillDescription.replace('\n',' ');
 
     return new Skills(
         coolDown,
@@ -459,10 +462,10 @@ function upsertChampionDetails(champ ) {
     try{
         let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
 
-        //hasStoredResources = !champ.name.trim().startsWith('K');
-        console.log(champ.name);
-        console.log(hasStoredResources);
+        hasStoredResources = !champ.name.trim().startsWith('Z');
+
         if(hasStoredResources === false) {
+            console.log(champ.name);
 
             try {
                 extractChampionDetails(champ).then((res) =>{
@@ -486,7 +489,7 @@ function upsertChampionDetails(champ ) {
 async function main() {
 
     olChampionList.then((list) =>{
-
+        console.log(list.length);
         list.forEach(upsertChampionDetails);
         //storeBaseChampionInfoList()
         //storeSimulatorChampionInfoList()
@@ -498,22 +501,25 @@ async function main() {
 }
 
 
+
 main().then().catch((error) => {
     console.log(error.message);
 });
 
 
 
+
 let seer =  {
-    name: 'Seer',
-    url: 'https://ayumilove.net/raid-shadow-legends-seer-skill-mastery-equip-guide/'
+    name: 'BALTHUS DRAUGLORD',
+    url: 'https://ayumilove.net/raid-shadow-legends-balthus-drauglord-skill-mastery-equip-guide/'
 }
 
+/*
 
 extractChampionDetails(seer).then((res) =>{
 
-    //storeChampion(res);
-    //storeImage(res);
+/!*   storeChampion(res);
+   storeImage(res);*!/
 
     console.log(res.skills);
 
@@ -521,8 +527,11 @@ extractChampionDetails(seer).then((res) =>{
     console.log(error.message);
 });
 
+*/
 
+/*
 storeBaseChampionInfoList()
 storeSimulatorChampionInfoList()
 
 
+*/

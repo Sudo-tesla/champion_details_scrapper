@@ -24,10 +24,10 @@
                 "ATK"
             ],
             "multiplier": [
-                "\nMultiplier: 1.6 ATK"
+                " Multiplier: 1.6 ATK"
             ],
             "abilityname": "Snap",
-            "description": "\nAttacks 1 enemy 2 times.",
+            "description": " Attacks 1 enemy 2 times.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -43,10 +43,10 @@
                 "ATK"
             ],
             "multiplier": [
-                "\nMultiplier: 4.4 ATK"
+                " Multiplier: 4.4 ATK"
             ],
             "abilityname": "Go for the Throat",
-            "description": "\nAttacks 1 enemy. Damage increases by 20% if this attack is critical.",
+            "description": " Attacks 1 enemy. Damage increases by 20% if this attack is critical.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -63,10 +63,10 @@
                 "ATK"
             ],
             "multiplier": [
-                "\nMultiplier: 4.8 ATK"
+                " Multiplier: 4.8 ATK"
             ],
             "abilityname": "Tearing Jaws",
-            "description": "\nAttacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs.",
+            "description": " Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -82,7 +82,7 @@
             "dmgscaling": [],
             "multiplier": [],
             "abilityname": "Aura",
-            "description": "\nIncreases Ally HP in the Arena by 25%.",
+            "description": " Increases Ally HP in the Arena by 25%.",
             "books": []
         }
     ],

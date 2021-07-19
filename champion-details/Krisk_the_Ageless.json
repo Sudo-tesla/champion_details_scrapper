@@ -74,9 +74,8 @@
             ],
             "multiplier": [],
             "abilityname": "Might of Ages",
-            "description": " At the start of each Round, places a [Shield] buff on all allies for 2 turns equal to 50% of this Champion’s MAX HP. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 50% [Decrease ATK]",
+            "description": " At the start of each Round, places a [Shield] buff on all allies for 2 turns equal to 50% of this Champion’s MAX HP. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 50% [Decrease ATK] At the start of each Round, places a [Shield] buff on all allies for 2 turns equal to 50% of this Champion’s MAX HP. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 50% [Decrease ATK] debuff on the attacker for 1 turn when hit.",
             "books": [
-                "debuff on the attacker for 1 turn when hit.",
                 "Level 2: Buff/Debuff Chance +5%",
                 "Level 3: Buff/Debuff Chance +10%",
                 "Level 4: Buff/Debuff Chance +10%"

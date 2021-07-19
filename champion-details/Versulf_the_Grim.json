@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: ? HP"
+                " Multiplier: 0.23 HP"
             ],
             "abilityname": "Stern Admonishing",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Provoke] debuff for 1 turn. Also places a [Shield] buff on this Champion for 2 turns equal to 10% to their MAX HP.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: ? HP"
+                " Multiplier: 0.25 HP"
             ],
             "abilityname": "Reign of Sorrow",
             "description": " Attacks all enemies. Places an extra hit on enemies under [Stun], [Freeze], [Fear], [True Fear], and [Provoke] debuffs. Each hit has a 75% chance of placing a [Leech] debuff for 2 turns.",

@@ -23,17 +23,16 @@
             "dmgscaling": [
                 "ATK"
             ],
-            "multiplier": [],
+            "multiplier": [" Mutliplier: 1.6 ATK"],
             "abilityname": "Bring Silence",
-            "description": " Attacks 3 times at random. Each hit has a 30% chance of placing a [Sleep] debuff for 1 turn.",
+            "description": " Attacks 3 times at random. Each hit has a 30% chance of placing a [Sleep] debuff for 1 turn. Attacks 3 times at random. Each hit has a 30% chance of placing a [Sleep] debuff for 1 turn.\nDamage Mutliplier: 1.6 ATK",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Buff/Debuff Chance +5%",
                 "Level 4: Buff/Debuff Chance +5%",
                 "Level 5: Damage +10%",
                 "Level 6: Damage +10%",
-                "Level 7: Buff/Debuff Chance +10%",
-                "Damage Mutliplier: 1.6 ATK"
+                "Level 7: Buff/Debuff Chance +10%"
             ]
         },
         {
@@ -42,17 +41,16 @@
             "dmgscaling": [
                 "ATK"
             ],
-            "multiplier": [],
+            "multiplier": [" Mutliplier: 6.4 ATK"],
             "abilityname": "Flowing Sword",
-            "description": " Attacks 1 enemy. Has a 70% chance of decreasing the target’s Turn Meter by 50%. Fills this Champion’s Turn Meter equal to the amount the target loses.",
+            "description": " Attacks 1 enemy. Has a 70% chance of decreasing the target’s Turn Meter by 50%. Fills this Champion’s Turn Meter equal to the amount the target loses. Attacks 1 enemy. Has a 70% chance of decreasing the target’s Turn Meter by 50%. Fills this Champion’s Turn Meter equal to the amount the target loses.\nDamage Mutliplier: 6.4 ATK",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Buff/Debuff Chance +5%",
                 "Level 4: Buff/Debuff Chance +10%",
                 "Level 5: Damage +10%",
                 "Level 6: Damage +10%",
-                "Level 7: Buff/Debuff Chance +15%",
-                "Damage Mutliplier: 6.4 ATK"
+                "Level 7: Buff/Debuff Chance +15%"
             ]
         },
         {
@@ -61,9 +59,9 @@
             "dmgscaling": [
                 "ATK"
             ],
-            "multiplier": [],
+            "multiplier": [" Mutliplier: 3.8 ATK"],
             "abilityname": "Copious Bleed",
-            "description": " Attacks all enemies. Has a 80% chance of placing a 50% [Heal Reduction] debuff for 1 turn.",
+            "description": " Attacks all enemies. Has a 80% chance of placing a 50% [Heal Reduction] debuff for 1 turn. Attacks all enemies. Has a 80% chance of placing a 50% [Heal Reduction] debuff for 1 turn.\nDamage Mutliplier: 3.8 ATK",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -71,8 +69,7 @@
                 "Level 5: Buff/Debuff Chance +10%",
                 "Level 6: Damage +10%",
                 "Level 7: Buff/Debuff Chance +10%",
-                "Level 8: Cooldown -1",
-                "Damage Mutliplier: 3.8 ATK"
+                "Level 8: Cooldown -1"
             ]
         },
         {

@@ -27,9 +27,8 @@
                 " Multiplier: 3.75 ATK"
             ],
             "abilityname": "Oppression",
-            "description": " [Active Effect] Attacks 1 enemy. Has a 75% chance of placing a [Fear] debuff for 1 turn. Has a 75% chance of increasing the duration of any [Poison Sensitivity] debuffs by 1 turn.",
+            "description": " [Active Effect] Attacks 1 enemy. Has a 75% chance of placing a [Fear] debuff for 1 turn. Has a 75% chance of increasing the duration of any [Poison Sensitivity] debuffs by 1 turn. [Active Effect] Attacks 1 enemy. Has a 75% chance of placing a [Fear] debuff for 1 turn. Has a 75% chance of increasing the duration of any [Poison Sensitivity] debuffs by 1 turn. [Passive Effect] Attacks enemy Champions with this Skill whenever they place a [Freeze], [Stun], [Fear], or [True Fear] debuff on an ally. The number of attacks increases according to how many debuffs are placed at that time: 1 attack for each [Freeze]. [Stun]. [Fear], or [True Fear] debuff placed. The first attack will target the attacker, while all extra hits will attack random enemies. Can only attack each enemy once.",
             "books": [
-                "[Passive Effect] Attacks enemy Champions with this Skill whenever they place a [Freeze], [Stun], [Fear], or [True Fear] debuff on an ally. The number of attacks increases according to how many debuffs are placed at that time: 1 attack for each [Freeze]. [Stun]. [Fear], or [True Fear] debuff placed. The first attack will target the attacker, while all extra hits will attack random enemies. Can only attack each enemy once.",
                 "Level 2: Damage +10%",
                 "Level 3: Damage +10%",
                 "Level 4: Buff/Debuff Chance +10%",
