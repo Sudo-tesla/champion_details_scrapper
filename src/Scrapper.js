@@ -391,6 +391,8 @@ function extractSkill(paragraph) {
         skillDescription = skillDescription.substr(0,skillDescription.length-4);
     }
 
+    skillDescription = skillDescription.replace('\n',' ');
+
     return new Skills(
         coolDown,
         minCD,

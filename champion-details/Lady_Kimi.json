@@ -45,7 +45,7 @@
                 " Multiplier: 4.2 ATK"
             ],
             "abilityname": "Flurry of Petals",
-            "description": " Attacks all enenmies. Has a 75% chance of placing a 50% [Decrease ACC] debuff and a 30% [Decrease SPD] debuff for 2 turns. Also has a 75% chance of decreasing each target’s Turn Meter by 15%.",
+            "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ACC] debuff and a 30% [Decrease SPD] debuff for 2 turns. Also has a 75% chance of decreasing each target’s Turn Meter by 15%.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
