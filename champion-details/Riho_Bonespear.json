@@ -45,9 +45,8 @@
                 " Multiplier: 5.8 ATK"
             ],
             "abilityname": "Pressure Points",
-            "description": " Places a [Stun] debuff on a target enemy for 1 turn, as well as a [HP Burn] debuff, a 60% [Decrease DEF] debuff, a 25% [Weaken] debuff, a 50% [Decrease ATK] debuff, and a 30% [Decrease",
+            "description": " Places a [Stun] debuff on a target enemy for 1 turn, as well as a [HP Burn] debuff, a 60% [Decrease DEF] debuff, a 25% [Weaken] debuff, a 50% [Decrease ATK] debuff, and a 30% [Decrease Places a [Stun] debuff on a target enemy for 1 turn, as well as a [HP Burn] debuff, a 60% [Decrease DEF] debuff, a 25% [Weaken] debuff, a 50% [Decrease ATK] debuff, and a 30% [Decrease C.RATE] debuff for 2 turns, then attacks the target.",
             "books": [
-                "C.RATE] debuff for 2 turns, then attacks the target.",
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
                 "Level 4: Damage +5%",
