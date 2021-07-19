@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: ? DEF"
+                " Multiplier: 4.4 DEF"
             ],
             "abilityname": "Grasp of the Grave",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a [Provoke] debuff for 1 turn. Places a 50% [Decrease ATK] debuff for 1 turn if the target is under a [Fear] or [True Fear] debuff.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: ? DEF"
+                " Multiplier: 4.65 DEF"
             ],
             "abilityname": "Necrosis",
             "description": " Attacks all enemies. Has a 75% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
