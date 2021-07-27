@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: ? ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Shatterbolt",
             "description": " Attacks 1 enemy. Has a 45% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also fills this Champion’s Turn Meter by 15% when used against Bosses.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: ? ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Hailburn",
             "description": " Attacks 3 times at random. Each hit has a 75% chance of placing [HP Burn] debuff for 3 turns. Also places a [Perfect Veil] buff on this Champion for 2 turns. When used against Bosses, will instantly activate any [HP Burn] debuffs, including [HP Burn] debuffs placed by this Skill.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: ? ATK"
+                "Multiplier: 3 ATK (AoE), 3.95 ATK (Boss)"
             ],
             "abilityname": "Cyan Slash",
             "description": " Attacks all enemies. Has a 75% chance of placing a [Freeze] debuff for 1 turn. When targetting a Boss, will only attack the Boss (not all enemies) and will ignore 50% of the target’s DEF. Will also decrease the cooldown of the Hailburn skill by 1 turn.",
