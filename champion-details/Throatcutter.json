@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.7 ATK"
+                "Multiplier: 1.7 ATK"
             ],
             "abilityname": "Cleaver",
             "description": " Attacks 1 enemy 2 times.",
@@ -44,7 +44,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.3 ATK"
+                "Multiplier: 6.3 ATK"
             ],
             "abilityname": "Gratuitous Death",
             "description": " Attacks 1 enemy. Grants an Extra Turn if the target is killed.",

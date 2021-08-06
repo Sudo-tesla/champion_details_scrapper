@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.1 ATK"
+                "Multiplier: 1.1 ATK"
             ],
             "abilityname": "Crippling Blows",
             "description": " Attacks 1 enemy 3 times. Places a 30% [Decrease SPD] debuff on the target for 2 turns if this attack is critical.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.8 ATK"
+                "Multiplier: 4.8 ATK"
             ],
             "abilityname": "Death Burst",
             "description": " Attacks 1 enemy. Has a 70% chance of placing two 5% [Poison] debuffs on all enemies for 1 turn. If the hit is critical, has a 70% chance of placing four 5% [Poison] debuffs on all enemies for 1 turn.",

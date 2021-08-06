@@ -25,7 +25,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2 DEF + 1.8 ATK"
+                "Multiplier: 2 DEF + 1.8 ATK"
             ],
             "abilityname": "Savage Fury",
             "description": " Attacks 1 enemy. Places a 50% [Increase ATK] buff on this Champion for 2 turns if this attack is critical.",
@@ -44,7 +44,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.4 DEF + 1 ATK"
+                "Multiplier: 1.4 DEF + 1 ATK"
             ],
             "abilityname": "Maximum Carnage",
             "description": " Attacks 3 times at random. Each hit has a 50% chance of placing a 25% [Weaken] debuff for 2 turns. The chance of placing the [Weaken] debuff increases to 100% on critical hits.",
@@ -64,7 +64,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.5 DEF + 1.8 ATK"
+                "Multiplier: 4.5 DEF + 1.8 ATK"
             ],
             "abilityname": "Spirit Appeasement",
             "description": " Attacks 1 enemy. Revives a random ally with 40% HP if this attack kills the target. Only available when an ally is dead.",

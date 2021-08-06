@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Endless Agonies",
             "description": " Attacks 1 enemy. Places an extra hit if this attack is critical. The extra hit is always a normal hit.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.3 ATK"
+                "Multiplier: 3.3 ATK"
             ],
             "abilityname": "Infernal Miasma",
             "description": " Attacks 2 times at random. Each hit has a 50% chance of placing a 25% [Decrease ACC] debuff.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Creeping Doom",
             "description": " Attacks 1 enemy 2 times. Each hit has a 50% chance of placing a [Block Buffs] debuff for 2 turns. Places a [Stun] debuff for 1 turn if the target is under a [Block Buffs] debuff.",

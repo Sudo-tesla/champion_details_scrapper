@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.9 ATK"
+                "Multiplier: 1.9 ATK"
             ],
             "abilityname": "Golden Mallet",
             "description": " Attacks 1 enemy 2 times. Has a 50% chance of placing a [Stun] debuff for 1 turn after the second hit.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Cloak of Ages",
             "description": " Attacks 1 enemy, then attacks all other enemies with a second hit, dealing 60% of the damage inflicted from the first hit.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Forge Rhythm",
             "description": " Attacks all enemies. Has a 70% chance of placing a [Stun] debuff for 1 turn. Places a [HP Burn] debuff for 2 turns on enemies under [Stun] debuffs. Places an extra hit on enemies not under [Stun] debuffs.",

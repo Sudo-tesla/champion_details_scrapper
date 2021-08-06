@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Disfigure",
             "description": " Attacks 1 enemy. Has a 35% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.3 ATK"
+                "Multiplier: 5.3 ATK"
             ],
             "abilityname": "Tendon Carve",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 15% [Weaken] debuff for 2 turns.",
@@ -63,7 +63,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.8 ATK"
+                "Multiplier: 5.8 ATK"
             ],
             "abilityname": "Tear to Shreds",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Block Active Skills] debuff for 2 turns. The chance increases to 100% if the target is under a [Heal Reduction] debuff.",

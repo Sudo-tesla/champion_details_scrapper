@@ -25,7 +25,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1.9 ATK + 3 DEF"
+                "Multiplier: 1.9 ATK + 3 DEF"
             ],
             "abilityname": "Pillage",
             "description": " Attacks 1 enemy. Has a 30% chance of stealing 1 random buff from the target.",
@@ -43,7 +43,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.3 HP * (1 + Dead Allies)"
+                "Multiplier: 0.3 HP * (1 + Dead Allies)"
             ],
             "abilityname": "Bloodlust",
             "description": " Attacks 1 enemy. Damage is proportional to this Champion’s MAX HP and increases according to the number of dead allies.",

@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Hexdrinker Scimitar",
             "description": " Attacks 1 enemy. Steals 1 random buff from the target.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.3 HP"
+                "Multiplier: 0.3 HP"
             ],
             "abilityname": "Pyre Strike",
             "description": " Attacks 1 enemy. Places a [HP Burn] debuff for 2 turns. Places a 15% [Continuous Heal] buff on all allies for 2 turns if this attack is critical.",
@@ -60,7 +60,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Life Worm",
             "description": " Attacks all enemies. Has an 85% chance of placing a [Leech] debuff and a 100% [Heal Reduction] debuff for 2 turns.",

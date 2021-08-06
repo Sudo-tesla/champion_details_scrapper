@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Befoulment",
             "description": " Attacks 2 times at random. Has a 75% chance of placing a [Hex] debuff for 5 turns. This debuff cannot be resisted. Each critical hit decreases the cooldown of the [Not Of This World] skill by 1 turn.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Hexreaper",
             "description": " Attacks all enemies. Damage increases by 50% for each [Hex] debuff on the enemy team. Stacks up to 300% Removes all [Hex] debuff from all enemies after attacking.",

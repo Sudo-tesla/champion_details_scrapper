@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1.6 DEF"
+                "Multiplier: 1.6 DEF"
             ],
             "abilityname": "Acid Blade",
             "description": " Attacks 1 enemy 2 times. Has a 20% chance of placing a 25% [Decrease ATK] debuff for 1 turn.",

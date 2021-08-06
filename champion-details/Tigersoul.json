@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.77 ATK"
+                "Multiplier: 2.77 ATK"
             ],
             "abilityname": "Scorpion Tips",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a 5% [Poison] debuff for 2 turns.",
@@ -46,7 +46,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.5 ATK"
+                "Multiplier: 4.5 ATK"
             ],
             "abilityname": "Wearying Tactics",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 15% [Weaken] debuff for 2 turns.",

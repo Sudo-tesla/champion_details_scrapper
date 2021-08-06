@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Metabolize",
             "description": " Attacks 1 enemy. Heals by 20% of the damage inflicted if the target has a [Poison] debuff.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.5 ATK"
+                "Multiplier: 6.5 ATK"
             ],
             "abilityname": "Tendon Slash",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
@@ -59,7 +59,7 @@
             "mincd": 4,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 0.99 Current HP"
+                "Multiplier: 0.99 Current HP"
             ],
             "abilityname": "Toxic Nova",
             "description": " This Champion receives damage equal to 99% of their current HP. Places an [Unkillable] buff on this Champion for 2 turns. Has an 80% chance of placing four 5% [Poison] debuffs on all enemies for 2 turns.",

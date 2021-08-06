@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 2 DEF"
+                "Multiplier: 2 DEF"
             ],
             "abilityname": "Rimefire",
             "description": " Attacks all enemies. Has a 15% chance of placing a [Freeze] debuff for 1 turn. Instantly activates this Skill whenever an enemy under both a [Freeze] and a [HP Burn] debuff takes damage from the [HP Burn] debuff.",
@@ -40,7 +40,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3 DEF"
+                "Multiplier: 3 DEF"
             ],
             "abilityname": "Iceberg Crush",
             "description": " Removes all buffs from a target enemy, then attacks the target 2 times. Steals all buffs instead if the target is under a [Freeze] debuff. Will ignore DEF if the target is under both a [Freeze] and a [HP Burn] debuff.",
@@ -57,7 +57,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.8 DEF"
+                "Multiplier: 3.8 DEF"
             ],
             "abilityname": "Blizzard Rage",
             "description": " Attacks all enemies. Places a [Block Buffs] debuff and a 100% [Heal Reduction] debuff for 2 turns on enemies under [Freeze] debuffs. Has a 60% chance of placing a [Provoke] debuff for 1 turn on enemies not under [Freeze] debuffs. Decreases the cooldown of 1 random Skill of each ally by 1 turn for every enemy attacked under both a [Freeze] and a [HP Burn] debuff.",
