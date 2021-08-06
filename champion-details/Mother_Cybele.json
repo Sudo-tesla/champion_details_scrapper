@@ -20,15 +20,6 @@
         {
             "cd": 0,
             "mincd": 0,
-            "dmgscaling": [],
-            "multiplier": [],
-            "abilityname": "Raid Shadow Legends – Mother Cybele",
-            "description": "",
-            "books": []
-        },
-        {
-            "cd": 0,
-            "mincd": 0,
             "dmgscaling": [
                 "HP"
             ],
