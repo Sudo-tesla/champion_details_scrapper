@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Quick Slash",
             "description": " Attacks 1 enemy.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.5 ATK"
+                "Multiplier: 2.5 ATK"
             ],
             "abilityname": "Wave of Purification",
             "description": " Attacks all enemies. Has a 50% chance of removing 1 random buff from each target.",

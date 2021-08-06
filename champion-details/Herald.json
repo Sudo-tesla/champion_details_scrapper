@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.3 ATK"
+                "Multiplier: 3.3 ATK"
             ],
             "abilityname": "Doombolt",
             "description": " Attacks 1 enemy. Has a 15% chance of placing a 15% [Decrease SPD] debuff for 1 turn.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Axe Frenzy",
             "description": " Attacks 1 enemy 2 times. Has an 80% chance of ignoring 15% of the target’s DEF if this Champion has 50% HP or higher. Has a 10% chance of placing a [Stun] debuff for 1 turn if this Champion has less than 50% HP.",

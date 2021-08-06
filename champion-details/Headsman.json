@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.57 ATK"
+                "Multiplier: 1.57 ATK"
             ],
             "abilityname": "Public Execution",
             "description": " Attacks 1 enemy 2 times. Each hit has a 10% chance of placing a [Fear] debuff for 1 turn.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Headman’s Due",
             "description": " Attacks all enemies. Has a 30% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",

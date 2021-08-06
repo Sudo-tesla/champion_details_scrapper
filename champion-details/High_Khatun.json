@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Imperial Grace",
             "description": " Attacks 1 enemy. Has a 25% chance of placing 30% [Decrease SPD] debuff for 2 turns.",
@@ -54,7 +54,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Shamanic Lightning",
             "description": " Attacks all enemies. Has a 50% chance of decreasing the Turn Meters by 15%",

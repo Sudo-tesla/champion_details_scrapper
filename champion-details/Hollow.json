@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.4 ATK"
+                "Multiplier: 3.4 ATK"
             ],
             "abilityname": "Bleed Away",
             "description": " Attacks 1 enemy. Has a 10% chance of placing a 2.5% [Poison] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.2 ATK"
+                "Multiplier: 1.2 ATK"
             ],
             "abilityname": "Creeping Dark",
             "description": " Attacks 1 enemy 4 times. Each hit decreases the target’s Turn Meter and fills this Champion’s Turn Meter by 5%.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.5 ATK"
+                "Multiplier: 4.5 ATK"
             ],
             "abilityname": "Aether Strike",
             "description": " Attacks 1 enemy. Will ignore 25% of the target’s DEF.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.8 ATK"
+                "Multiplier: 2.8 ATK"
             ],
             "abilityname": "Burning Iron",
             "description": " Attacks 1 enemy 2 times. Has a 20% chance of placing a [Provoke] debuff for 1 turn.",
@@ -43,7 +43,7 @@
                 "Enemy MAX HP"
             ],
             "multiplier": [
-                " Multiplier: 0.1 Emax"
+                "Multiplier: 0.1 Emax"
             ],
             "abilityname": "Despair",
             "description": " Attacks all enemies. Has a 35% chance of placing a [Stun] debuff for 1 turn.",
@@ -62,7 +62,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.33 HP"
+                "Multiplier: 0.33 HP"
             ],
             "abilityname": "Retaliate",
             "description": " Attacks 1 enemy. Damage increases according to this Champion’s current HP.",

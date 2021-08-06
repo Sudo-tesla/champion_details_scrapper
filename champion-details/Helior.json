@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.2 DEF"
+                "Multiplier: 3.2 DEF"
             ],
             "abilityname": "Sunshine Halberd",
             "description": " Attacks 1 enemy. Increases this champion’s DEF by 5% if this attack is Critical (Stacks up to 20%). Will also heal this champion by 75% of their DEF after attacking if their DEF has already increased by 20%.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3 DEF"
+                "Multiplier: 3 DEF"
             ],
             "abilityname": "Solar Blessing",
             "description": " Attacks all enemies. Places a [Shield] buff on all allies for 2 turns equal to 20% of the damage inflicted.",

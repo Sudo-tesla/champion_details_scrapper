@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.6 ATK"
+                "Multiplier: 4.6 ATK"
             ],
             "abilityname": "Ambush",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
@@ -44,7 +44,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 7 ATK"
+                "Multiplier: 7 ATK"
             ],
             "abilityname": "Shocking Wound",
             "description": " Attacks 1 enemy. Places a [Stun] debuff if the target has a [Decrease SPD] debuff. Has a 20% chance of placing a [Stun] debuff for 1 turn if the target has no [Decrease SPD] debuffs.",

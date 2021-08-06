@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Bullseye",
             "description": " Attacks 1 enemy. Grants an Extra Turn if the target is killed.",

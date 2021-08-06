@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.6 ATK"
+                "Multiplier: 4.6 ATK"
             ],
             "abilityname": "Sequester",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [Block Buffs] debuff for 2 turns.",
@@ -56,7 +56,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.9 ATK"
+                "Multiplier: 4.9 ATK"
             ],
             "abilityname": "Holy Storm",
             "description": " Attacks all enemies. Has a 50% chance of removing all buffs.",

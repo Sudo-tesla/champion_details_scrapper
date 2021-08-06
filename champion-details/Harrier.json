@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Trick Shot",
             "description": " Attacks 1 enemy. Has a 15% chance of placing an extra hit.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.5 ATK"
+                "Multiplier: 2.5 ATK"
             ],
             "abilityname": "Puncture Bolts",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.5 ATK"
+                "Multiplier: 5.5 ATK"
             ],
             "abilityname": "Deadeye’s Stike",
             "description": " Attacks 1 enemy. Has an extra 30% chance of inflicting a critical hit.",

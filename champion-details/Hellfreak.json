@@ -1,0 +1,84 @@
+{
+    "name": "Hellfreak",
+    "class": {
+        "faction": "Demonspawn",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "15,195",
+        "atk": "1,365",
+        "def": "650",
+        "spd": "107",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: ? ATK"
+            ],
+            "abilityname": "Vile Blades",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 20% chance of placing 60% [Decrease DEF] debuff for 2 turns",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Damage +5%",
+                "Level 7: Buff/Debuff Chance +5%",
+                "Level 8: Damage +5%",
+                "Level 9: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: ? ATK"
+            ],
+            "abilityname": "Mind Games",
+            "description": " Attacks 1 enemy. Has a 50% chance of stealing all buffs from the target before attacking.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff chance +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 4,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Worst Nightmare",
+            "description": " Swaps HP with an enemy, then grants an extra turn.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally SPD in all Battles by 10%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Hellfreak.png"
+}

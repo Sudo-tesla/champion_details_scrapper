@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.12 HP"
+                "Multiplier: 0.12 HP"
             ],
             "abilityname": "Burly Bash",
             "description": " Attacks 1 enemy 2 times. Each hit has a 10% chance of placing a [Stun] debuff for 1 turn.",

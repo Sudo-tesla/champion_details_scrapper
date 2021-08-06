@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Hew",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 25% [Weaken] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.8 ATK"
+                "Multiplier: 4.8 ATK"
             ],
             "abilityname": "Bisect",
             "description": " Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs.",

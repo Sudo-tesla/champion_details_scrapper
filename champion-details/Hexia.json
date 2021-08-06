@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.2 ATK"
+                "Multiplier: 3.2 ATK"
             ],
             "abilityname": "Grave Rot",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a 60% [Decrease DEF] debuff for 2 turns. This chance increases by 20% for each debuff placed on this Champion.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.3 ATK"
+                "Multiplier: 5.3 ATK"
             ],
             "abilityname": "Soulreap",
             "description": " Attacks 1 enemy. Grants an Extra Turn and places a 50% [Increase ATK] buff on this Champion for 2 turns if this attack kills an enemy. Damage increases by 7.5% for each debuff on this Champion. Stacks up to 30%.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.5 ATK"
+                "Multiplier: 5.5 ATK"
             ],
             "abilityname": "Spirit Harvest",
             "description": " Attacks 1 enemy. Heals this Champion by 15% of damage inflicted. The heal increases by 10% for each debuff on this Champion. Places a 30% [Increase SPD] buff on this Champion for 2 turns.",
