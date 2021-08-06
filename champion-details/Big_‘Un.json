@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.5 ATK"
+                "Multiplier: 2.5 ATK"
             ],
             "abilityname": "Head Splitter",
             "description": " Attacks 1 enemy. Attacks all enemies 1 time if the first attack is critical.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Forward Charge",
             "description": " Attacks all enemies. Has a 30% chance of placing a [Stun] debuff for 1 turn. Also has a 50% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
@@ -58,7 +58,7 @@
             "mincd": 5,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 1.9 ATK"
+                "Multiplier: 1.9 ATK"
             ],
             "abilityname": "Molten Slag",
             "description": " Attacks all enemies 2 times. Decreases the Turn Meter by 25%. Has a 30% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",

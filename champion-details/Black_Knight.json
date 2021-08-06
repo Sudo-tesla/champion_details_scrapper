@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.28 HP"
+                "Multiplier: 0.28 HP"
             ],
             "abilityname": "Heavy Blow",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [Provoke] debuff for 1 turn.",
@@ -53,7 +53,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: ATK * (HP Percent Lost * 10 + 1)"
+                "Multiplier: ATK * (HP Percent Lost * 10 + 1)"
             ],
             "abilityname": "Last Breath",
             "description": " Attacks all enemies. Damage increases according to the amount of HP this champion has lost.",

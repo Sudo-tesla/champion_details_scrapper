@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.3 ATK"
+                "Multiplier: 3.3 ATK"
             ],
             "abilityname": "Batter",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5 ATK"
+                "Multiplier: 5 ATK"
             ],
             "abilityname": "Precision Strike",
             "description": " Attacks 1 enemy. This attack deals 50% extra C.DMG.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.3 ATK"
+                "Multiplier: 5.3 ATK"
             ],
             "abilityname": "Killing Haze",
             "description": " Attacks 1 enemy. Places an extra hit if this attack is critical. Fills the Turn Meters of all allies by 15% if this attack kills an enemy.",

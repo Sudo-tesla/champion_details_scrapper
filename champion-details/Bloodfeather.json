@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Hunt Down",
             "description": " Attacks 1 enemy. Has an extra 20% chance of inflicting a critical hit.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.3 ATK"
+                "Multiplier: 5.3 ATK"
             ],
             "abilityname": "Armor Breaker",
             "description": " Attacks 1 enemy. Has an extra 20% chance of inflicting a critical hit. Places a 60% [Decrease DEF] debuff for 2 turns.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.1 ATK"
+                "Multiplier: 6.1 ATK"
             ],
             "abilityname": "Charged Shot",
             "description": " Attacks 1 enemy. Places a 30% [Decrease SPD] debuff for 2 turns. Decreases the target’s Turn Meter by 30%. Has an extra 20% chance of inflicting a critical hit.",

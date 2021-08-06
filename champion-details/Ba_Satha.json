@@ -1,0 +1,95 @@
+{
+    "name": "Ba Satha",
+    "class": {
+        "faction": "Lizardmen",
+        "rarity": "Legendary",
+        "role": "HP",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "20,310",
+        "atk": "837",
+        "def": "1,387",
+        "spd": "101",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "50",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: 0.24 HP"
+            ],
+            "abilityname": "Death Roll",
+            "description": " Attacks 1 enemy. Has a 40% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "God Beast’s Boon",
+            "description": " Places a 25% [Strengthen] buff and a 15% [Continuous Heal] buff on all allies for 2 turns. Also places a [Shield] buff for 2 turns equal to 25% of this Champion’s HP on allies under [Fear], [True Fear], [Freeze], [Provoke], [Sleep], or [Stun] debuffs.",
+            "books": [
+                "Level 2: Shield +10%",
+                "Level 3: Shield +10%",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: 0.27 HP"
+            ],
+            "abilityname": "Staggering Heft",
+            "description": " Attacks all enemies. Has a 75% chance of placing a [Stun] debuff for 1 turn and decreasing each enemy’s Turn Meter by 30%.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 1,
+            "mincd": 1,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Soulkeeper",
+            "description": " Whenever an enemy is revived, has a 75% chance of placing a [Stun] debuff on them for 1 turn. This effect cannot be resisted or blocked.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +10%",
+                "Level 3: Buff/Debuff Chance +15%"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally HP in all Battles by 31%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ba_Satha.png"
+}

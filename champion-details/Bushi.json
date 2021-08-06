@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: ATK * (2.9 + 0.4 * SKILL USED)"
+                "Multiplier: ATK * (2.9 + 0.4 * SKILL USED)"
             ],
             "abilityname": "Rising Storm",
             "description": " Attacks 1 enemy. Damage inflicted increases each time this skill is used. Stacks up to 4 times.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 7 ATK"
+                "Multiplier: 7 ATK"
             ],
             "abilityname": "Deadly Edge",
             "description": " Attacks 1 enemy. This attack is always critical. Places a 30% [Increase C.RATE] buff and a 15% [Increase SPD] buff on this Champion for 3 turns.",

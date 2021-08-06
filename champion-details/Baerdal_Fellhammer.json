@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.1 ATK"
+                "Multiplier: 2.1 ATK"
             ],
             "abilityname": "Ensorcelled Axe",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.8 ATK"
+                "Multiplier: 1.8 ATK"
             ],
             "abilityname": "Fey Protection",
             "description": " Attacks 1 enemy 3 times. Each hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns if the target is under a [Heal Reduction] debuff. Places a [Shield] buff on this Champion for 3 turns equal to 30% of the damage inflicted.",

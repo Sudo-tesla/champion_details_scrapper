@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.9 ATK"
+                "Multiplier: 1.9 ATK"
             ],
             "abilityname": "Dirty Cuts",
             "description": " Attacks 2 times at random. Has a 50% chance of placing a 5% [Poison] debuff for 1 turn if this attack is critical.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Rip and Tear",
             "description": " Attacks 1 enemy. Has a 30% chance of inflicting a critical hit.",

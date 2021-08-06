@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.6 ATK"
+                "Multiplier: 1.6 ATK"
             ],
             "abilityname": "Weighty Cleaver",
             "description": " Attacks 1 enemy 2 times. Has a 20% chance of placing a [Stun] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.6 ATK"
+                "Multiplier: 5.6 ATK"
             ],
             "abilityname": "Slaughter Prey",
             "description": " Attacks 1 enemy. Enemies killed by this skill cannot be revived.",

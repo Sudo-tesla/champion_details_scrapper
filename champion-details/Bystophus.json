@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.2 ATK"
+                "Multiplier: 3.2 ATK"
             ],
             "abilityname": "Horror",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Block Active Skills] debuff for 1 turn. Has a 35% chance of placing a [True Fear] debuff for 1 turn on targets under [Block Active Skills] debuffs.",
@@ -39,7 +39,7 @@
             "mincd": 3,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 2.6 ATK"
+                "Multiplier: 2.6 ATK"
             ],
             "abilityname": "Shadow Strike",
             "description": " Attacks all enemies. Inflicts a critical hit against targets under [Block Active Skills] debuffs. Heals by 20% of the damage inflicted.",
@@ -57,7 +57,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.35 ATK"
+                "Multiplier: 1.35 ATK"
             ],
             "abilityname": "Crumble",
             "description": " Attacks all enemies. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also has a 50% chance of placing a [Block Active Skills] debuff for 2 turns.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.2 ATK"
+                "Multiplier: 2.2 ATK"
             ],
             "abilityname": "Break Defense",
             "description": " Attacks 1 enemy 2 times. Has a 55% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Raging Beast",
             "description": " Attacks all enemies. Puts one of each target’s Skills on cooldown.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Decapitate",
             "description": " Attacks 1 enemy. Will ignore DEF. Enemies killed by this skill cannot be revived.",

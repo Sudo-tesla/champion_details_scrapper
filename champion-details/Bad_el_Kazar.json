@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.8 ATK"
+                "Multiplier: 2.8 ATK"
             ],
             "abilityname": "Dark Sphere",
             "description": " Attacks all enemies. Heals this Champion and all allies by 20% of the damage inflicted.",

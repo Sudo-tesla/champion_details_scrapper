@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.3 ATK"
+                "Multiplier: 3.3 ATK"
             ],
             "abilityname": "Killer Crescent",
             "description": " Attacks 1 enemy. Has a 15% chance of placing a 25% [Decrease ACC] debuff for 2 turns.",

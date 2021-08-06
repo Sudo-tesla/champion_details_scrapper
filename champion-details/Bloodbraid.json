@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.2 ATK"
+                "Multiplier: 4.2 ATK"
             ],
             "abilityname": "Enraging Prowess",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.3 ATK"
+                "Multiplier: 2.3 ATK"
             ],
             "abilityname": "Tireless Assault",
             "description": " Attacks 1 enemy 3 times. Has a 25% chance of granting an Extra Turn.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.8 ATK"
+                "Multiplier: 6.8 ATK"
             ],
             "abilityname": "Lifecurse",
             "description": " Attacks 1 enemy. Places a 100% [Heal Reduction] debuff for 2 turns. Heals this Champion by 30% of the damage dealt.",

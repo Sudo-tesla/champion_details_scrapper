@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.3 ATK"
+                "Multiplier: 2.3 ATK"
             ],
             "abilityname": "Grave Chill",
             "description": " Attacks all enemies. Has a 20% chance of placing a 30% [Decrease DEF] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.1 ATK"
+                "Multiplier: 3.1 ATK"
             ],
             "abilityname": "Cursed Touch",
             "description": " Attacks all enemies. Has a 50% chance of removing 1 random buff from each target.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.8 ATK"
+                "Multiplier: 2.8 ATK"
             ],
             "abilityname": "Death Ray",
             "description": " Attacks 2 times at random. Each attack has a 50% chance of placing a [Block Active Skills] debuff for 1 turn.",
