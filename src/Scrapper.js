@@ -474,8 +474,8 @@ function upsertChampionDetails(champ ) {
             try {
                 extractChampionDetails(champ).then((res) =>{
 
-                    storeChampion(res);
-                    //storeImage(res);
+                    //storeChampion(res);
+                    storeImage(res);
 
                 }).catch((error) => {
                     console.log(error.message);
@@ -503,6 +503,7 @@ async function main() {
     });
 
 }
+
 
 
 
@@ -536,7 +537,7 @@ extractChampionDetails(seer).then((res) =>{
 
 
 
-//storeBaseChampionInfoList()
-//storeSimulatorChampionInfoList()
+storeBaseChampionInfoList()
+storeSimulatorChampionInfoList()
 
 

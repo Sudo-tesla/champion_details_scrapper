@@ -111,6 +111,10 @@
         "affinity": "Magic",
         "rarity": "Epic"
     },
+    "Ashwalker": {
+        "affinity": "Void",
+        "rarity": "Rare"
+    },
     "Assassin": {
         "affinity": "Magic",
         "rarity": "Rare"
@@ -194,6 +198,10 @@
     "Battle Sister": {
         "affinity": "Magic",
         "rarity": "Uncommon"
+    },
+    "Ba Satha": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
     },
     "Beast Wrestler": {
         "affinity": "Force",
@@ -307,6 +315,10 @@
         "affinity": "Spirit",
         "rarity": "Epic"
     },
+    "Candleguard": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
     "Candraphon": {
         "affinity": "Force",
         "rarity": "Legendary"
@@ -390,6 +402,10 @@
     "Commander": {
         "affinity": "Force",
         "rarity": "Uncommon"
+    },
+    "Conellia": {
+        "affinity": "Magic",
+        "rarity": "Epic"
     },
     "Confessor": {
         "affinity": "Void",
@@ -939,6 +955,10 @@
         "affinity": "Spirit",
         "rarity": "Rare"
     },
+    "Hellfreak": {
+        "affinity": "Spirit",
+        "rarity": "Rare"
+    },
     "Hellgazer": {
         "affinity": "Spirit",
         "rarity": "Epic"
@@ -1115,6 +1135,10 @@
         "affinity": "Magic",
         "rarity": "Epic"
     },
+    "Jurojin": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
     "Justiciar": {
         "affinity": "Void",
         "rarity": "Rare"
@@ -1195,6 +1219,10 @@
         "affinity": "Magic",
         "rarity": "Uncommon"
     },
+    "Leorius the Proud": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
     "Lich": {
         "affinity": "Force",
         "rarity": "Epic"
@@ -1243,6 +1271,10 @@
         "affinity": "Spirit",
         "rarity": "Legendary"
     },
+    "Lumberer": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
     "Luria": {
         "affinity": "Spirit",
         "rarity": "Epic"
@@ -1286,6 +1318,10 @@
     "Magmablood": {
         "affinity": "Force",
         "rarity": "Rare"
+    },
+    "Magnarr": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
     },
     "Magus": {
         "affinity": "Magic",
@@ -1351,6 +1387,7 @@
         "affinity": "Spirit",
         "rarity": "Epic"
     },
+
     "Metalshaper": {
         "affinity": "Spirit",
         "rarity": "Rare"
@@ -1381,6 +1418,10 @@
     },
     "Mortu-Macaab": {
         "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
+    "Mother Cybele": {
+        "affinity": "Force",
         "rarity": "Legendary"
     },
     "Mother Superior": {
@@ -2071,6 +2112,10 @@
         "affinity": "Magic",
         "rarity": "Epic"
     },
+    "Taya": {
+        "affinity": "Void",
+        "rarity": "Epic"
+    },
     "Tayrel": {
         "affinity": "Magic",
         "rarity": "Epic"
@@ -2122,6 +2167,10 @@
     "Tigersoul": {
         "affinity": "Spirit",
         "rarity": "Rare"
+    },
+    "Tolf the Maimed": {
+        "affinity": "Void",
+        "rarity": "Epic"
     },
     "Tomb Lord": {
         "affinity": "Spirit",
@@ -2246,6 +2295,10 @@
     "Vanguard": {
         "affinity": "Void",
         "rarity": "Rare"
+    },
+    "Varl the Destroyer": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
     },
     "Venomage": {
         "affinity": "Magic",
