@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.4 ATK"
+                "Multiplier: 2.4 ATK"
             ],
             "abilityname": "Toxicity",
             "description": " Attacks 1 enemy 2 times. Decreases the targets MAX HP by 75% of the damage inflicted if they are under [Heal Reduction] debuff. Each hit has a 35% chance of activating up to two Poison debuffs on the target.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Neurotoxin",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns if the target is under a [Poison] debuff.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Fleshmelter Venom",
             "description": " Attacks all enemies. Has a 75% chance of placing a 100% [Heal Reduction] debuff for 3 turns. Also has a 75% chance of placing two 5% [Poison] debuffs for 2 turns.",

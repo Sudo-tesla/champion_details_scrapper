@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1.55 DEF"
+                "Multiplier: 1.55 DEF"
             ],
             "abilityname": "Piercing Blade",
             "description": " Attacks 1 enemy 2 times. Increases the inflicted damage by 15% if the target is under a [Shield] buff.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.8 DEF"
+                "Multiplier: 3.8 DEF"
             ],
             "abilityname": "Crush The Wall",
             "description": " Removes all [Shield] buffs on all enemies, then attacks all enemies. Has a 30% chance of placing a 60% [Decrease DEF] debuff on all enemies for 2 turns.",

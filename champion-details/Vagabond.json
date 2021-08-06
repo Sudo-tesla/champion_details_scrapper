@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Dreamer’s Curse",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a [Sleep] debuff for 1 turn.",
@@ -44,7 +44,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Ominous Visit",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Block Buffs] debuff for 1 turn. Also fills this Champion’s Turn Meter by 15% and fills the Turn Meter of the ally with the highest Turn Meter by 15%.",

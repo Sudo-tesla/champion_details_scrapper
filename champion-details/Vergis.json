@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.9 DEF"
+                "Multiplier: 3.9 DEF"
             ],
             "abilityname": "Pierce",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a 30% [Reflect Damage] debuff on a random ally for 2 turns.",
