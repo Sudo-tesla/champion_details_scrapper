@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK * (1 + 0.1 * Total Debuff)"
+                "Multiplier: 3 ATK * (1 + 0.1 * Total Debuff)"
             ],
             "abilityname": "Eviscerate",
             "description": " Attacks 1 enemy. Damage increases by 10% for each debuff on the target, stacking up to a maximum of 100%.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.7 ATK"
+                "Multiplier: 1.7 ATK"
             ],
             "abilityname": "Blade Dance",
             "description": " Attacks all enemies 2 times. Fills the Turn Meter by 10% for each critical hit.",

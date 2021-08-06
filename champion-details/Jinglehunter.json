@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.7 ATK"
+                "Multiplier: 1.7 ATK"
             ],
             "abilityname": "Missile Toe",
             "description": " Attacks 1 enemy 2 times. Has a 40% chance of placing a 30% [Decrease SPD] debuff for 2 turns if this attack is a critical.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.9 ATK"
+                "Multiplier: 5.9 ATK"
             ],
             "abilityname": "Jacked Frost",
             "description": " Attacks 1 enemy. Has a 90% chance of placing a [Freeze] debuff on all enemies for 1 turn if this attack kills the enemy.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Cold Snap",
             "description": " Attacks all enemies. Decreases the Turn Meter by 20% if this attack is critical. Fills this Champion’s Turn Meter by 10% if this attack is critical.",

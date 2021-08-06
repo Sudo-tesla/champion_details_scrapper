@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.7 ATK"
+                "Multiplier: 6.7 ATK"
             ],
             "abilityname": "Rending Claws",
             "description": " Attacks 1 enemy. Has an 35% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
