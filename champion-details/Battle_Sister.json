@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.2 ATK"
+                "Multiplier: 4.2 ATK"
             ],
             "abilityname": "Sever",
             "description": " Attacks 1 enemy. Decreases Turn Meter by 10% if this attack is critical.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.7 ATK"
+                "Multiplier: 6.7 ATK"
             ],
             "abilityname": "Condemn",
             "description": " Attacks 1 enemy. Has a 15% chance of removing 1 random buff from the target. This attack is always critical.",

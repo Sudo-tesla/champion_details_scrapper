@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Poisonous Evocation",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a 2.5% [Poison] debuff on the target for 2 turns.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5 ATK"
+                "Multiplier: 5 ATK"
             ],
             "abilityname": "Malediction",
             "description": " Attacks 1 enemy. Has a 50% chance of removing 1 random buff from the target. Places a 15% [Continuous Heal] buff on this Champion for 2 turns if a buff is removed.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Manglestorm",
             "description": " Attacks all enemies. Places a 30% [Decrease DEF] debuff on the target for 2 turns.",

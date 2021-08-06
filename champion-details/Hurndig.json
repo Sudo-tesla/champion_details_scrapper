@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Lethal Lust",
             "description": " Attacks 1 enemy. Grants an Extra Turn and decreases the cooldown of the Statis Strike skill by 2 turns if this attack kills an enemy.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.4 ATK"
+                "Multiplier: 4.4 ATK"
             ],
             "abilityname": "Arcane Tempest",
             "description": " Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff an a 50% [Decrease ACC] debuff for 2 turns.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.2 ATK (Single-Target) + 4 ATK (AoE)"
+                "Multiplier: 6.2 ATK (Single-Target) + 4 ATK (AoE)"
             ],
             "abilityname": "Stasis Strike",
             "description": " Attacks 1 enemy. Fully depletes the target’s Turn Meter. Will also attack all enemies if the first attack is critical. This AoE attack has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. Will also place a [HP Burn] debuff for 2 turns after the attack on the enemies whose Turn Meters are below 30%.",

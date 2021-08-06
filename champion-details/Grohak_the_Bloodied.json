@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.9 ATK"
+                "Multiplier: 1.9 ATK"
             ],
             "abilityname": "Sap Swiftness",
             "description": " Attacks 2 times at random. Each hit has a 35% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Unbound Anger",
             "description": " Attacks all enemies. Fills this Champion’s Turn Meter by 20% for each enemy under a [Decrease SPD] debuff.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.9 ATK"
+                "Multiplier: 5.9 ATK"
             ],
             "abilityname": "Lord of War",
             "description": " Attacks 1 enemy and steals the target’s MAX Turn Meter.",

@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 4.3 DEF"
+                "Multiplier: 4.3 DEF"
             ],
             "abilityname": "Roaring Leap",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a [Provoke] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.1 DEF"
+                "Multiplier: 3.1 DEF"
             ],
             "abilityname": "Raging Bull",
             "description": " Attacks 2 times at random. Each hit has a 50% chance of placing a [Provoke] debuff for 1 turn.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: (2.5 + 3(1 – HP%)) ATK"
+                "Multiplier: (2.5 + 3(1 – HP%)) ATK"
             ],
             "abilityname": "Ram",
             "description": " Attacks 1 enemy. Damage increases according to how much HP this Champion has lost. This attack cannot be a strong, critical or weak hit.",

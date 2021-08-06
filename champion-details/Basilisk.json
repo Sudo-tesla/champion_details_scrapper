@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Whirling Axe",
             "description": " Attacks all enemies. Places a 25% [Increase ATK] buff on this Champion for 2 turns if this attack is critical.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.5 ATK"
+                "Multiplier: 6.5 ATK"
             ],
             "abilityname": "Skullclobber",
             "description": " Attacks 1 enemy. Places a [Stun] debuff for 1 turn.",

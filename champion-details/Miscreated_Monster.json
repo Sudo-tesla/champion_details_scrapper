@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.1 HP"
+                "Multiplier: 0.1 HP"
             ],
             "abilityname": "Meaty Fists",
             "description": " Attacks 1 enemy 2 times. Each hit has a 15% chance of placing a [Stun] debuff for 1 turn. Has a 50% chance of placing a 60% [Decrease DEF] for 1 turn if the [Stun] debuff is placed.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Lightning Storm",
             "description": " Attacks all enemies. Has a 50% chance of placing a [Stun] debuff for 1 turn. Places a [Shield] buff on all allies for 3 turns equal to 25% of the damage inflicted.",

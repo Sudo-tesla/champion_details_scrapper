@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.1 HP"
+                "Multiplier: 0.1 HP"
             ],
             "abilityname": "Whack",
             "description": " Attacks 1 enemy. Fills this Champion’s Turn Meter by 20% if this attack is critical.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.15 HP"
+                "Multiplier: 0.15 HP"
             ],
             "abilityname": "Lightning Strike",
             "description": " Attacks 1 enemy.",

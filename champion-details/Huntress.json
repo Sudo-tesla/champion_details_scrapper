@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.7 ATK"
+                "Multiplier: 1.7 ATK"
             ],
             "abilityname": "Curved Shot",
             "description": " Attacks 1 enemy 2 times. Has a 15% chance of placing a [Stun] debuff for 1 turn.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.2 ATK"
+                "Multiplier: 5.2 ATK"
             ],
             "abilityname": "Incinerate",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 25% [Weaken] debuff for 2 turns.",

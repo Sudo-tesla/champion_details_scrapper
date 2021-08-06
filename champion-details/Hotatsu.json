@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.2 DEF"
+                "Multiplier: 3.2 DEF"
             ],
             "abilityname": "Red River",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a [Leech] debuff for 2 turns.",
@@ -46,7 +46,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 4 DEF"
+                "Multiplier: 4 DEF"
             ],
             "abilityname": "Rushing Death",
             "description": " Attacks all enemies. Has a 50% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",

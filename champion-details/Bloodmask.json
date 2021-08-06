@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.19 HP"
+                "Multiplier: 0.19 HP"
             ],
             "abilityname": "Bone Crunch",
             "description": " Attacks 1 enemy. Has a 35% chance of decreasing the target’s Turn Meter by 10%.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.27 HP"
+                "Multiplier: 0.27 HP"
             ],
             "abilityname": "Foot Stomp",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
@@ -63,7 +63,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.28 HP"
+                "Multiplier: 0.28 HP"
             ],
             "abilityname": "Skull Fracture",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [Stun] debuff for 1 turn.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.5 ATK"
+                "Multiplier: 4.5 ATK"
             ],
             "abilityname": "Graceful Guide",
             "description": " Attacks 1 enemy. Places a 15% [Continuous Heal] buff on the ally with the lowest HP for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.5 ATK"
+                "Multiplier: 5.5 ATK"
             ],
             "abilityname": "Mending Ways",
             "description": " Attacks 1 enemy. Heals this Champion and the ally with the lowest HP by 10,000 HP. Has a 75% chance of placing a 100% [Heal Reduction] debuff on all enemies for 2 turns.",

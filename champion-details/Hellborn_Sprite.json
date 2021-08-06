@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Shivering Malady",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 15% [Weaken] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.6 ATK"
+                "Multiplier: 1.6 ATK"
             ],
             "abilityname": "Crumbling Flesh",
             "description": " Attacks 1 enemy 3 times. Each hit has a 50% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",

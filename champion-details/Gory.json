@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.8 ATK"
+                "Multiplier: 1.8 ATK"
             ],
             "abilityname": "Cold Comfort",
             "description": " Attacks 1 enemy 2 times. Places an extra hit if the target is under a [Freeze] debuff. Heals this Champion by 10% of the damage inflicted.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.1 ATK"
+                "Multiplier: 2.1 ATK"
             ],
             "abilityname": "Frost Jutsu",
             "description": " Attacks 3 times at random. Each hit has a 75% chance of placing a [Freeze] debuff for 1 turn.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.6 ATK"
+                "Multiplier: 5.6 ATK"
             ],
             "abilityname": "Frost Breaker",
             "description": " Attacks 1 enemy. Will ignore [Increase DEF] and [Shield] buffs. Will also ignore 50% of the target’s DEF if they are under a [Freeze] debuff. Places a [Counterattack] buff and a 50% [Increase ATK] buff on this Champion for 2 turns if this attack kills an enemy.",

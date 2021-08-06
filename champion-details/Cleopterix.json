@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Death Dive",
             "description": " Attacks 1 enemy. Has a 30% Chance of placing a 25% [Weaken] debuff for 2 turns. The chance increases to 50% if the target is under a [Hex] debuff. Places a [Perfect Veil] buff on this champion for 1 turn if this attack kills an enemy under [Hex] debuff.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.9 ATK"
+                "Multiplier: 3.9 ATK"
             ],
             "abilityname": "Feather Barrage",
             "description": " Places a 30% [Increase C.RATE] buff on this champion for 2 turns, then attacks all enemies. Has a 75% chance of placing a [Block Active Skills] debuff for 2 turns on targets under [Hex] debuffs.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Sky Punishment",
             "description": " Places a 50% [Increase ACC] buff on this champion for 2 turns, then attacks all enemies. Has a 75% chance of placing a [Hex] debuff for 3 turns. Has a 100% chance of placing a [Fear] debuff for 1 turn instead on enemies under [Hex] debuffs.",

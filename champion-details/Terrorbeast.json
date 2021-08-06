@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.5 ATK"
+                "Multiplier: 4.5 ATK"
             ],
             "abilityname": "Painful Bite",
             "description": " Attacks 1 enemy. Has a 20% chance of increasing the cooldown of one of the target’s skills by 1 turn at random.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.23 HP"
+                "Multiplier: 0.23 HP"
             ],
             "abilityname": "Shriek",
             "description": " Attacks 2 times at random. Places a 30% [Reflect Damage] buff on all allies for 3 turns.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Flesh Feast",
             "description": " Attacks 1 enemy 2 times. Fully heals this Champion if the target is killed by this attack. Places a [Stun] debuff for 2 turns if the target survives.",

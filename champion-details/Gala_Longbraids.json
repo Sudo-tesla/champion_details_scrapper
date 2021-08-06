@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.7 ATK"
+                "Multiplier: 1.7 ATK"
             ],
             "abilityname": "Brutal Bludgeon",
             "description": " Attacks 1 enemy 2 times. Each hit ignores 30% of the target’s DEF. Places a [Shield] buff on this Champion for 2 turns. The value of the [Shield] is equal to 20% of the damage inflicted.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.7 ATK"
+                "Multiplier: 4.7 ATK"
             ],
             "abilityname": "Fearless Aggression",
             "description": " Attacks 1 enemy. Ignores 50% of target’s DEF when attacking under a [Shield] buff. Heals this Champion by 50% of the damage inflicted. Places a [Shield] buff on this Champion equal to any surplus heal for 3 turns.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.6 ATK"
+                "Multiplier: 1.6 ATK"
             ],
             "abilityname": "Sheer Swagger",
             "description": " Attacks 1 enemy 3 times. Each hit ignores 25% of the target’s DEF. Grants an Extra Turn if this Champion has full HP after using this Skill.",

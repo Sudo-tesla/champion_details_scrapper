@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5 ATK"
+                "Multiplier: 5 ATK"
             ],
             "abilityname": "Skewer",
             "description": " Attacks 1 enemy. If the hit is critical, places a 15% [Decrease SPD] debuff.",
@@ -54,7 +54,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.1 ATK"
+                "Multiplier: 5.1 ATK"
             ],
             "abilityname": "Paralyzing Bolts",
             "description": " Attacks all enemies. Has a 35% of placing a [Sleep] debuff for 1 turn. This debuff cannot be removed.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.9 ATK"
+                "Multiplier: 2.9 ATK"
             ],
             "abilityname": "Tainted Blade",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [Block Buffs] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.9 ATK"
+                "Multiplier: 3.9 ATK"
             ],
             "abilityname": "Turn the Tide",
             "description": " Attacks 1 enemy. Steals 2 random buffs from the target.",

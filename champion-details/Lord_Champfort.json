@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Annihilating Hit",
             "description": " Attacks 1 enemy. Has a 45% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.23 HP"
+                "Multiplier: 0.23 HP"
             ],
             "abilityname": "Earthshaker",
             "description": " Attacks all enemies. Places a 50% [Decrease ACC] debuff and a 50% [Decrease ATK] debuff for 2 turns.",

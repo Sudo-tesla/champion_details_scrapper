@@ -25,7 +25,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 0.1 HP + 0.1 DEF"
+                "Multiplier: 0.1 HP + 0.1 DEF"
             ],
             "abilityname": "Angry Mallet",
             "description": " Attacks 1 enemy. Places a [Shield] buff on this Champion equal to 10% of their MAX HP for 2 turns.",
@@ -45,7 +45,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP + 1.5 DEF"
+                "Multiplier: 0.2 HP + 1.5 DEF"
             ],
             "abilityname": "No Coming Back",
             "description": " Attacks 1 enemy. Places a 50% [Heal Reduction] debuff for 2 turns.",

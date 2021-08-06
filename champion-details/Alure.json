@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1 ATK"
+                "Multiplier: 1 ATK"
             ],
             "abilityname": "Psychic Whip",
             "description": " Attacks 3 times at random. Decreases the target’s Turn Meter by 25% on each critical hit.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.7 ATK"
+                "Multiplier: 1.7 ATK"
             ],
             "abilityname": "Temptation",
             "description": " Attacks all enemies 2 times. Each hit has a 30% chance of placing a 30% [Decrease DEF] debuff for 1 turn. Places a [Sleep] debuff for 1 turn on targets under [Decrease DEF] debuffs.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.6 ATK"
+                "Multiplier: 4.6 ATK"
             ],
             "abilityname": "Hellish Blaze",
             "description": " Attacks 1 enemy. Has an extra 30% chance of inflicting a critical hit. Will ignore 50% of the target’s DEF.",

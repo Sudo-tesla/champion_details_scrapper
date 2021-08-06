@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Unstoppable Force",
             "description": " Attacks 1 enemy. Will ignore [Shield] and [Block Damage] debuffs.",
@@ -39,7 +39,7 @@
             "mincd": 2,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 6.3 ATK"
+                "Multiplier: 6.3 ATK"
             ],
             "abilityname": "Brittleness Curse",
             "description": " Attacks 1 enemy. Places a 25% [Weaken] debuff for 2 turns.",

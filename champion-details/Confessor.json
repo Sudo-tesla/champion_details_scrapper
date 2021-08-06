@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.1 ATK"
+                "Multiplier: 3.1 ATK"
             ],
             "abilityname": "Stern Judgement",
             "description": " Attacks 1 enemy. Has a 15% chance of decreasing the target’s Turn Meter by 15%.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Blinding Light",
             "description": " Attacks all enemies. Has a 70% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.9 ATK"
+                "Multiplier: 5.9 ATK"
             ],
             "abilityname": "Unyielding Fervor",
             "description": " Attacks 1 enemy. Has a 35% chance of granting an Extra Turn.",

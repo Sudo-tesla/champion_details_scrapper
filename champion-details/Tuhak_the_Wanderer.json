@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.9 ATK"
+                "Multiplier: 1.9 ATK"
             ],
             "abilityname": "Unfair Fight",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of increasing the cooldown of one of the target’s Skills by 1 turn at random. Increases the cooldowns of all of the target’s Skills by 1 turn instead if this Champion has less than 50% HP when attacking on each hit.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.75 ATK"
+                "Multiplier: 3.75 ATK"
             ],
             "abilityname": "Whirl of Battle",
             "description": " Attacks all enemies. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Also places a 30% [Increase SPD] buff on this Champion for 2 turns. Heals this Champion by 15% of the damage inflicted if they have less than 50% HP when attacking.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.3 ATK"
+                "Multiplier: 6.3 ATK"
             ],
             "abilityname": "Clever Brutality",
             "description": " Attacks 1 enemy. Steals 50% of the target’s current Turn Meter. Has a 75% chance of placing a [Stun] debuff for 2 turns. Steals 100% of the target’s Turn Meter if this Champion has less than 50% HP when attacking.",

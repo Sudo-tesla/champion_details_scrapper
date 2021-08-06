@@ -1,0 +1,85 @@
+{
+    "name": "Taya",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "12,885",
+        "atk": "1,465",
+        "def": "980",
+        "spd": "95",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.65 ATK"
+            ],
+            "abilityname": "Daze Powder",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 1.95 ATK"
+            ],
+            "abilityname": "Vemon Kunai",
+            "description": " Attacks 1 enemy 3 times. Each hit has a 75% chance of placing a 5% [Poison] debuff for 2 turns",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: 5.5 ATK"
+            ],
+            "abilityname": "Blood Boil",
+            "description": " Attacks 1 enemy. Has a 75% chance of instantly activating any [Poison] debuffs and [HP Burn] debuffs on the target. Also has a 75% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Accuracy in all Battles by 50",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Taya.png"
+}

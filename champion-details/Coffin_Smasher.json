@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.06 HP"
+                "Multiplier: 0.06 HP"
             ],
             "abilityname": "Mallet Crescendo",
             "description": " Attacks 1 enemy 3 times. Each hit has a 15% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
@@ -44,7 +44,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.22 HP"
+                "Multiplier: 0.22 HP"
             ],
             "abilityname": "Tombfire",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [HP Burn] debuff for 2 turns.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.2 ATK"
+                "Multiplier: 4.2 ATK"
             ],
             "abilityname": "Vigor Spores",
             "description": " Attacks 1 enemy. Heals this champion by 30% of the damage inflicted. Also heals the ally with the lowest HP by 10% of their MAX HP. This heal will not affect this Champion.",

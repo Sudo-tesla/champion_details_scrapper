@@ -25,7 +25,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 0.3 HP + 1 ATK"
+                "Multiplier: 0.3 HP + 1 ATK"
             ],
             "abilityname": "Thunder Cleave",
             "description": " Attacks 1 enemy.",
@@ -44,7 +44,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 0.3 HP + 1.8 ATK"
+                "Multiplier: 0.3 HP + 1.8 ATK"
             ],
             "abilityname": "Enchanted Axe",
             "description": " Attacks 1 enemy. Ignores 50% of the target’s DEF.",
@@ -63,7 +63,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 0.3 HP + 1.8 ATK"
+                "Multiplier: 0.3 HP + 1.8 ATK"
             ],
             "abilityname": "Regal Force",
             "description": " Attacks 1 enemy. Ignores [Shield] and [Block Damage] buffs.",

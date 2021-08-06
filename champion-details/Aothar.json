@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.7 ATK"
+                "Multiplier: 1.7 ATK"
             ],
             "abilityname": "Rage",
             "description": " Attacks 1 enemy 2 times. Has a 15% chance of stealing 1 random buff from the target.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.5 ATK"
+                "Multiplier: 1.5 ATK"
             ],
             "abilityname": "Holy Flame",
             "description": " Attacks 4 times at random. Places a 5% [Poison] debuff for 2 turns.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.1 ATK"
+                "Multiplier: 5.1 ATK"
             ],
             "abilityname": "Brand",
             "description": " Attacks 1 enemy. Places a [Block Active Skills] debuff for 2 turns.",

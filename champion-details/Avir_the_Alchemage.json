@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.7 ATK"
+                "Multiplier: 4.7 ATK"
             ],
             "abilityname": "Flask of Vitreol",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 5% [Poison] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.2 ATK"
+                "Multiplier: 4.2 ATK"
             ],
             "abilityname": "Corroding Catalyst",
             "description": " Attacks all enemies. Has a 50% chance of placing a 25% [Decrease ATK] debuff for 2 turns. Also places a 15% [Decrease SPD] debuff for 1 turn on targets under [Poison] debuffs.",

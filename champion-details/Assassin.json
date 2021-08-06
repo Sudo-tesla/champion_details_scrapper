@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.3 ATK"
+                "Multiplier: 3.3 ATK"
             ],
             "abilityname": "King’s End",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 5% [Poison] debuff for 1 turn.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.9 ATK"
+                "Multiplier: 5.9 ATK"
             ],
             "abilityname": "Lingering Death",
             "description": " Attacks 1 enemy. Has a 50% chance of increasing the duration of all debuffs on the enemy by 1 turn.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.4 ATK"
+                "Multiplier: 5.4 ATK"
             ],
             "abilityname": "Draught of Sleep",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 15% [Weaken] debuff for 2 turns",

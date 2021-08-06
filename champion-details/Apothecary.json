@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.4 ATK"
+                "Multiplier: 1.4 ATK"
             ],
             "abilityname": "Scatterbolt",
             "description": " Attacks 3 times at random.",

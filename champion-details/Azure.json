@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.1 ATK"
+                "Multiplier: 2.1 ATK"
             ],
             "abilityname": "Lunge",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a [Stun] debuff for 1 turn. This chance increases to 100% if the target has an [Increase SPD] buff.",
@@ -56,7 +56,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK + 0.2 HP"
+                "Multiplier: 2 ATK + 0.2 HP"
             ],
             "abilityname": "Coup de Grace",
             "description": " Attacks 1 enemy. Places an extra hit if the target has a [Stun] debuff. The extra hit is always critical. Steals 50% of the target’s Turn Meter if they are not under a [Stun] debuff.",

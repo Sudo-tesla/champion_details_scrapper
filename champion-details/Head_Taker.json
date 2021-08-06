@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.2 ATK"
+                "Multiplier: 5.2 ATK"
             ],
             "abilityname": "Carve Up",
             "description": " Attacks 1 enemy.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 7.5 ATK"
+                "Multiplier: 7.5 ATK"
             ],
             "abilityname": "Weakling!",
             "description": " Attacks 1 enemy. Has a 50% chance of decreasing the Turn Meter by 20%",

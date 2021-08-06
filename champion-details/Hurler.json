@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.7 ATK"
+                "Multiplier: 1.7 ATK"
             ],
             "abilityname": "Spin Throw",
             "description": " Attacks 1 enemy 2 times. Each hit has a 25% chance to ignore DEF by 50%.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5 ATK"
+                "Multiplier: 5 ATK"
             ],
             "abilityname": "Firebolt",
             "description": " Attacks 1 enemy. Removes 1 random buff from the target. Fill this Champion’s Turn Meter by 30%.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.5 ATK"
+                "Multiplier: 5.5 ATK"
             ],
             "abilityname": "Pin Down",
             "description": " Attacks 1 enemy. Puts the target’s skills on cooldown.",

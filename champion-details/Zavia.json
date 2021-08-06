@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.1 ATK"
+                "Multiplier: 1.1 ATK"
             ],
             "abilityname": "Transfix",
             "description": " Attacks 1 enemy 3 times. Each hit has a 40% chance of placing a 5% [Poison] debuff for 2 turns.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Poison Rain",
             "description": " Attacks all enemies 2 times. Each hit has a 50% chance of placing a 5% [Poison] debuff for 2 turns.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.1 ATK"
+                "Multiplier: 4.1 ATK"
             ],
             "abilityname": "Deadly Catalyst",
             "description": " Attacks all enemies. Enemies killed by this skill cannot be revived. Deals damage from all [Poison] debuffs on the target instantly. [Poison] debuffs will only deal half of the standard damage when this Skill hits Bosses.",

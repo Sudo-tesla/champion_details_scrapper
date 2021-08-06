@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.7 TK"
+                "Multiplier: 4.7 TK"
             ],
             "abilityname": "Hypnotic Gaze",
             "description": " Attacks 1 enemy. Has a 15% chance of placing a [Sleep] debuff for 1 turn.",
@@ -57,7 +57,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5 ATK"
+                "Multiplier: 5 ATK"
             ],
             "abilityname": "Horrid Dreams",
             "description": " Attacks all enemies. Has a 50% chance of placing a [Sleep] debuff for 1 turn. Has a 75% chance against enemies under debuffs.",

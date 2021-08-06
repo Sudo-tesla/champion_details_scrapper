@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Bare Fangs",
             "description": " Attacks 1 enemy. Has a 60% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",

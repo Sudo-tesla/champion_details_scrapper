@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.2 ATK"
+                "Multiplier: 3.2 ATK"
             ],
             "abilityname": "Icy Temper",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a [Freeze] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.4 ATK"
+                "Multiplier: 5.4 ATK"
             ],
             "abilityname": "Diminish",
             "description": " Attacks 1 enemy. Decreases the target’s MAX HP by 25% of the damage inflicted.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.9 ATK"
+                "Multiplier: 5.9 ATK"
             ],
             "abilityname": "Sow Confusion",
             "description": " Attacks 1 enemy. Places a 30% [Decrease DEF] debuff on all enemies for 2 turns if this attack is critical.",

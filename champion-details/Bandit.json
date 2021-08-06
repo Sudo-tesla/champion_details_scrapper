@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.5 ATK"
+                "Multiplier: 2.5 ATK"
             ],
             "abilityname": "Flaming Shot",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease DEF] debuff for 1 turn.",

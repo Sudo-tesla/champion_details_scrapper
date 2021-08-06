@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.9 ATK"
+                "Multiplier: 1.9 ATK"
             ],
             "abilityname": "Relentless Strike",
             "description": " Attacks 1 enemy 2 times. Grants an Extra Turn if the target is killed.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.5 ATK"
+                "Multiplier: 6.5 ATK"
             ],
             "abilityname": "Bloodletter",
             "description": " Attacks 1 enemy. Has a 60% chance of placing a 50% [Decrease ATK] debuff for 2 turns. Heals this Champion by 10% of the damage inflicted.",

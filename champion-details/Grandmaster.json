@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.5 ATK"
+                "Multiplier: 1.5 ATK"
             ],
             "abilityname": "Hammerblows",
             "description": " Attacks 1 enemy 3 times.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 7.5 ATK"
+                "Multiplier: 7.5 ATK"
             ],
             "abilityname": "Steel Crusher",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a 25% [Decrease ATK] debuff on the target for 2 turns.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 7.4 ATK"
+                "Multiplier: 7.4 ATK"
             ],
             "abilityname": "Demoralizing Display",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Provoke] debuff on the target for 1 turn.",

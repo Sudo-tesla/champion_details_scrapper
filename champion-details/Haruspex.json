@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.8 ATK"
+                "Multiplier: 1.8 ATK"
             ],
             "abilityname": "Infected Liver",
             "description": " Attacks 1 enemy 2 times. Each hit has a 15% chance of placing a 2.5% [Poison] debuff for 2 turns.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Soul Drinker",
             "description": " Attacks 1 enemy. Grants an Extra Turn if this attack kills an enemy",
@@ -40,7 +40,7 @@
             "mincd": 3,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 5.8 ATK"
+                "Multiplier: 5.8 ATK"
             ],
             "abilityname": "Blood Freeze",
             "description": " Attacks 1 enemy. Steals 100% of the target’s turn meter. Decreases the cooldown of Oni’s Rage by 1 turn if the target is immune to Turn Meter reduction effects.",
@@ -56,7 +56,7 @@
             "mincd": 3,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 5.7 ATK"
+                "Multiplier: 5.7 ATK"
             ],
             "abilityname": "Oni’s Rage",
             "description": " Attacks 1 enemy. Places a 60% [Decrease DEF] and 25% [Weaken] debuff for 2 turns. Will attack 5 times instead of 1 on every 4th use of this skill against the same target in one round.",

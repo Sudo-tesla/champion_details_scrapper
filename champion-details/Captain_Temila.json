@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.9 ATK"
+                "Multiplier: 4.9 ATK"
             ],
             "abilityname": "Bond of Duty",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 15% [Continuous Heal] buff on this Champion for 1 turn if the hit is critical.",

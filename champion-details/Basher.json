@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.2 ATK"
+                "Multiplier: 3.2 ATK"
             ],
             "abilityname": "Splintering Bash",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Stinging Blast",
             "description": " Attacks all enemies. Increases the cooldown of all the target’s skill by 2 turns.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.55 ATK"
+                "Multiplier: 1.55 ATK"
             ],
             "abilityname": "Cause Fear",
             "description": " Attacks 4 times at random. Has a 75% chance of placing a [Block Buffs] debuff for 2 turns.",

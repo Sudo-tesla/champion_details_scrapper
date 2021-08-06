@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Purgatory",
             "description": " Attacks 1 enemy. Has a 30% chance of decreasing the target’s Turn Meter by 10%. Has a 60% chance instead if the target is under a [HP Burn] debuff.",

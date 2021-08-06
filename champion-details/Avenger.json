@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.55 ATK"
+                "Multiplier: 2.55 ATK"
             ],
             "abilityname": "Hunt",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.4 ATK"
+                "Multiplier: 2.4 ATK"
             ],
             "abilityname": "Lethal Vortex",
             "description": " Attacks at random 2 times. Has an extra 15% chance of inflicting a critical hit.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.2 ATK"
+                "Multiplier: 5.2 ATK"
             ],
             "abilityname": "Fatal Blow",
             "description": " Attacks 1 enemy. This Skill always inflicts a critical hit.",

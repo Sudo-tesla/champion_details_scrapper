@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.85 ATK"
+                "Multiplier: 1.85 ATK"
             ],
             "abilityname": "Mangle Limbs",
             "description": " Attacks 1 enemy 2 times. Has a 25% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.7 ATK"
+                "Multiplier: 6.7 ATK"
             ],
             "abilityname": "Brutal Battering",
             "description": " Attacks all enemies 1 by 1 in random order. Damage inflicted decreases by 25% after each hit.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Boom Barrage",
             "description": " Attacks all enemies. Places a [Bomb] that detonates after 2 turns.",

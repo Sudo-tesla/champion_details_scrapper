@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.2 ATK"
+                "Multiplier: 3.2 ATK"
             ],
             "abilityname": "Piercing Shotels",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.8 ATK"
+                "Multiplier: 2.8 ATK"
             ],
             "abilityname": "Deathly Ichors",
             "description": " Attacks 1 enemy 2 times. Each hit has a 75% chance of placing a 50% [Decrease ACC] debuff and a 5% [Poison] debuff for 3 turns.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Soul Feast",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. Heals this Champion by 50% of the damage inflicted.",
@@ -82,10 +82,8 @@
             ],
             "multiplier": [],
             "abilityname": "Revenant",
-            "description": " Passive Effect: Places a 60% [Increase DEF] buff on this Champion for 2 turns when their HP drops below 75%. Places a 50% [Increase ATK] buff on this Champion for 2 turns when their HP drops below 50%.",
-            "books": [
-                "Active Effect: Grants an Extra Turn when this Champion’s HP drops below 10%."
-            ]
+            "description": " Passive Effect: Places a 60% [Increase DEF] buff on this Champion for 2 turns when their HP drops below 75%. Places a 50% [Increase ATK] buff on this Champion for 2 turns when their HP drops below 50%.\nActive Effect: Grants an Extra Turn when this Champion’s HP drops below 10%.",
+            "books": []
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Anax.png"

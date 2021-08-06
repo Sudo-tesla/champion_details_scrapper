@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.6 ATK"
+                "Multiplier: 4.6 ATK"
             ],
             "abilityname": "Tireless Anger",
             "description": " Attacks 1 enemy. Fills this Champion’s Turn Meter by 25%",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.3 ATK"
+                "Multiplier: 6.3 ATK"
             ],
             "abilityname": "Dark Exhaustion",
             "description": " Attacks 1 enemy. Has a 75% chance of decreasing the target’s Turn Meter by 50%.",

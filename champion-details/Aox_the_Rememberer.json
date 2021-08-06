@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.1 ATK"
+                "Multiplier: 2.1 ATK"
             ],
             "abilityname": "Feathered Staff",
             "description": " Attacks 1 enemy 2 times. Each hit has a 10% chance of placing a 5% [Poison] debuff for 2 turns.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.7 ATK"
+                "Multiplier: 5.7 ATK"
             ],
             "abilityname": "Lore of Restoration",
             "description": " Attacks 1 enemy. Heals all allies by 10% of their MAX HP. Heals each ally by an extra 2.5% for each debuff on the target.",

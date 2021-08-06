@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.6 ATK"
+                "Multiplier: 2.6 ATK"
             ],
             "abilityname": "Frazzle",
             "description": " Attacks all enemies. Has a 20% chance of placing a [Block Active Skills] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.2 ATK"
+                "Multiplier: 4.2 ATK"
             ],
             "abilityname": "Mighty Bellow",
             "description": " Attacks all enemies. Has a 50% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Bowl Over",
             "description": " Attacks all enemies. Has a 75% chance of placing a 25% [Decrease ATK] debuff for 2 turns. Has a 75% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",

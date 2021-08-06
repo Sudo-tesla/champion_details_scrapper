@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.9 ATK"
+                "Multiplier: 1.9 ATK"
             ],
             "abilityname": "Throwing Spear",
             "description": " Attacks 1 enemy 2 times. Has a 15% chance of placing a 5% [Poison] debuff for 1 turn.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.3 ATK"
+                "Multiplier: 4.3 ATK"
             ],
             "abilityname": "Embers",
             "description": " Attacks all enemies. Has a 30% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",

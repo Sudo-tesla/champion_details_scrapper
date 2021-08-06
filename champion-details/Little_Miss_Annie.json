@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.3 ATK"
+                "Multiplier: 1.3 ATK"
             ],
             "abilityname": "Pretty Nails",
             "description": " Attacks 1 enemy 3 times. Each hit has a 50% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.7 ATK"
+                "Multiplier: 2.7 ATK"
             ],
             "abilityname": "Hollow Doll",
             "description": " Attacks 1 enemy 2 times. Places a 50% [Increase ATK] buff on this Champion for 2 turns before attacking if the target is under a [Shield] buff. Will ignore 25% of the target’s DEF if the target is under a [Shield] buff. Places a [Perfect Veil] buff on this Champion for 2 turns if this attack kills an enemy. Fills this Champion’s Turn Meter by 30% if this attack does not kill the target.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.7 ATK"
+                "Multiplier: 5.7 ATK"
             ],
             "abilityname": "Playdate",
             "description": " Attacks 1 enemy. Will ignore 25% of the target’s DEF if the target has higher DEF than this Champion. Decreases the target’s MAX HP by 25% of the damage inflicted if the target has higher MAX HP than this Champion. Will repeat attack a second time if the target has both higher DEF and higher MAX HP than this Champion.",

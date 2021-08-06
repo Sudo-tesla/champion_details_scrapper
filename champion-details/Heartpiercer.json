@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.6 ATK"
+                "Multiplier: 4.6 ATK"
             ],
             "abilityname": "Perforate",
             "description": " Attacks 1 enemy.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 7.6 ATK"
+                "Multiplier: 7.6 ATK"
             ],
             "abilityname": "Sight In",
             "description": " Attacks 1 enemy. If the hit is critical, places a 25% [Increase ATK] buff on this Champion for 2 turns.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.55 ATK"
+                "Multiplier: 3.55 ATK"
             ],
             "abilityname": "Cursed Sword",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff OR a 100% [Heal Reduction] debuff OR a 30% [Decrease SPD] debuff for 2 turns.",
@@ -44,7 +44,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Mark of Fear",
             "description": " Attacks all enemies. Has a 50% chance of placing a [Freeze] debuff for 1 turn. Enemies killed by this skill cannot be revived.",
@@ -63,7 +63,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.4 ATK"
+                "Multiplier: 5.4 ATK"
             ],
             "abilityname": "Hex",
             "description": " Attacks 1 enemy. Removes all buffs. Also has an 80% chance of placing a [Block Buffs] debuff for 2 turns.",

@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1 DEF"
+                "Multiplier: 1 DEF"
             ],
             "abilityname": "Teardown",
             "description": " Attacks 1 enemy 3 times. Decreases the target’s Turn Meter by 10%",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 5 DEF"
+                "Multiplier: 5 DEF"
             ],
             "abilityname": "Brutality",
             "description": " Attacks 1 enemy. Places a 50% [Decrease ATK] debuff and a 30% [Decrease SPD] debuff for 2 turns.",

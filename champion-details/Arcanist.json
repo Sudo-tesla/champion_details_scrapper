@@ -22,7 +22,7 @@
             "mincd": 0,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Paralyzing Touch",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a [Sleep] debuff for 1 turn.",

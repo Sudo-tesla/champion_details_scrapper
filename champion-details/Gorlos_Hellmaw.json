@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.95 ATK"
+                "Multiplier: 1.95 ATK"
             ],
             "abilityname": "Hungary Shafts",
             "description": " Attacks 1 enemy 2 times. Each hit fills this Champion’s Turn Meter by 10% if the target is under a [Decrease DEF], [HP Burn], or [Decrease ACC] debuff.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Raging Hunger",
             "description": " Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Gnashing Fangs",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff and a 50% [Decrease ACC] debuff for 3 turns. Fills this Champion’s Turn Meter by 20% if this attack is critical.",

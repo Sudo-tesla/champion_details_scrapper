@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.3 ATK"
+                "Multiplier: 4.3 ATK"
             ],
             "abilityname": "Curse",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 25% [Decrease ACC] debuff for 2 turns.",

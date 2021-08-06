@@ -1,0 +1,88 @@
+{
+    "name": "Varl the Destroyer",
+    "class": {
+        "faction": "Orcs",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "15,030",
+        "atk": "1,476",
+        "def": "1,101",
+        "spd": "98",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.8 ATK"
+            ],
+            "abilityname": "Ravaging Leech",
+            "description": " Attacks 1 enemy. Heals this Champion by 30% of the damage inflicted",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 4 ATK"
+            ],
+            "abilityname": "Lay Waste",
+            "description": " Attacks all enemies. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. Also places a 50% [Decrease ATK] debuff for 2 turns on those enemies who receive a [Weaken] debuff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 5.6 ATK"
+            ],
+            "abilityname": "Calamity Torrent",
+            "description": " Attacks 1 enemy. Will ignore 30% of the target’s DEF. Decreases the target’s MAX HP by 50% of the damage inflicted. Places a [Block Damage] buff on this Champion for 1 turn if this attack kills an enemy.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Mass Murder",
+            "description": " Increases this Champion’s ATK by 10% each time they use an Active Skill (Non-A1). This stacks up to 100% and will reset each round.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Varl_the_Destroyer.png"
+}

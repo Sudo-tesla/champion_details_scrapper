@@ -1,0 +1,92 @@
+{
+    "name": "Leorius the Proud",
+    "class": {
+        "faction": "Skinwalkers",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "18,495",
+        "atk": "1,409",
+        "def": "936",
+        "spd": "106",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: ? ATK"
+            ],
+            "abilityname": "Lion’s Twinclaws",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 60% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Damage increases by 20% if the target has less than 60% HP.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Damage +10%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: ? ATK"
+            ],
+            "abilityname": "Rage of the Pride",
+            "description": " Attacks all enemies 2 times. [Passive Effect] This champion is immune to [Stun], [Freeze], [Sleep], [Provoke], [Fear] and [True Fear] debuffs when this Skill is not on cooldown.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Damage +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: ? ATK"
+            ],
+            "abilityname": "Awesome Roar",
+            "description": " Attacks all enemies. Has an 80% chance of placing a [True Fear] debuff for 1 turn. Before attacking, has an 80% chance of placing a 25% [Weaken] debuff on all enemies for 2 turns.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "True Grit",
+            "description": " [Active Effect] Instantly places an [Unkillable] buff on this Champion for 1 turn before receiving a fatal hit. [Passive Effect] Damage increases as the Champion’s HP decreases (by 1% for every 1% of HP lost).",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally C.RATE in all Battles by 24%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Leorius_the_Proud.png"
+}

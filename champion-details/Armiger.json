@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 4 DEF"
+                "Multiplier: 4 DEF"
             ],
             "abilityname": "Riposte",
             "description": " Attacks 1 enemy. Decreases the Turn Meter by 30% if this attack is critical.",
@@ -43,7 +43,7 @@
                 "Enemy MAX HP"
             ],
             "multiplier": [
-                " Multiplier: 2.9 DEF + 0.05 Emax"
+                "Multiplier: 2.9 DEF + 0.05 Emax"
             ],
             "abilityname": "Lay to Rest",
             "description": " Attacks 1 enemy. Damage inflicted is proportional to DEF and increases according to enemy MAX HP. Enemies killed by this skill cannot be revived.",

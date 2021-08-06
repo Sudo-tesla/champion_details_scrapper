@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1.6 DEF"
+                "Multiplier: 1.6 DEF"
             ],
             "abilityname": "Flanged Mace",
             "description": " Attacks 1 enemy 2 times. Each hit has an 80% chance of decreasing the target’s Turn Meter by 15%. Fills this Champion’s Turn Meter equal to the amount the target loses.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.5 DEF"
+                "Multiplier: 3.5 DEF"
             ],
             "abilityname": "Sinister Allies",
             "description": " Attacks all enemies. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Also places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns.",
@@ -61,7 +61,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 4.1 DEF"
+                "Multiplier: 4.1 DEF"
             ],
             "abilityname": "Single Combat",
             "description": " Attacks all enemies. Places a [Provoke] debuff for 1 turn. Places a [Shield] buff on this Champion equal to 20% of their MAX HP for 2 turns.",

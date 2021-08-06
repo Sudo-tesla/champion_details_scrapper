@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Ice Blast",
             "description": " Attacks 1 enemy. Has a 35% chance of placing a [Freeze] debuff for 1 turn.",

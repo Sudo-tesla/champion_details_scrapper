@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.4 ATK"
+                "Multiplier: 2.4 ATK"
             ],
             "abilityname": "Battledance",
             "description": " Attacks 1 enemy 2 times. Each critical hit fill this Champion’s Turn Meter by 10%.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Lethal Partner",
             "description": " Places a 30% [Increase C.RATE] buff on this Champion, then attacks 1 enemy 2 times. Places a 5% [Poison] debuff on the target for 3 turns if this attack is critical. [Will ignore 50% of the target’s DEF when Romero is on the same team]",
@@ -58,7 +58,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Fire of Purgation",
             "description": " Attacks 1 enemy. Removes 1 random buff from the target. Has a 75% chance of placing a [HP Burn] debuff for 3 turns.",

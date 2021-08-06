@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.1 ATK"
+                "Multiplier: 2.1 ATK"
             ],
             "abilityname": "Sickle",
             "description": " Attacks 1 enemy 2 times.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.6 ATK"
+                "Multiplier: 4.6 ATK"
             ],
             "abilityname": "Toxic Miasma",
             "description": " Attacks all enemies. Has a 25% chance of placing a 2.5% [Poison] debuff for 2 turns.",

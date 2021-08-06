@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.6 DEF"
+                "Multiplier: 3.6 DEF"
             ],
             "abilityname": "Diabolical Hook",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.2 DEF"
+                "Multiplier: 3.2 DEF"
             ],
             "abilityname": "Soul Shrivel",
             "description": " Attacks all enemies. Has 75% chance of placing a 25% [Weaken] debuff for 2 turns.",

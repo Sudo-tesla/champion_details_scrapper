@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.5 ATK"
+                "Multiplier: 4.5 ATK"
             ],
             "abilityname": "Energy Bolt",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -43,7 +43,7 @@
                 "SPD"
             ],
             "multiplier": [
-                " Multiplier: 1 ATK x (2 + SPD/100)"
+                "Multiplier: 1 ATK x (2 + SPD/100)"
             ],
             "abilityname": "Petrify",
             "description": " Attacks all enemies. Has a 75% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Ancestral Spirits",
             "description": " Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. This debuff cannot be resisted. Places a 50% [Increase ATK] buff on all allies for 2 turns.",

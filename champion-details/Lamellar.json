@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.14 HP"
+                "Multiplier: 0.14 HP"
             ],
             "abilityname": "Sacred Flame",
             "description": " Attacks 1 enemy. Has a 10% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.1 HP"
+                "Multiplier: 0.1 HP"
             ],
             "abilityname": "Crystal Burst",
             "description": " Attacks all enemies. Places a 25% [Decrease ATK] debuff for 2 turns",

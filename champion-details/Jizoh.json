@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1.9 DEF"
+                "Multiplier: 1.9 DEF"
             ],
             "abilityname": "Reaping Blows",
             "description": " Attacks 1 enemy 2 times.",
@@ -55,7 +55,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 5.8 DEF"
+                "Multiplier: 5.8 DEF"
             ],
             "abilityname": "Rile",
             "description": " Attacks 1 enemy. Has an 80% chance of placing a [Provoke] debuff for 2 turns. Places a 15% [Continuous Heal] buff on this Champion for 2 turns.",

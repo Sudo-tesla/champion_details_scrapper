@@ -22,7 +22,7 @@
             "mincd": 0,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 1.7 ATK"
+                "Multiplier: 1.7 ATK"
             ],
             "abilityname": "Nightmare",
             "description": " Attacks 1 enemy 2 times. Each hit decreases the target’s Turn Meter by 7.5% if the target is under a [Fear] or a [True Fear] debuff. Reduces the cooldown of this Champion’s Taste of Despair skill by 1 turn if this attack kills an enemy.",
@@ -40,7 +40,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.8 ATK"
+                "Multiplier: 5.8 ATK"
             ],
             "abilityname": "Haunted Machete",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [Fear] debuff for 1 turn and a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Has a 75% chance of placing a [True Fear] debuff on enemies for 1 turn if this attack kills an enemy. One [True Fear] debuff will be placed on the enemy with the lowest Turn Meter, while one will be placed on the enemy with the highest Turn Meter.",
@@ -58,7 +58,7 @@
                 "Attack"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Well-Used Axe",
             "description": " Attacks 1 enemy. Will ignore 35% of target’s DEF if the target is under a [Fear] or [True Fear] debuf. Places a 30% [Increase SPD] buff for 2 turns, a [Revive on Death] buff for 2 turns, and a [Block Debuffs] buff for 1 turn on this Champion if this attack kills an enemy.",

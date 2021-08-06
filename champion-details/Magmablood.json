@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Hurl",
             "description": " Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Splinters",
             "description": " Attacks all enemies. Has a 30% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.2 ATK"
+                "Multiplier: 3.2 ATK"
             ],
             "abilityname": "Magma Bomb",
             "description": " Attacks 2 times at random. Each hit has a 60% chance of placing a [Bomb] debuff for 3 turns.",

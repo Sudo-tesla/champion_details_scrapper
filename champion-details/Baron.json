@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Trample",
             "description": " Attacks 1 enemy. Will attack all remaining enemies with any surplus damage if the target is killed. Has a 10% chance to unlock a secret skill, Skypiercer, for 1 turn.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.5 ATK"
+                "Multiplier: 5.5 ATK"
             ],
             "abilityname": "Split Asunder",
             "description": " Attacks 1 enemy. Places a 60% [Decrease DEF] debuff for 2 turns. This debuff is guaranteed. Has a 20% chance of unlocking a secret Skill, Skypiercer, for 1 turn.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK x (1 + 0.25 Buff)"
+                "Multiplier: 3 ATK x (1 + 0.25 Buff)"
             ],
             "abilityname": "Righteous Charge",
             "description": " Attacks 1 enemy. Damage increases according to the number of buffs on this Champion. Has a 40% chance to unlock a secret skill, Skypiercer, for 1 turn.",
@@ -78,7 +78,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.3 ATK"
+                "Multiplier: 4.3 ATK"
             ],
             "abilityname": "Sky Piercer",
             "description": " Attacks all enemies. Deals Pure Damage. Will ignore [Shield] and [Block Damage] buffs.",

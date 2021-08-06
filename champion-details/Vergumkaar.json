@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.85 ATK"
+                "Multiplier: 4.85 ATK"
             ],
             "abilityname": "Bejeweled Bulk",
             "description": " Attacks 1 enemy. Has a 35% chance of placing a [Stun] debuff for 1 turn. The chance increases by 15% for each buff on the target.",
@@ -56,7 +56,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.75 ATK"
+                "Multiplier: 4.75 ATK"
             ],
             "abilityname": "Crushing Trample",
             "description": " Attacks all enemies. Removes 1 random buff from each enemy. Has a 75% chance of removing 2 random buffs from each enemy. Places a 100% [Block Heal] debuff for 3 turns on enemies who have 1 or more buffs removed. Also places a 60% [Decrease DEF] debuff for 2 turns on enemies who have 2 buffs removed.",

@@ -1,0 +1,72 @@
+{
+    "name": "Candleguard",
+    "class": {
+        "faction": "Dwarves",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "15,195",
+        "atk": "1,233",
+        "def": "782",
+        "spd": "94",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: ? ATK"
+            ],
+            "abilityname": "Light of Scrutiny",
+            "description": " Attacks 1 enemy. Has a 40% chance of removing 1 random buff. Has a 50% chance of stealing 1 random buff instead if the target has 3 or more buffs.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff chance +10%",
+                "Level 5: Buff/Debuff chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: ? ATK"
+            ],
+            "abilityname": "Triumph Cry",
+            "description": " Attacks all enemies. Has a 50% chance of placing a 15% [Weaken] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Buff/Debuff Chance +15%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 4,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: ? ATK"
+            ],
+            "abilityname": "Focused",
+            "description": " Places a 25% [Increase ATK] buff and a 15% [Increase C.RATE] buff on this champion for 3 turns, then attacks all enemies.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Cooldown -1",
+                "Level 5: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Candleguard.png"
+}

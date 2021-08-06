@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Shieldsplitter",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.08 HP"
+                "Multiplier: 0.08 HP"
             ],
             "abilityname": "Flailing Assault",
             "description": " Attacks 4 times at random. The first hit has a 100% chance of placing a [Provoke] debuff for 1 turn. Each of the other hits has a 50% chance of placing a [Provoke] debuff for 1 turn.",

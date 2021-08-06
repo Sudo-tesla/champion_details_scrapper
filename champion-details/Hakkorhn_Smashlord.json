@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Inhuman Force",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a [Stun] debuff for 1 turn.",
@@ -56,7 +56,7 @@
                 "MAX HP"
             ],
             "multiplier": [
-                " Multiplier: 0.5 HP"
+                "Multiplier: 0.5 HP"
             ],
             "abilityname": "Blood Offering",
             "description": " Sacrifices HP equal to 25% of this Champion’s MAX HP, then attacks all enemies. Damage inflicted is equal to 50% of this Champion’s MAX HP. This attack is always a normal hit. The HP sacrifice will happen even if it kills this Champion.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.3 ATK"
+                "Multiplier: 3.3 ATK"
             ],
             "abilityname": "Spread Misery",
             "description": " Attacks 1 enemy. Has a 50% chance of transferring 1 random debuff from this Champion to the target.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.8 ATK"
+                "Multiplier: 5.8 ATK"
             ],
             "abilityname": "Lethargy",
             "description": " Attacks 1 enemy. Has a 60% chance of putting the target’s skills on cooldown.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: (2 + Total Debuff) ATK"
+                "Multiplier: (2 + Total Debuff) ATK"
             ],
             "abilityname": "Soulbreak",
             "description": " Attacks 1 enemy. Damage increases according to the number of debuffs on the target.",

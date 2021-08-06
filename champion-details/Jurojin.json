@@ -1,0 +1,95 @@
+{
+    "name": "Jurojin",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "HP",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "20,970",
+        "atk": "738",
+        "def": "1,167",
+        "spd": "98",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: ? HP"
+            ],
+            "abilityname": "Monk’s Spade",
+            "description": " Attacks 1 enemy. Has a 45% chance of placing a 50% [Decrease ATK] debuff for 2 turns",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": -1,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: ? HP"
+            ],
+            "abilityname": "Fated Duel",
+            "description": " Places a [Shield] buff on this champion for 2 turns equal to 25% of their MAX HP, then attacks 1 enemy. Places a [Provoke] debuff for 1 turn. If the target’s MAX HP is equal to or lower than this Champion’s, the [Provoke] debuff cannot be resisted.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Shield +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Shield +5%",
+                "Level 6: Damage +10%",
+                "Level 7: Shield +10%",
+                "Level 8: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": -1,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "True Smite",
+            "description": " Attacks 1 enemy. Will ignore 25% of the target’s DEF. Will also ignore [Unkillable] and [Block Damage] buffs.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Smiles at Death",
+            "description": " Will receive 25% less damage from enemy attacks when this Champion’s HP drops to 50% or below.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally HP in All Battles by 25%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Jurojin.png"
+}

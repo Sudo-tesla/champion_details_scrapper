@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.7 ATK"
+                "Multiplier: 4.7 ATK"
             ],
             "abilityname": "Rage of Ancients",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 50% [Heal Reduction] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.4 ATK"
+                "Multiplier: 6.4 ATK"
             ],
             "abilityname": "Halt!",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Stun] debuff for 1 turn.",

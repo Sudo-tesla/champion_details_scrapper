@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Discipline Staff",
             "description": " Attacks 1 enemy. Has a 35% chance of placing a [Stun] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.05 ATK"
+                "Multiplier: 4.05 ATK"
             ],
             "abilityname": "Trampling Rampage",
             "description": " Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Steals 7.5% of the Turn Meter from Targets under [Decrease DEF] Debuffs.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.3 DEF"
+                "Multiplier: 4.3 DEF"
             ],
             "abilityname": "Gathering Momentum",
             "description": " Attacks 1 enemy. Places a 30% [Decrease DEF] debuff for 1 turn if the target’s DEF is lower than this Champion’s.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.3 DEF"
+                "Multiplier: 6.3 DEF"
             ],
             "abilityname": "Inescapable Wrath",
             "description": " Attacks 1 enemy. Places a [Provoke] debuff for 1 turn if the target is under a [Decrease DEF] debuff.",

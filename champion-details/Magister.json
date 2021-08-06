@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.1 ATK"
+                "Multiplier: 4.1 ATK"
             ],
             "abilityname": "Majestic Staff",
             "description": " Attacks 1 enemy. If the attack is critical, places a 25% [Increase ATK] buff on a random ally for 1 turn.",
@@ -56,7 +56,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Censure",
             "description": " Attacks all enemies. Has a 50% chance of placing a 50% [Heal Reduction] debuff for 2 turns.",

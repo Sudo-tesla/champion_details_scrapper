@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.8 DEF"
+                "Multiplier: 3.8 DEF"
             ],
             "abilityname": "Bone Katars",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
@@ -45,7 +45,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK + 2.3 DEF"
+                "Multiplier: 2 ATK + 2.3 DEF"
             ],
             "abilityname": "Combo Attack",
             "description": " Attacks all enemies. Places a 30% [Increase DEF] buff on all allies for 2 turns.",

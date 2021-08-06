@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 0.7 ATK"
+                "Multiplier: 0.7 ATK"
             ],
             "abilityname": "Flurry of Arrows",
             "description": " Attacks 4 times at random. Each hit has a 25% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.3 ATK"
+                "Multiplier: 3.3 ATK"
             ],
             "abilityname": "Art of Pain",
             "description": " Attacks all enemies. Has a 30% chance of placing a 50% [Decrease ACC] debuff for 1 turn. Places a 5% [Poison] debuff for 2 turns if the target is under a [Heal Reduction] debuff.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.7 ATK + 0.1 ENEMY MAX HP"
+                "Multiplier: 1.7 ATK + 0.1 ENEMY MAX HP"
             ],
             "abilityname": "Heartseeker",
             "description": " Attacks 1 enemy. Fully depletes the Turn Meter. Has an extra 30% chance of inflicting a critical hit.",

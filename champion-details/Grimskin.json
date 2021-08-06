@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.4 DEF"
+                "Multiplier: 3.4 DEF"
             ],
             "abilityname": "Tarry Fist",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
@@ -43,7 +43,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 2.8 DEF"
+                "Multiplier: 2.8 DEF"
             ],
             "abilityname": "Frustrating Muck",
             "description": " Attacks 1 enemy 2 times. Each hit has a 50% chance of placing a [Provoke] debuff for 1 turn. Has a 40% chance of placing a [Provoke] debuff on all enemies for 1 turn if the first [Provoke] debuff is placed.",
@@ -62,7 +62,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.9 DEF"
+                "Multiplier: 3.9 DEF"
             ],
             "abilityname": "Ichor Fling",
             "description": " Attacks all enemies. Has an 80% chance of removing 1 random buff from each target.",

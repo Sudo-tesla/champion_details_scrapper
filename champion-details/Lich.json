@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.6 DEF"
+                "Multiplier: 3.6 DEF"
             ],
             "abilityname": "Curse of Blindness",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
@@ -53,7 +53,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 5.3 DEF"
+                "Multiplier: 5.3 DEF"
             ],
             "abilityname": "Enervation",
             "description": " Attacks 1 enemy. Decreases the target’s Turn Meter by 100%. Places a 30% [Decrease SPD] debuff for 2 turns.",

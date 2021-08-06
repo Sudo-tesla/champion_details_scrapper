@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.7 ATK"
+                "Multiplier: 1.7 ATK"
             ],
             "abilityname": "Grave’s Grasp",
             "description": " Attacks 2 times at random. Each hit has a 35% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Numbing Chill",
             "description": " Attacks all enemies. Places a 50% [Decrease ATK] debuff for 2 turns. Also has a 50% chance of placing a [Block Active Skills] debuff for 2 turns.",

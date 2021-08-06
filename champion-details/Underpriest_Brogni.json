@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.5 ATK"
+                "Multiplier: 6.5 ATK"
             ],
             "abilityname": "Deepcrystal Scourge",
             "description": " Attacks 1 enemy. Has a 45% chance of placing a [HP Burn] debuff for 2 turns.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.6 ATK"
+                "Multiplier: 6.6 ATK"
             ],
             "abilityname": "Cavern’s Grasp",
             "description": " Attacks all enemies. Has a 75% chance of removing 1 random buff from all enemies. Has a 75% chance of removing 1 random debuff from all allies. Increases the value of [Shield] buffs on all allies by 30% of the damage inflicted.",

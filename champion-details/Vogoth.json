@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.07 HP"
+                "Multiplier: 0.07 HP"
             ],
             "abilityname": "Horrendous Strength",
             "description": " Attacks 1 enemy 3 times. Each hit has a 30% chance of increasing the duration of 1 random debuff on the target by 1 turn.",
@@ -43,7 +43,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Wave of Revulsion",
             "description": " Attacks all enemies. Has a 60% chance of placing a [Provoke] debuff on all enemies for 1 turn. Also has a 60% chance of placing a 50% [Decrease ATK] debuff for 2 turns on targets who receive [Provoke] debuff from this skill.",

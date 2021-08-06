@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.12 DEF"
+                "Multiplier: 3.12 DEF"
             ],
             "abilityname": "Bell Ringer",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 25% [Decrease ACC] debuff for 2 turns if the target has no active buffs.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 5.25 DEF"
+                "Multiplier: 5.25 DEF"
             ],
             "abilityname": "Fate Transfer",
             "description": " Attacks 1 enemy. Has a 50% chance of stealing 2 random buffs from the target.",
@@ -62,7 +62,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 5.1 DEF"
+                "Multiplier: 5.1 DEF"
             ],
             "abilityname": "Astral Chains",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [Block Buffs] debuff for 2 turns.",

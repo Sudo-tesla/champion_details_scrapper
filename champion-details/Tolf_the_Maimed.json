@@ -1,0 +1,71 @@
+{
+    "name": "Tolf the Maimed",
+    "class": {
+        "faction": "Orcs",
+        "rarity": "Epic",
+        "role": "HP",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "21,975",
+        "atk": "793",
+        "def": "1,046",
+        "spd": "94",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "45",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: ? HP"
+            ],
+            "abilityname": "Blade Hand Butcher",
+            "description": " Attacks 1 enemy 2 times. Each hit heals this Champion by 30% of the damage inflicted. This attack cannot be critical",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +10%",
+                "Level 6: Damage +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: ? HP"
+            ],
+            "abilityname": "Cut Wide Open",
+            "description": " Attacks 1 enemy. When not attacking Bosses, inflicts pure damage and decrease the Target’s HP to 50%. Inflicts damage based on this Champion’s MAX HP instead and places a [Stun] debuff for 1 turn if the target already has less than 50% HP. Inflicts damage based on this Champion’s MAX HP when attacking Bosses. This attack cannot be critical",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Damage +10%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Armor Cracker",
+            "description": " Decreases the values of all Enemy [Shield] buffs by 50% at the start of every turn, then increases this Champions MAX HP by the same amount (up to 25% of their MAX HP).",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Tolf_the_Maimed.png"
+}

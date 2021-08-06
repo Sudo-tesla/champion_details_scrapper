@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.2 ATK"
+                "Multiplier: 3.2 ATK"
             ],
             "abilityname": "Bright Fury",
             "description": " Attacks 1 enemy. Has a 20% chance of decrease the target’s Turn Meter by 15%.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.3 ATK"
+                "Multiplier: 5.3 ATK"
             ],
             "abilityname": "Undermine",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.35 ATK"
+                "Multiplier: 5.35 ATK"
             ],
             "abilityname": "Execution",
             "description": " Attacks 1 enemy. This attack deals 30% extra C.DMG.",
