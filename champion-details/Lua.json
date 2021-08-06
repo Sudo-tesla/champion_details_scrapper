@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.7 ATK"
+                "Multiplier: 2.7 ATK"
             ],
             "abilityname": "Splinter Arrow",
             "description": " Attacks 1 enemy. Deals 50% of the inflicted damage to all enemies if this attack is critical.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.4 ATK"
+                "Multiplier: 1.4 ATK"
             ],
             "abilityname": "Hail of Arrows",
             "description": " Attacks all enemies 3 times. Each critical hit heals this Champion by 2.5% HP.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Lucky Shot",
             "description": " Attacks 1 enemy. This attack fully depletes the Turn Meter. Will ignore [Shield] and [Block Damage] buffs.",

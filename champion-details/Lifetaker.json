@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Bleeding Serum",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.3 ATK"
+                "Multiplier: 2.3 ATK"
             ],
             "abilityname": "Leg Bind",
             "description": " Attacks 1 enemy 3 times. Each hit has a 50% chance of decreasing the target’s Turn Meter by 10%. The third hit has a 50% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",

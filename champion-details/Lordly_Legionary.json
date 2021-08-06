@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.5 ATK"
+                "Multiplier: 1.5 ATK"
             ],
             "abilityname": "Press the Fight",
             "description": " Attacks 1 enemy 2 times. Places an extra hit if the target is under a 50% [Heal Reduction] debuff. Places 2 extra hits if the target is under a 100% [Heal Reduction] debuff.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.8 ATK"
+                "Multiplier: 5.8 ATK"
             ],
             "abilityname": "Outflank",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Decreases the target’s Turn Meter by 20% if the [Decrease SPD] debuff is placed.",

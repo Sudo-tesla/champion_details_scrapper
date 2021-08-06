@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Blessed Missiles",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a [Block Buffs] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.9 ATK"
+                "Multiplier: 5.9 ATK"
             ],
             "abilityname": "Whiplash",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Stun] debuff for 1 turn.",

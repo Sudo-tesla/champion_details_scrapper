@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.9 ATK"
+                "Multiplier: 2.9 ATK"
             ],
             "abilityname": "Chosen’s Touch",
             "description": " Attacks 1 enemy. Places a 15% [Continuous Heal] buff on this Champion for 1 turn if the attack is critical.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.4 ATK"
+                "Multiplier: 2.4 ATK"
             ],
             "abilityname": "Lady’s Touch",
             "description": " Attacks 1 enemy, then attacks the enemy with the highest Turn Meter. Will attack the same enemy twice if the initial target also has the highest Turn Meter. The second hit has a 50% chance of decreasing the target’s Turn Meter by 15%.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.2 ATK"
+                "Multiplier: 4.2 ATK"
             ],
             "abilityname": "Flurry of Petals",
             "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ACC] debuff and a 30% [Decrease SPD] debuff for 2 turns. Also has a 75% chance of decreasing each target’s Turn Meter by 15%.",

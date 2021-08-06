@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.23 HP"
+                "Multiplier: 0.23 HP"
             ],
             "abilityname": "Crushing Blow",
             "description": " Attacks 1 enemy. Heals all allies by 25% of the damage inflicted. Places a [Shield] buff on this Champion for 2 turns equal to 10% of their MAX HP.",

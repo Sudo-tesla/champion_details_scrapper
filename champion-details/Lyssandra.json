@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Transference",
             "description": " Attacks 1 enemy. Transfers all debuffs from this Champion to the target.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Exhaustion",
             "description": " Attacks 1 enemy. Fully depletes the target’s Turn Meter.",
