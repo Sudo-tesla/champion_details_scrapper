@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.23 HP"
+                "Multiplier: 0.23 HP"
             ],
             "abilityname": "Gigantic Cudgel",
             "description": " Attacks 1 enemy. Has a 45% chance of placing a [Block Active Skills] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.23 HP"
+                "Multiplier: 0.23 HP"
             ],
             "abilityname": "Barrel Through",
             "description": " Attacks all enemies. Places a 30% [Decrease C.DMG] debuff and a 50% [Decrease ATK] debuff for 2 turns on targets whose ATK is higher than their DEF. Places a 30% [Decrease SPD] debuff and a 60% [Decrease DEF] debuff for 2 turns on targets whose ATK is equal to or lower than their DEF.",

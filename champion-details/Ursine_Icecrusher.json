@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3 DEF"
+                "Multiplier: 3 DEF"
             ],
             "abilityname": "Ravaging Paw",
             "description": " Attacks 1 enemy. Has a 10% chance of placing a [Block Active Skills] debuff for 1 turn.",
@@ -44,7 +44,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3 DEF"
+                "Multiplier: 3 DEF"
             ],
             "abilityname": "Howling Gale",
             "description": " Attacks all enemies. Has a 75% chance of placing a 30% [Decrease C.RATE] debuff for 2 turns.",
@@ -65,7 +65,7 @@
             ],
             "multiplier": [],
             "abilityname": "Shroud of Winter",
-            "description": " Decreases the damage all allies receive from critical hits by 15%. Fills this Champion’s Turn Meter by 5% whenever an enemy lands a normal, strong, or weak hit.",
+            "description": " Decreases the damage all allies receive from critical hits by 15%. Fills this Champion’s Turn Meter by 5% whenever an enemy lands a normal, strong, or weak hit. ",
             "books": []
         },
         {

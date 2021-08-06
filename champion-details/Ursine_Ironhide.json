@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3 DEF"
+                "Multiplier: 3 DEF"
             ],
             "abilityname": "Confounding Crush",
             "description": " Attacks 1 enemy. Has a 35% chance of increasing the cooldown of one of the target’s Skills by 1 turn at random.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3 DEF"
+                "Multiplier: 3 DEF"
             ],
             "abilityname": "Beat Back",
             "description": " Attacks 1 enemy 2 times. Each hit has a 75% chance of decreasing the Turn Meter by 5%. Decreases the Turn Meter by 10% instead if target is under a [Decrease ATK] debuff.",

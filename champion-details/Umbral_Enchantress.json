@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: (3.3 + HP% Lost) DEF"
+                "Multiplier: (3.3 + HP% Lost) DEF"
             ],
             "abilityname": "Essence Scepter",
             "description": " Attacks 1 enemy. Damage increases as current HP decreases.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.6 DEF"
+                "Multiplier: 3.6 DEF"
             ],
             "abilityname": "Immolate",
             "description": " Attacks all enemies. Has an 80% chance of placing a [Block Buffs] debuff for 3 turns.",
@@ -61,7 +61,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 4 DEF"
+                "Multiplier: 4 DEF"
             ],
             "abilityname": "Undying Evil",
             "description": " Attacks all enemies. Has an 80% chance of placing a [Provoke] debuff for 2 turns. Places an [Unkillable] buff on this Champion for 2 turns. Places a [Block Active Skills] debuff on this Champion for 5 turns. The [Block Active Skills] debuff cannot be resisted or blocked and cannot be removed.",
