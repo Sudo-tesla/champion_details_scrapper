@@ -507,10 +507,12 @@ async function main() {
 
 
 
+/*
 main().then().catch((error) => {
     console.log(error.message);
 });
 
+*/
 
 
 
@@ -536,7 +538,7 @@ extractChampionDetails(seer).then((res) =>{
 
 
 
-//storeBaseChampionInfoList()
-//storeSimulatorChampionInfoList()
+storeBaseChampionInfoList()
+storeSimulatorChampionInfoList()
 
 

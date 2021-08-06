@@ -223,6 +223,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Armina.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Armina.json?raw=true"
     },
+    "Ashwalker": {
+        "faction": "Knight Revenant",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ashwalker.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ashwalker.json?raw=true"
+    },
     "Assassin": {
         "faction": "Shadowkin",
         "rarity": "Rare",
@@ -390,6 +398,14 @@
         "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Battle_Sister.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Battle_Sister.json?raw=true"
+    },
+    "Ba Satha": {
+        "faction": "Lizardmen",
+        "rarity": "Legendary",
+        "role": "HP",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ba_Satha.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ba_Satha.json?raw=true"
     },
     "Beast Wrestler": {
         "faction": "Dwarves",
@@ -615,6 +631,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Cagebreaker.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Cagebreaker.json?raw=true"
     },
+    "Candleguard": {
+        "faction": "Dwarves",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Candleguard.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Candleguard.json?raw=true"
+    },
     "Candraphon": {
         "faction": "Demonspawn",
         "rarity": "Legendary",
@@ -782,6 +806,14 @@
         "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Commander.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Commander.json?raw=true"
+    },
+    "Conellia": {
+        "faction": "Dwarves",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Conellia.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Conellia.json?raw=true"
     },
     "Confessor": {
         "faction": "The Sacred Order",
@@ -1879,6 +1911,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Hellfang.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Hellfang.json?raw=true"
     },
+    "Hellfreak": {
+        "faction": "Demonspawn",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Hellfreak.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Hellfreak.json?raw=true"
+    },
     "Hellgazer": {
         "faction": "Demonspawn",
         "rarity": "Epic",
@@ -2231,6 +2271,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Juliana.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Juliana.json?raw=true"
     },
+    "Jurojin": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "HP",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Jurojin.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Jurojin.json?raw=true"
+    },
     "Justiciar": {
         "faction": "The Sacred Order",
         "rarity": "Rare",
@@ -2391,6 +2439,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Lemure.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Lemure.json?raw=true"
     },
+    "Leorius the Proud": {
+        "faction": "Skinwalkers",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Leorius_the_Proud.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Leorius_the_Proud.json?raw=true"
+    },
     "Lich": {
         "faction": "Undead Hordes",
         "rarity": "Epic",
@@ -2487,6 +2543,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Lugan_the_Steadfast.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Lugan_the_Steadfast.json?raw=true"
     },
+    "Lumberer": {
+        "faction": "Ogryn Tribes",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Lumberer.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Lumberer.json?raw=true"
+    },
     "Luria": {
         "faction": "Dark Elves",
         "rarity": "Epic",
@@ -2574,6 +2638,14 @@
         "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Magmablood.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Magmablood.json?raw=true"
+    },
+    "Magnarr": {
+        "faction": "Demonspawn",
+        "rarity": "Epic",
+        "role": "HP",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Magnarr.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Magnarr.json?raw=true"
     },
     "Magus": {
         "faction": "Knight Revenant",
@@ -2766,6 +2838,14 @@
         "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Mortu_Macaab.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Mortu_Macaab.json?raw=true"
+    },
+    "Mother Cybele": {
+        "faction": "Knight Revenant",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Mother_Cybele.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Mother_Cybele.json?raw=true"
     },
     "Mother Superior": {
         "faction": "The Sacred Order",
@@ -4143,6 +4223,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Taurus.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Taurus.json?raw=true"
     },
+    "Taya": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Taya.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Taya.json?raw=true"
+    },
     "Tayrel": {
         "faction": "High Elves",
         "rarity": "Epic",
@@ -4246,6 +4334,14 @@
         "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Tigersoul.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Tigersoul.json?raw=true"
+    },
+    "Tolf the Maimed": {
+        "faction": "Orcs",
+        "rarity": "Epic",
+        "role": "HP",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Tolf_the_Maimed.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Tolf_the_Maimed.json?raw=true"
     },
     "Tomb Lord": {
         "faction": "Knight Revenant",
@@ -4494,6 +4590,14 @@
         "affinity": "Void",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Vanguard.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Vanguard.json?raw=true"
+    },
+    "Varl the Destroyer": {
+        "faction": "Orcs",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Varl_the_Destroyer.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Varl_the_Destroyer.json?raw=true"
     },
     "Venomage": {
         "faction": "Lizardmen",
