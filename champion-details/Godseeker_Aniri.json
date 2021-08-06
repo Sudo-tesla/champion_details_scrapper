@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.6 DEF"
+                "Multiplier: 3.6 DEF"
             ],
             "abilityname": "Blade of Blessings",
             "description": " Attacks 1 enemy. Heal the ally with the lowest HP by 5% of their MAX HP. Cannot heal this champion.",
@@ -44,7 +44,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3 DEF"
+                "Multiplier: 3 DEF"
             ],
             "abilityname": "Quest for Meaning",
             "description": " Attacks all enemies. Heal all allies by 15% of their MAX HP, then decreases the duration of all buffs on all enemies by 1 turn and increases the duration of all buffs on all allies by 1 turn.",
@@ -77,7 +77,7 @@
             ],
             "multiplier": [],
             "abilityname": "Guardian Angel",
-            "description": " Passive Effect: Increases the amount of healing allies receive by 10%. Passive Effect: Increases the amount of healing allies receive by 10%.\nActive Effect: If an ally is about to get killed by a fatal hit, preempts that hit and instantly places a [Revive On Death] buff on them for 1 turn before the damage is taken.",
+            "description": " Passive Effect: Increases the amount of healing allies receive by 10%.\nActive Effect: If an ally is about to get killed by a fatal hit, preempts that hit and instantly places a [Revive On Death] buff on them for 1 turn before the damage is taken.",
             "books": [
                 "Level 2: Cooldown -1",
                 "Level 3: Cooldown -1",

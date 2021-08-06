@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1.9 DEF"
+                "Multiplier: 1.9 DEF"
             ],
             "abilityname": "Suppressive Fire",
             "description": " Attacks all enemies. Has a 15% chance of increasing the cooldown of a random Skill on each target by 1 turn.",

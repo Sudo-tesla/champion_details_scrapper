@@ -93,7 +93,7 @@ const olChampionList = new  Promise(async (resolve,reject) => {
 
         for(let champ of champs) {
                 //Extracts the champions name from the listing. Champions name is always the first element before the '|'
-                console.log(champ);
+               // console.log(champ);
                 if(champ.textContent.includes('| Raid Shadow Legends Skill Mastery Equip Guide')) {
                     //console.log(champ.textContent);
                     championList[championList.length] = new Champion(champ.textContent.split('|')[0].trim(),champ.querySelector("a")?.href);
@@ -255,8 +255,10 @@ async function extractChampionDetails(championObject) {
 
     let columns = u1.querySelectorAll('td');
     let imageUrl;
+
     try {
-        imageUrl = columns[0].querySelector("img").getAttribute('src').substr(2);
+        imageUrl = columns[0].querySelector("img").getAttribute('data-src').substr(2);
+        console.log(columns[0].querySelector("img").getAttribute('data-src'));
     }catch (err) {
         imageUrl = 'https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png';
     }
@@ -355,15 +357,15 @@ function extractSkill(paragraph) {
     //let skillData = paragraph.outerHTML.split('<br>');
     //sanitize input from spans
     let skillData =textUtil.removeReference(paragraph.outerHTML,textUtil.spanDetails).split('<br>');
-    let skillDescription = cleansInputs({text:skillData[1]});
+    let skillDescription = '';
     let books = [];
     let bookIndex = 0;
 
-    if(skillData.length>2) {
-        for(let i = 2;i<skillData.length;i++) {
+    if(skillData.length>1) {
+        for(let i = 1;i<skillData.length;i++) {
             if(skillData[i].includes('Multiplier')){
                 //console.log(getMultipliers(skillData[i]));
-                multiplier.push(getMultipliers(skillData[i]));
+                multiplier.push(getMultipliers(skillData[i]).trim());
                 continue
             } else if (skillData[i].includes('Note:')) {
                 continue;
@@ -374,7 +376,8 @@ function extractSkill(paragraph) {
                 }
                 bookIndex++;
             } else {
-                skillDescription += `${skillDescription}\n${cleansInputs({text:skillData[i].trim()})}`;
+
+                skillDescription = `${skillDescription}\n${cleansInputs({text:skillData[i].trim()})}`;
             }
         }
         //only lines is a multiplier exception
@@ -390,6 +393,7 @@ function extractSkill(paragraph) {
     if(skillDescription.includes("</p>")) {
         skillDescription = skillDescription.substr(0,skillDescription.length-4);
     }
+
 
     skillDescription = skillDescription.replace('\n',' ');
 
@@ -465,7 +469,7 @@ function upsertChampionDetails(champ ) {
         hasStoredResources = !champ.name.trim().startsWith('Z');
 
         if(hasStoredResources === false) {
-            console.log(champ.name);
+            //console.log(champ.name);
 
             try {
                 extractChampionDetails(champ).then((res) =>{
@@ -502,6 +506,7 @@ async function main() {
 
 
 
+
 main().then().catch((error) => {
     console.log(error.message);
 });
@@ -509,17 +514,18 @@ main().then().catch((error) => {
 
 
 
+
 let seer =  {
-    name: 'BALTHUS DRAUGLORD',
-    url: 'https://ayumilove.net/raid-shadow-legends-balthus-drauglord-skill-mastery-equip-guide/'
+    name: 'Godseeker Aniri',
+    url: 'https://ayumilove.net/raid-shadow-legends-godseeker-aniri-skill-mastery-equip-guide/'
 }
 
-/*
+
 
 extractChampionDetails(seer).then((res) =>{
 
-/!*   storeChampion(res);
-   storeImage(res);*!/
+   storeChampion(res);
+   //storeImage(res);
 
     console.log(res.skills);
 
@@ -527,11 +533,10 @@ extractChampionDetails(seer).then((res) =>{
     console.log(error.message);
 });
 
-*/
-
-/*
-storeBaseChampionInfoList()
-storeSimulatorChampionInfoList()
 
 
-*/
+
+//storeBaseChampionInfoList()
+//storeSimulatorChampionInfoList()
+
+

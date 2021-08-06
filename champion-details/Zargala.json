@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Split Apart",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 25% [Weaken] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.3 ATK"
+                "Multiplier: 5.3 ATK"
             ],
             "abilityname": "Devastate",
             "description": " Attacks 1 enemy. Instantly activates the Crack Armor Skill if the target is killed by this attack.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.2 ATK"
+                "Multiplier: 1.2 ATK"
             ],
             "abilityname": "Crack Armor",
             "description": " Attacks all enemies 3 times. After the first hit, has a 50% chance of placing a 60% [Decrease DEF] debuff on all enemies for 2 turns.",
