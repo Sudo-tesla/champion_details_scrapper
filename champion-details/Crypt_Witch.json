@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.4 ATK"
+                "Multiplier: 3.4 ATK"
             ],
             "abilityname": "Fetid Steel",
             "description": " Attacks 1 enemy. Deals 30% more damage if the target has any buffs. Will ignore [Shield] and [Block Damage] buffs.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Dismantle",
             "description": " Attacks 2 times at random. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.5 ATK"
+                "Multiplier: 4.5 ATK"
             ],
             "abilityname": "Not So Fast",
             "description": " Attacks 1 enemy. Will ignore 50% of the target’s DEF if the target is faster than this Champion.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Scythe",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.2 ATK"
+                "Multiplier: 6.2 ATK"
             ],
             "abilityname": "Savage Swipe",
             "description": " Attacks 1 enemy. Places a [Counterattack] buff on this Champion for 2 turns.",

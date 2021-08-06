@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Resounding Smash",
             "description": " Attacks 1 enemy. Places an extra hit if the target has no active buffs.",

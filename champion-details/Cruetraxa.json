@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 0.8 ATK"
+                "Multiplier: 0.8 ATK"
             ],
             "abilityname": "Dire Perforation",
             "description": " Attacks 1 enemy 4 times. Ignores 50% of enemy DEF.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.9 ATK"
+                "Multiplier: 6.9 ATK"
             ],
             "abilityname": "Curse of Writhing",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. Has a 75% chance of removing 2 random buffs from the target. Grants an Extra Turn.",

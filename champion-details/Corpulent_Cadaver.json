@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.19 HP"
+                "Multiplier: 0.19 HP"
             ],
             "abilityname": "Crushing Mass",
             "description": " Attacks 1 enemy. Inflicts additional damage if this Champion is under a [Shield] buff. The damage is equal to 30% of the value of the [Shield].",
@@ -56,7 +56,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.3 HP"
+                "Multiplier: 0.3 HP"
             ],
             "abilityname": "Baleful Tenacity",
             "description": " Attacks 1 enemy. Has an 80% chance of placing a [Provoke] debuff for 2 turns.",

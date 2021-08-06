@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.5 ATK"
+                "Multiplier: 1.5 ATK"
             ],
             "abilityname": "Peasant’s Bow",
             "description": " Attacks 1 enemy 2 times.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.5 ATK"
+                "Multiplier: 6.5 ATK"
             ],
             "abilityname": "Support Fire",
             "description": " Attacks 1 enemy has a 50% chance of placing a 15% [Weaken] debuff for 2 turns",

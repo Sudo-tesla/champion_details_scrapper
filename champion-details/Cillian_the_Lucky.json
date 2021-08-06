@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.6 ATK"
+                "Multiplier: 1.6 ATK"
             ],
             "abilityname": "Trip Up",
             "description": " Attacks 1 enemy 2 times. Each hit has a 35% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Each hit also has a 35% chance of stealing 30% of the target’s current Turn Meter.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.8 ATK"
+                "Multiplier: 5.8 ATK"
             ],
             "abilityname": "Inflict Misfortune",
             "description": " Attacks 1 enemy. Has an 85% chance of placing a [Block Active Skills] debuff for 4 turns. Also has a 35% chance of placing a [Block Active Skills] debuff on all other enemies for 1 turn.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.5 ATK"
+                "Multiplier: 5.5 ATK"
             ],
             "abilityname": "Head Ringer",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a [Stun] debuff for 1 turn. Has a 25% chance of placing the [Stun] debuff for 2 turns instead and stealing 50% of the target’s current Turn Meter. Resets the cooldown of this Skill if the target is killed.",

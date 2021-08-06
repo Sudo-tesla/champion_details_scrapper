@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.5 ATK"
+                "Multiplier: 2.5 ATK"
             ],
             "abilityname": "Heartbreaker",
             "description": " Attacks all enemies. Damaged increases by 15% if the target has any debuffs.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.1 ATK"
+                "Multiplier: 2.1 ATK"
             ],
             "abilityname": "Flames of Passion",
             "description": " Attacks 3 times at random. Each hit has a 50% chance of placing a [HP Burn] debuff for 2 turns.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.6 ATK"
+                "Multiplier: 6.6 ATK"
             ],
             "abilityname": "Flameout",
             "description": " Places a 50% [Increase ATK] buff on this Champion, then attacks 1 enemy. Has a 50% chance of placing a [HP Burn] debuff on all enemies for 2 turns if this attack kills an enemy. This debuff cannot be resisted.",

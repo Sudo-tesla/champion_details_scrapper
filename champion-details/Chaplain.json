@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Holy Bolt",
             "description": " Attacks 1 enemy.",
@@ -54,7 +54,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.4 ATK"
+                "Multiplier: 3.4 ATK"
             ],
             "abilityname": "Radiance",
             "description": " Attacks all enemies. Heals all allies by 25% of the damage inflicted.",

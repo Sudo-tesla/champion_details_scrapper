@@ -1,0 +1,76 @@
+{
+    "name": "Conellia",
+    "class": {
+        "faction": "Dwarves",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "19,650",
+        "atk": "826",
+        "def": "1,167",
+        "spd": "109",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: ? ATK"
+            ],
+            "abilityname": "Surprising Swiftness",
+            "description": " Attacks 1 enemy. Has a 40% chance of increasing the cooldown of one of the target’s skills by 2 turns at random.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": -2,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Peace of the Deep",
+            "description": " Has an 80% chance of placing a [Sleep] debuff on all enemies for 1 turn. [Passive Effect] Whenever an enemy loses a [Sleep] debuff placed by this Skill, has a 50% chance of replacing it with a [Fear] debuff for 1 turn instead.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Cooldown -1",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": -2,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Revitalizing Rest",
+            "description": " Places a [Sleep] debuff on an ally for 1 turn. Heals that ally by 50% of their MAX HP and fills their Turn Meter by 50% whenever the [Sleep] debuff expires or gets removed. Heals that ally by 100% and completely fills their Turn Meter if the [Sleep] debuff is lost due to taking damage from an enemy.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally SPD in all Battles by 18%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Conellia.png"
+}

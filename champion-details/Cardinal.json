@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Evaporation",
             "description": " Attacks 1 enemy. Has a 10% chance of placing a 5% [Poison] debuff for 2 turns.",

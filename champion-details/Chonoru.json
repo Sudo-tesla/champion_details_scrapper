@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.55 ATK"
+                "Multiplier: 3.55 ATK"
             ],
             "abilityname": "Night Blossom",
             "description": " Attacks 1 enemy. Has a 40% chance of placing [Block Buffs] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.9 ATK"
+                "Multiplier: 1.9 ATK"
             ],
             "abilityname": "Reign of Fear",
             "description": " Attacks 3 times at random. Each hit has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Lay Bare",
             "description": " Removes all [Increase DEF] buffs from all enemies, then attacks all enemies. Decreases the cooldown of Lay Bare by 1 turn for each enemy killed by this skill.",

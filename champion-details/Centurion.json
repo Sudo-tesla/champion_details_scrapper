@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.5 DEF"
+                "Multiplier: 3.5 DEF"
             ],
             "abilityname": "Feed on Suffering",
             "description": " Attacks 1 enemy. Heals this Champion by 15% of the damage inflicted.",

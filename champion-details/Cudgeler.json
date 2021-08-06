@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "The Harder They Fall",
             "description": " Attacks 1 enemy 2 times. Has an additional 30% chance of inflicting a critical hit if the target is under a [Decrease DEF] debuff.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.3 ATK"
+                "Multiplier: 4.3 ATK"
             ],
             "abilityname": "Sure Strike",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a 50% [Decrease ACC] debuff on the target for 1 turn.",
@@ -52,7 +52,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 3.9 ATK + 0.1 HP"
+                "Multiplier: 3.9 ATK + 0.1 HP"
             ],
             "abilityname": "Helmcleaver",
             "description": " Attacks 1 enemy. Will ignore DEF if the target has less than 50% HP. Damage increases according to this Champion’s MAX HP.",
