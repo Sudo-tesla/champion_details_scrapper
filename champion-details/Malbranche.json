@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Gathering Inferno",
             "description": " Attacks 1 enemy. Decreases [Bomb] debuff detonation countdowns by 1 turn.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.3 ATK"
+                "Multiplier: 2.3 ATK"
             ],
             "abilityname": "Bident Mastery",
             "description": " Attacks 1 enemy 2 times. Places a [Counterattack] buff on this Champion for 2 turns.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.6 ATK"
+                "Multiplier: 6.6 ATK"
             ],
             "abilityname": "Demonic Explosives",
             "description": " Attacks 1 enemy. Has a 60% chance of placing a [Bomb] debuff that detonates after 3 turns.",

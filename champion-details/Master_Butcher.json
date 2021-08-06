@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.3 ATK"
+                "Multiplier: 4.3 ATK"
             ],
             "abilityname": "Mash",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [Provoke] debuff for 1 turn.",

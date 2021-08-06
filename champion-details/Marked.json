@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Dance of Blades",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 1 turn.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.7 ATK"
+                "Multiplier: 4.7 ATK"
             ],
             "abilityname": "Punishment of Gods",
             "description": " Attacks all enemies. Places a 25% [Decrease ACC] debuff for 2 turns.",

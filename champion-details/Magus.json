@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.4 ATK"
+                "Multiplier: 4.4 ATK"
             ],
             "abilityname": "Paralyze",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a [Stun] debuff for 1 turn.",
@@ -57,7 +57,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Vitality Theft",
             "description": " Attacks all enemies, then heals this Champion. The amount by which this Champion is healed is equal to the damage inflicted.",

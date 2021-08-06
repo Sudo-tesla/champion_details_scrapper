@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.3 DEF"
+                "Multiplier: 3.3 DEF"
             ],
             "abilityname": "Roast",
             "description": " Attacks 1 enemy. Damage increases by 50% if the target is under a [HP Burn] debuff.",

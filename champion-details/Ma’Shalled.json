@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.9 ATK"
+                "Multiplier: 3.9 ATK"
             ],
             "abilityname": "Bloodsucker",
             "description": " Attacks 1 enemy. Heals this Champion by 30% of the damage inflicted. Will then attack enemies under [Leech] debuffs.",
@@ -54,7 +54,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.6 ATK"
+                "Multiplier: 6.6 ATK"
             ],
             "abilityname": "Open Wounds",
             "description": " Attacks 1 enemy. Has an 80% chance of stealing all buffs from the target before attacking. Places a 100% [Heal Reduction] debuff for 2 turns. Also places two 15% [Continuous Heal] buffs on this Champion for 3 turns. Damage increases by 50% against targets that have no buffs.",

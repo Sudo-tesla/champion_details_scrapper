@@ -25,7 +25,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 1.5 ATK + 0.12 HP"
+                "Multiplier: 1.5 ATK + 0.12 HP"
             ],
             "abilityname": "Pounce",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [Block Buffs] debuff for 2 turns.",
@@ -46,7 +46,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 2.5 ATK + 0.2 HP"
+                "Multiplier: 2.5 ATK + 0.2 HP"
             ],
             "abilityname": "Strangle",
             "description": " Attacks 1 enemy. Places a [Sleep] debuff for 2 turns if the target has no active buffs.",

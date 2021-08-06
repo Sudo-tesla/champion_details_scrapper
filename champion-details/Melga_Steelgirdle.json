@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.15 HP"
+                "Multiplier: 0.15 HP"
             ],
             "abilityname": "Inspiring Violence",
             "description": " Attacks 1 enemy. Has a 50% chance of removing 1 random debuff from a random ally. Cannot remove a debuff from this Champion.",

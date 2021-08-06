@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.8 ATK"
+                "Multiplier: 4.8 ATK"
             ],
             "abilityname": "Stigmata",
             "description": " Attacks 1 enemy. Has a 60% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
@@ -44,7 +44,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 1.1 ATK + 0.1 HP"
+                "Multiplier: 1.1 ATK + 0.1 HP"
             ],
             "abilityname": "Falling from Grace",
             "description": " Attacks all enemies 2 times. Each hit has a 90% chance of placing a [Block Buffs] debuff for 2 turns. The [Block Buffs] debuff cannot be resisted if a target is under a [Heal Reduction] debuff.",
@@ -74,7 +74,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Peril",
             "description": " Attacks 1 enemy 2 times. Will ignore [Shield] and [Block Damage] buffs as well as DEF. Enemies killed by this skill cannot be revived.",

@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Kanabo Jutsu",
             "description": " Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn.",
@@ -43,7 +43,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Reckless Sweep",
             "description": " Attacks all enemies. Has a 50% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",

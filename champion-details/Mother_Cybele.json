@@ -1,0 +1,97 @@
+{
+    "name": "Mother Cybele",
+    "class": {
+        "faction": "Knight Revenant",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "18.990",
+        "atk": "969",
+        "def": "1,343",
+        "spd": "115",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "40",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Raid Shadow Legends – Mother Cybele",
+            "description": "",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: ? HP"
+            ],
+            "abilityname": "Mask of Dread",
+            "description": " Attacks all enemies. Has a 25% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Also fills this Champion’s Turn Meter by 15%.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Buff/Debuff Chance +10%",
+                "Level 7: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Soul Shepherd",
+            "description": " Places a [Revive On Death] buff and a 60% [Increase DEF] buff on all allies for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Uncanny Transfer",
+            "description": " Swaps HP with an ally. If this Champion’s HP is equal to or higher than the target’s HP after the swap, fills this Champion’s Turn Meter by 40%, places a 30% [Increase SPD] buff on this Champion for 2 turns, and places a [Block Damage] buff on the target ally for 1 turn. If this Champion’s HP is lower than the target’s HP after the swap, fills the target’s Turn Meter by 40%, places a 30% [Increase SPD] buff on them for 2 turns, and places a [Block Damage] buff on this Champion for 1 turn. Also places to 15% [Continuous Heal] buffs on this Champion for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Gravewalker",
+            "description": " Fully heals the ally with the lowest HP whenever this Champion is killed. Heals all allies by 20% of their MAX HP and fills their Turn Meters by 15% whenever this Champion is revived.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Speed in All Battles by 24%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Mother_Cybele.png"
+}
