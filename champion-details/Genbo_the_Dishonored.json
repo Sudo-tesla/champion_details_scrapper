@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Twin Soulswords",
             "description": " Attacks 1 enemy 2 times. Each hit steals any [Increase ATK] buffs. Each hit also has a 30% chance of stealing 1 random buff. The [Increase ATK] buff steal cannot be resisted.",
@@ -46,7 +46,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Heartless Blitz",
             "description": " Attacks all enemies. Has an 80% chance of decreasing the duration of all buffs by 1 turn. This effects cannot be resisted on critical hits.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.68 ATK"
+                "Multiplier: 1.68 ATK"
             ],
             "abilityname": "Scale Hacker",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.1 ATK * (1 + 0.05 Total Debuff)"
+                "Multiplier: 6.1 ATK * (1 + 0.05 Total Debuff)"
             ],
             "abilityname": "Prey Acquired",
             "description": " Attacks 1 enemy. Damage increases by 5% for each debuff on the target.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.04 ATK"
+                "Multiplier: 6.04 ATK"
             ],
             "abilityname": "Heroic Company",
             "description": " Attacks 1 enemy. Places a 15% [Increase C.RATE] buff on all allies for 2 turns if this attack is critical.",

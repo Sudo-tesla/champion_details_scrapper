@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.3 ATK"
+                "Multiplier: 2.3 ATK"
             ],
             "abilityname": "Hoodoo",
             "description": " Attacks 2 times at random. Has a 15% chance of placing a 15% [Weaken] debuff for 2 turns.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Soul Sizzle",
             "description": " Attacks 1 enemy 2 times. Each hit has a 50% chance of placing two 2.5% [Poison] debuffs for 2 turns.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.8 ATK"
+                "Multiplier: 4.8 ATK"
             ],
             "abilityname": "Chop",
             "description": " Attacks 1 enemy. Has a 50% chance of decreasing the duration of all enemy buffs by 2 turns.",
@@ -45,7 +45,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: ATK + 0.03 HP"
+                "Multiplier: ATK + 0.03 HP"
             ],
             "abilityname": "Thunderclap",
             "description": " Attacks 4 times at random. Each hit has a 30% chance of applying a [Block Buffs] debuff for 2 turns.",

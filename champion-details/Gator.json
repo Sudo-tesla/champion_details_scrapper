@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.1 ATK"
+                "Multiplier: 5.1 ATK"
             ],
             "abilityname": "Hex Smash",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 50% [Heal Reduction] debuff for 2 turns.",

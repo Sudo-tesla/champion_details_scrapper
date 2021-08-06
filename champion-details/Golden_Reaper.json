@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.8 ATK"
+                "Multiplier: 2.8 ATK"
             ],
             "abilityname": "Harvest of Blood",
             "description": " Attacks 1 enemy. Has a 30% chance of decreasing the cooldown of one of a random ally’s Skills by 1 turn.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Maelstrom",
             "description": " Attacks all enemies. Has a 50% chance of placing a 50% [Decrease ATK] debuff for 2 turns. Decreases the Turn Meter of each target by 20% if they are not under a [Decrease ATK] debuff.",

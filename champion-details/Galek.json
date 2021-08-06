@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.5 ATK + 50"
+                "Multiplier: 1.5 ATK + 50"
             ],
             "abilityname": "Cross Slash",
             "description": " Attacks 1 enemy 2 times.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.5 ATK"
+                "Multiplier: 4.5 ATK"
             ],
             "abilityname": "Hellraiser",
             "description": " Attacks all enemies. Has an extra 15% chance of inflicting a critical hit. Places a 30% [Increase SPD] buff on this champion for 2 turns.",
@@ -59,7 +59,7 @@
             "mincd": 5,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 1.6 ATK"
+                "Multiplier: 1.6 ATK"
             ],
             "abilityname": "Cursed Blade",
             "description": " Attacks 4 times at random. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns. Has a 30% chance of placing a 60% [Decrease DEF] debuff for 2 turns if the target has more than 2 debuffs.",

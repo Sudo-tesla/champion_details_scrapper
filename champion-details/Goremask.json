@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.6 ATK"
+                "Multiplier: 1.6 ATK"
             ],
             "abilityname": "Snap",
             "description": " Attacks 1 enemy 2 times.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.4 ATK"
+                "Multiplier: 4.4 ATK"
             ],
             "abilityname": "Go for the Throat",
             "description": " Attacks 1 enemy. Damage increases by 20% if this attack is critical.",
@@ -63,7 +63,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.8 ATK"
+                "Multiplier: 4.8 ATK"
             ],
             "abilityname": "Tearing Jaws",
             "description": " Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs.",

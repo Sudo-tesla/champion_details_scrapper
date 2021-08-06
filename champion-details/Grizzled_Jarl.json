@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.5 DEF"
+                "Multiplier: 3.5 DEF"
             ],
             "abilityname": "Massive Halberd",
             "description": " Attacks 1 enemy. Has a 35% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
@@ -54,7 +54,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.3 DEF"
+                "Multiplier: 3.3 DEF"
             ],
             "abilityname": "Earthstomp",
             "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff on all enemies for 2 turns. Decreases each target’s MAX HP by 30% of the damage inflicted.",

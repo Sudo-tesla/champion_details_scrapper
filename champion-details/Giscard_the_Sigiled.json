@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.65 DEF"
+                "Multiplier: 3.65 DEF"
             ],
             "abilityname": "Foebreaker",
             "description": " Attacks 1 enemy. Has 50% chance of placing a 50% [Decrease ATK] debuff for 1 turn.",
@@ -43,7 +43,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.6 DEF"
+                "Multiplier: 3.6 DEF"
             ],
             "abilityname": "Lion’s Roar",
             "description": " Attacks all enemies. Has a 50% chance of placing a [Provoke] debuff for 1 turn. Also places a [Shield] buff on this champion equal to 25% of their MAX HP for 2 turns.",

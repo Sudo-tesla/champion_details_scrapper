@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.15 HP"
+                "Multiplier: 0.15 HP"
             ],
             "abilityname": "Gears of Gore",
             "description": " Attacks 1 enemy. Places a 7.5% [Continuous Heal] buff on this Champion for 1 turn if this attack is critical.",
