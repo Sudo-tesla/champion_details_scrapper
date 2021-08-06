@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.4 ATK"
+                "Multiplier: 4.4 ATK"
             ],
             "abilityname": "Humiliate",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
@@ -56,7 +56,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.25 ATK"
+                "Multiplier: 3.25 ATK"
             ],
             "abilityname": "Blinding Flash",
             "description": " Attacks all enemies. Has a 50% chance of placing a 50% [Decrease ATK] debuff for 2 turns. Has a 100% chance if this attack is critical.",

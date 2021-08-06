@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.3 ATK"
+                "Multiplier: 1.3 ATK"
             ],
             "abilityname": "Strike Down",
             "description": " Attacks 1 enemy 3 times. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns on the last hit.",
@@ -45,7 +45,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.1 ATK"
+                "Multiplier: 4.1 ATK"
             ],
             "abilityname": "Divine Blades",
             "description": " Attacks all enemies. Has an extra 15% chance of inflicting a critical hit.",

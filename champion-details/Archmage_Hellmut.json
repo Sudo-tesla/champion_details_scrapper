@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.8 ATK"
+                "Multiplier: 4.8 ATK"
             ],
             "abilityname": "Arcane Dynamo",
             "description": " Attacks 1 enemy. Fills this Champion’s Turn Meter by 10%. Fills the Turn Meter by 20% if this attack is critical.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK (Target) , 3.5 ATK (AoE)"
+                "Multiplier: 6 ATK (Target) , 3.5 ATK (AoE)"
             ],
             "abilityname": "Timeslip",
             "description": " Attacks 1 enemy. Also attack all other enemies if the first attack is critical. Each hit has a 50% chance of placing a [Stun] debuff for 1 turn. After attacking, decreases the Turn Meters of each enemy without a [Stun] debuff by 20%.",

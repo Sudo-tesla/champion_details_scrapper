@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.2 ATK"
+                "Multiplier: 4.2 ATK"
             ],
             "abilityname": "Gap Shot",
             "description": " Attacks 1 enemy. Has a 30% chance of placing an extra hit. This hit is always critical.",
@@ -45,7 +45,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.3 ATK"
+                "Multiplier: 6.3 ATK"
             ],
             "abilityname": "High Value Target",
             "description": " Attacks 1 enemy. Ignores 50% of the target’s DEF if their MAX HP is higher than this Champion’s MAX HP.",
@@ -65,7 +65,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Disorient",
             "description": " Attacks all enemies. Has a 75% chance of increasing the cooldowns of all enemy skills by 1 turn.",

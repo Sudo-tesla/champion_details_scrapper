@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.8 ATK"
+                "Multiplier: 2.8 ATK"
             ],
             "abilityname": "Void Gaze",
             "description": " Attacks all enemies. Has a 15% chance of placing a [Block Buffs] debuff for 2 turns.",

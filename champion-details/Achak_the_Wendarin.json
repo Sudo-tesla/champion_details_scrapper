@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Devour All Hope",
             "description": " Attacks 1 enemy. Has a 30% chance of decreasing the duration of 1 random buff if the target is under a [HP Burn] debuff. Also has a 30% chance of decreasing the target’s Turn Meter by 15% if they are under a [Freeze] debuff.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.5 ATK"
+                "Multiplier: 5.5 ATK"
             ],
             "abilityname": "Frostfire Gale",
             "description": " Attacks all enemies. Has a 70% chance of placing a [Freeze] debuff for 1 turn on enemies whose ATK is higher than their DEF. Has a 70% chance of placing a [HP Burn] debuff for 1 turn on enemies whose DEF is equal to or higher than their ATK.",

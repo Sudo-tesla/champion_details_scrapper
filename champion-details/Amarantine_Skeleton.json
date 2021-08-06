@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.4 DEF"
+                "Multiplier: 3.4 DEF"
             ],
             "abilityname": "Sorcerous Bones",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [Block Buffs] debuff for 2 turns.",
@@ -44,7 +44,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 5.6 DEF"
+                "Multiplier: 5.6 DEF"
             ],
             "abilityname": "Tomb Blight",
             "description": " Attacks 1 enemy. Has an 80% chance of placing a [Block Active Skills] debuff for 1 turn. Also has an 80% chance of placing a 50% [Heal Reduction] debuff for 2 turns.",
@@ -63,7 +63,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 5.4 DEF"
+                "Multiplier: 5.4 DEF"
             ],
             "abilityname": "Rusted Targe",
             "description": " Attacks 1 enemy. Places a 30% [Increase DEF] buff on this Champion for 2 turns.",

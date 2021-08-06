@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.7 ATK"
+                "Multiplier: 1.7 ATK"
             ],
             "abilityname": "Hellbinder",
             "description": " Attacks 1 enemy 2 times. Has a 30% chance of placing a 60% [Decrese DEF] debuff for 2 turns. Countess Lix will team up and join the attack is they are in the same team. Countess Lix will use their default skill. Countess Lix will not team up on this attack if the skill is used when counterattacking or when teaming up to attack with another Champion.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.8 ATK"
+                "Multiplier: 5.8 ATK"
             ],
             "abilityname": "Divine Immanence",
             "description": " Attacks 1 enemy. Will ignore [Increase DEF], [Strengthen] and [Ally Protection] buffs. Revives a random ally with 40% HP and places a [Shield] buff on them equal to 20% of their MAX HP for 2 turns if this attack kills an enemy. Also places a [Shield] buff on this Champion equal to 20% of their MAX HP for 2 turns if this attack kills an enemy.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Light of Sanctity",
             "description": " Remove all buffs from targets under [Veil] or [Perfect Veil] buffs, then places a 25% [Weaken] debuff on enemies who have [Veil] or [Perfect Veil] buffs removes, then attacks all enemies. Also has a 75% chance of placing a [Stun] debuff on all enemies for 1 turn.",

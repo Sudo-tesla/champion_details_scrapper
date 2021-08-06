@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.6 ATK"
+                "Multiplier: 5.6 ATK"
             ],
             "abilityname": "Shield Wall",
             "description": " Attacks 1 enemy. Places a [Shield] buff on this Champion for 1 turn equal to the 10% of the damage inflicted.",
