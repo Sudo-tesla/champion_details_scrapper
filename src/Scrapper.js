@@ -257,8 +257,9 @@ async function extractChampionDetails(championObject) {
     let imageUrl;
 
     try {
-        imageUrl = columns[0].querySelector("img").getAttribute('data-src').substr(2);
         console.log(columns[0].querySelector("img").getAttribute('data-src'));
+        imageUrl = columns[0].querySelector("img").getAttribute('src').substr(2);
+
     }catch (err) {
         imageUrl = 'https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png';
     }
@@ -466,7 +467,7 @@ function upsertChampionDetails(champ ) {
     try{
         let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
 
-        hasStoredResources = !champ.name.trim().startsWith('H');
+        hasStoredResources = !champ.name.trim().startsWith('U');
 
         if(hasStoredResources === false) {
             //console.log(champ.name);
@@ -474,7 +475,7 @@ function upsertChampionDetails(champ ) {
             try {
                 extractChampionDetails(champ).then((res) =>{
 
-                    //storeChampion(res);
+                    storeChampion(res);
                     storeImage(res);
 
                 }).catch((error) => {
@@ -525,7 +526,7 @@ let seer =  {
 
 extractChampionDetails(seer).then((res) =>{
 
-   storeChampion(res);
+   //storeChampion(res);
    //storeImage(res);
 
     console.log(res.skills);

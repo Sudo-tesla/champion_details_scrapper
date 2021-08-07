@@ -1,0 +1,78 @@
+{
+    "name": "Urogrim",
+    "class": {
+        "faction": "Ogryn Tribes",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "19,155",
+        "atk": "881",
+        "def": "1,145",
+        "spd": "102",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "15"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 1.5 ATK"
+            ],
+            "abilityname": "Skullstaff",
+            "description": " Attacks 1 enemy 3 times. Each hit has a 25% chance of placing a 5% [Poison] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%",
+                "Level 6: Damage +10%",
+                "Level 7: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Tiny Tincture",
+            "description": " Removes all debuffs from an ally, then heals them by 40% of their MAX HP",
+            "books": [
+                "Level 2: Heal +5%",
+                "Level 3: Heal +5%",
+                "Level 4: Heal +5%",
+                "Level 5: Cooldown -1",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Bizarre Vapors",
+            "description": " Places three 5% [Poison] debuffs on all enemies for 2 turns. Also places two 15% [Continuous Heal] buffs on all allies for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally SPD in all Battles by 20%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Urogrim.png"
+}

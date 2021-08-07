@@ -1387,7 +1387,6 @@
         "affinity": "Spirit",
         "rarity": "Epic"
     },
-
     "Metalshaper": {
         "affinity": "Spirit",
         "rarity": "Rare"
@@ -2251,6 +2250,10 @@
     "Underpriest Brogni": {
         "affinity": "Magic",
         "rarity": "Legendary"
+    },
+    "Urogrim": {
+        "affinity": "Void",
+        "rarity": "Epic"
     },
     "Urost the Soulcage": {
         "affinity": "Void",

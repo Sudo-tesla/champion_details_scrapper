@@ -791,7 +791,6 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Coffin_Smasher.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Coffin_Smasher.json?raw=true"
     },
-
     "Coldheart": {
         "faction": "Dark Elves",
         "rarity": "Rare",
@@ -4485,7 +4484,7 @@
         "rarity": "Epic",
         "role": "Attack",
         "affinity": "Magic",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ultimate_Galek.png",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ultimate_Galek.json?raw=true"
     },
     "Umbral Enchantress": {
@@ -4493,7 +4492,7 @@
         "rarity": "Epic",
         "role": "Defense",
         "affinity": "Void",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Umbral_Enchantress.png",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Umbral_Enchantress.json?raw=true"
     },
     "Underpriest Brogni": {
@@ -4501,15 +4500,23 @@
         "rarity": "Legendary",
         "role": "Support",
         "affinity": "Magic",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Underpriest_Brogni.png",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Underpriest_Brogni.json?raw=true"
+    },
+    "Urogrim": {
+        "faction": "Ogryn Tribes",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Void",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Urogrim.json?raw=true"
     },
     "Urost the Soulcage": {
         "faction": "Undead Hordes",
         "rarity": "Legendary",
         "role": "HP",
         "affinity": "Void",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Urost_the_Soulcage.png",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Urost_the_Soulcage.json?raw=true"
     },
     "Ursala the Mourner": {
@@ -4517,7 +4524,7 @@
         "rarity": "Epic",
         "role": "Support",
         "affinity": "Void",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ursala_the_Mourner.png",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ursala_the_Mourner.json?raw=true"
     },
     "Ursine Icecrusher": {
@@ -4525,7 +4532,7 @@
         "rarity": "Epic",
         "role": "Defense",
         "affinity": "Force",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ursine_Icecrusher.png",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ursine_Icecrusher.json?raw=true"
     },
     "Ursine Ironhide": {
@@ -4533,7 +4540,7 @@
         "rarity": "Epic",
         "role": "Defense",
         "affinity": "Force",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ursine_Ironhide.png",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ursine_Ironhide.json?raw=true"
     },
     "Ursuga Warcaller": {
@@ -4541,7 +4548,7 @@
         "rarity": "Legendary",
         "role": "HP",
         "affinity": "Void",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ursuga_Warcaller.png",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ursuga_Warcaller.json?raw=true"
     },
     "Uugo": {
@@ -4549,7 +4556,7 @@
         "rarity": "Epic",
         "role": "Support",
         "affinity": "Magic",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Uugo.png",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Uugo.json?raw=true"
     },
     "Vagabond": {
