@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                "Multiplier: ? HP"
+                "Multiplier: 0.21 HP"
             ],
             "abilityname": "Blade Hand Butcher",
             "description": " Attacks 1 enemy 2 times. Each hit heals this Champion by 30% of the damage inflicted. This attack cannot be critical",
@@ -43,7 +43,7 @@
                 "HP"
             ],
             "multiplier": [
-                "Multiplier: ? HP"
+                "Multiplier: 0.32 HP"
             ],
             "abilityname": "Cut Wide Open",
             "description": " Attacks 1 enemy. When not attacking Bosses, inflicts pure damage and decrease the Target’s HP to 50%. Inflicts damage based on this Champion’s MAX HP instead and places a [Stun] debuff for 1 turn if the target already has less than 50% HP. Inflicts damage based on this Champion’s MAX HP when attacking Bosses. This attack cannot be critical",

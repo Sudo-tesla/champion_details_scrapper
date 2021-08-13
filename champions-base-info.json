@@ -791,7 +791,6 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Coffin_Smasher.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Coffin_Smasher.json?raw=true"
     },
-
     "Coldheart": {
         "faction": "Dark Elves",
         "rarity": "Rare",
@@ -4280,6 +4279,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Teshada.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Teshada.json?raw=true"
     },
+    "Teumesia": {
+        "faction": "Skinwalkers",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Teumesia.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Teumesia.json?raw=true"
+    },
     "Thea the Tomb Angel": {
         "faction": "Knight Revenant",
         "rarity": "Legendary",
@@ -4357,7 +4364,7 @@
         "rarity": "Epic",
         "role": "HP",
         "affinity": "Magic",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Toragi_the_Frog.png",
+        "avatarUrl": "https://ta:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Toragi_the_Frog.json?raw=true"
     },
     "Tormentor": {
@@ -4503,6 +4510,14 @@
         "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Underpriest_Brogni.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Underpriest_Brogni.json?raw=true"
+    },
+    "Urogrim": {
+        "faction": "Ogryn Tribes",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Urogrim.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Urogrim.json?raw=true"
     },
     "Urost the Soulcage": {
         "faction": "Undead Hordes",

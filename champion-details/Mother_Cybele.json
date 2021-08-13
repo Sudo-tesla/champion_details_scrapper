@@ -20,11 +20,20 @@
         {
             "cd": 0,
             "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Raid Shadow Legends – Mother Cybele",
+            "description": "",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
             "dmgscaling": [
                 "HP"
             ],
             "multiplier": [
-                "Multiplier: ? HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Mask of Dread",
             "description": " Attacks all enemies. Has a 25% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Also fills this Champion’s Turn Meter by 15%.",

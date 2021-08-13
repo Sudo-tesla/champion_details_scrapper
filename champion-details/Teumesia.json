@@ -1,0 +1,88 @@
+{
+    "name": "Teumesia",
+    "class": {
+        "faction": "Skinwalkers",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "16,020",
+        "atk": "1,476",
+        "def": "1,035",
+        "spd": "101",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.7 ATK"
+            ],
+            "abilityname": "Fiery Battleaxe",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Has a 100% chance of placing a 60% [Decrease DEF] debuff for 2 turns on the target before attacking if the target is under a [HP Burn] debuff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 4 ATK"
+            ],
+            "abilityname": "Cunning Chaos",
+            "description": " Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff for 3 turns. Has a 75% chance of placing a [Stun] debuff for 1 turn on targets with 50% Turn Meter or more. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 3 turns on target with less than 50% Turn Meter.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: ? ATK"
+            ],
+            "abilityname": "Burning Regret",
+            "description": " Attacks 1 enemy. Damage increases by 40% for each active [HP Burn] debuff in the battle (up to 400%). Also has a 75% chance of decreasing the target’s Turn Meter by 15%. Decreases the target’s Turn Meter by an additional 15% for each active [HP Burn] debuff in the battle.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Inner Heat",
+            "description": " Whenever an ally receives a [Freeze] debuff, has a 50% chance of replacing it with a [HP Burn] for 2 turns instead. This debuff cannot be blocked or removed. Whenever any ally of enemy is under a [HP Burn], this champion is immune to [Stun], [Sleep], [Freeze], [Fear], [True Fear] and [Provoke] debuffs.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Teumesia.png"
+}

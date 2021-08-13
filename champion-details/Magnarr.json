@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                "Multiplier: ? HP"
+                "Multiplier: 0.23 HP"
             ],
             "abilityname": "Superheated Hammer",
             "description": " Attacks 1 enemy. Has a 45% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Has a 100% chance instead if the target is under a [HP Burn] debuff.",
@@ -38,13 +38,13 @@
             ]
         },
         {
-            "cd": 0,
-            "mincd": -1,
+            "cd": 4,
+            "mincd": 3,
             "dmgscaling": [
                 "HP"
             ],
             "multiplier": [
-                "Multiplier: ? HP"
+                "Multiplier: 0.22 HP"
             ],
             "abilityname": "Percussive Pound",
             "description": " Attacks all enemies. Places an extra hit on enemies without [HP Burn] debuffs. Has a 50% chance of placing a [Stun] debuff for 1 turn on enemies under [HP Burn] debuffs.",
@@ -57,13 +57,13 @@
             ]
         },
         {
-            "cd": 0,
-            "mincd": -1,
+            "cd": 4,
+            "mincd": 3,
             "dmgscaling": [
                 "HP"
             ],
             "multiplier": [
-                "Multiplier: ? HP"
+                "Multiplier: 0.37 HP"
             ],
             "abilityname": "Fan the Flames",
             "description": " Attacks 1 enemy. Applies a [Debuff Spread] effect, taking 2 random debuffs from the target and placing them on all enemies under [HP Burn] debuffs. Also increases duration of [HP Burn] debuffs on all enemies by 1 turns. Will not spread [Fear], [True Fear], [Freeze], [Provoke], [Sleep] or [Stun] debuffs.",

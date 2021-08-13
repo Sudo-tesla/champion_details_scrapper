@@ -1387,7 +1387,6 @@
         "affinity": "Spirit",
         "rarity": "Epic"
     },
-
     "Metalshaper": {
         "affinity": "Spirit",
         "rarity": "Rare"
@@ -2140,6 +2139,10 @@
         "affinity": "Force",
         "rarity": "Epic"
     },
+    "Teumesia": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
     "Thea the Tomb Angel": {
         "affinity": "Force",
         "rarity": "Legendary"
@@ -2251,6 +2254,10 @@
     "Underpriest Brogni": {
         "affinity": "Magic",
         "rarity": "Legendary"
+    },
+    "Urogrim": {
+        "affinity": "Void",
+        "rarity": "Epic"
     },
     "Urost the Soulcage": {
         "affinity": "Void",
