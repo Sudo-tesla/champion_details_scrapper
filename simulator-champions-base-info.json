@@ -2139,6 +2139,10 @@
         "affinity": "Force",
         "rarity": "Epic"
     },
+    "Teumesia": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
     "Thea the Tomb Angel": {
         "affinity": "Force",
         "rarity": "Legendary"
