@@ -284,20 +284,28 @@ async function extractChampionDetails(championObject) {
     let championStats = extractChampionStats(statsOver);
 
     const p1 = document.querySelectorAll("p");
-
+    console.log(p1);
     let flag = false;
     let skills = []
 
     for(let p of p1) {
 
+        let inner = p.innerHTML;
+        let end_flag = false;
+
+        end_flag = p.querySelector('input')?p.querySelector('input').getAttribute('name') ==='IL_IN_ARTICLE':false;
+
+
+
         if(p.textContent.startsWith("✰") || p.textContent.startsWith("★") || p.textContent.startsWith("RAID Shadow Legends")) {
+
             flag=true;
 
         } else if(flag & isNaN(p.textContent.charAt(0)) & p.querySelector('strong') !== null &&  !(p.textContent.includes("Equipment") || p.textContent.includes(' set') || p.textContent.includes('RAID Shadow Legends –'))){
 
             skills[skills.length] = extractSkill(p).toJSON();
 
-        } else if(flag) {
+        } else if(end_flag &flag) {
             break
         }
     }
@@ -518,6 +526,7 @@ async function main() {
 
 
 
+/*
 
 
 main().then().catch((error) => {
@@ -525,19 +534,20 @@ main().then().catch((error) => {
 });
 
 
+*/
 
 
 
 let seer =  {
-    name: 'Godseeker Aniri',
-    url: 'https://ayumilove.net/raid-shadow-legends-godseeker-aniri-skill-mastery-equip-guide/'
+    name: 'Kalvalax',
+    url: 'https://ayumilove.net/raid-shadow-legends-kalvalax-skill-mastery-equip-guide/'
 }
 
 
 
 extractChampionDetails(seer).then((res) =>{
 
-   //storeChampion(res);
+    storeChampion(res);
    //storeImage(res);
 
     console.log(res.skills);

@@ -1,0 +1,87 @@
+{
+    "name": "Kalvalax",
+    "class": {
+        "faction": "",
+        "rarity": "Knights Revenant",
+        "role": "Legendary",
+        "affinity": "Attack"
+    },
+    "stats": {
+        "hp": "12,720",
+        "atk": "1,663",
+        "def": "1,068",
+        "spd": "99",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.5 ATK"
+            ],
+            "abilityname": "Oozing Greatsword",
+            "description": " Attacks 1 enemy. Has a 40% chance of increasing the duration of all [Poison] debuffs on the target by 1 turn. Heals this Champion by 2.5% of their MAX HP for each [Poison] debuff on the target.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 2 ATK"
+            ],
+            "abilityname": "Corruption Locus",
+            "description": " Attacks 1 enemy. Places an extra hit for each [Poison] debuff on the target (up to 3 extra hits).",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Damage +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.5*ATK + (Poison Count * 0.01 * Enemy Max HP)"
+            ],
+            "abilityname": "Storm of Vitriol",
+            "description": " Attacks all enemies. Damage increases according to the number of [Poison] debuffs on each target.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Damage +10%"
+            ]
+        },
+        {
+            "cd": 1,
+            "mincd": 1,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Pestilence",
+            "description": " Places four 5% [Poison] debuffs on all enemies for 2 turns at the start of each round. Has a 50% chance of placing a 5% [Poison] debuff on all enemies for 1 turn at the start of each turn. [Active Effect] Whenever an enemy places a [Poison] debuff on this Champion, instantly removes it and replaces it with a 15% [Continuous Heal] buff for 2 turns instead.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Kalvalax.png"
+}
