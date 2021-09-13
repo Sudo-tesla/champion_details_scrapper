@@ -1155,6 +1155,10 @@
         "affinity": "Force",
         "rarity": "Epic"
     },
+    "Kalvalax": {
+        "affinity": "Attack",
+        "rarity": "Knights Revenant"
+    },
     "Kantra the Cyclone": {
         "affinity": "Force",
         "rarity": "Legendary"
@@ -1180,16 +1184,16 @@
         "rarity": "Common"
     },
     "Knight-Errant": {
-        "affinity": "Spirit",
-        "rarity": "Epic"
+        "affinity": "Attack",
+        "rarity": "Banner Lords"
     },
     "Kreela Witch-Arm": {
         "affinity": "Magic",
         "rarity": "Legendary"
     },
     "Krisk the Ageless": {
-        "affinity": "Void",
-        "rarity": "Legendary"
+        "affinity": "Defense",
+        "rarity": "Lizardmen"
     },
     "Kurzad Deepheart": {
         "affinity": "Void",

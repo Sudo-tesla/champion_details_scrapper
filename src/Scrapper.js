@@ -259,11 +259,13 @@ async function extractChampionDetails(championObject) {
     let imageUrl;
 
     try {
-
-        if(columns[0].querySelector("img").hasAttribute('src')) {
-            imageUrl = columns[0].querySelector("img").getAttribute('src').substr(2);
-        } else if(columns[0].querySelector("img").hasAttribute('data-src')) {
+        if(columns[0].querySelector("img").hasAttribute('data-src')) {
+            console.log('data - src')
             imageUrl = columns[0].querySelector("img").getAttribute('data-src').substr(2);
+        }  else if(columns[0].querySelector("img").hasAttribute('src')) {
+            console.log('src')
+            imageUrl = columns[0].querySelector("img").getAttribute('src').substr(2);
+
         } else {
             imageUrl = 'https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png';
         }
@@ -476,7 +478,7 @@ function upsertChampionDetails(champ ) {
     try{
         let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
 
-        hasStoredResources = !champ.name.trim().startsWith('D');
+        hasStoredResources = !champ.name.trim().startsWith('K');
 
         if(hasStoredResources === false) {
             //console.log(champ.name);

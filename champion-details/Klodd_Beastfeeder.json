@@ -22,7 +22,7 @@
             "mincd": 0,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 0.24 HP"
+                "Multiplier: 0.24 HP"
             ],
             "abilityname": "New Stabby Hand",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease C.RATE] debuff for 2 turns",

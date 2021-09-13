@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.8 ATK"
+                "Multiplier: 2.8 ATK"
             ],
             "abilityname": "Superheated Hammer",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [HP Burn] debuff for 2 turns. [Heals this Champion by 30% of the damage inflicted when Atur is on the same team]",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Curse of Nullity",
             "description": " Attacks all enemies. Has a 50% chance of placing a 100% [Heal Reduction] debuff for 2 turns. [Heals this Champion by 10% of the damage inflicted when Atur is on the same team]",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.6 ATK"
+                "Multiplier: 1.6 ATK"
             ],
             "abilityname": "Flame Tempest",
             "description": " Attacks 3 times at random. Each hit has a 60% chance of placing a [HP Burn] debuff for 2 turns. [Heals this Champion by 15% of the damage inflicted when Atur is on the same team]",
