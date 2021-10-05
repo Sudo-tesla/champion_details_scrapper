@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.5 ATK"
+                "Multiplier: 4.5 ATK"
             ],
             "abilityname": "Go No Further",
             "description": " Attacks 1 enemy.",
@@ -32,8 +32,7 @@
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
                 "Level 4: Damage +5%",
-                "Level 5: Damage +5%",
-                "Level 6: Damage +5%"
+                "Level 5: Damage +5%"
             ]
         },
         {

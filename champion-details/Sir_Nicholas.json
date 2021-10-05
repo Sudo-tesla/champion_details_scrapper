@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.25 HP"
+                "Multiplier: 0.25 HP"
             ],
             "abilityname": "Boreal Blade",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [Freeze] debuff for 1 turn. This debuff cannot be resisted.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.25 HP"
+                "Multiplier: 0.25 HP"
             ],
             "abilityname": "Polar Protection",
             "description": " Attacks all enemies. Places a [Shield] buff on all allies for 2 turns. The value of the [Shield] is equal to 30% of the damage inflicted.",

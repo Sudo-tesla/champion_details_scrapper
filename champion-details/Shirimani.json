@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.4 ATK"
+                "Multiplier: 1.4 ATK"
             ],
             "abilityname": "Bolts of Cold",
             "description": " Attacks 3 times at random. Has a 15% chance of placing a [Freeze] debuff for 1 turn.",
@@ -52,7 +52,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.1 ATK"
+                "Multiplier: 4.1 ATK"
             ],
             "abilityname": "Ice Storm",
             "description": " Attacks all enemies. Has an 80% chance of placing a [Freeze] debuff for 1 turn. Fills this Champion’s Turn Meter by 10% for each attacked enemy.",

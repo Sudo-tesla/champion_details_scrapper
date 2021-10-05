@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.23 HP"
+                "Multiplier: 0.23 HP"
             ],
             "abilityname": "Crystal Flesh",
             "description": " Attacks 1 enemy. Heals by 15% of the damage inflicted if this champion has 50% HP or less. Fills this Champion’s Turn Meter by 15% if he has more than 50% HP.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.3 HP"
+                "Multiplier: 0.3 HP"
             ],
             "abilityname": "Emerald Curse",
             "description": " Attacks 1 enemy. Inflicts bonus damage equal to the difference in HP levels between this Champion and the target (+1% damage for every 1% difference). Inflicts bonus damage equal to the difference in the number of buffs on this champion and the target (+10% damage per buff).",
@@ -60,7 +60,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.15 HP"
+                "Multiplier: 0.15 HP"
             ],
             "abilityname": "Boon Supervision",
             "description": " Attacks all enemies. Has an 80% chance of stealing 2 random buffs before attacking. Places an extra hit on enemies that have any buffs left.",

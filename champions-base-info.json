@@ -3376,7 +3376,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Rearguard_Sergeant.json?raw=true"
     },
     "Rector Drath": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "Support",
         "affinity": "Force",
@@ -3526,6 +3526,14 @@
         "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Romero.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Romero.json?raw=true"
+    },
+    "Roric Wyrmbane": {
+        "faction": "Barbarians",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Roric_Wyrmbane.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Roric_Wyrmbane.json?raw=true"
     },
     "Roshcard the Tower": {
         "faction": "The Sacred Order",

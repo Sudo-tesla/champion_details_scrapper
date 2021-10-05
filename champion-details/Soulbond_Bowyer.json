@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.1 ATK"
+                "Multiplier: 2.1 ATK"
             ],
             "abilityname": "Ancestral Guidance",
             "description": " Attacks all enemies. Has an additional 25% chance of inflicting a critical hit.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Infused Arrow",
             "description": " Attacks 1 enemy. Has an additional 25% chance of inflicting a critical hit. Will ignore 75% of the target’s DEF.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Soulbound Shot",
             "description": " Attacks 1 enemy. Has an additional 25% chance of inflicting a critical hit. Also has a 75% chance of fully depleting the target’s Turn Meter.",

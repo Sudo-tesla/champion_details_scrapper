@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.5 ATK"
+                "Multiplier: 1.5 ATK"
             ],
             "abilityname": "Cut",
             "description": " Attacks 1 enemy 2 times. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",

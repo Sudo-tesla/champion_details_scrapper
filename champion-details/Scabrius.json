@@ -1,0 +1,89 @@
+{
+    "name": "Scabrius",
+    "class": {
+        "faction": "Skinwalkers",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "13,215",
+        "atk": "1,365",
+        "def": "1,057",
+        "spd": "95",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "15"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.9 ATK"
+            ],
+            "abilityname": "Gutter Knife",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a 5% [Poison] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 4.1 ATK"
+            ],
+            "abilityname": "Gnawing Horde",
+            "description": " Attacks all enemies. Has a 75% chance of placing a [Leech] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 6 ATK"
+            ],
+            "abilityname": "Vicious Spite",
+            "description": " Attacks 1 enemy. Has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. Also places a 50% [Increase ATK] buff on this champion for 2 turns if the [Weaken] debuff is placed.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Verminous",
+            "description": " Damage increases by 20% when attacking enemies under [Poison] debuffs.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Scabrius.png"
+}

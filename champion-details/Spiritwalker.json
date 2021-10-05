@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.4 ATK"
+                "Multiplier: 1.4 ATK"
             ],
             "abilityname": "Cripple",
             "description": " Attacks 1 enemy 2 times. Each hit has a 20% chance of placing a 25% [Decrease ATK] debuff on the target for 2 turns.",

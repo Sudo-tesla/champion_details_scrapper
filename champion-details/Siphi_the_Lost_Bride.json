@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5 ATK"
+                "Multiplier: 5 ATK"
             ],
             "abilityname": "Curse of Longing",
             "description": " Attacks 1 enemy. Has an 80% chance of placing a [Sleep] debuff for 1 turn if the target’s Turn Meter is equal to or above 50%. This debuff cannot be resisted. Heals all allies by 5% of their MAX HP if the target’s Turn Meter is below 50%.",
