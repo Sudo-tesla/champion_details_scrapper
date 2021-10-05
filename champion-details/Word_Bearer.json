@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.6 ATK"
+                "Multiplier: 2.6 ATK"
             ],
             "abilityname": "Noble Authority",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 25% [Decrease ACC] debuff for 2 turns.",

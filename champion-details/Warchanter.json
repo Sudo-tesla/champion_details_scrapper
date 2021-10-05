@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Head Wound",
             "description": " Attacks 1 enemy. Has a 20% chance of applying a [Stun] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.6 ATK"
+                "Multiplier: 5.6 ATK"
             ],
             "abilityname": "Frenzy",
             "description": " Attacks all enemies. Has a 25% chance of placing a 25% [Decrease ATK] debuff for 1 turn. Also has a 25% chance of placing a [Provoke] debuff for 1 turn.",

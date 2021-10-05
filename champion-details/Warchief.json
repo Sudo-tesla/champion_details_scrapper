@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1 DEF"
+                "Multiplier: 1 DEF"
             ],
             "abilityname": "Brutal Force",
             "description": " Attacks 1 enemy 3 times. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
@@ -43,7 +43,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 4.3 DEF"
+                "Multiplier: 4.3 DEF"
             ],
             "abilityname": "Marauder",
             "description": " Attacks 1 enemy. Places a [Provoke] debuff for 3 turns. Steals 2 random buffs from the target.",

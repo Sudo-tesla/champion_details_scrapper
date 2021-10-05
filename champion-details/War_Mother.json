@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.9 ATK"
+                "Multiplier: 1.9 ATK"
             ],
             "abilityname": "Cry Havoc",
             "description": " Attacks 1 enemy 2 times. Each hit places a 50% [Decrease ATK] debuff for 2 turns.",
@@ -40,7 +40,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.2 ATK"
+                "Multiplier: 4.2 ATK"
             ],
             "abilityname": "Special Brew",
             "description": " Attacks all enemies. Places two [Bomb] debuffs that detonate after 3 turns. Bomb damage increases by 100% against Bosses.",
@@ -58,7 +58,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.5 ATK"
+                "Multiplier: 4.5 ATK"
             ],
             "abilityname": "Mother’s Touch",
             "description": " Attacks all enemies. Instantly detonates all [Bomb] debuffs if this attack is critical.",

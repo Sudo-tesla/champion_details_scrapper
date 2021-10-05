@@ -4687,6 +4687,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Varl_the_Destroyer.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Varl_the_Destroyer.json?raw=true"
     },
+    "Vasal of the Seal": {
+        "faction": "Demonspawn",
+        "rarity": "Legendary",
+        "role": "HP",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Vasal_of_the_Seal.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Vasal_of_the_Seal.json?raw=true"
+    },
     "Venomage": {
         "faction": "Lizardmen",
         "rarity": "Epic",
@@ -4720,7 +4728,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Vergumkaar.json?raw=true"
     },
     "Versulf the Grim": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "HP",
         "affinity": "Force",
