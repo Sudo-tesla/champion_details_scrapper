@@ -1904,7 +1904,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Heartpiercer.json?raw=true"
     },
     "Hegemon": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Attack",
         "affinity": "Void",
@@ -1968,7 +1968,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Hellhound.json?raw=true"
     },
     "Herald": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Uncommon",
         "role": "Support",
         "affinity": "Spirit",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Gouge",
             "description": " Attacks 1 enemy. Has a 20% chance of granting an Extra Turn. Decreases enemy MAX HP by 15% of damage dealt.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.4 ATK"
+                "Multiplier: 1.4 ATK"
             ],
             "abilityname": "Outburst",
             "description": " Attacks all enemies 3 times. Places a 15% [Weaken] debuff for 2 turns.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.4 ATK"
+                "Multiplier: 4.4 ATK"
             ],
             "abilityname": "Extinguish Life",
             "description": " Attacks all enemies. This attack is always critical.",

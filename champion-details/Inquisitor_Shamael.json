@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.9 ATK"
+                "Multiplier: 2.9 ATK"
             ],
             "abilityname": "Wreak Revenge",
             "description": " Attacks 1 enemy. Has a 50% chance of decreasing the duration of a random buff on the target by 1 turn. Counterattacks with this skill each time an enemy places a debuff on an ally. These counterattacks will only deal 50% of the normal damage and cannot be critical.",
@@ -45,7 +45,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Cow the Horrors",
             "description": " Attacks 1 enemy 3 times. Will ignore 25% of the target’s DEF. Will ignore further 25% of the target’s DEF for each buff on this Champion. Places a [True Fear] debuff on all enemies for 1 turn if this attack kills an enemy.",
