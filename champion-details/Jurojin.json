@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                "Multiplier: ? HP"
+                "Multiplier: 0.24 HP"
             ],
             "abilityname": "Monk’s Spade",
             "description": " Attacks 1 enemy. Has a 45% chance of placing a 50% [Decrease ATK] debuff for 2 turns",
@@ -36,13 +36,13 @@
             ]
         },
         {
-            "cd": 0,
-            "mincd": -1,
+            "cd": 4,
+            "mincd": 3,
             "dmgscaling": [
                 "HP"
             ],
             "multiplier": [
-                "Multiplier: ? HP"
+                "Multiplier: 0.32 HP"
             ],
             "abilityname": "Fated Duel",
             "description": " Places a [Shield] buff on this champion for 2 turns equal to 25% of their MAX HP, then attacks 1 enemy. Places a [Provoke] debuff for 1 turn. If the target’s MAX HP is equal to or lower than this Champion’s, the [Provoke] debuff cannot be resisted.",
@@ -57,10 +57,14 @@
             ]
         },
         {
-            "cd": 0,
-            "mincd": -1,
-            "dmgscaling": [],
-            "multiplier": [],
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: 0.34 HP"
+            ],
             "abilityname": "True Smite",
             "description": " Attacks 1 enemy. Will ignore 25% of the target’s DEF. Will also ignore [Unkillable] and [Block Damage] buffs.",
             "books": [

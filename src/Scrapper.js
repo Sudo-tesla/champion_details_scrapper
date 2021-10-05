@@ -492,7 +492,7 @@ function upsertChampionDetails(champ ) {
     try{
         let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
 
-        hasStoredResources = !champ.name.trim().startsWith('I');
+        hasStoredResources = !champ.name.trim().startsWith('J');
 
         if(hasStoredResources === false) {
             //console.log(champ.name);
