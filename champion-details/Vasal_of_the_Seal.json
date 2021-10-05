@@ -1,0 +1,83 @@
+{
+    "name": "Vasal of the Seal",
+    "class": {
+        "faction": "Demonspawn",
+        "rarity": "Legendary",
+        "role": "HP",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "21,315",
+        "atk": "870",
+        "def": "1,288",
+        "spd": "98",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "40",
+        "acc": "20"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: 0.25 HP"
+            ],
+            "abilityname": "Abyssal Seal",
+            "description": " Attacks 1 enemy. Places a [HP Burn] debuff on the target for 2 turns if they are under a [True Fear] debuff or a [Decrease ATK] debuff. Also places a [Shield] buff on this Champion for 2 turns equal to 10% of their MAX HP.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: 0.27 HP"
+            ],
+            "abilityname": "Infernal Darkness",
+            "description": " Attacks all enemies. Has a 75% chance of placing a [True Fear] debuff and a 50% [Decrease ATK] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 4,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Daemon Possession",
+            "description": " Balances the HP of all allies. The HP levels of all allies will be brought up to the level of the ally with the highest HP. After balancing HP, grants an Extra Turn.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Legion of Doom",
+            "description": " Receives 20% less damage from Champions from the Bannerlord, High Elf, and Sacred Order Factions. If there are 2 or more Demospawn Champions on the team alongside this Champion, increases the C.DMG of all Demonspawn Champions on the team by 20%. [C.DMG increase only works when this Champion is alive.]",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Vasal_of_the_Seal.png"
+}

@@ -80,7 +80,7 @@
             ],
             "multiplier": [],
             "abilityname": "Mass Murder",
-            "description": " Increases this Champion’s ATK by 10% each time they use an Active Skill (Non-A1). This stacks up to 100% and will reset each round.",
+            "description": " Increases this Champion’s ATK by 10% each time they use an Active Skill (stacks up to 100%). Resets each round.",
             "books": []
         }
     ],
