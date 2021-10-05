@@ -60,7 +60,7 @@
             "dmgscaling": [],
             "multiplier": [],
             "abilityname": "Bottoms Up",
-            "description": " Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns. Places a 25% [Strengthen] buff on this Champion for 2 turns.",
+            "description": " Places a 50% [Ally Protection] buff on all allies except this Champion for 3 turns. Places a 25% [Strengthen] buff on this Champion for 3 turns.",
             "books": [
                 "Level 2: Cooldown -1",
                 "Level 3: Cooldown -1"

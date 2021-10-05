@@ -81,6 +81,15 @@
                 "Level 3: Buff/Debuff Chance +10%",
                 "Level 4: Buff/Debuff Chance +10%"
             ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increase Ally RESIST in all Battles by 80.",
+            "books": []
         }
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Urost_the_Soulcage.png"

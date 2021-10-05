@@ -2199,6 +2199,10 @@
         "affinity": "Spirit",
         "rarity": "Uncommon"
     },
+    "Thylessia": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
     "Tigersoul": {
         "affinity": "Spirit",
         "rarity": "Rare"

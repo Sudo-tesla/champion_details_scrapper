@@ -4352,7 +4352,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Teumesia.json?raw=true"
     },
     "Thea the Tomb Angel": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Attack",
         "affinity": "Force",
@@ -4376,7 +4376,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Theurgist.json?raw=true"
     },
     "Thrall": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Common",
         "role": "Attack",
         "affinity": "Magic",
@@ -4399,6 +4399,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Throatcutter.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Throatcutter.json?raw=true"
     },
+    "Thylessia": {
+        "faction": "Knights Revenant",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Thylessia.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Thylessia.json?raw=true"
+    },
     "Tigersoul": {
         "faction": "Barbarians",
         "rarity": "Rare",
@@ -4416,7 +4424,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Tolf_the_Maimed.json?raw=true"
     },
     "Tomb Lord": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Support",
         "affinity": "Spirit",

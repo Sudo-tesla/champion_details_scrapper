@@ -27,7 +27,7 @@
                 "Multiplier: 1.5 ATK"
             ],
             "abilityname": "Skullstaff",
-            "description": " Attacks 1 enemy 3 times. Each hit has a 25% chance of placing a 5% [Poison] debuff for 2 turns.",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 25% chance of placing a 5% [Poison] debuff for 2 turns.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Buff/Debuff Chance +5%",
@@ -58,7 +58,7 @@
             "dmgscaling": [],
             "multiplier": [],
             "abilityname": "Bizarre Vapors",
-            "description": " Places three 5% [Poison] debuffs on all enemies for 2 turns. Also places two 15% [Continuous Heal] buffs on all allies for 2 turns.",
+            "description": " Places two 5% [Poison] debuffs on all enemies for 2 turns. Also places a 15% [Continuous Heal] buffs on all allies for 2 turns.",
             "books": [
                 "Level 2: Cooldown -1",
                 "Level 3: Cooldown -1"
