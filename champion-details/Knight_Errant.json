@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.5 ATK"
+                "Multiplier: 4.5 ATK"
             ],
             "abilityname": "Half-Sword",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [Leech] debuff for 2 turns. Will ignore 30% of the target’s DEF.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Mordhau",
             "description": " Attacks 1 enemy. Has a 60% chance of placing a [Stun] debuff for 1 turn. Resets the cooldowns on each of this Champion’s skills if the target is killed.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 7 ATK"
+                "Multiplier: 7 ATK"
             ],
             "abilityname": "Death Warrant",
             "description": " Attacks 1 enemy. Has a 60% chance of placing a 25% [Weaken] debuff for 2 turns. Damage is increased by 75% if this Champion has full HP.",

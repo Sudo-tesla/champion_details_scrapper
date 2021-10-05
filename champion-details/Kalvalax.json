@@ -1,10 +1,10 @@
 {
     "name": "Kalvalax",
     "class": {
-        "faction": "",
-        "rarity": "Knights Revenant",
-        "role": "Legendary",
-        "affinity": "Attack"
+        "faction": "Knights Revenant",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit"
     },
     "stats": {
         "hp": "12,720",
