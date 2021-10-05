@@ -24,10 +24,10 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.35 ATK"
+                "Multiplier: 4.35 ATK"
             ],
             "abilityname": "Crippler Round",
-            "description": " Attacks 1 enemy 3 times. Each hit has a 40% chance of placing 15% [Decrease SPD] debuff for 2 turns.",
+            "description": " Attacks 1 enemy. Has a 40% chance of placing 15% [Decrease SPD] debuff for 2 turns.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.27 ATK"
+                "Multiplier: 2.27 ATK"
             ],
             "abilityname": "Shot Spray",
             "description": " Attacks all enemies 2 times. Each hit has a 50% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.45 ATK"
+                "Multiplier: 2.45 ATK"
             ],
             "abilityname": "Big Game Hunter",
             "description": " Attacks 1 enemy 3 times. Each hit has a 40% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",

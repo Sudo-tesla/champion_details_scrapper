@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.46 ATK"
+                "Multiplier: 3.46 ATK"
             ],
             "abilityname": "Banisher Axe",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a [Block Active Skills] debuff for 1 turn.",
@@ -45,7 +45,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.69 ATK"
+                "Multiplier: 5.69 ATK"
             ],
             "abilityname": "Stern Punishment",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a [Stun] debuff for 1 turn if the target is under any debuff.",

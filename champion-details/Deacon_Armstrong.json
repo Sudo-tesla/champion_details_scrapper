@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.8 ATK"
+                "Multiplier: 1.8 ATK"
             ],
             "abilityname": "Mace of Contempt",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a [Leech] debuff for 2 turns.",
@@ -44,7 +44,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Sweeping Retribution",
             "description": " Attacks all enemies. Has an 80% chance of placing a 60% [Decrease DEF] debuff for 2 turns",

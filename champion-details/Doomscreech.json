@@ -25,7 +25,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 1.1 ATK + 0.05 HP"
+                "Multiplier: 1.1 ATK + 0.05 HP"
             ],
             "abilityname": "Scrabbling Claws",
             "description": " Attacks 1 enemy 2 times. Has a 25% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",

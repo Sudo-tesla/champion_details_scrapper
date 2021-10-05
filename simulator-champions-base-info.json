@@ -495,12 +495,14 @@
         "affinity": "Magic",
         "rarity": "Epic"
     },
+    "Dark Kael": {
+        "rarity": "Epic"
+    },
     "Daywalker": {
         "affinity": "Void",
         "rarity": "Rare"
     },
     "Deacon Armstrong": {
-        "affinity": "Spirit",
         "rarity": "Epic"
     },
     "Dead Crusader": {
@@ -512,7 +514,6 @@
         "rarity": "Rare"
     },
     "Deathknight": {
-        "affinity": "Magic",
         "rarity": "Common"
     },
     "Deathless": {
@@ -520,7 +521,6 @@
         "rarity": "Epic"
     },
     "Death Hound": {
-        "affinity": "Magic",
         "rarity": "Common"
     },
     "Defiled Sinner": {
@@ -531,16 +531,16 @@
         "affinity": "Spirit",
         "rarity": "Epic"
     },
+    "Demytha": {
+        "rarity": "Epic"
+    },
     "Dervish": {
-        "affinity": "Magic",
         "rarity": "Uncommon"
     },
     "Dhampir": {
-        "affinity": "Spirit",
         "rarity": "Uncommon"
     },
     "Dhukk the Pierced": {
-        "affinity": "Magic",
         "rarity": "Epic"
     },
     "Diabolist": {
@@ -548,7 +548,6 @@
         "rarity": "Rare"
     },
     "Dilgol": {
-        "affinity": "Void",
         "rarity": "Rare"
     },
     "Dolor Lorekeeper": {
@@ -564,7 +563,6 @@
         "rarity": "Rare"
     },
     "Dracomorph": {
-        "affinity": "Magic",
         "rarity": "Legendary"
     },
     "Draconis": {
@@ -576,11 +574,9 @@
         "rarity": "Epic"
     },
     "Drexthar Bloodtwin": {
-        "affinity": "Force",
         "rarity": "Legendary"
     },
     "Drokgul the Gaunt": {
-        "affinity": "Spirit",
         "rarity": "Legendary"
     },
     "Drowned Bloatwraith": {
@@ -588,12 +584,13 @@
         "rarity": "Rare"
     },
     "Duchess Lilitu": {
-        "affinity": "Spirit",
         "rarity": "Legendary"
     },
     "Duelist": {
-        "affinity": "Force",
         "rarity": "Uncommon"
+    },
+    "Duhr the Hungerer": {
+        "rarity": "Epic"
     },
     "Dunestrider": {
         "affinity": "Magic",

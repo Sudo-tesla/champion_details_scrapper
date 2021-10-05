@@ -1,7 +1,7 @@
 {
     "name": "Deathless",
     "class": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "Defense",
         "affinity": "Spirit"
@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 4.5 DEF"
+                "Multiplier: 4.5 DEF"
             ],
             "abilityname": "Grave Whispers",
             "description": " Attacks 1 enemy. Has a 70% chance of placing a 60% [Decrease DEF] debuff for 2 turns if 1 or more allies are dead, a 30% [Decrease SPD] for 2 or more allies are dead, and a 50% [Decrease ACC] debuff for 2 turns if 3 or more allies are dead.",
@@ -43,7 +43,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 6.2 DEF"
+                "Multiplier: 6.2 DEF"
             ],
             "abilityname": "Vile Insults",
             "description": " Places a 30% [Reflect Damage] buff on this Champion for 2 turns, then attacks 1 enemy. Has an 80% chance of placing a [Provoke] debuff for 1 turn.",
@@ -61,7 +61,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: (4 + Dead Allies) * DEF"
+                "Multiplier: (4 + Dead Allies) * DEF"
             ],
             "abilityname": "Grim Revenge",
             "description": " Attacks all enemies. This attack will always be critical if there are 2 or more dead allies. Damage increases according to the number of dead allies.",

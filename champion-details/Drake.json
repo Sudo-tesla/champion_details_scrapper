@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Death from Above",
             "description": " Attacks 1 enemy. Grants an Extra Turn if the target is killed.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.5 ATK"
+                "Multiplier: 5.5 ATK"
             ],
             "abilityname": "Final Blow",
             "description": " Attacks 1 enemy. If the target has less than 30% HP, this attack is always critical.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6 ATK"
+                "Multiplier: 6 ATK"
             ],
             "abilityname": "Decimate",
             "description": " Attacks 1 enemy. Places a 30% [Decrease SPD] debuff and a 50% [Decrease ACC] debuff on all enemies except the target for 2 turns if this attack is critical.",

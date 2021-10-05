@@ -1,7 +1,7 @@
 {
     "name": "Daywalker",
     "class": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Rare",
         "role": "HP",
         "affinity": "Void"
@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Grave’s Grasp",
             "description": " Attacks 1 enemy. Places an extra hit if the target has more HP than this Champion.",
@@ -53,7 +53,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.2 ATK"
+                "Multiplier: 6.2 ATK"
             ],
             "abilityname": "Death Denied",
             "description": " Revives this Champion with 30% HP and attacks all enemies after being killed.",

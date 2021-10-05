@@ -94,7 +94,7 @@ const olChampionList = new  Promise(async (resolve,reject) => {
         for(let champ of champs) {
                 //Extracts the champions name from the listing. Champions name is always the first element before the '|'
                // console.log(champ);
-                if(champ.textContent.includes('| Raid Shadow Legends Skill Mastery Equip Guide')) {
+                if(!(champ.textContent.includes('Champion List') || champ.textContent.includes('Guide') || champ.textContent.startsWith('Raid Shadow Legends'))) {
                     //console.log(champ.textContent);
                     championList[championList.length] = new Champion(champ.textContent.split('|')[0].trim(),champ.querySelector("a")?.href);
                 }
@@ -324,8 +324,13 @@ async function extractChampionDetails(championObject) {
 
 function extractChampionClass(outerHTML) {
     //website format has the first 4 as the champion overview
-    let splitData = outerHTML.split('<br>').slice(0,4);
+    let splitData = outerHTML.split('<br>').slice(0,5);
     let overView = splitData.map((data)=>overViewTrim(data));
+/*    console.log('overview')
+    console.log(overView);*/
+    overView = overView.filter(r=>(r.trim()).length>1);
+
+    console.log(overView);
     return new Class({
             faction: overView[0],
             rarity : overView[1],
@@ -486,7 +491,7 @@ function upsertChampionDetails(champ ) {
     try{
         let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
 
-        hasStoredResources = !champ.name.trim().startsWith('K');
+        hasStoredResources = !champ.name.trim().startsWith('D');
 
         if(hasStoredResources === false) {
             //console.log(champ.name);
@@ -526,25 +531,24 @@ async function main() {
 
 
 
-/*
 
 
-main().then().catch((error) => {
-    console.log(error.message);
-});
 
 
-*/
+
 
 
 
 let seer =  {
-    name: 'Kalvalax',
-    url: 'https://ayumilove.net/raid-shadow-legends-kalvalax-skill-mastery-equip-guide/'
+    name: 'Deacon Armstrong',
+    url: 'https://ayumilove.net/raid-shadow-legends-deacon-armstrong-skill-mastery-equip-guide/'
 }
 
 
 
+
+
+/*
 extractChampionDetails(seer).then((res) =>{
 
     storeChampion(res);
@@ -553,6 +557,17 @@ extractChampionDetails(seer).then((res) =>{
     console.log(res.skills);
 
 }).catch((error) => {
+    console.log(error.message);
+});
+
+*/
+
+
+
+
+
+
+main().then().catch((error) => {
     console.log(error.message);
 });
 

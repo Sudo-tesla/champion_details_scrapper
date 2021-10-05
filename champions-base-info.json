@@ -991,8 +991,15 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Dark_Elhain.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Dark_Elhain.json?raw=true"
     },
+    "Dark Kael": {
+        "faction": "Dark Elves",
+        "rarity": "Epic",
+        "role": "Attack",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Dark_Kael.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Dark_Kael.json?raw=true"
+    },
     "Daywalker": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Rare",
         "role": "HP",
         "affinity": "Void",
@@ -1003,7 +1010,6 @@
         "faction": "The Sacred Order",
         "rarity": "Epic",
         "role": "Support",
-        "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Deacon_Armstrong.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Deacon_Armstrong.json?raw=true"
     },
@@ -1027,12 +1033,11 @@
         "faction": "Undead Hordes",
         "rarity": "Common",
         "role": "HP",
-        "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Deathknight.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Deathknight.json?raw=true"
     },
     "Deathless": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "Defense",
         "affinity": "Spirit",
@@ -1043,7 +1048,6 @@
         "faction": "Undead Hordes",
         "rarity": "Common",
         "role": "Attack",
-        "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Death_Hound.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Death_Hound.json?raw=true"
     },
@@ -1063,11 +1067,17 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Delver.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Delver.json?raw=true"
     },
+    "Demytha": {
+        "faction": "Dwarves",
+        "rarity": "Epic",
+        "role": "Support",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Demytha.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Demytha.json?raw=true"
+    },
     "Dervish": {
         "faction": "Barbarians",
         "rarity": "Uncommon",
         "role": "Attack",
-        "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Dervish.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Dervish.json?raw=true"
     },
@@ -1075,7 +1085,6 @@
         "faction": "Undead Hordes",
         "rarity": "Uncommon",
         "role": "Attack",
-        "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Dhampir.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Dhampir.json?raw=true"
     },
@@ -1083,7 +1092,6 @@
         "faction": "Orcs",
         "rarity": "Epic",
         "role": "Defense",
-        "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Dhukk_the_Pierced.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Dhukk_the_Pierced.json?raw=true"
     },
@@ -1099,7 +1107,6 @@
         "faction": "Dwarves",
         "rarity": "Rare",
         "role": "Attack",
-        "affinity": "Void",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Dilgol.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Dilgol.json?raw=true"
     },
@@ -1112,7 +1119,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Dolor_Lorekeeper.json?raw=true"
     },
     "Doompriest": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "Support",
         "affinity": "Force",
@@ -1131,7 +1138,6 @@
         "faction": "Lizardmen",
         "rarity": "Legendary",
         "role": "Attack",
-        "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Dracomorph.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Dracomorph.json?raw=true"
     },
@@ -1155,7 +1161,6 @@
         "faction": "Demonspawn",
         "rarity": "Legendary",
         "role": "Defense",
-        "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Drexthar_Bloodtwin.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Drexthar_Bloodtwin.json?raw=true"
     },
@@ -1163,7 +1168,6 @@
         "faction": "Ogryn Tribes",
         "rarity": "Legendary",
         "role": "Support",
-        "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Drokgul_the_Gaunt.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Drokgul_the_Gaunt.json?raw=true"
     },
@@ -1179,7 +1183,6 @@
         "faction": "Demonspawn",
         "rarity": "Legendary",
         "role": "Support",
-        "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Duchess_Lilitu.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Duchess_Lilitu.json?raw=true"
     },
@@ -1187,9 +1190,15 @@
         "faction": "Banner Lords",
         "rarity": "Uncommon",
         "role": "Attack",
-        "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Duelist.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Duelist.json?raw=true"
+    },
+    "Duhr the Hungerer": {
+        "faction": "Demonspawn",
+        "rarity": "Epic",
+        "role": "Support",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Duhr_the_Hungerer.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Duhr_the_Hungerer.json?raw=true"
     },
     "Dunestrider": {
         "faction": "Barbarians",

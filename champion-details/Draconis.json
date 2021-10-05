@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.22 HP"
+                "Multiplier: 0.22 HP"
             ],
             "abilityname": "Beneficence",
             "description": " Attacks 1 enemy. Heals the ally with the lowest HP by 7.5% of the damage inflicted.",
@@ -54,7 +54,7 @@
             "mincd": 4,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 0.34 HP"
+                "Multiplier: 0.34 HP"
             ],
             "abilityname": "Order of Mercy",
             "description": " Attacks 1 enemy. Removes all debuffs from the ally with the lowest HP, then heals them by 25% of the damage inflicted.",
