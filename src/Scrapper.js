@@ -303,7 +303,7 @@ async function extractChampionDetails(championObject) {
 
         } else if(
             flag & isNaN(p.textContent.charAt(0)) & !p.textContent.startsWith(championObject.name)& p.querySelector('strong') !== null &&  !(p.textContent.includes("Equipment") || p.textContent.includes(' set') || p.textContent.includes('RAID Shadow Legends –'))){
-            console.log(p.textContent)
+
             skills[skills.length] = extractSkill(p).toJSON();
 
         } else if(end_flag &flag) {
@@ -492,7 +492,7 @@ function upsertChampionDetails(champ ) {
     try{
         let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
 
-        hasStoredResources = !champ.name.trim().startsWith('B');
+        hasStoredResources = !champ.name.trim().startsWith('C');
 
         if(hasStoredResources === false) {
             //console.log(champ.name);
