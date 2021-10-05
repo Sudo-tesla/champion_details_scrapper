@@ -1184,16 +1184,16 @@
         "rarity": "Common"
     },
     "Knight-Errant": {
-        "affinity": "Attack",
-        "rarity": "Banner Lords"
+        "affinity": "Spirit",
+        "rarity": "Epic"
     },
     "Kreela Witch-Arm": {
         "affinity": "Magic",
         "rarity": "Legendary"
     },
     "Krisk the Ageless": {
-        "affinity": "Defense",
-        "rarity": "Lizardmen"
+        "affinity": "Void",
+        "rarity": "Legendary"
     },
     "Kurzad Deepheart": {
         "affinity": "Void",

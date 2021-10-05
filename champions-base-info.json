@@ -2368,10 +2368,10 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Knecht.json?raw=true"
     },
     "Knight-Errant": {
-        "faction": "",
-        "rarity": "Banner Lords",
-        "role": "Epic",
-        "affinity": "Attack",
+        "faction": "Banner Lords",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Knight_Errant.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Knight_Errant.json?raw=true"
     },
@@ -2384,10 +2384,10 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Kreela_Witch_Arm.json?raw=true"
     },
     "Krisk the Ageless": {
-        "faction": "",
-        "rarity": "Lizardmen",
-        "role": "Legendary",
-        "affinity": "Defense",
+        "faction": "Lizardmen",
+        "rarity": "Legendary",
+        "role": "Defense",
+        "affinity": "Void",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Krisk_the_Ageless.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Krisk_the_Ageless.json?raw=true"
     },
