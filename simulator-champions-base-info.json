@@ -1851,6 +1851,10 @@
         "affinity": "Spirit",
         "rarity": "Uncommon"
     },
+    "Scabrius": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
     "Scrapper": {
         "affinity": "Void",
         "rarity": "Rare"
@@ -1930,6 +1934,10 @@
     "Siegehulk": {
         "affinity": "Magic",
         "rarity": "Epic"
+    },
+    "Sigmund the Highshield": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
     },
     "Sikara": {
         "affinity": "Magic",

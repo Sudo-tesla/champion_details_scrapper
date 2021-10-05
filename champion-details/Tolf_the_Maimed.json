@@ -43,10 +43,10 @@
                 "HP"
             ],
             "multiplier": [
-                "Multiplier: 0.32 HP"
+                "Multiplier: 0.32 HP (Non-Boss), 1 HP (Boss)"
             ],
             "abilityname": "Cut Wide Open",
-            "description": " Attacks 1 enemy. When not attacking Bosses, inflicts pure damage and decrease the Target’s HP to 50%. Inflicts damage based on this Champion’s MAX HP instead and places a [Stun] debuff for 1 turn if the target already has less than 50% HP. Inflicts damage based on this Champion’s MAX HP when attacking Bosses. This attack cannot be critical",
+            "description": " Attacks 1 enemy. When not attacking Bosses, inflicts pure damage and decrease the target’s HP to 50%. Inflicts damage based on this Champion’s MAX HP instead and places a [Stun] debuff for 1 turn if the target already has less than 50% HP. Inflicts damage based on this Champion’s MAX HP when attacking Bosses. This attack cannot be critical.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",
@@ -63,7 +63,7 @@
             ],
             "multiplier": [],
             "abilityname": "Armor Cracker",
-            "description": " Decreases the values of all Enemy [Shield] buffs by 50% at the start of every turn, then increases this Champions MAX HP by the same amount (up to 25% of their MAX HP).",
+            "description": " Decreases the values of all Enemy [Shield] buffs by 50% at the start of every turn, then increases this Champion’s MAX HP by the same amount (up to 25% of their MAX HP).",
             "books": []
         }
     ],

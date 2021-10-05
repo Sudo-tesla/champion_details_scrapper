@@ -3703,6 +3703,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Saurus.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Saurus.json?raw=true"
     },
+    "Scabrius": {
+        "faction": "Skinwalkers",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Scabrius.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Scabrius.json?raw=true"
+    },
     "Scrapper": {
         "faction": "Barbarians",
         "rarity": "Rare",
@@ -3863,6 +3871,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Siegehulk.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Siegehulk.json?raw=true"
     },
+    "Sigmund the Highshield": {
+        "faction": "Banner Lords",
+        "rarity": "Legendary",
+        "role": "Defense",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Sigmund_the_Highshield.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Sigmund_the_Highshield.json?raw=true"
+    },
     "Sikara": {
         "faction": "Barbarians",
         "rarity": "Epic",
@@ -3872,7 +3888,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Sikara.json?raw=true"
     },
     "Sinesha": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "Support",
         "affinity": "Force",
@@ -4088,7 +4104,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Souldrinker.json?raw=true"
     },
     "Soulless": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Defense",
         "affinity": "Void",

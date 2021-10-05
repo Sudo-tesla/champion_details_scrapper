@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Swamp Club",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Potent Stench",
             "description": " Attacks all enemies. Has a 50% chance of placing a [Provoke] debuff for 1 turn. The chance increases by 5% for each debuff on the enemy team.",

@@ -44,7 +44,7 @@
             "multiplier": [
                 "Multiplier: 1.95 ATK"
             ],
-            "abilityname": "Vemon Kunai",
+            "abilityname": "Venom Kunai",
             "description": " Attacks 1 enemy 3 times. Each hit has a 75% chance of placing a 5% [Poison] debuff for 2 turns",
             "books": [
                 "Level 2: Damage +5%",
@@ -77,7 +77,7 @@
             "dmgscaling": [],
             "multiplier": [],
             "abilityname": "Aura",
-            "description": " Increases Accuracy in all Battles by 50",
+            "description": " Increases Ally ACC in all Battles by 50.",
             "books": []
         }
     ],
