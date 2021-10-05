@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.18 HP"
+                "Multiplier: 0.18 HP"
             ],
             "abilityname": "Spirits of Spite",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a [Block Active Skills] debuff for 1 turn. The chance increases by 0.75% for every 1% of HP this Champion loses.",
@@ -42,7 +42,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.26 HP"
+                "Multiplier: 0.26 HP"
             ],
             "abilityname": "Dead Stop",
             "description": " Attacks 1 enemy. Puts the target’s skills on cooldown. If the enemy team has any duplicates of the target Champion, will also put all their skills on cooldown.",
@@ -59,7 +59,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Ghost Rage",
             "description": " Attacks all enemies. Has a 75% chance of removing 2 random buffs. Has a 75% chance of decreasing all enemies’ Turn Meters by 20%. Decreases enemy Tum Meters by a further 0.2% for every 1% of HP this Champion loses.",

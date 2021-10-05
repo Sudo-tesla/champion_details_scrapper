@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Searing Rebuke",
             "description": " Attacks 1 enemy. Places a [HP Burn] debuff for 2 turns. This debuff cannot be resisted.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.7 ATK"
+                "Multiplier: 4.7 ATK"
             ],
             "abilityname": "Smolder",
             "description": " Attacks all enemies. Places a 5% [Poison] debuff for 2 turns. Places a second 5% [Poison] debuff for 2 turns if the attack is critical.",
