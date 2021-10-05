@@ -41,7 +41,7 @@
                 "DEF"
             ],
             "multiplier": [
-                "Multiplier: 4.6 DEF"
+                "Multiplier: 4.6 DEF (AoE), 3 DEF (Extra Damage to enemy with Weaken)"
             ],
             "abilityname": "Crush the Weak",
             "description": " Attacks all enemies. Has a 35% chance of placing a 15% [Weaken] debuff for 2 turns. Deals extra damage to enemies with the [Weaken] debuff.",
