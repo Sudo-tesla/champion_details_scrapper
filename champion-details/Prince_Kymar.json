@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Phantom Fire",
             "description": " Attacks all enemies. Places a 5% [Poison] debuff for 1 turn if this attack is critical.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Abyssal Gaze",
             "description": " Attacks all enemies. Removes all buffs. Places a [Sleep] debuff for 1 turn.",
