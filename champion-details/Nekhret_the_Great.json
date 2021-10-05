@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1.3 DEF"
+                "Multiplier: 1.3 DEF"
             ],
             "abilityname": "Tomb Glaive",
             "description": " Attacks 1 enemy 3 times. Each hit has a 20% chance of placing a 50% [Decrease ATK] debuff for 1 turn. This effect cannot be resisted.",

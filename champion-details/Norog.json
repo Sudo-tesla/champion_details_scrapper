@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 4 DEF"
+                "Multiplier: 4 DEF"
             ],
             "abilityname": "Maul",
             "description": " Attacks 1 enemy. Has a 40% chance of placing a [Block Active Skills] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.8 DEF"
+                "Multiplier: 3.8 DEF"
             ],
             "abilityname": "Ice Pillar",
             "description": " Attacks all enemies. Places a [Block Buffs] debuff for 2 turns.",

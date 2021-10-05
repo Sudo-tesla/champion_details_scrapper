@@ -2840,7 +2840,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Minaya.json?raw=true"
     },
     "Miscreated Monster": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "HP",
         "affinity": "Magic",
@@ -2880,7 +2880,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Mortu_Macaab.json?raw=true"
     },
     "Mother Cybele": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Support",
         "affinity": "Force",
