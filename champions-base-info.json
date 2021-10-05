@@ -2344,10 +2344,10 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Kallia.json?raw=true"
     },
     "Kalvalax": {
-        "faction": "",
-        "rarity": "Knights Revenant",
-        "role": "Legendary",
-        "affinity": "Attack",
+        "faction": "Knights Revenant",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Kalvalax.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Kalvalax.json?raw=true"
     },

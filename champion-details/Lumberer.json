@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                "Multiplier: ? ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Gigantic Pulverizers",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 25% [Decrease ATK] debuff for 2 turns. Also has a 20% chance of increasing the duration of any [Decrease DEF] debuffs by 1 turn.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                "Multiplier: ? ATK"
+                "Multiplier: 6.45 ATK"
             ],
             "abilityname": "Flatten",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                "Multiplier: ? ATK"
+                "Multiplier: 3.85 ATK"
             ],
             "abilityname": "Massive Momentum",
             "description": " Places a 15% [Increase C.DMG] buff on this champion for 2 turns then attacks all enemies.",
