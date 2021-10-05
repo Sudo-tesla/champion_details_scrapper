@@ -20,15 +20,6 @@
         {
             "cd": 0,
             "mincd": 0,
-            "dmgscaling": [],
-            "multiplier": [],
-            "abilityname": "Death Hound",
-            "description": "",
-            "books": []
-        },
-        {
-            "cd": 0,
-            "mincd": 0,
             "dmgscaling": [
                 "ATK"
             ],

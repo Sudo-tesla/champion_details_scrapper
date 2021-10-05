@@ -1,0 +1,73 @@
+{
+    "name": "Duhr the Hungerer",
+    "class": {
+        "faction": "Demonspawn",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "17,505",
+        "atk": "1,068",
+        "def": "1,068",
+        "spd": "102",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 4.4 ATK"
+            ],
+            "abilityname": "Odius Bulk",
+            "description": " Attacks 1 enemy. Has a 30% chance of placing a [Stun] debuff for 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Cannibal Litany",
+            "description": " Places a 30% [Reflect Damage] buff on all allies for 2 turns, a 15% [Continuous Heal] buff on all allies for 1 turn, then heals all allies by 15% of their MAX HP",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 4,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Hungry for More",
+            "description": " Revives 2 random allies with 50% HP, then fills their Turn Meters by 50%.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally DEF in Faction Crypts by 30%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Duhr_the_Hungerer.png"
+}

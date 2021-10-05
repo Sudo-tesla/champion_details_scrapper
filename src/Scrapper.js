@@ -301,8 +301,9 @@ async function extractChampionDetails(championObject) {
 
             flag=true;
 
-        } else if(flag & isNaN(p.textContent.charAt(0)) & p.querySelector('strong') !== null &&  !(p.textContent.includes("Equipment") || p.textContent.includes(' set') || p.textContent.includes('RAID Shadow Legends –'))){
-
+        } else if(
+            flag & isNaN(p.textContent.charAt(0)) & !p.textContent.startsWith(championObject.name)& p.querySelector('strong') !== null &&  !(p.textContent.includes("Equipment") || p.textContent.includes(' set') || p.textContent.includes('RAID Shadow Legends –'))){
+            console.log(p.textContent)
             skills[skills.length] = extractSkill(p).toJSON();
 
         } else if(end_flag &flag) {
@@ -540,8 +541,8 @@ async function main() {
 
 
 let seer =  {
-    name: 'Deacon Armstrong',
-    url: 'https://ayumilove.net/raid-shadow-legends-deacon-armstrong-skill-mastery-equip-guide/'
+    name: 'Deathknight',
+    url: 'https://ayumilove.net/raid-shadow-legends-deathknight-skill-mastery-equip-guide/'
 }
 
 
@@ -549,6 +550,7 @@ let seer =  {
 
 
 /*
+
 extractChampionDetails(seer).then((res) =>{
 
     storeChampion(res);
@@ -560,9 +562,8 @@ extractChampionDetails(seer).then((res) =>{
     console.log(error.message);
 });
 
+
 */
-
-
 
 
 
