@@ -1,0 +1,89 @@
+{
+    "name": "Gwynneth",
+    "class": {
+        "faction": "Dark Elves",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "14,370",
+        "atk": "1,421",
+        "def": "925",
+        "spd": "99",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 2 ATK"
+            ],
+            "abilityname": "Infiltrator",
+            "description": " Attacks all enemies. This attack will not trigger counterattacks.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Damage +10%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 6 ATK"
+            ],
+            "abilityname": "Apathy",
+            "description": " Attacks 1 enemy. Before attacking, has an 80% chance of placing a 25% [Weaken] debuff on the target for 2 turns. Heals this Champion by 30% of the damage inflicted, then heals all allies with any surplus heal.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Damage +10%",
+                "Level 7: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 4.8 ATK"
+            ],
+            "abilityname": "Flow of Malaise",
+            "description": " Transfers all debuffs from this Champion to 1 target enemy, then attacks that enemy. Ignores 10% of the target’s DEF for each debuff they are under.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Damage +10%",
+                "Level 6: Cooldown -1",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally SPD in Doom Tower battles by 25%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Gwynneth.png"
+}
