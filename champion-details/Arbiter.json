@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.8 ATK"
+                "Multiplier: 1.8 ATK"
             ],
             "abilityname": "Gaze of Justice",
             "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 25% [Weaken] debuff for 2 turns.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.2 ATK"
+                "Multiplier: 2.2 ATK"
             ],
             "abilityname": "Enforced Humility",
             "description": " Attacks all enemies 1 time. Has a 75% chance of decreasing the duration of all enemy buffs by 1 turn.",
