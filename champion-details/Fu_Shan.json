@@ -22,7 +22,7 @@
             "mincd": 0,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Howl",
             "description": " Attacks 1 enemy. Has a 25% chance of placing an extra hit.",
@@ -39,7 +39,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Frightful Claws",
             "description": " Attacks all enemies 2 times. Each hit has a 20% chance of placing a [Stun] debuff for 1 turn.",
@@ -57,7 +57,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.8 ATK"
+                "Multiplier: 1.8 ATK"
             ],
             "abilityname": "Shred",
             "description": " Attacks 4 times at random. Each hit has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
