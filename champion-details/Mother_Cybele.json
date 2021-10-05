@@ -1,13 +1,13 @@
 {
     "name": "Mother Cybele",
     "class": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Support",
         "affinity": "Force"
     },
     "stats": {
-        "hp": "18.990",
+        "hp": "18,990",
         "atk": "969",
         "def": "1,343",
         "spd": "115",
@@ -17,15 +17,6 @@
         "acc": "0"
     },
     "skills": [
-        {
-            "cd": 0,
-            "mincd": 0,
-            "dmgscaling": [],
-            "multiplier": [],
-            "abilityname": "Raid Shadow Legends – Mother Cybele",
-            "description": "",
-            "books": []
-        },
         {
             "cd": 0,
             "mincd": 0,

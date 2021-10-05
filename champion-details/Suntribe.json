@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Inscribed Axes",
             "description": " Attack 1 enemy. Heals this Champion by 10% of the damage inflicted.",
@@ -40,7 +40,7 @@
             "mincd": 3,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 0.1 HP"
+                "Multiplier: 0.1 HP"
             ],
             "abilityname": "Spirit’s Verdict",
             "description": " Sacrifices HP equal to 10% of this Champion’s MAX HP, then heals a target ally by 10% of their MAX HP. Also has a 40% chance of placing a 7.5% [Continuous Heal] buff on that ally for 1 turn. The HP sacrifice will happen even if it kills this champion.",

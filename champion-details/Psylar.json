@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Surge",
             "description": " Attacks all enemies.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Toxic Cloud",
             "description": " Attacks all enemies. Has an 80% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",

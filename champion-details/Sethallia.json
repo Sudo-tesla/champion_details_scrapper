@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.4 ATK"
+                "Multiplier: 5.4 ATK"
             ],
             "abilityname": "Put to Flame",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a [HP Burn] debuff for 2 turns.",

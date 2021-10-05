@@ -1,0 +1,82 @@
+{
+    "name": "Dark Kael",
+    "class": {
+        "faction": "Dark Elves",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "14,205",
+        "atk": "1,343",
+        "def": "1,013",
+        "spd": "96",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "15"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 1.35 ATK"
+            ],
+            "abilityname": "Weaver of Woes",
+            "description": " Attacks 1 enemy 3 times. Each hit has a 25% chance to instantly activate 2 [Poison] debuffs or 1 [Poison] debuff and 1 [HP Burn] debuff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 4 ATK"
+            ],
+            "abilityname": "Binding Darkness",
+            "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns. Each critical hit also has a 75% chance of increasing the duration of all the debuffs on the target by 1 turn.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Reality Acid",
+            "description": " Has a 75% chance of placing three 5% [Poison] debuffs and a 25% [Poison Sensitivity] debuff for 2 turns.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +10%",
+                "Level 3: Buff/Debuff Chance +15%",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Delerium",
+            "description": " Decreases the C.RATE of enemies under 2 or more [Poison] debuffs by 15%. If there are multiple Champions on the team with this Skill, only one will activate.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Dark_Kael.png"
+}

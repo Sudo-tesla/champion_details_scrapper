@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5 ATK"
+                "Multiplier: 5 ATK"
             ],
             "abilityname": "Bludgeon",
             "description": " Attacks 1 enemy. Has a 25% chance of increasing the duration of all debuffs on the target by 1 turn.",
@@ -53,7 +53,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.5 ATK"
+                "Multiplier: 5.5 ATK"
             ],
             "abilityname": "Orcish Rituals",
             "description": " Attacks all enemies. Has a 70% chance to put each target’s Skills on cooldown. Has a 30% chance to fully deplete each target’s Turn Meter.",

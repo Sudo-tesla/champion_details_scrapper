@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.8 ATK"
+                "Multiplier: 3.8 ATK"
             ],
             "abilityname": "Puncture",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 25% [Decrease ATK] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.2 ATK"
+                "Multiplier: 6.2 ATK"
             ],
             "abilityname": "Impale",
             "description": " Attacks 1 enemy. Decreases the Turn Meter by 50%.",

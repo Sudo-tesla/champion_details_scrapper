@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.1 ATK"
+                "Multiplier: 3.1 ATK"
             ],
             "abilityname": "Confident Shot",
             "description": " Attacks 1 enemy. Places a 50% [Increase ATK] buff on this Champion for 2 turns if this attack is critical.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Slaughter Volley",
             "description": " Attacks all enemies. Places a 60% [Decrease DEF] debuff on the target for 2 turns if this attack is critical.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5 ATK"
+                "Multiplier: 5 ATK"
             ],
             "abilityname": "Dead Aim",
             "description": " Attacks 1 enemy. Will ignore DEF by 100%.",

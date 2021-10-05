@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1.35 DEF"
+                "Multiplier: 1.35 DEF"
             ],
             "abilityname": "Gleeful Ripping",
             "description": " Attacks 1 enemy 2 times. Each hit fills this Champion’s Turn Meter by 5%. Has a 30% chance to repeat this skill. Places a 100% [Heal Reduction] debuff on the target for 2 turns if this skill is repeated.",
@@ -55,7 +55,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.85 DEF"
+                "Multiplier: 3.85 DEF"
             ],
             "abilityname": "Abyssal Clutch",
             "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",

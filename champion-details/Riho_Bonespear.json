@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.3 ATK"
+                "Multiplier: 4.3 ATK"
             ],
             "abilityname": "Absorbtion",
             "description": " Attacks l enemy. Places a 15% [Continuous Heal] buff on the ally with the lowest HP for 1 turn. Also places a 7.5% [Continuous Heal] buff on all allies With 30% HP or less for 1 turn.",
@@ -42,10 +42,10 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.8 ATK"
+                "Multiplier: 5.8 ATK"
             ],
             "abilityname": "Pressure Points",
-            "description": " Places a [Stun] debuff on a target enemy for 1 turn, as well as a [HP Burn] debuff, a 60% [Decrease DEF] debuff, a 25% [Weaken] debuff, a 50% [Decrease ATK] debuff, and a 30% [Decrease Places a [Stun] debuff on a target enemy for 1 turn, as well as a [HP Burn] debuff, a 60% [Decrease DEF] debuff, a 25% [Weaken] debuff, a 50% [Decrease ATK] debuff, and a 30% [Decrease C.RATE] debuff for 2 turns, then attacks the target.",
+            "description": " Places a [Stun] debuff on a target enemy for 1 turn, as well as a [HP Burn] debuff, a 60% [Decrease DEF] debuff, a 25% [Weaken] debuff, a 50% [Decrease ATK] debuff, and a 30% [Decrease C.RATE] debuff for 2 turns, then attacks the target.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +5%",

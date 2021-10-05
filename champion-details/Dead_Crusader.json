@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.3 DEF"
+                "Multiplier: 3.3 DEF"
             ],
             "abilityname": "Archaic Gladius",
             "description": " Attacks 1 enemy.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.6 DEF"
+                "Multiplier: 3.6 DEF"
             ],
             "abilityname": "Crypt Blight",
             "description": " Attacks all enemies. Has a 75% chance of placing a 2.5% [Poison] debuff on all enemies for 2 turns.",

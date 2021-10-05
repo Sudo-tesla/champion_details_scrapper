@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Cow the Wicked",
             "description": " Attacks 1 enemy. Heals all allies by 7.5% of their MAX HP. Also places a [True Fear] debuff for 1 turn if the target is a champion from the Demonspawn, Undead Hordes or Knight Revenant factions.",

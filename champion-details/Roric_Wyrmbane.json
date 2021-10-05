@@ -1,0 +1,105 @@
+{
+    "name": "Roric Wyrmbane",
+    "class": {
+        "faction": "Barbarians",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "14,535",
+        "atk": "1,641",
+        "def": "969",
+        "spd": "101",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Scale Breaker",
+            "description": "",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 1.75 ATK"
+            ],
+            "abilityname": "Wyrmslayer Hammer",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 40% chance of placing a [Stun] debuff for 1 turn. Each hit will fill this Champion’s Turn Meter by 15% if the target is not under a [Stun] debuff after the hit.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Damage +10%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.5 ATK"
+            ],
+            "abilityname": "Dragon Rage",
+            "description": " Attacks 1 enemy. Has an 80% chance of decreasing the target’s Turn Meter by 75%. If this skill fully depletes the target’s Turn Meter, also has an 80% chance of placing a [Stun] debuff on all other enemies for 1 turn.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 4.7 ATK"
+            ],
+            "abilityname": "Scale Breaker",
+            "description": " Attacks 1 enemy. Will ignore 50% of the target’s DEF. [Passive Effect] Will always use this Skill instead of the default Skill when counterattacking. This Skill will not be blocked by [Block Active Skills] debuffs.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Titan’s End",
+            "description": " Immune to [Stun] debuffs. Deals 15% more damage to Bosses and receives 15% less damage from them",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally SPD in all Battles by 19%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Roric_Wyrmbane.png"
+}

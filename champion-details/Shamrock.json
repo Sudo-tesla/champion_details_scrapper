@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Luck Swap",
             "description": " Attacks 1 enemy 2 times. Each hit has a 60% chance of removing 1 random buff from the target. If a buff is removed, has a 35% of stealing that buff.",
@@ -41,7 +41,7 @@
             "dmgscaling": [],
             "multiplier": [],
             "abilityname": "Lucky Charms",
-            "description": " Places a 60% [Increase DEF] buff on all allies for 2 turns. Places a 30% [Increase SPD] buff on all allies with more than 50% HP for 2 turns. Also has a 50% chance of placing a 30% [Increase C.RATE] Places a 60% [Increase DEF] buff on all allies for 2 turns. Places a 30% [Increase SPD] buff on all allies with more than 50% HP for 2 turns. Also has a 50% chance of placing a 30% [Increase C.RATE] buff on those allies for 2 turns. Places a [Revive On Death] buff on all allies with less than 50% HP for 2 turns. Also has a 50% chance of placing a 15% [Continuous Heal] buff on those allies for 2 turns.",
+            "description": " Places a 60% [Increase DEF] buff on all allies for 2 turns. Places a 30% [Increase SPD] buff on all allies with more than 50% HP for 2 turns. Also has a 50% chance of placing a 30% [Increase C.RATE] buff on those allies for 2 turns. Places a [Revive On Death] buff on all allies with less than 50% HP for 2 turns. Also has a 50% chance of placing a 15% [Continuous Heal] buff on those allies for 2 turns.",
             "books": [
                 "Level 2: Buff/Debuff Chance +5%",
                 "Level 3: Buff/Debuff Chance +5%",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Hand of Doom",
             "description": " Attacks all enemies. Has a 30% chance of stealing 1 random buff from each enemy.",

@@ -1,0 +1,84 @@
+{
+    "name": "Thylessia",
+    "class": {
+        "faction": "Knights Revenant",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "12,720",
+        "atk": "1,454",
+        "def": "1,002",
+        "spd": "97",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.5 ATK"
+            ],
+            "abilityname": "Weft of Madness",
+            "description": " Attacks 1 enemy. Has a 50% chance of applying a [Debuff Spread] effect, taking 1 random debuff from the target and placing it on all enemies under [Hex] debuffs.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Damage +10%",
+                "Level 7: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: 3.7 ATK"
+            ],
+            "abilityname": "Shrieking Voices",
+            "description": " Attacks all enemies. Increases the duration of all debuffs on all enemies by 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: 3.7 ATK"
+            ],
+            "abilityname": "Melancholia",
+            "description": " Attacks all enemies. Places a 60% [Decrease DEF] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Feast of Woe",
+            "description": " When attacking enemies under [Decrease DEF] debuffs, has a 50% chance of placing a [Hex] debuff on them for 2 turns.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Thylessia.png"
+}

@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.7 DEF"
+                "Multiplier: 3.7 DEF"
             ],
             "abilityname": "Halberd’s Fall",
             "description": " Attacks 1 enemy. Has a 15% chance of placing a [Provoke] debuff for turn.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.4 DEF"
+                "Multiplier: 3.4 DEF"
             ],
             "abilityname": "Shatter Sweep",
             "description": " Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",

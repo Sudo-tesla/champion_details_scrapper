@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Deep Cut",
             "description": " Attacks 1 enemy. Has a 25% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
@@ -42,7 +42,7 @@
             "mincd": 3,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 1.3 ATK"
+                "Multiplier: 1.3 ATK"
             ],
             "abilityname": "Catch!",
             "description": " Attacks 4 times at random. Decreases the Turn Meter by 15% if this attack is critical.",

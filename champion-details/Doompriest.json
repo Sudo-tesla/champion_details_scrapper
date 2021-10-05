@@ -1,7 +1,7 @@
 {
     "name": "Doompriest",
     "class": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "Support",
         "affinity": "Force"
@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.1 ATK"
+                "Multiplier: 4.1 ATK"
             ],
             "abilityname": "Fate Wave",
             "description": " Attacks 1 enemy. If the hit is critical, places a 15% [Increase C.RATE] buff on a random ally for 2 turns.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.6 ATK"
+                "Multiplier: 2.6 ATK"
             ],
             "abilityname": "Neck Bite",
             "description": " Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs. Will ignore DEF if this attack is critical.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 7.5 DEF"
+                "Multiplier: 7.5 DEF"
             ],
             "abilityname": "Gnaw",
             "description": " Attacks 1 enemy. Places a 5% [Poison] debuff for 2 turns.",

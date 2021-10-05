@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1.5 DEF"
+                "Multiplier: 1.5 DEF"
             ],
             "abilityname": "Bone Sword",
             "description": " Attacks 1 enemy 3 times. Has a 20% chance of removing 1 random buff from the target.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 6 DEF"
+                "Multiplier: 6 DEF"
             ],
             "abilityname": "Shear",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff for 2 turns.",
@@ -61,7 +61,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 4 DEF"
+                "Multiplier: 4 DEF"
             ],
             "abilityname": "Bog Down",
             "description": " Attacks all enemies. Decrease the Turn Meter by 100%.",
@@ -77,7 +77,7 @@
             "dmgscaling": [],
             "multiplier": [],
             "abilityname": "Aura",
-            "description": " Increases Ally RESIST in the Arena by 90.",
+            "description": " Increases Ally RESIST in Arena battles by 90.",
             "books": []
         }
     ],

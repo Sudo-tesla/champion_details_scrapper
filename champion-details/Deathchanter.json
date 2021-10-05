@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Clobber",
             "description": " Attacks 1 enemy. Places a [Shield] buff on this Champion for 2 turns. The value of the [Shield] is equal to 20% of the damage inflicted.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: (4.9 + 2 * Current HP%) ATK"
+                "Multiplier: (4.9 + 2 * Current HP%) ATK"
             ],
             "abilityname": "Bully",
             "description": " Attacks 1 enemy. Damage increases according to this Champion’s current HP.",
@@ -63,7 +63,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.7 ATK"
+                "Multiplier: 6.7 ATK"
             ],
             "abilityname": "Bleed Out",
             "description": " Attacks 1 enemy. Places a 100% [Heal Reduction] debuff for 3 turns.",

@@ -36,8 +36,8 @@
             ]
         },
         {
-            "cd": 4,
-            "mincd": 4,
+            "cd": 3,
+            "mincd": 3,
             "dmgscaling": [
                 "ATK"
             ],
@@ -45,7 +45,7 @@
                 "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Unbound Anger",
-            "description": " Attacks all enemies. Fills this Champion’s Turn Meter by 20% for each enemy under a [Decrease SPD] debuff.",
+            "description": " Attacks all enemies. Each critical hit fills this Champion’s Turn Meter by 20%.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +10%",
@@ -62,7 +62,7 @@
                 "Multiplier: 5.9 ATK"
             ],
             "abilityname": "Lord of War",
-            "description": " Attacks 1 enemy and steals the target’s MAX Turn Meter.",
+            "description": " Attacks 1 enemy and steals the target’s Turn Meter. Places a 25% [Weaken] debuff for 2 turns if this attack is critical.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +10%",

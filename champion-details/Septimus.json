@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Behead",
             "description": " Attacks 1 enemy. Grants an Extra Turn and resets the cooldown on this Champion’s Holy Sword Skill if the target is killed.",
@@ -43,7 +43,7 @@
                 "Enemy MAX HP"
             ],
             "multiplier": [
-                " Multiplier: 2.5 ATK + 0.1 Emax"
+                "Multiplier: 2.5 ATK + 0.1 Emax"
             ],
             "abilityname": "Holy Sword",
             "description": " Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs. Damage increases according to enemy MAX HP.",

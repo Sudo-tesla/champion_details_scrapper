@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.8 ATK"
+                "Multiplier: 2.8 ATK"
             ],
             "abilityname": "Cauterize",
             "description": " Attacks 1 enemy. Has a 50% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.3 ATK"
+                "Multiplier: 2.3 ATK"
             ],
             "abilityname": "Ancient Curse",
             "description": " Attacks 1 enemy 2 times. Enemies killed by this skill cannot be revived.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.4 ATK"
+                "Multiplier: 3.4 ATK"
             ],
             "abilityname": "Energy Drain",
             "description": " Attacks all enemies. Decreases the Turn Meter by 20%. Resets the cooldowns on each of this Champion’s skills if any target is killed. Has an extra 15% chance of inflicting a critical hit.",

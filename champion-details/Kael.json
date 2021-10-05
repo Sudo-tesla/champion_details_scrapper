@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Dark Bolt",
             "description": " Attacks 1 enemy. Has an 80% chance of placing a 2.5% [Poison] debuff for 2 turns.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.65 ATK"
+                "Multiplier: 4.65 ATK"
             ],
             "abilityname": "Acid Rain",
             "description": " Attacks all enemies. Has an extra 15% chance of inflicting a critical hit. Fill the Turn Meter of this champion by 25% for each enemy killed.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.5 ATK"
+                "Multiplier: 1.5 ATK"
             ],
             "abilityname": "Disintegrate",
             "description": " Attacks 4 times at random. Has a 40% chance of placing a 5% [Poison] debuff for 2 turns.",

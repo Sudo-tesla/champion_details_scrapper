@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.2 ATK"
+                "Multiplier: 2.2 ATK"
             ],
             "abilityname": "Temporal Nova",
             "description": " Attacks all enemies. Has a 35% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.3 ATK"
+                "Multiplier: 3.3 ATK"
             ],
             "abilityname": "Hex of Years",
             "description": " Attacks all enemies. Has a 50% chance of placing a 25% [Weaken] debuff for 2 turns. Places a 60% [Decrease DEF] debuff for 2 turns if a [Weaken] debuff is not placed.",
@@ -58,7 +58,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.8 ATK"
+                "Multiplier: 2.8 ATK"
             ],
             "abilityname": "Banish From Time",
             "description": " Removes [Shield], [Block Damage], and [Unkillable] buffs from all enemies, then attacks them. Places a 100% [Heal Reduction] debuff on all enemies for 2 turns. The buff removal cannot be blocked or resisted.",

@@ -24,7 +24,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.2 HP"
+                "Multiplier: 0.2 HP"
             ],
             "abilityname": "Bonebreak Boulder",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a [Stun] debuff for 1 turn.",
@@ -54,7 +54,7 @@
             "dmgscaling": [],
             "multiplier": [],
             "abilityname": "Runestone Blessing",
-            "description": " [Active Effect] Places a [Shield] buff equal to 15% of this Champion’s MAX HP on all allies for 3 turns. [Active Effect] Places a [Shield] buff equal to 15% of this Champion’s MAX HP on all allies for 3 turns.\n[Passive Effect] Heals each ally by 15% of this Champion’s MAX HP whenever a [Shield] buff placed by this Skill expires, is removed, or is broken by an enemy attack. Allies whose [Shield] buffs are broken will also counterattack the enemy that breaks the [Shield]. When a [Shield] is broken, the heal occurs instantly before any remaining damage from the Shield-breaking attack is taken.",
+            "description": " [Active Effect] Places a [Shield] buff equal to 15% of this Champion’s MAX HP on all allies for 3 turns.\n[Passive Effect] Heals each ally by 15% of this Champion’s MAX HP whenever a [Shield] buff placed by this Skill expires, is removed, or is broken by an enemy attack. Allies whose [Shield] buffs are broken will also counterattack the enemy that breaks the [Shield]. When a [Shield] is broken, the heal occurs instantly before any remaining damage from the Shield-breaking attack is taken.",
             "books": [
                 "Level 2: Shield +5%",
                 "Level 3: Shield +5%",

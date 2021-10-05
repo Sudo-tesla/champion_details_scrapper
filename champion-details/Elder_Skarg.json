@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Tide of Steel",
             "description": " Attacks 1 enemy. Places a 30% [Increase SPD] buff on this Champion for 2 turns if this attack is critical. Places a 30% [Increase C.RATE] buff on this Champion if this attack is not critical.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2 ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Hunt the Marked",
             "description": " Attacks 1 enemy 3 times. Places an extra hit for each buff or debuff on the target. Can place up to 3 extra hits. Places a [HP Burn] debuff for 2 turns and a [True Fear] debuff for 1 turn on all enemies if this attack places all 3 extra hits. Steals all the buffs from the target after the attack.",

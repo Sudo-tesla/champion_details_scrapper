@@ -1,0 +1,80 @@
+{
+    "name": "Demytha",
+    "class": {
+        "faction": "Dwarves",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "20,310",
+        "atk": "694",
+        "def": "1,255",
+        "spd": "105",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.2 ATK"
+            ],
+            "abilityname": "Fires of Old",
+            "description": " Attacks 1 enemy 2 times. Places a [Shield] buff for 2 turns, equal to 10% of this Champion’s MAX HP, on the ally with lowest HP.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Shield +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Shield +5%",
+                "Level 6: Damage +5%",
+                "Level 7: Shield +5%",
+                "Level 8: Damage +5%",
+                "Level 9: Shield +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Light of the Deep",
+            "description": " Increases the duration of ally buffs by 1 turn, then decreases the duration of all ally debuffs by 1 turn. Also heals all allies by 2.5% of their MAX HP. Heals by a further 2.5% MAX HP for each turn added to or removed from the duration of buffs and debuffs by this skill.",
+            "books": [
+                "Level 2: Heal +5%",
+                "Level 3: Heal +5%",
+                "Level 4: Heal +5%",
+                "Level 5: Heal +5%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Channel the Bloodline",
+            "description": " Places a [Block Damage] buff on all allies for 1 turn, and a 15% [Continuous Heal] buff on allies for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Ally DEF in all Battles by 20%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Demytha.png"
+}

@@ -17,6 +17,7 @@
         "acc": "10"
     },
     "skills": [
+
         {
             "cd": 0,
             "mincd": 0,
@@ -24,7 +25,7 @@
                 "ATK"
             ],
             "multiplier": [
-                "Multiplier: ? ATK"
+                "Multiplier: 1.65 ATK"
             ],
             "abilityname": "Lion’s Twinclaws",
             "description": " Attacks 1 enemy 2 times. Each hit has a 60% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Damage increases by 20% if the target has less than 60% HP.",
@@ -41,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                "Multiplier: ? ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Rage of the Pride",
             "description": " Attacks all enemies 2 times. [Passive Effect] This champion is immune to [Stun], [Freeze], [Sleep], [Provoke], [Fear] and [True Fear] debuffs when this Skill is not on cooldown.",
@@ -58,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                "Multiplier: ? ATK"
+                "Multiplier: 3.85 ATK"
             ],
             "abilityname": "Awesome Roar",
             "description": " Attacks all enemies. Has an 80% chance of placing a [True Fear] debuff for 1 turn. Before attacking, has an 80% chance of placing a 25% [Weaken] debuff on all enemies for 2 turns.",

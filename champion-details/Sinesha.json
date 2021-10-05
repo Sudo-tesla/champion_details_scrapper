@@ -1,7 +1,7 @@
 {
     "name": "Sinesha",
     "class": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "Support",
         "affinity": "Force"
@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Burning Wave",
             "description": " Attacks all enemies. Places an extra hit on enemies with less than 50% HP.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.9 ATK"
+                "Multiplier: 6.9 ATK"
             ],
             "abilityname": "Vaporize",
             "description": " Attacks 1 enemy. Puts the target’s skills on cooldown. Heals the ally with the lowest HP by 25%.",

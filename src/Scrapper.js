@@ -94,7 +94,7 @@ const olChampionList = new  Promise(async (resolve,reject) => {
         for(let champ of champs) {
                 //Extracts the champions name from the listing. Champions name is always the first element before the '|'
                // console.log(champ);
-                if(champ.textContent.includes('| Raid Shadow Legends Skill Mastery Equip Guide')) {
+                if(!(champ.textContent.includes('Champion List') || champ.textContent.includes('Guide') || champ.textContent.startsWith('Raid Shadow Legends'))) {
                     //console.log(champ.textContent);
                     championList[championList.length] = new Champion(champ.textContent.split('|')[0].trim(),champ.querySelector("a")?.href);
                 }
@@ -259,11 +259,13 @@ async function extractChampionDetails(championObject) {
     let imageUrl;
 
     try {
-
-        if(columns[0].querySelector("img").hasAttribute('src')) {
-            imageUrl = columns[0].querySelector("img").getAttribute('src').substr(2);
-        } else if(columns[0].querySelector("img").hasAttribute('data-src')) {
+        if(columns[0].querySelector("img").hasAttribute('data-src')) {
+            console.log('data - src')
             imageUrl = columns[0].querySelector("img").getAttribute('data-src').substr(2);
+        }  else if(columns[0].querySelector("img").hasAttribute('src')) {
+            console.log('src')
+            imageUrl = columns[0].querySelector("img").getAttribute('src').substr(2);
+
         } else {
             imageUrl = 'https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png';
         }
@@ -282,20 +284,29 @@ async function extractChampionDetails(championObject) {
     let championStats = extractChampionStats(statsOver);
 
     const p1 = document.querySelectorAll("p");
-
+    console.log(p1);
     let flag = false;
     let skills = []
 
     for(let p of p1) {
 
+        let inner = p.innerHTML;
+        let end_flag = false;
+
+        end_flag = p.querySelector('input')?p.querySelector('input').getAttribute('name') ==='IL_IN_ARTICLE':false;
+
+
+
         if(p.textContent.startsWith("✰") || p.textContent.startsWith("★") || p.textContent.startsWith("RAID Shadow Legends")) {
+
             flag=true;
 
-        } else if(flag & isNaN(p.textContent.charAt(0)) & p.querySelector('strong') !== null &&  !(p.textContent.includes("Equipment") || p.textContent.includes(' set') || p.textContent.includes('RAID Shadow Legends –'))){
+        } else if(
+            flag & isNaN(p.textContent.charAt(0)) & !p.textContent.startsWith(championObject.name)& p.querySelector('strong') !== null &&  !(p.textContent.includes("Equipment") || p.textContent.includes(' set') || p.textContent.includes('RAID Shadow Legends –'))){
 
             skills[skills.length] = extractSkill(p).toJSON();
 
-        } else if(flag) {
+        } else if(end_flag &flag) {
             break
         }
     }
@@ -314,8 +325,13 @@ async function extractChampionDetails(championObject) {
 
 function extractChampionClass(outerHTML) {
     //website format has the first 4 as the champion overview
-    let splitData = outerHTML.split('<br>').slice(0,4);
+    let splitData = outerHTML.split('<br>').slice(0,5);
     let overView = splitData.map((data)=>overViewTrim(data));
+/*    console.log('overview')
+    console.log(overView);*/
+    overView = overView.filter(r=>(r.trim()).length>1);
+
+    console.log(overView);
     return new Class({
             faction: overView[0],
             rarity : overView[1],
@@ -476,7 +492,7 @@ function upsertChampionDetails(champ ) {
     try{
         let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
 
-        hasStoredResources = !champ.name.trim().startsWith('D');
+        hasStoredResources = !champ.name.trim().startsWith('Z');
 
         if(hasStoredResources === false) {
             //console.log(champ.name);
@@ -518,29 +534,41 @@ async function main() {
 
 
 
-main().then().catch((error) => {
-    console.log(error.message);
-});
+
 
 
 
 
 
 let seer =  {
-    name: 'Godseeker Aniri',
-    url: 'https://ayumilove.net/raid-shadow-legends-godseeker-aniri-skill-mastery-equip-guide/'
+    name: 'Deathknight',
+    url: 'https://ayumilove.net/raid-shadow-legends-deathknight-skill-mastery-equip-guide/'
 }
 
 
 
+
+
+/*
+
 extractChampionDetails(seer).then((res) =>{
 
-   //storeChampion(res);
+    storeChampion(res);
    //storeImage(res);
 
     console.log(res.skills);
 
 }).catch((error) => {
+    console.log(error.message);
+});
+
+
+*/
+
+
+
+
+main().then().catch((error) => {
     console.log(error.message);
 });
 

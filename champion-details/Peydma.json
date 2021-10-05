@@ -25,7 +25,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.2 DEF + 1 ATK"
+                "Multiplier: 1.2 DEF + 1 ATK"
             ],
             "abilityname": "Agonize",
             "description": " Attacks 1 enemy 2 times. If this attack is critical, has an 85% chance of placing a 50% [Decrease ATK] debuff on all enemies for 2 turns.",
@@ -44,7 +44,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.3 DEF + 1 ATK"
+                "Multiplier: 3.3 DEF + 1 ATK"
             ],
             "abilityname": "Flesh Warp",
             "description": " Attacks all enemies. Has a 35% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
@@ -63,7 +63,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 6 DEF"
+                "Multiplier: 6 DEF"
             ],
             "abilityname": "Appropriate",
             "description": " Attacks 1 enemy. Removes all buffs from the target and places them on this Champion.",

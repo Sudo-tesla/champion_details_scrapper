@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1 DEF"
+                "Multiplier: 1 DEF"
             ],
             "abilityname": "Eldritch Flames",
             "description": " Attacks 1 enemy 3 times. Has a 30% chance of placing an [HP Burn] for 2 turns. Heals this Champion by 20% of the damage inflicted if the target is afflicted by a [HP Burn] debuff.",
@@ -41,10 +41,10 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 5.2 DEF"
+                "Multiplier: 5.2 DEF"
             ],
             "abilityname": "Burning Lash",
-            "description": " Attacks all enemies. Has a 40% chance of placing a [Provoke] debuff for 1 turn. This chance increases to 100% if the target is under a [HP Burn] debuff. Also places places a 50% Decrease Attacks all enemies. Has a 40% chance of placing a [Provoke] debuff for 1 turn. This chance increases to 100% if the target is under a [HP Burn] debuff. Also places places a 50% Decrease [ATK] debuff for 2 turns if the [Provoke] debuff is placed.",
+            "description": " Attacks all enemies. Has a 40% chance of placing a [Provoke] debuff for 1 turn. This chance increases to 100% if the target is under a [HP Burn] debuff. Also places places a 50% [Decrease ATK] debuff for 2 turns if the [Provoke] debuff is placed.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Buff/Debuff Chance +10%",

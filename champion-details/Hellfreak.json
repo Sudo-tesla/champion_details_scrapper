@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                "Multiplier: ? ATK"
+                "Multiplier: 1.6 ATK"
             ],
             "abilityname": "Vile Blades",
             "description": " Attacks 1 enemy 2 times. Each hit has a 20% chance of placing 60% [Decrease DEF] debuff for 2 turns",
@@ -46,7 +46,7 @@
                 "ATK"
             ],
             "multiplier": [
-                "Multiplier: ? ATK"
+                "Multiplier: 5.3 ATK"
             ],
             "abilityname": "Mind Games",
             "description": " Attacks 1 enemy. Has a 50% chance of stealing all buffs from the target before attacking.",

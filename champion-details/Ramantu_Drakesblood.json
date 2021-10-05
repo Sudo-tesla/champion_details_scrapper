@@ -24,11 +24,13 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.2 ATK"
+                "Multiplier: 3.2 ATK"
             ],
             "abilityname": "Psychic Overload",
-            "description": " Attacks 1 enemy. Has a 75% chance of increasing the cooldown of 1 of the target’s skills, at random, by 1 turn. Has a 25% chance of placing a [Stun] debuff on the target for 1 turn if a skill has its cooldown increased to the max. If the cooldown increase is successful, will also decrease the cooldown of one random skill (by 1 turn) of the ally with the highest Turn Meter and a skill on cooldown. Attacks 1 enemy. Has a 75% chance of increasing the cooldown of 1 of the target’s skills, at random, by 1 turn. Has a 25% chance of placing a [Stun] debuff on the target for 1 turn if a skill has its cooldown increased to the max. If the cooldown increase is successful, will also decrease the cooldown of one random skill (by 1 turn) of the ally with the highest Turn Meter and a skill on cooldown. level 2: Damage +10% Attacks 1 enemy. Has a 75% chance of increasing the cooldown of 1 of the target’s skills, at random, by 1 turn. Has a 25% chance of placing a [Stun] debuff on the target for 1 turn if a skill has its cooldown increased to the max. If the cooldown increase is successful, will also decrease the cooldown of one random skill (by 1 turn) of the ally with the highest Turn Meter and a skill on cooldown. Attacks 1 enemy. Has a 75% chance of increasing the cooldown of 1 of the target’s skills, at random, by 1 turn. Has a 25% chance of placing a [Stun] debuff on the target for 1 turn if a skill has its cooldown increased to the max. If the cooldown increase is successful, will also decrease the cooldown of one random skill (by 1 turn) of the ally with the highest Turn Meter and a skill on cooldown.\nlevel 2: Damage +10%\nlevel 3: Buff/Debuff Chance +10%",
+            "description": " Attacks 1 enemy. Has a 75% chance of increasing the cooldown of 1 of the target’s skills, at random, by 1 turn. Has a 25% chance of placing a [Stun] debuff on the target for 1 turn if a skill has its cooldown increased to the max. If the cooldown increase is successful, will also decrease the cooldown of one random skill (by 1 turn) of the ally with the highest Turn Meter and a skill on cooldown.",
             "books": [
+                "level 2: Damage +10%",
+                "level 3: Buff/Debuff Chance +10%",
                 "Level 4: Damage +10%",
                 "Level 5: Buff/Debuff Chance +15%"
             ]
@@ -40,11 +42,12 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.8 ATK"
+                "Multiplier: 1.8 ATK"
             ],
             "abilityname": "Drake’s Fury",
-            "description": " Attacks 1 enemy 4 times. The first hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. The second hit has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. The third hit has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. The fourth hit has a 75% chance of placing [Block Buffs] debuff for 2 turns. Also has a 75% chance of placing a [True Fear] debuff on all enemies for 1 turn if the target has 4 or more debuffs after the attack. Attacks 1 enemy 4 times. The first hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. The second hit has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. The third hit has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. The fourth hit has a 75% chance of placing [Block Buffs] debuff for 2 turns. Also has a 75% chance of placing a [True Fear] debuff on all enemies for 1 turn if the target has 4 or more debuffs after the attack. level 2: Damage +10%",
+            "description": " Attacks 1 enemy 4 times. The first hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. The second hit has a 75% chance of placing a 25% [Weaken] debuff for 2 turns. The third hit has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. The fourth hit has a 75% chance of placing [Block Buffs] debuff for 2 turns. Also has a 75% chance of placing a [True Fear] debuff on all enemies for 1 turn if the target has 4 or more debuffs after the attack.",
             "books": [
+                "level 2: Damage +10%",
                 "Level 3: Buff/Debuff Chance +10%",
                 "Level 4: Damage +10%",
                 "Level 5: Buff/Debuff Chance +15%"
@@ -57,12 +60,14 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5 ATK"
+                "Multiplier: 5 ATK"
             ],
             "abilityname": "Blood Wings",
-            "description": " Attacks all enemies. Has an 80% chance of removing all buffs from all enemies before attacking. Also has an 80% chance of placing a [Block Active Skills] debuff for 2 turns on enemies without Passive skills. Also has an 80% chance of placing a [Block Passive Skills] debuff for 2 turns on enemies with Passive Skills. Attacks all enemies. Has an 80% chance of removing all buffs from all enemies before attacking. Also has an 80% chance of placing a [Block Active Skills] debuff for 2 turns on enemies without Passive skills. Also has an 80% chance of placing a [Block Passive Skills] debuff for 2 turns on enemies with Passive Skills. level 3: Buff/Debuff Chance +10%",
+            "description": " Attacks all enemies. Has an 80% chance of removing all buffs from all enemies before attacking. Also has an 80% chance of placing a [Block Active Skills] debuff for 2 turns on enemies without Passive skills. Also has an 80% chance of placing a [Block Passive Skills] debuff for 2 turns on enemies with Passive Skills.",
             "books": [
+
                 "Level 2: Buff/Debuff Chance +10%",
+                "level 3: Buff/Debuff Chance +10%",
                 "Level 4: Cooldown -1"
             ]
         },
@@ -86,6 +91,7 @@
             "description": " Increases Ally ACC in all battles by 80.",
             "books": []
         }
+
     ],
     "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ramantu_Drakesblood.png"
 }

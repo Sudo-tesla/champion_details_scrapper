@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.6 ATK"
+                "Multiplier: 3.6 ATK"
             ],
             "abilityname": "Dagger Throw",
             "description": " Attacks 1 enemy. Has a 10% chance of granting an Extra Turn.",

@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5 ATK"
+                "Multiplier: 5 ATK"
             ],
             "abilityname": "Bodkin",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 1 turn.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 7.7 ATK"
+                "Multiplier: 7.7 ATK"
             ],
             "abilityname": "Fire Arrow",
             "description": " Attacks 1 enemy. Decreases enemy MAX HP by 15% of damage dealt.",
@@ -61,7 +61,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.8 ATK"
+                "Multiplier: 4.8 ATK"
             ],
             "abilityname": "Salvo",
             "description": " Attacks all enemies.",

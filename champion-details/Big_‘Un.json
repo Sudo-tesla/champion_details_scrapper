@@ -20,6 +20,15 @@
         {
             "cd": 0,
             "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Accuracy Aura",
+            "description": "",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
             "dmgscaling": [
                 "ATK"
             ],

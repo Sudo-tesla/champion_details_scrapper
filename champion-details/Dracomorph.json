@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Seeping Pain",
             "description": " Attacks 1 enemy. Damage increases by 10% for each debuff on the target. Will attack 1 random enemy with any surplus damage if the target is killed. Damage inflicted is equal to triple the surplus damage. The surplus damage cannot be critical.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.3 ATK"
+                "Multiplier: 1.3 ATK"
             ],
             "abilityname": "Poison Jaws",
             "description": " Attacks 4 times at random. Each hit places a 5% [Poison] debuff for 3 turns.",

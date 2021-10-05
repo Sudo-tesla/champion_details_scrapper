@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Deathblow",
             "description": " Attacks 1 enemy. Grants an Extra Turn if the target is killed.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Bloody Feast",
             "description": " Attacks all enemies. Heals by 20% of the damage inflicted.",

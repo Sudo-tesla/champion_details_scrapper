@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.1 ATK"
+                "Multiplier: 4.1 ATK"
             ],
             "abilityname": "Strong Booze",
             "description": " Attacks 1 enemy. Has 30% chance of placing a [Stun] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.6 ATK"
+                "Multiplier: 2.6 ATK"
             ],
             "abilityname": "Flaming Spirits",
             "description": " Attacks 2 times at random. Has 75% chance of placing a 50% [Decrease ACC] debuff and a [HP Burn] debuff for 2 turns.",

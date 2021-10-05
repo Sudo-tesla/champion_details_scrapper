@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1.7 DEF"
+                "Multiplier: 1.7 DEF"
             ],
             "abilityname": "Abyssal Invocation",
             "description": " Attacks 1 enemy 2 times, then places a [Shield] buff equal to 10% of this Champion’s MAX HP for 2 turns on this Champion and the ally with the lowest HP.",

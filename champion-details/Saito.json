@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.35 ATK"
+                "Multiplier: 1.35 ATK"
             ],
             "abilityname": "Unbearable Assault",
             "description": " Attacks 1 enemy 2 times. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns after the first hit. Places an extra hit if the [Decrease DEF] debuff is placed.",
@@ -40,7 +40,7 @@
             "mincd": 3,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 6.1 ATK"
+                "Multiplier: 6.1 ATK"
             ],
             "abilityname": "Enduring Warrior",
             "description": " Attacks 1 enemy. Before attacking, places a 50% [Increase ATK] buff and a 30% [Increase C.DMG] buff on this Champion for 2 turns if this Champion’s DEF is higher than the target’s DEF. Decreases the cooldown of this Skill by 1 turn if the target has more than 50% HP after the attack.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 7 ATK"
+                "Multiplier: 7 ATK"
             ],
             "abilityname": "Army Breaker",
             "description": " Attacks 1 enemy, then attacks all enemies except the initial target if there are 3 or more enemies alive. lnflicts 20% more damage on the first hit if the the target has higher MAX HP than this Champion.",
@@ -78,7 +78,7 @@
             ],
             "multiplier": [],
             "abilityname": "Vendetta",
-            "description": " Will ignore 7.5% of enemy DEF for each time this Champion attacks the same target enemy in consecutive attacks or Turns. Stacks up to 30%. The stack will be lost and reset if this Champion targets and attacks a different enemy.",
+            "description": " Will ignore 7.5% of enemy DEF for each time this Champion attacks the same target enemy in consecutive attacks or Turns. Stacks up to 30%. The stack will be lost and reset if this Champion targets and attacks a different enemy. ",
             "books": []
         },
         {

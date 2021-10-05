@@ -46,7 +46,7 @@
                 "Multiplier: 5.8 ATK"
             ],
             "abilityname": "Fateful Trickster",
-            "description": " Attacks 1 enemy. Has a 60% chance of stealing 2 random buffs from the target. Also has a 60% chance of decreasing the target’s Tum Meter by 50%. Steals 50% of the target’s max Turn Meter instead if this Champion has full HP.",
+            "description": " Attacks 1 enemy. Has a 60% chance of stealing 2 random buffs from the target. Also has a 60% chance of decreasing the target’s Turn Meter by 50%. Steals 50% of the target’s max Turn Meter instead if this Champion has full HP.",
             "books": [
                 "Level 2: Damage +10%",
                 "Level 3: Buff/Debuff Chance +10%",

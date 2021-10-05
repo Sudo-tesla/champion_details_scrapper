@@ -1,7 +1,7 @@
 {
     "name": "Soulless",
     "class": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Defense",
         "affinity": "Void"
@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 2.8 DEF"
+                "Multiplier: 2.8 DEF"
             ],
             "abilityname": "Bewildering Blow",
             "description": " Attacks 1 enemy. Has a 35% chance of placing a [Stun] debuff for 1 turn.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1.8 DEF"
+                "Multiplier: 1.8 DEF"
             ],
             "abilityname": "Wave of Despair",
             "description": " Attacks 3 times at random. Each hit has a 75% chance to remove a buff. Places a [Provoke] debuff for 1 turn if a buff is removed.",
@@ -60,7 +60,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 4.9 DEF"
+                "Multiplier: 4.9 DEF"
             ],
             "abilityname": "Reign of Terror",
             "description": " Attacks all enemies. Increases the duration of all debuffs on each target by 1 turn, then places a [Provoke] debuff on all enemies for 1 turn. Places a [Shield] buff on this Champion for 2 turns equal to 30% of damage inflicted. Damage increases by 10% for each debuff on the target.",

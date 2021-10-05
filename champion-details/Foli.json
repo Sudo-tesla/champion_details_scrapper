@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 0.9 ATK"
+                "Multiplier: 0.9 ATK"
             ],
             "abilityname": "Marked for Destruction",
             "description": " Attacks 1 enemy 4 times. Has a 20% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 1.5 ATK"
+                "Multiplier: 1.5 ATK"
             ],
             "abilityname": "Biodisruptor",
             "description": " Attack 4 times at random. Each hit has a 35% chance of placing a [Leech] debuff for 2 turns.",
@@ -59,7 +59,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4 ATK"
+                "Multiplier: 4 ATK"
             ],
             "abilityname": "Sealed Fate",
             "description": " Attacks all enemies, decreases their Turn Meters by 15%, then attacks the targeted enemy. Enemies killed by this Skill cannot be revived.",

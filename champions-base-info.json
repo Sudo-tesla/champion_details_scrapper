@@ -224,7 +224,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Armina.json?raw=true"
     },
     "Ashwalker": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Rare",
         "role": "Attack",
         "affinity": "Void",
@@ -616,7 +616,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Bushi.json?raw=true"
     },
     "Bystophus": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Attack",
         "affinity": "Force",
@@ -991,8 +991,16 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Dark_Elhain.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Dark_Elhain.json?raw=true"
     },
+    "Dark Kael": {
+        "faction": "Dark Elves",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Dark_Kael.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Dark_Kael.json?raw=true"
+    },
     "Daywalker": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Rare",
         "role": "HP",
         "affinity": "Void",
@@ -1032,7 +1040,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Deathknight.json?raw=true"
     },
     "Deathless": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "Defense",
         "affinity": "Spirit",
@@ -1062,6 +1070,14 @@
         "affinity": "Spirit",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Delver.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Delver.json?raw=true"
+    },
+    "Demytha": {
+        "faction": "Dwarves",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Void",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Demytha.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Demytha.json?raw=true"
     },
     "Dervish": {
         "faction": "Barbarians",
@@ -1112,7 +1128,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Dolor_Lorekeeper.json?raw=true"
     },
     "Doompriest": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "Support",
         "affinity": "Force",
@@ -1190,6 +1206,14 @@
         "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Duelist.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Duelist.json?raw=true"
+    },
+    "Duhr the Hungerer": {
+        "faction": "Demonspawn",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Duhr_the_Hungerer.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Duhr_the_Hungerer.json?raw=true"
     },
     "Dunestrider": {
         "faction": "Barbarians",
@@ -1775,6 +1799,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Gurptuk_Moss_Beard.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Gurptuk_Moss_Beard.json?raw=true"
     },
+    "Gwynneth": {
+        "faction": "Dark Elves",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Gwynneth.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Gwynneth.json?raw=true"
+    },
     "Haarken Greatblade": {
         "faction": "Barbarians",
         "rarity": "Epic",
@@ -1872,7 +1904,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Heartpiercer.json?raw=true"
     },
     "Hegemon": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Attack",
         "affinity": "Void",
@@ -1936,7 +1968,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Hellhound.json?raw=true"
     },
     "Herald": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Uncommon",
         "role": "Support",
         "affinity": "Spirit",
@@ -2311,6 +2343,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Kallia.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Kallia.json?raw=true"
     },
+    "Kalvalax": {
+        "faction": "Knights Revenant",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Kalvalax.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Kalvalax.json?raw=true"
+    },
     "Kantra the Cyclone": {
         "faction": "Barbarians",
         "rarity": "Legendary",
@@ -2392,7 +2432,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Kurzad_Deepheart.json?raw=true"
     },
     "Kytis": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "Attack",
         "affinity": "Spirit",
@@ -2800,7 +2840,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Minaya.json?raw=true"
     },
     "Miscreated Monster": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "HP",
         "affinity": "Magic",
@@ -2840,7 +2880,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Mortu_Macaab.json?raw=true"
     },
     "Mother Cybele": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Support",
         "affinity": "Force",
@@ -2896,7 +2936,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Mystic_Hand.json?raw=true"
     },
     "Narma the Returned": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Support",
         "affinity": "Magic",
@@ -3336,7 +3376,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Rearguard_Sergeant.json?raw=true"
     },
     "Rector Drath": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "Support",
         "affinity": "Force",
@@ -3486,6 +3526,14 @@
         "affinity": "Force",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Romero.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Romero.json?raw=true"
+    },
+    "Roric Wyrmbane": {
+        "faction": "Barbarians",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Spirit",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Roric_Wyrmbane.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Roric_Wyrmbane.json?raw=true"
     },
     "Roshcard the Tower": {
         "faction": "The Sacred Order",
@@ -3655,6 +3703,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Saurus.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Saurus.json?raw=true"
     },
+    "Scabrius": {
+        "faction": "Skinwalkers",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Scabrius.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Scabrius.json?raw=true"
+    },
     "Scrapper": {
         "faction": "Barbarians",
         "rarity": "Rare",
@@ -3815,6 +3871,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Siegehulk.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Siegehulk.json?raw=true"
     },
+    "Sigmund the Highshield": {
+        "faction": "Banner Lords",
+        "rarity": "Legendary",
+        "role": "Defense",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Sigmund_the_Highshield.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Sigmund_the_Highshield.json?raw=true"
+    },
     "Sikara": {
         "faction": "Barbarians",
         "rarity": "Epic",
@@ -3824,7 +3888,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Sikara.json?raw=true"
     },
     "Sinesha": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Epic",
         "role": "Support",
         "affinity": "Force",
@@ -4040,7 +4104,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Souldrinker.json?raw=true"
     },
     "Soulless": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Defense",
         "affinity": "Void",
@@ -4288,7 +4352,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Teumesia.json?raw=true"
     },
     "Thea the Tomb Angel": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Attack",
         "affinity": "Force",
@@ -4312,7 +4376,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Theurgist.json?raw=true"
     },
     "Thrall": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Common",
         "role": "Attack",
         "affinity": "Magic",
@@ -4335,6 +4399,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Throatcutter.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Throatcutter.json?raw=true"
     },
+    "Thylessia": {
+        "faction": "Knights Revenant",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Thylessia.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Thylessia.json?raw=true"
+    },
     "Tigersoul": {
         "faction": "Barbarians",
         "rarity": "Rare",
@@ -4352,7 +4424,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Tolf_the_Maimed.json?raw=true"
     },
     "Tomb Lord": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Support",
         "affinity": "Spirit",
@@ -4364,7 +4436,7 @@
         "rarity": "Epic",
         "role": "HP",
         "affinity": "Magic",
-        "avatarUrl": "https://ta:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Toragi_the_Frog.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Toragi_the_Frog.json?raw=true"
     },
     "Tormentor": {
@@ -4615,6 +4687,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Varl_the_Destroyer.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Varl_the_Destroyer.json?raw=true"
     },
+    "Vasal of the Seal": {
+        "faction": "Demonspawn",
+        "rarity": "Legendary",
+        "role": "HP",
+        "affinity": "Force",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Vasal_of_the_Seal.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Vasal_of_the_Seal.json?raw=true"
+    },
     "Venomage": {
         "faction": "Lizardmen",
         "rarity": "Epic",
@@ -4648,7 +4728,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Vergumkaar.json?raw=true"
     },
     "Versulf the Grim": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "HP",
         "affinity": "Force",
@@ -4864,7 +4944,7 @@
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Wretch.json?raw=true"
     },
     "Wurlim Frostking": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Defense",
         "affinity": "Void",

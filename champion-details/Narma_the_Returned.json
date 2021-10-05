@@ -1,7 +1,7 @@
 {
     "name": "Narma the Returned",
     "class": {
-        "faction": "Knight Revenant",
+        "faction": "Knights Revenant",
         "rarity": "Legendary",
         "role": "Support",
         "affinity": "Magic"
@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5 ATK"
+                "Multiplier: 5 ATK"
             ],
             "abilityname": "Hell Crescent",
             "description": " Attacks 1 enemy. Has a 40% chance of increasing the duration of 3 random debuffs on the target by 1 turn.",
@@ -42,7 +42,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.5 ATK"
+                "Multiplier: 6.5 ATK"
             ],
             "abilityname": "Weirding Dance",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 3 turns. Also heals all allies by 15% of this Champion’s MAX HP. The heal increases by 2% for each [Poison] debuff on the target.",
@@ -62,7 +62,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 7 ATK"
+                "Multiplier: 7 ATK"
             ],
             "abilityname": "Toxin Trance",
             "description": " Attacks 1 enemy. Has a 75% chance of placing three 5% [Poison] debuffs and a 25% [Poison Sensitivity] debuff for 3 turns.",

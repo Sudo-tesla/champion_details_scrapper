@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3.5 DEF"
+                "Multiplier: 3.5 DEF"
             ],
             "abilityname": "Drake’s Swiftness",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Also has a 30% chance of decreasing the target’s Turn Meter by 15%.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 1.55 DEF"
+                "Multiplier: 1.55 DEF"
             ],
             "abilityname": "Wingbeat Flurry",
             "description": " Attacks all enemies 2 times. Each hit has a 20% chance of placing a [Stun] debuff for 1 turn.",

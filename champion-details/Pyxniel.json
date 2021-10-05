@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3 ATK"
+                "Multiplier: 3 ATK"
             ],
             "abilityname": "Mistress of Glamours",
             "description": " Attacks 1 enemy. Has a 30% chance of placing a [Veil] buff on a random ally for 1 turn. Cannot place the [Veil] buff on this Champion.",
@@ -44,7 +44,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.3 ATK"
+                "Multiplier: 4.3 ATK"
             ],
             "abilityname": "Grip of Winter",
             "description": " Places a 60% [Increase DEF] buff and a 15% [Continuous Heal] buff on all allies for 2 turns, then attacks all enemies under [Freeze] debuff. Places a 25% [Weaken] debuff for 2 turns on all enemies under [Freeze] debuff.",
@@ -58,7 +58,7 @@
             "mincd": 4,
             "dmgscaling": [],
             "multiplier": [
-                " Multiplier: 2 ATK"
+                "Multiplier: 2 ATK"
             ],
             "abilityname": "Icicle Barrage",
             "description": " Attacks 5 times at random. Each hit has a 30% chance of placing a [Freeze] debuff for 1 turn. Has a 100% chance of placing a [Freeze] debuff on enemies that receive 2 hits.",

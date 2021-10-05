@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.7 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Frozen Fists",
             "description": " Attacks 1 enemy. Has a 20% chance of placing a [Freeze] debuff for 1 turn.",
