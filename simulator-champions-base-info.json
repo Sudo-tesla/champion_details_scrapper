@@ -899,6 +899,10 @@
         "affinity": "Force",
         "rarity": "Legendary"
     },
+    "Gwynneth": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
     "Haarken Greatblade": {
         "affinity": "Void",
         "rarity": "Epic"

@@ -1799,6 +1799,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Gurptuk_Moss_Beard.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Gurptuk_Moss_Beard.json?raw=true"
     },
+    "Gwynneth": {
+        "faction": "Dark Elves",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Gwynneth.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Gwynneth.json?raw=true"
+    },
     "Haarken Greatblade": {
         "faction": "Barbarians",
         "rarity": "Epic",
