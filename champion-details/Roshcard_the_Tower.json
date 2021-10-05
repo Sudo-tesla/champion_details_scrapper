@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5 ATK"
+                "Multiplier: 5 ATK"
             ],
             "abilityname": "Rebuke",
             "description": " Attacks 1 enemy. Has a 50% chance of removing 1 random buff from the target.",
@@ -40,7 +40,7 @@
                 "HP"
             ],
             "multiplier": [
-                " Multiplier: 0.3 HP"
+                "Multiplier: 0.3 HP"
             ],
             "abilityname": "Sanction",
             "description": " Attacks 1 enemy. Places a [Block Active Skills] debuff and a [Block Buffs] debuff for 2 turns. These debuffs cannot be resisted.",

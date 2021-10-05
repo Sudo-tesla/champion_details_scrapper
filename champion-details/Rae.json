@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 2.5 ATK"
+                "Multiplier: 2.5 ATK"
             ],
             "abilityname": "Corrode",
             "description": " Attacks all enemies. Has a 30% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
@@ -43,7 +43,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.3 ATK"
+                "Multiplier: 4.3 ATK"
             ],
             "abilityname": "Arcane Wave",
             "description": " Attacks all enemies. Inflicts 50% more damage against targets under debuffs.",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 5.3 ATK"
+                "Multiplier: 5.3 ATK"
             ],
             "abilityname": "Banish",
             "description": " Attacks all enemies. Removes all buffs. Has a 50% chance of placing a [Freeze] debuff for 1 turn.",
