@@ -37,8 +37,8 @@
             ]
         },
         {
-            "cd": 5,
-            "mincd": 4,
+            "cd": 3,
+            "mincd": 2,
             "dmgscaling": [
                 "DEF"
             ],

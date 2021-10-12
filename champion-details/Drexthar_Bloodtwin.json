@@ -44,7 +44,7 @@
                 "Multiplier: 5.2 DEF"
             ],
             "abilityname": "Burning Lash",
-            "description": " Attacks all enemies. Has a 40% chance of placing a [Provoke] debuff for 1 turn. This chance increases to 100% if the target is under a [HP Burn] debuff. Also places places a 50% [Decrease ATK] debuff for 2 turns if the [Provoke] debuff is placed.",
+            "description": " Attacks all enemies. Has a 40% chance of placing a [Provoke] debuff for 1 turn. This chance increases to 100% if the target is under a [HP Burn] debuff. Also places places a 50% Decrease ATK] debuff for 2 turns if the [Provoke] debuff is placed.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Buff/Debuff Chance +10%",
