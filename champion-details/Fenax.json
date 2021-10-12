@@ -24,7 +24,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 4.1 ATK"
+                "Multiplier: 4.1 ATK"
             ],
             "abilityname": "Put Down",
             "description": " Attacks 1 enemy. Places an extra hit if the target has any debuffs. Enemies killed by this skill cannot be revived.",
@@ -41,7 +41,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 3.5 ATK"
+                "Multiplier: 3.5 ATK"
             ],
             "abilityname": "Stern Partner",
             "description": " Attacks all enemies. Has a 75% chance of placing a [Block Buffs] debuff for 2 turns. Places a [Block Active Skills] debuff for 1 turn if this skill does not place a [Block Buffs] debuff. Decreases [Bomb] debuff detonation countdowns by 1 turn when Tallia is on the same team]",
@@ -60,7 +60,7 @@
                 "ATK"
             ],
             "multiplier": [
-                " Multiplier: 6.7 ATK"
+                "Multiplier: 6.7 ATK"
             ],
             "abilityname": "Sow Feebleness",
             "description": " Attacks 1 enemy. Has a 60% chance of placing a 60% [Decrease DEF] debuff and a 30% [Decrease SPD] debuff for 2 turns.",

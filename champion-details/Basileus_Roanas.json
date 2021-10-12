@@ -42,10 +42,10 @@
                 "ATK"
             ],
             "multiplier": [
-                "Multiplier: 1 ATK"
+                "Multiplier: 1.8 ATK"
             ],
             "abilityname": "Triple Puncture",
-            "description": " Attacks 1 enemy 3 times. Ignores [Shield] and [Block Damage] buffs, as well as 50% of the target’s DEF.",
+            "description": " Attacks 1 enemy 3 times. Will ignore [Increase DEF], [Shield] buffs, and [Block Damage] buffs, as well as 50% of the target’s DEF.",
             "books": [
                 "Level 2: Damage +5%",
                 "Level 3: Damage +10%",
@@ -59,10 +59,10 @@
                 "ATK"
             ],
             "multiplier": [
-                "Multiplier: 2.5 ATK"
+                "Multiplier: 3.7 ATK"
             ],
             "abilityname": "Majesty",
-            "description": " Attacks all enemies. Has a 50% chance of placing a [Stun] debuff for 1 turn. Decreases each target’s Turn Meter by 50% if the [Stun] debuff is not placed.",
+            "description": " Attacks all enemies. Has a 75% chance of placing a [Stun] debuff for 1 turn. Decreases each target’s Turn Meter by 50% if the [Stun] debuff is not placed.",
             "books": [
                 "Level 2: Damage +10%",
                 "Level 3: Buff/Debuff Chance +10%",
