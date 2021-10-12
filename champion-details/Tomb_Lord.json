@@ -45,7 +45,7 @@
                 "Multiplier: 4.8 ATK"
             ],
             "abilityname": "Death Burst",
-            "description": " Attacks 1 enemy. Has a 70% chance of placing two 5% [Poison] debuffs on all enemies for 1 turn. If the hit is critical, has a 70% chance of placing four 5% [Poison] debuffs on all enemies for 1 turn.",
+            "description": " Attacks 1 enemy. Has a 70% chance of placing two 5% [Poison] debuffs on all enemies for 2 turns. If the hit is critical, has a 70% chance of placing four 5% [Poison] debuffs on all enemies for 2 turns.",
             "books": [
                 "Level 2: Buff/Debuff Chance +5%",
                 "Level 3: Buff/Debuff Chance +10%",
@@ -54,8 +54,8 @@
             ]
         },
         {
-            "cd": 6,
-            "mincd": 5,
+            "cd": 5,
+            "mincd": 4,
             "dmgscaling": [],
             "multiplier": [],
             "abilityname": "Blight",
@@ -73,7 +73,7 @@
             "dmgscaling": [],
             "multiplier": [],
             "abilityname": "Aura",
-            "description": " Increases Ally DEF in the Arena by 42%",
+            "description": " Increases Ally ACC in Doom Tower by 70.",
             "books": []
         }
     ],
