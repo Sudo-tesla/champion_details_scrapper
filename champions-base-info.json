@@ -4775,6 +4775,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Vizier_Ovelis.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Vizier_Ovelis.json?raw=true"
     },
+    "Vlad the Nightborn": {
+        "faction": "Undead Hordes",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Void",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/10/Vlad-the-Nightborn.jpg",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Vlad_the_Nightborn.json?raw=true"
+    },
     "Vogoth": {
         "faction": "Undead Hordes",
         "rarity": "Epic",

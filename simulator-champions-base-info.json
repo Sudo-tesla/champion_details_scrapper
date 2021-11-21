@@ -2387,6 +2387,10 @@
         "affinity": "Force",
         "rarity": "Legendary"
     },
+    "Vlad the Nightborn": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
     "Vogoth": {
         "affinity": "Spirit",
         "rarity": "Epic"

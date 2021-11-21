@@ -1,0 +1,96 @@
+{
+    "name": "Vlad the Nightborn",
+    "class": {
+        "faction": "Undead Hordes",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "15,030",
+        "atk": "1,443",
+        "def": "1,134",
+        "spd": "105",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 4 ATK"
+            ],
+            "abilityname": "Thirsting Blade",
+            "description": " Attacks 1 enemy. Decreases the target’s MAX HP by 30% of the damage inflicted. Also heals this Champion by 30% of the damage inflicted.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 4.7 ATK"
+            ],
+            "abilityname": "Exsanguinate",
+            "description": " Attacks all enemies. Has a 75% chance of placing a [Leech] debuff for 2 turns. Also has a 75% chance of stealing 50% of the Turn Meter from Champions from the Bannerlord, Sacred Order, or High Elf Factions. Has a 75% chance of decreasing the Turn Meter by 50% instead against targets not from those Factions.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: 3.3 ATK"
+            ],
+            "abilityname": "Mind Shroud",
+            "description": " Attacks 1 enemy 2 times. The first hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. The second hit has a 75% chance of placing a [Block Active Skills] debuff for 2 turns. If both debuffs are placed, places a [Perfect Veil] buff on this Champion for 2 turns.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Notorious",
+            "description": " Places a [Revive On Death] buff on this Champion for 2 turns every time this Champion kills an enemy. Also fully heals this Champion and fills their Turn Meter by 50% every time they kill an enemy. [Will only heal and fill this Champion’s Turn Meter when Konstantin the Dayborn is on the same team]",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally C.RATE in Arena Battles by 30%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/10/Vlad-the-Nightborn.jpg"
+}
