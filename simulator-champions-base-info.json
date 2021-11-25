@@ -767,6 +767,10 @@
         "affinity": "Spirit",
         "rarity": "Epic"
     },
+    "Gamuran": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
     "Gator": {
         "affinity": "Magic",
         "rarity": "Rare"
@@ -1203,6 +1207,10 @@
         "affinity": "Spirit",
         "rarity": "Epic"
     },
+    "Konstantin The Dayborn": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
     "Kreela Witch-Arm": {
         "affinity": "Magic",
         "rarity": "Legendary"
@@ -1214,6 +1222,10 @@
     "Kurzad Deepheart": {
         "affinity": "Void",
         "rarity": "Rare"
+    },
+    "Kyoku": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
     },
     "Kytis": {
         "affinity": "Spirit",

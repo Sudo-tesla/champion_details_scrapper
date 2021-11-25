@@ -1,0 +1,93 @@
+{
+    "name": "Vildrax",
+    "class": {
+        "faction": "Demonspawn",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "19,650",
+        "atk": "738",
+        "def": "1,255",
+        "spd": "97",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "15"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 2.3 ATK"
+            ],
+            "abilityname": "Verminous Grasp",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a [Leech] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Damage +5%",
+                "Level 7: Buff/Debuff Chance +5%",
+                "Level 8: Damage +5%",
+                "Level 9: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 5 ATK"
+            ],
+            "abilityname": "Duke of Flies",
+            "description": " Attacks all enemies. Has a 75% chance of placing a [Hex] debuff for 2 turns.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": -1,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 4.5 ATK"
+            ],
+            "abilityname": "Swarm of Horrors",
+            "description": " Attacks all enemies. Has an 80% chance of increasing the duration of all enemy debuffs by 1 turn. When hitting enemies under a [Hex] debuff, also has a 60% chance of putting one of their skills on cooldown.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Pestiferous",
+            "description": " Has a 10% chance of stealing the heal each time an enemy under a [Hex] debuff is about to be healed. [Does not work against Bosses. The amount healed will be the same as it would have been on the original target of the heal, except if the heal is based on the target’s HP, in which it will scale off Vildrax’s HP].",
+            "books": [
+                "Level 2: Buff/Debuff Chance +10%",
+                "Level 3: Buff/Debuff Chance +10%"
+            ]
+        }
+    ],
+    "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/09/Vildrax.png"
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Gamuran",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "19,650",
+        "atk": "1,002",
+        "def": "1,266",
+        "spd": "109",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "40",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: ? ATK"
+            ],
+            "abilityname": "Seal Scroll",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a [Block Active Skills] debuff for 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: ? ATK"
+            ],
+            "abilityname": "Thief of Blood",
+            "description": " Attacks all enemies. Has an 80% chance of stealing 1 random buff from each enemy. After stealing, applies a [Buff Spread] effect, taking a random buff from this Champion and placing it on all allies.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 4,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Dread Invocation",
+            "description": " Can target dead or living enemies.\nIf the target is dead, places a [Block Revive] on them, then attacks all enemies. Each enemy will receive damage equal to 20% of the target enemy’s MAX HP. If the target is a Boss’ minion, the damage is equal to 20% of this Champion’s MAX HP. This attack cannot be critical and will ignore any [Shield] buffs and 100% of each target’s DEF.\nIf the target is alive, places a [True Fear] debuff on them for 2 turns and heals all allies by 20% of the target enemy’s MAX HP. If the target is a Boss or a Boss’ minion, the healing is equal to 20% of this champion’s MAX HP. The [True Fear] debuff cannot be resisted.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 2,
+            "mincd": 1,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Soul Charge",
+            "description": " Revives 1 random ally with 30% HP and 30% Turn Meter each time an enemy is killed.",
+            "books": [
+                "Level 2: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/09/Gamuran.png"
+}

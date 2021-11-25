@@ -1535,6 +1535,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Galkut.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Galkut.json?raw=true"
     },
+    "Gamuran": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Spirit",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Gamuran.json?raw=true"
+    },
     "Gator": {
         "faction": "Lizardmen",
         "rarity": "Rare",
@@ -2407,6 +2415,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Knight_Errant.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Knight_Errant.json?raw=true"
     },
+    "Konstantin The Dayborn": {
+        "faction": "The Sacred Order",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Void",
+        "avatarUrl": "https://www.inteleria.com/wp-content/uploads/2019/11/konstantinthedayborn_profile.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Konstantin_The_Dayborn.json?raw=true"
+    },
     "Kreela Witch-Arm": {
         "faction": "Orcs",
         "rarity": "Legendary",
@@ -2430,6 +2446,14 @@
         "affinity": "Void",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Kurzad_Deepheart.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Kurzad_Deepheart.json?raw=true"
+    },
+    "Kyoku": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "Defense",
+        "affinity": "Spirit",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Kyoku.json?raw=true"
     },
     "Kytis": {
         "faction": "Knights Revenant",

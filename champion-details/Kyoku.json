@@ -1,0 +1,81 @@
+{
+    "name": "Kyoku",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "Defense",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "19,320",
+        "atk": "804",
+        "def": "1,487",
+        "spd": "95",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "10",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "multiplier": [
+                "Multiplier: ? DEF"
+            ],
+            "abilityname": "One-Eyed Beast",
+            "description": " Attacks 1 enemy. Will place 3 hits if the target is under 3 or more debuffs. Each hit has a 40% chance of placing a 25% [Weaken] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 4,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "multiplier": [
+                "Multiplier: ? DEF"
+            ],
+            "abilityname": "Blood Curdle",
+            "description": " Attacks all enemies. Has an 80% chance of placing a 50% [Decrease ATK] debuff for 2 turns. After attacking, has an 80% chance of placing a [HP Burn] debuff for 2 turns on all enemies without [Decrease ATK] debuffs.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 4,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Wellspring",
+            "description": " Every time this Champion is hit with a critical hit, heals all allies by 15% of their MAX HP, then places a 60% [Increase DEF] buff on all allies for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally DEF in All Battles by 30%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/09/Kyoku.png"
+}
