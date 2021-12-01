@@ -249,14 +249,18 @@ function storeChampion(championObject) {
 async function extractChampionDetails(championObject) {
 
     const { data } = await axios.get(championObject.url);
+
     const dom = new JSDOM(data);
     const { document } = dom.window;
+
     const u1 = document.querySelector("tbody");
 
     let columns = u1.querySelectorAll('td');
+
     let src = null;
     let dataSrc = null;
     let imageUrl;
+
 
     try {
         if(columns[0].querySelector("img").hasAttribute('data-src')) {
@@ -275,10 +279,12 @@ async function extractChampionDetails(championObject) {
         imageUrl = 'https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png';
     }
 
-    let overview = columns[1].querySelector('p').outerHTML;
+    console.log({imageUrl})
 
+    let overview = columns[0].querySelector('p').outerHTML;
+    console.log(overview);
     let championClass = extractChampionClass(overview).toJSON();
-    let statsOver = columns[1].querySelectorAll('p')[1].outerHTML;
+    let statsOver = columns[0].querySelectorAll('p')[1].outerHTML;
 
 
     let championStats = extractChampionStats(statsOver);
@@ -492,7 +498,7 @@ function upsertChampionDetails(champ ) {
     try{
         let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
 
-        hasStoredResources = !champ.name.trim().startsWith('Z');
+        hasStoredResources = !champ.name.trim().startsWith('V');
 
         if(hasStoredResources === false) {
             //console.log(champ.name);
@@ -541,31 +547,30 @@ async function main() {
 
 
 let seer =  {
-    name: 'Deathknight',
-    url: 'https://ayumilove.net/raid-shadow-legends-deathknight-skill-mastery-equip-guide/'
+    name: 'Urticata',
+    url: 'https://ayumilove.net/raid-shadow-legends-urticata-skill-mastery-equip-guide/'
 }
 
 
 
 
-
 /*
-
 extractChampionDetails(seer).then((res) =>{
 
     storeChampion(res);
-   //storeImage(res);
+   storeImage(res);
 
     console.log(res.skills);
 
 }).catch((error) => {
     console.log(error.message);
 });
-
-
 */
 
 
+
+
+/*
 
 
 main().then().catch((error) => {
@@ -573,6 +578,7 @@ main().then().catch((error) => {
 });
 
 
+*/
 
 
 storeBaseChampionInfoList()

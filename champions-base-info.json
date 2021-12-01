@@ -4655,6 +4655,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ursuga_Warcaller.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ursuga_Warcaller.json?raw=true"
     },
+    "Urticata": {
+        "faction": "Demonspawn",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Spirit",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/09/Urticata.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Urticata.json?raw=true"
+    },
     "Uugo": {
         "faction": "Ogryn Tribes",
         "rarity": "Epic",
@@ -4990,6 +4998,14 @@
         "affinity": "Void",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Wurlim_Frostking.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Wurlim_Frostking.json?raw=true"
+    },
+    "Wythir the Crowned": {
+        "faction": "Demonspawn",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Force",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/09/Wythir-The-Crowned.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Wythir_the_Crowned.json?raw=true"
     },
     "Wyvernbane": {
         "faction": "Orcs",

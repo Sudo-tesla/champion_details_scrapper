@@ -2327,6 +2327,10 @@
         "affinity": "Void",
         "rarity": "Legendary"
     },
+    "Urticata": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
     "Uugo": {
         "affinity": "Magic",
         "rarity": "Epic"
@@ -2493,6 +2497,10 @@
     },
     "Wurlim Frostking": {
         "affinity": "Void",
+        "rarity": "Legendary"
+    },
+    "Wythir the Crowned": {
+        "affinity": "Force",
         "rarity": "Legendary"
     },
     "Wyvernbane": {

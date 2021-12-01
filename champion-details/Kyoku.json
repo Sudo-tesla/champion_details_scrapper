@@ -24,7 +24,7 @@
                 "DEF"
             ],
             "multiplier": [
-                "Multiplier: ? DEF"
+                "Multiplier: 1.6 DEF"
             ],
             "abilityname": "One-Eyed Beast",
             "description": " Attacks 1 enemy. Will place 3 hits if the target is under 3 or more debuffs. Each hit has a 40% chance of placing a 25% [Weaken] debuff for 2 turns.",
@@ -42,7 +42,7 @@
                 "DEF"
             ],
             "multiplier": [
-                "Multiplier: ? DEF"
+                "Multiplier: 3.3 DEF"
             ],
             "abilityname": "Blood Curdle",
             "description": " Attacks all enemies. Has an 80% chance of placing a 50% [Decrease ATK] debuff for 2 turns. After attacking, has an 80% chance of placing a [HP Burn] debuff for 2 turns on all enemies without [Decrease ATK] debuffs.",

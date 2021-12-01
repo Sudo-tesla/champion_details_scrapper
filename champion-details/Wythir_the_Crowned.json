@@ -1,0 +1,84 @@
+{
+    "name": "Wythir the Crowned",
+    "class": {
+        "faction": "Demonspawn",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "24,120",
+        "atk": "793",
+        "def": "1,178",
+        "spd": "108",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "40",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "multiplier": [
+                "Multiplier: 2.8 DEF"
+            ],
+            "abilityname": "Soul’s Impalement",
+            "description": " Attacks all enemies. Has a 50% chance of placing a [Leech] debuff for 1 turn. Also places a 15% [Continuous Heal] buff on a random ally or 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Feel No Pain",
+            "description": " Places a 60% [Increase DEF] buff on all allies for 2 turns. Also increases the duration of all [Continuous Heal] buffs on all allies by 1 turn, then instantly activates any [Continuous Heal] buffs on all allies.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Azure Redeemer",
+            "description": " Removes all debuffs from all allies, then heals all allies by 30% of this champion’s MAX HP",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Eternal Flame",
+            "description": " Places a 15% [Continuous Heal] buff on the ally with the lowest HP for 1 turn at the start of each turn.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally Resist in all Battles by 50.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/09/Wythir-The-Crowned.png"
+}

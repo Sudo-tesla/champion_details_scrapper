@@ -1,0 +1,96 @@
+{
+    "name": "Urticata",
+    "class": {
+        "faction": "Demonspawn",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "12,555",
+        "atk": "1,409",
+        "def": "1,057",
+        "spd": "97",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "15"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: ? ATK"
+            ],
+            "abilityname": "Mephitic Spines",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of increasing the duration of 2 [Poison] debuffs by 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Damage +5%",
+                "Level 7: Buff/Debuff Chance +5%",
+                "Level 8: Damage +5%",
+                "Level 9: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [],
+            "abilityname": "Poison Agonist",
+            "description": " Attacks 1 enemy 3 times. Each hit has a 30% chance of placing a 25% [Poison Sensitivity] debuff for 2 turns.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [],
+            "abilityname": "Wretched Nexus",
+            "description": " Attacks 4 times at random. Each hit has a 50% chance of placing a [Hex] debuff for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Blood Borne",
+            "description": " Whenever either this Champion or an ally lands a critical hit on an enemy under [Hex] debuff, has a 10% chance of placing a 5% [Poison] debuff on the enemy for 1 turn.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally SPD in all Battles by 15%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/09/Urticata.png"
+}
