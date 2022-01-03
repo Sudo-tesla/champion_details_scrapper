@@ -1,0 +1,88 @@
+{
+    "name": "Gliseah Soulguide",
+    "class": {
+        "faction": "The Sacred Order",
+        "rarity": "Legendary",
+        "role": "Defense",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "18,660",
+        "atk": "826",
+        "def": "1,509",
+        "spd": "100",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "40",
+        "acc": "20"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "multiplier": [
+                "Multiplier: 3.2 DEF"
+            ],
+            "abilityname": "Glittering Smash",
+            "description": " Attacks 1 enemy. Has a 30% chance of placing a [Freeze] debuff for 1 turn. Also applies a [Debuff Spread] effect, taking 1 random debuff from the target and placing it on all enemies under [Freeze] Debuffs.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 3,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: 3.3 DEF"
+            ],
+            "abilityname": "Breath of Rime",
+            "description": " Attacks all enemies. Places a 25% [Weaken] debuff for 2 turns. Also steals 1 random buff from each enemy under a [Freeze] debuff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Everwinter",
+            "description": " Places a [Block Debuffs] buff on all allies for 2 turns. Also has a 60% chance of placing a [Freeze] debuff on all enemies for 1 turn. Fills this champion’s Turn Meter by 15% for each [Freeze] debuff placed by this skill.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Timeless",
+            "description": " This Champion’s skills cannot be put on cooldown. Whenever an enemy tries to put either this Champion’s skills or an ally’s skills on cooldown, places a [Freeze] debuff on that enemy. Also has a 50% chance of denying the cooldown increase effect. The [Freeze] debuff cannot be blocked or resisted. Will not deny cooldown increasing effects from Bosses",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally Resist in all Battles by 60",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png"
+}

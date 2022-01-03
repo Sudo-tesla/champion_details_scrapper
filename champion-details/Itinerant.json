@@ -1,0 +1,74 @@
+{
+    "name": "Itinerant",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "13,710",
+        "atk": "1,354",
+        "def": "760",
+        "spd": "90",
+        "crate": "15%",
+        "cdmg": "57%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.1 ATK"
+            ],
+            "abilityname": "Soultap",
+            "description": " Attacks 1 enemy. Has a 30% chance of placing a [Leech] debuff for 2 turns. The chance increases to 50% if this attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.6 ATK"
+            ],
+            "abilityname": "Wanderer’s Weirding",
+            "description": " Attacks all enemies. Has a 50% chance of placing a 15% [Decrease SPD] debuff for 2 turns. Also places a 15% [Increase SPD] buff on this champion for 2 turns if the attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: 5.5 ATK"
+            ],
+            "abilityname": "Waste Away",
+            "description": " Attacks 1 enemy. Decreases the enemy’s MAX HP by 30% of the damage inflicted if this attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png"
+}

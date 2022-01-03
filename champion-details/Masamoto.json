@@ -1,0 +1,73 @@
+{
+    "name": "Masamoto",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "16,020",
+        "atk": "870",
+        "def": "1,365",
+        "spd": "98",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "45",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 1.5 DEF"
+            ],
+            "abilityname": "Dual Slice",
+            "description": " Attacks 1 enemy 2 times. Has a 10% chance of stealing 1 random buff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Damage +5%",
+                "Level 7: Buff/Debuff Chance +5%",
+                "Level 8: Damage +5%",
+                "Level 9: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: 4.1 DEF"
+            ],
+            "abilityname": "Steel Typhoon",
+            "description": " Attacks all enemies. Has a 50% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 4,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Yojimbo",
+            "description": " Places a 60% [Increase DEF] buff on all allies for 2 turns. Also fills the Turn Meters of all allies by 15%.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        }
+    ],
+    "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png"
+}

@@ -1,0 +1,87 @@
+{
+    "name": "Tatura Rimehide",
+    "class": {
+        "faction": "High Elves",
+        "rarity": "Legendary",
+        "role": "Defense",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "20,145",
+        "atk": "804",
+        "def": "1,432",
+        "spd": "102",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "50",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "multiplier": [
+                "Multiplier: 3.8 DEF"
+            ],
+            "abilityname": "Solar Ray",
+            "description": " Attacks 1 enemy. Has an 80% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Wings of Shelter",
+            "description": " Places a [Block Debuffs] buff and a 60% [Increase DEF] buff on all allies for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: 4.2 DEF"
+            ],
+            "abilityname": "Otherworld Breach",
+            "description": " Attacks all enemies. Places a [Perfect Veil] buff on all allies except this Champion for 2 turns. Also places a [Shield] buff on this Champion for 2 turns equal to 20% of the damage inflicted.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Glimmer Hide",
+            "description": " When attacked, reflects 30% of the damage this Champion receives back to the attacker. Also has a 30% chance of placing a [Freeze] debuff on the attacker for 1 turn.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally DEF in Doom Tower Battles by 35%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png"
+}

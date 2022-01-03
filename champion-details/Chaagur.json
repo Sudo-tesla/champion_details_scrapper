@@ -1,0 +1,91 @@
+{
+    "name": "Chaagur",
+    "class": {
+        "faction": "Lizardmen",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "13,545",
+        "atk": "1,542",
+        "def": "1,134",
+        "spd": "100",
+        "crate": "15%",
+        "cdmg": "57%",
+        "resist": "30",
+        "acc": "20"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.5 ATK"
+            ],
+            "abilityname": "Stupor",
+            "description": " Attacks 1 enemy. Has a 50% chance of placing a [Sleep] debuff for 1 turn.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +15%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: 1.9 ATK"
+            ],
+            "abilityname": "Venom Storm",
+            "description": " Attacks all enemies 2 times. The first hit has a 75% chance of placing a 5% [Poison] debuff for 4 turns. The second hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 3 turns.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 4,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: 2.9 ATK"
+            ],
+            "abilityname": "Heart Stopper",
+            "description": " Attacks 1 enemy, then attacks 1 time at random. If the target is under a [Poison] debuff, will ignore [Shield], [Block Damage], and [Unkillable] buffs. Grants an Extra Turn if this attack kills an enemy. Also rests the cooldown of the [Venom Storm] skill if this attack kills 2 enemies.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Constant Agony",
+            "description": " Instantly attacks enemies with the default skill whenever they receive damage from [Poison] debuffs placed by this champion. When hitting enemies under [Poison] debuffs, heals this Champion by 10% of the damage inflicted.",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally ATK in all Battles by 33%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png"
+}

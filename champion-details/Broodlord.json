@@ -1,0 +1,94 @@
+{
+    "name": "Broodlord",
+    "class": {
+        "faction": "Lizardmen",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "17,340",
+        "atk": "727",
+        "def": "1,421",
+        "spd": "99",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "15"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "multiplier": [
+                "Multiplier: 1.6 DEF"
+            ],
+            "abilityname": "Patient Tactician",
+            "description": " Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a [Provoke] debuff for 1 turn if the target is under a [Decrease SPD] debuff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff Chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff Chance +5%",
+                "Level 6: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Defend the Nest",
+            "description": " Places a 50% Ally Protection buff on an ally for 2 turns, then a [Block Debuffs] buff on that ally for 1 turn. Also places a [Shield] buff on this champion for 2 turns equal to 20% of this champion’s MAX HP.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: 3.8 DEF"
+            ],
+            "abilityname": "Primal Tremor",
+            "description": " Attacks all enemies. Has a 40% chance of placing a [Stun] Debuff for 1 turn. The chance increases to 75% against enemies under [Decrease SPD] debuffs.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Buff/Debuff chance +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Buff/Debuff chance +5%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Eggwatcher",
+            "description": " Whenever this champion is attacked or whenever allies under [Ally Protect] buffs are attacked, has a 30% chance of placing a 30% [Decrease SPD] debuff on the attacker for 2 turns.",
+            "books": [
+                "Level 2: Buff/Debuff chance +5%",
+                "Level 3: Buff/Debuff chance +5%",
+                "Level 4: Buff/Debuff chance +5%"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally DEF in all battles by 25%",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Ordinator",
+    "class": {
+        "faction": "Dark Elves",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "13,710",
+        "atk": "1,321",
+        "def": "793",
+        "spd": "100",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "10"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.3 ATK"
+            ],
+            "abilityname": "Weighty Punishment",
+            "description": " Attacks 1 enemy. Has a 25% chance of placing a [Freeze] debuff for 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: 4 ATK (Bomb: 4 ATK)"
+            ],
+            "abilityname": "Obedience Collars",
+            "description": " Attacks all enemies. Has 50% chance of placing a [Bomb] debuff that detonates after 2 turns",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Buff/Debuff Chance +10%",
+                "Level 7: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Enforcer",
+            "description": " When attacked, has a 30% chance of decreasing all [Bomb] debuff detonation cooldowns on the attacker by 1 turn.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png"
+}

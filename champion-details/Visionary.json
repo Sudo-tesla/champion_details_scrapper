@@ -1,0 +1,77 @@
+{
+    "name": "Visionary",
+    "class": {
+        "faction": "Dark Elves",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Spirit"
+    },
+    "stats": {
+        "hp": "15,360",
+        "atk": "1,277",
+        "def": "1,002",
+        "spd": "98",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "15"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.2 ATK"
+            ],
+            "abilityname": "Ectoplasm",
+            "description": " Attacks 1 enemy. Has a 30% chance of decreasing the target’s Turn Meter by 15%. This chance increases to 100% if the target is under a [Decrease C.RATE] debuff or a [Decrease C.DMG] debuff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%",
+                "Level 5: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [ "ATK"],
+            "multiplier": [
+                "Multiplier: 3.3 ATK"
+            ],
+            "abilityname": "Haunt",
+            "description": " Attacks all enemies. Has a 75% chance of placing a 30% [Decrease C.RATE] debuff and a 25% [Decrease C.DMG] debuff on all enemies for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Dark Dealings",
+            "description": " Places a 30% [Increase C.RATE] buff and a 30% [Increase C.DMG] buff on all allies for 2 turns. Also fills the Turn Meters of all allies by 15%.",
+            "books": [
+                "Level 2: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally SPD in Dungeons by 24%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png"
+}

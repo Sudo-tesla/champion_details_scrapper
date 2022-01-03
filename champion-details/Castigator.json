@@ -1,0 +1,65 @@
+{
+    "name": "Castigator",
+    "class": {
+        "faction": "The Sacred Order",
+        "rarity": "Rare",
+        "role": "HP",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "18,990",
+        "atk": "859",
+        "def": "903",
+        "spd": "95",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "40",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: 0.24 HP"
+            ],
+            "abilityname": "Castigate",
+            "description": " Attacks 1 enemy. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +10%"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 4,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Holy Equity",
+            "description": " Heals the ally with the lowest HP by 20% of this Champions MAX HP, then equalises the HP levels of all allies and grants this Champion an Extra Turn.",
+            "books": [
+                "Level 2: Heal +5%",
+                "Level 3: Heal +5%",
+                "Level 4: Cooldown -1",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Rebuff",
+            "description": " Receives 15% less damage from enemies under [Provoke] debuffs.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png"
+}

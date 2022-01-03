@@ -1,0 +1,95 @@
+{
+    "name": "Umetogi",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "13,215",
+        "atk": "1,564",
+        "def": "859",
+        "spd": "99",
+        "crate": "15%",
+        "cdmg": "60%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 1.6 ATK"
+            ],
+            "abilityname": "Sai Assassin",
+            "description": " Attacks 1 enemy 2 times. Has an additional 20% chance of inflicting a critical hit if this champion is under a [Veil] or [Perfect Veil] buff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Damage +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 2.5 ATK"
+            ],
+            "abilityname": "Silent Parting",
+            "description": " Attacks 1 enemy 2 times. Each hit will ignore 20% of the target’s DEF. Has an additional 20% chance of inflicting a critical hit if this Champion is under [Veil] or [Perfect Veil] buff.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Damage +10%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Fade Into Nothing",
+            "description": " Places a [Perfect Veil] buff and a 30% [Increase SPD] buff on this champion for 2 turns, then fills this champion’s Turn Meter by 40%.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 2,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Standoff",
+            "description": " Whenever this champion is attacked. Completely blocks 1 hit, decreasing the incoming damage to zero, then counterattacks with the default skill. When attacked by a boss, decreases the incoming damage by 50% instead before counterattacking.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increase C.RATE in all Battles by 15%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png"
+}
