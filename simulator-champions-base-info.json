@@ -287,6 +287,10 @@
         "affinity": "Void",
         "rarity": "Epic"
     },
+    "Broodlord": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
     "Brute": {
         "affinity": "Magic",
         "rarity": "Uncommon"
@@ -339,6 +343,10 @@
         "affinity": "Void",
         "rarity": "Epic"
     },
+    "Castigator": {
+        "affinity": "Magic",
+        "rarity": "Rare"
+    },
     "Catacomb Councilor": {
         "affinity": "Magic",
         "rarity": "Epic"
@@ -350,6 +358,10 @@
     "Centurion": {
         "affinity": "Void",
         "rarity": "Rare"
+    },
+    "Chaagur": {
+        "affinity": "Void",
+        "rarity": "Legendary"
     },
     "Chancellor Yasmin": {
         "affinity": "Force",
@@ -815,6 +827,10 @@
         "affinity": "Force",
         "rarity": "Rare"
     },
+    "Gliseah Soulguide": {
+        "affinity": "Force",
+        "rarity": "Legendary"
+    },
     "Gloril Brutebane": {
         "affinity": "Spirit",
         "rarity": "Rare"
@@ -1115,6 +1131,10 @@
         "affinity": "Void",
         "rarity": "Legendary"
     },
+    "Itinerant": {
+        "affinity": "Force",
+        "rarity": "Rare"
+    },
     "Jaeger": {
         "affinity": "Spirit",
         "rarity": "Uncommon"
@@ -1395,6 +1415,10 @@
         "affinity": "Spirit",
         "rarity": "Legendary"
     },
+    "Masamoto": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
+    },
     "Masked Fearmonger": {
         "affinity": "Spirit",
         "rarity": "Epic"
@@ -1434,6 +1458,10 @@
     "Miscreated Monster": {
         "affinity": "Magic",
         "rarity": "Epic"
+    },
+    "Misericord": {
+        "affinity": "Magic",
+        "rarity": "Rare"
     },
     "Missionary": {
         "affinity": "Force",
@@ -1546,6 +1574,10 @@
     "Old Hermit Jorrg": {
         "affinity": "Magic",
         "rarity": "Epic"
+    },
+    "Ordinator": {
+        "affinity": "Force",
+        "rarity": "Rare"
     },
     "Outlander": {
         "affinity": "Spirit",
@@ -2151,6 +2183,10 @@
         "affinity": "Spirit",
         "rarity": "Epic"
     },
+    "Tatura Rimehide": {
+        "affinity": "Spirit",
+        "rarity": "Legendary"
+    },
     "Taurus": {
         "affinity": "Magic",
         "rarity": "Epic"
@@ -2299,6 +2335,10 @@
         "affinity": "Void",
         "rarity": "Epic"
     },
+    "Umetogi": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
     "Underpriest Brogni": {
         "affinity": "Magic",
         "rarity": "Legendary"
@@ -2398,6 +2438,10 @@
     "Vilespawn": {
         "affinity": "Spirit",
         "rarity": "Uncommon"
+    },
+    "Visionary": {
+        "affinity": "Spirit",
+        "rarity": "Epic"
     },
     "Visix the Unbowed": {
         "affinity": "Void",

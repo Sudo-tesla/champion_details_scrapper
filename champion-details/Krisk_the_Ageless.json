@@ -20,11 +20,20 @@
         {
             "cd": 0,
             "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Might of Ages",
+            "description": "",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
             "dmgscaling": [
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 2 DEF"
+                "Multiplier: 2 DEF"
             ],
             "abilityname": "Enter the Morass",
             "description": " Attacks all enemies. Has a 30% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
@@ -42,7 +51,7 @@
                 "DEF"
             ],
             "multiplier": [
-                " Multiplier: 3 DEF"
+                "Multiplier: 3 DEF"
             ],
             "abilityname": "Centuried Vigor",
             "description": " Attacks all enemies. Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns. Places two 15% [Continuous Heal] buffs on this Champion for 1 turn. Increases the duration of all ally buffs by 1 turn.",
@@ -82,5 +91,5 @@
             ]
         }
     ],
-    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Krisk_the_Ageless.png"
+    "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png"
 }

@@ -10,15 +10,11 @@ const textUtil = require('./Util/TextUtil');
 const fileUtil = require('./Util/FileUtil');
 const extensions = require('./Constants/Extensions');
 const directories = require('./Constants/Directories');
+const {champList} = require("./Util/champList");
 //const sourceLink = "https://ayumilove.net/raid-shadow-legends-list-of-champions-by-ranking/";
 const sourceLink = "https://ayumilove.net/category/raid-shadow-legends/";
+const {Champion} = require('./classes/Champion')
 
-class Champion {
-    constructor(name, url) {
-        this.name = name;
-        this.url = url;
-    }
-}
 
 class Class {
     constructor({faction,rarity,role,affinity}) {
@@ -498,7 +494,7 @@ function upsertChampionDetails(champ ) {
     try{
         let hasStoredResources = fileUtil.fileExists({filename: champ.name, isImage: false, isJson: true}).jsonExists;
 
-        hasStoredResources = !champ.name.trim().startsWith('V');
+        //hasStoredResources = !champ.name.trim().startsWith('V');
 
         if(hasStoredResources === false) {
             //console.log(champ.name);
@@ -524,8 +520,9 @@ function upsertChampionDetails(champ ) {
 }
 async function main() {
 
-    olChampionList.then((list) =>{
-        console.log(list.length);
+    champList('https://ayumilove.net/raid-shadow-legends-patch-notes-2021/#patch480-20211111').then((list) =>{
+        //console.log(list.length);
+        console.table(list)
         list.forEach(upsertChampionDetails);
         //storeBaseChampionInfoList()
         //storeSimulatorChampionInfoList()
@@ -547,31 +544,35 @@ async function main() {
 
 
 let seer =  {
-    name: 'Urticata',
-    url: 'https://ayumilove.net/raid-shadow-legends-urticata-skill-mastery-equip-guide/'
+    name: 'Gliseah Soulguide',
+    url: 'https://ayumilove.net/raid-shadow-legends-gliseah-soulguide-skill-mastery-equip-guide/'
 }
 
 
 
 
 /*
-extractChampionDetails(seer).then((res) =>{
-
-    storeChampion(res);
-   storeImage(res);
-
+extractChampionDetails(seer).then( async (res) =>{
+   /!* storeChampion(res);
+   storeImage(res);*!/
+    let list = await champList('https://ayumilove.net/raid-shadow-legends-patch-notes-2021/#patch500-20211221');
     console.log(res.skills);
+    console.log(list)
+
 
 }).catch((error) => {
     console.log(error.message);
 });
+
+
 */
 
 
 
 
-/*
 
+
+/*
 
 main().then().catch((error) => {
     console.log(error.message);
@@ -581,7 +582,8 @@ main().then().catch((error) => {
 */
 
 
+
+
 storeBaseChampionInfoList()
 storeSimulatorChampionInfoList()
-
 

@@ -575,6 +575,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Broadmaw.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Broadmaw.json?raw=true"
     },
+    "Broodlord": {
+        "faction": "Lizardmen",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Spirit",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Broodlord.json?raw=true"
+    },
     "Brute": {
         "faction": "Ogryn Tribes",
         "rarity": "Uncommon",
@@ -679,6 +687,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Cardinal.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Cardinal.json?raw=true"
     },
+    "Castigator": {
+        "faction": "The Sacred Order",
+        "rarity": "Rare",
+        "role": "HP",
+        "affinity": "Magic",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Castigator.json?raw=true"
+    },
     "Catacomb Councilor": {
         "faction": "Undead Hordes",
         "rarity": "Epic",
@@ -702,6 +718,14 @@
         "affinity": "Void",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Centurion.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Centurion.json?raw=true"
+    },
+    "Chaagur": {
+        "faction": "Lizardmen",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Void",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Chaagur.json?raw=true"
     },
     "Chancellor Yasmin": {
         "faction": "Banner Lords",
@@ -1631,6 +1655,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Gladiator.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Gladiator.json?raw=true"
     },
+    "Gliseah Soulguide": {
+        "faction": "The Sacred Order",
+        "rarity": "Legendary",
+        "role": "Defense",
+        "affinity": "Force",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Gliseah_Soulguide.json?raw=true"
+    },
     "Gloril Brutebane": {
         "faction": "Dwarves",
         "rarity": "Rare",
@@ -2231,6 +2263,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ithos.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ithos.json?raw=true"
     },
+    "Itinerant": {
+        "faction": "Shadowkin",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Force",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Itinerant.json?raw=true"
+    },
     "Jaeger": {
         "faction": "High Elves",
         "rarity": "Uncommon",
@@ -2332,7 +2372,7 @@
         "rarity": "Rare",
         "role": "Attack",
         "affinity": "Magic",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Kael.png",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Kael.json?raw=true"
     },
     "Kaiden": {
@@ -2436,7 +2476,7 @@
         "rarity": "Legendary",
         "role": "Defense",
         "affinity": "Void",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Krisk_the_Ageless.png",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Krisk_the_Ageless.json?raw=true"
     },
     "Kurzad Deepheart": {
@@ -2452,7 +2492,7 @@
         "rarity": "Legendary",
         "role": "Defense",
         "affinity": "Spirit",
-        "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/09/Kyoku.png",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Kyoku.json?raw=true"
     },
     "Kytis": {
@@ -2791,6 +2831,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Martyr.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Martyr.json?raw=true"
     },
+    "Masamoto": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Spirit",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Masamoto.json?raw=true"
+    },
     "Masked Fearmonger": {
         "faction": "Banner Lords",
         "rarity": "Epic",
@@ -2870,6 +2918,14 @@
         "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Miscreated_Monster.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Miscreated_Monster.json?raw=true"
+    },
+    "Misericord": {
+        "faction": "Banner Lords",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Misericord.json?raw=true"
     },
     "Missionary": {
         "faction": "The Sacred Order",
@@ -3094,6 +3150,14 @@
         "affinity": "Magic",
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Old_Hermit_Jorrg.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Old_Hermit_Jorrg.json?raw=true"
+    },
+    "Ordinator": {
+        "faction": "Dark Elves",
+        "rarity": "Rare",
+        "role": "Attack",
+        "affinity": "Force",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Ordinator.json?raw=true"
     },
     "Outlander": {
         "faction": "Barbarians",
@@ -4303,6 +4367,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Tarshon.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Tarshon.json?raw=true"
     },
+    "Tatura Rimehide": {
+        "faction": "High Elves",
+        "rarity": "Legendary",
+        "role": "Defense",
+        "affinity": "Spirit",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Tatura_Rimehide.json?raw=true"
+    },
     "Taurus": {
         "faction": "Skinwalkers",
         "rarity": "Epic",
@@ -4599,6 +4671,14 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Umbral_Enchantress.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Umbral_Enchantress.json?raw=true"
     },
+    "Umetogi": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Umetogi.json?raw=true"
+    },
     "Underpriest Brogni": {
         "faction": "Dwarves",
         "rarity": "Legendary",
@@ -4799,12 +4879,20 @@
         "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Vilespawn.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Vilespawn.json?raw=true"
     },
+    "Visionary": {
+        "faction": "Dark Elves",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Spirit",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Visionary.json?raw=true"
+    },
     "Visix the Unbowed": {
         "faction": "Dark Elves",
         "rarity": "Legendary",
         "role": "Defense",
         "affinity": "Void",
-        "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Visix_the_Unbowed.png",
+        "avatarUrl": "https://https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Visix_the_Unbowed.json?raw=true"
     },
     "Vizier Ovelis": {
