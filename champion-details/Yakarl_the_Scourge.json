@@ -41,7 +41,9 @@
             "dmgscaling": [
                 "ATK"
             ],
-            "multiplier": ["  Mutliplier: 6 ATK"],
+            "multiplier": [
+                "  Mutliplier: 6 ATK"
+            ],
             "abilityname": "Blizzard Rider",
             "description": " Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 3 turns and a 75% chance of placing a [Freeze] debuff for 1 turn. Also steals 100% of the target’s Turn Meter and places a 30% [Increase SPD] buff on this Champion for 3 turns. Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 3 turns and a 75% chance of placing a [Freeze] debuff for 1 turn. Also steals 100% of the target’s Turn Meter and places a 30% [Increase SPD] buff on this Champion for 3 turns. Damage Mutliplier: 6 ATK",
             "books": [
@@ -90,5 +92,5 @@
             "books": []
         }
     ],
-    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Yakarl_the_Scourge.png"
+    "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Yakarl-the-Scourge-Portrait.jpg"
 }
