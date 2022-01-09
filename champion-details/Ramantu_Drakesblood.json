@@ -65,7 +65,6 @@
             "abilityname": "Blood Wings",
             "description": " Attacks all enemies. Has an 80% chance of removing all buffs from all enemies before attacking. Also has an 80% chance of placing a [Block Active Skills] debuff for 2 turns on enemies without Passive skills. Also has an 80% chance of placing a [Block Passive Skills] debuff for 2 turns on enemies with Passive Skills.",
             "books": [
-
                 "Level 2: Buff/Debuff Chance +10%",
                 "level 3: Buff/Debuff Chance +10%",
                 "Level 4: Cooldown -1"
@@ -91,7 +90,6 @@
             "description": " Increases Ally ACC in all battles by 80.",
             "books": []
         }
-
     ],
-    "avatarUrl": "https://ayumilove.net/files/games/raid_shadow_legends/avatar/Ramantu_Drakesblood.png"
+    "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Ramantu-Drakesblood-Portrait.png"
 }
