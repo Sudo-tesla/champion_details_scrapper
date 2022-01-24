@@ -1,0 +1,83 @@
+{
+    "name": "Kunoichi",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "17,835",
+        "atk": "782",
+        "def": "1,332",
+        "spd": "99",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "15"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "multiplier": [
+                "Multiplier: 3.1 DEF"
+            ],
+            "abilityname": "Sever Muscle",
+            "description": " Attacks 1 enemy. Has a 30% chance of placing a 25% [Weaken] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +5%",
+                "Level 5: Buff/Debuff Chance +5%"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "DEF"
+            ],
+            "multiplier": [
+                "Multiplier: 3.7 DEF"
+            ],
+            "abilityname": "Poison Piercing",
+            "description": " Attacks all enemies. Has a 75% chance of placing a [Leech] debuff for 2 turns.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +10%",
+                "Level 4: Buff/Debuff Chance +10%",
+                "Level 5: Buff/Debuff Chance +15%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Interpose",
+            "description": " Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns. Fills this Champion’s Turn Meter by 50%",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Blooded Grit",
+            "description": " Places a [Block Damage] buff on this Champion for 1 turn whenever their HP drops below 50%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://hellhades.com/wp-content/uploads/2022/01/Kunoichi.png"
+}

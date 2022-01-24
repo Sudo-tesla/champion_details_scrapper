@@ -9,7 +9,7 @@ const champList = async (url) => {
 
         const dom = new JSDOM(data);
         const { document } = dom.window;
-        const u1 = document.querySelector("ol");
+        const u1 = document.querySelector("ul");
         const champs  = u1.querySelectorAll("li");
 
         for(let champ of champs) {
@@ -28,4 +28,4 @@ const champList = async (url) => {
 };
 
 exports.champList = champList;
-//champList('https://ayumilove.net/raid-shadow-legends-patch-notes-2021/#patch500-20211221').then(r=>console.log(r)).catch(err=>console.log(err))
+champList('https://ayumilove.net/raid-shadow-legends-patch-notes-2022/#patch510-20220117').then(r=>console.log(r)).catch(err=>console.log(err))

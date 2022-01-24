@@ -1,0 +1,97 @@
+{
+    "name": "Jingwon",
+    "class": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "HP",
+        "affinity": "Void"
+    },
+    "stats": {
+        "hp": "22,800",
+        "atk": "925",
+        "def": "1,134",
+        "spd": "103",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "30",
+        "acc": "20"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: 0.23 HP"
+            ],
+            "abilityname": "Doom Exchange",
+            "description": " Attacks 1 enemy. Transfers a random debuff from this champion to the target.",
+            "books": [
+                "Level 2: Damage + 5%",
+                "Level 3: Damage + 5%",
+                "Level 4: Damage + 10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 2,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: 0.35 HP"
+            ],
+            "abilityname": "Compound Calamity",
+            "description": " Attacks 1 enemy. Has a 75% chance of increasing the duration of 2 random debuffs on the target by 1 turn. Also places a [Block Active Skills] debuff for 1 turn if the target is under a [Decrease ACC] debuff or [Decrease C.DMG] debuff.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +10%",
+                "Level 3: Buff/Debuff Chance +15%",
+                "Level 4: Cooldown -1",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "HP"
+            ],
+            "multiplier": [
+                "Multiplier: 0.14 HP"
+            ],
+            "abilityname": "Power Flare",
+            "description": " Attacks all enemies. The first has an 80% chance of placing a 50% [Decrease ACC] debuff for 2 turns. The second hit has a 80% chance of placing a 30% [Decrease C.DMG] debuff for 2 turns. Also places a 25% [Strengthen] buff on this champion for 2 turns.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 6,
+            "mincd": 4,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Unchained",
+            "description": " Immune to [Fear], [True Fear], [Freeze], [Provoke], [Sleep], [Stun] and [Petrification] debuffs. Whenever a [Fear], [True Fear], [Freeze], [Provoke], [Sleep], [Stun] or [Petrification] debuff is placed on an ally, removes it and places a [Block Debuffs] buff on that ally for 2 turns.",
+            "books": [
+                "Level 2: Cooldown -1",
+                "Level 3: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally HP in all battles by 33%.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://hellhades.com/wp-content/uploads/2022/01/Jingwon.png"
+}
