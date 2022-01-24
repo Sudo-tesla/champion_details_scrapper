@@ -111,6 +111,10 @@
         "affinity": "Magic",
         "rarity": "Epic"
     },
+    "Arndulf": {
+        "affinity": "Magic",
+        "rarity": "Epic"
+    },
     "Ashwalker": {
         "affinity": "Void",
         "rarity": "Rare"
@@ -498,6 +502,10 @@
     "Dagger": {
         "affinity": "Void",
         "rarity": "Rare"
+    },
+    "Danag Skullreap": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
     },
     "Dark Athel": {
         "affinity": "Magic",
@@ -1031,6 +1039,10 @@
         "affinity": "Void",
         "rarity": "Rare"
     },
+    "Holsring": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
+    },
     "Honor Guard": {
         "affinity": "Force",
         "rarity": "Rare"
@@ -1151,6 +1163,10 @@
         "affinity": "Spirit",
         "rarity": "Epic"
     },
+    "Jingwon": {
+        "affinity": "Void",
+        "rarity": "Legendary"
+    },
     "Jintoro": {
         "affinity": "Magic",
         "rarity": "Legendary"
@@ -1239,6 +1255,10 @@
         "affinity": "Void",
         "rarity": "Legendary"
     },
+    "Kunoichi": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
     "Kurzad Deepheart": {
         "affinity": "Void",
         "rarity": "Rare"
@@ -1258,6 +1278,10 @@
     "Lady Kimi": {
         "affinity": "Magic",
         "rarity": "Legendary"
+    },
+    "Lady Quilen": {
+        "affinity": "Force",
+        "rarity": "Epic"
     },
     "Lamellar": {
         "affinity": "Force",
@@ -1571,9 +1595,17 @@
         "affinity": "Force",
         "rarity": "Uncommon"
     },
+    "Old Ghrukkus": {
+        "affinity": "Force",
+        "rarity": "Epic"
+    },
     "Old Hermit Jorrg": {
         "affinity": "Magic",
         "rarity": "Epic"
+    },
+    "Opardin Clanfather": {
+        "affinity": "Magic",
+        "rarity": "Legendary"
     },
     "Ordinator": {
         "affinity": "Force",

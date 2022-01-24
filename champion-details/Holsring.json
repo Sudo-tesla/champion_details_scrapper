@@ -1,0 +1,86 @@
+{
+    "name": "Holsring",
+    "class": {
+        "faction": "The Sacred Order",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Magic"
+    },
+    "stats": {
+        "hp": "15,195",
+        "atk": "1,509",
+        "def": "1,057",
+        "spd": "105",
+        "crate": "15%",
+        "cdmg": "63%",
+        "resist": "30",
+        "acc": "0"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 1.7 ATK"
+            ],
+            "abilityname": "Rampant Blows",
+            "description": " Attacks 2 times at random. Places a 50% [Increase ATK] buff on this champion for 2 turns if this attack is critical.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Damage +10%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 1.95 ATK"
+            ],
+            "abilityname": "Overthrow",
+            "description": " Attacks 3 times at random. Will ignore 25% of DEF against targets under [Hex] debuffs. Will ignore a further 25% of DEF against targets under [Hex] debuffs from the Banner Lord or Knights Revenant Factions.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +10%",
+                "Level 5: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 5,
+            "mincd": 4,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 1.75 ATK"
+            ],
+            "abilityname": "Witchfinder",
+            "description": " Attacks 4 times at random. Each hit has a 75% chance of placing a [Hex] debuff for 3 turns. Champions from the Banner Lord and Knights Revenant Factions cannot resist this debuff. Each hit also has a 75% chance of stealing 25% of the target’s Turn Meter. Steals 50% of the Turn Meter instead if the target is from the Banner Lord or Knights Revenant Factions. If this champion’s Turn Meter is at 75% or more after the steal, places a [Perfect Veil] buff on this champion for 2 turns.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +10%",
+                "Level 3: Buff/Debuff Chance +15%",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Hunter’s Guile",
+            "description": " If this Champion attacks 2 targets under [Hex] debuffs during the same turn, places a [Perfect Veil] buff on this champion for 1 turn. Will not count Counterattacks. Increases critical damage by 30% while attacking under a [Perfect Veil] buff.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://hellhades.com/wp-content/uploads/2022/01/Holsring.png"
+}

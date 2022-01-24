@@ -223,6 +223,14 @@
         "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Armina-Portrait.jpg",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Armina.json?raw=true"
     },
+    "Arndulf": {
+        "faction": "Banner Lords",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Magic",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2022/01/Arndulf.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Arndulf.json?raw=true"
+    },
     "Ashwalker": {
         "faction": "Knights Revenant",
         "rarity": "Rare",
@@ -998,6 +1006,14 @@
         "affinity": "Void",
         "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Dagger-Portrait.jpg",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Dagger.json?raw=true"
+    },
+    "Danag Skullreap": {
+        "faction": "Orcs",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2022/01/Danag-Skullreap.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Danag_Skullreap.json?raw=true"
     },
     "Dark Athel": {
         "faction": "Undead Hordes",
@@ -2063,6 +2079,14 @@
         "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Hollow-Portrait.jpg",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Hollow.json?raw=true"
     },
+    "Holsring": {
+        "faction": "The Sacred Order",
+        "rarity": "Legendary",
+        "role": "Attack",
+        "affinity": "Magic",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2022/01/Holsring.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Holsring.json?raw=true"
+    },
     "Honor Guard": {
         "faction": "Dwarves",
         "rarity": "Rare",
@@ -2303,6 +2327,14 @@
         "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Jinglehunter-Portrait.jpg",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Jinglehunter.json?raw=true"
     },
+    "Jingwon": {
+        "faction": "Shadowkin",
+        "rarity": "Legendary",
+        "role": "HP",
+        "affinity": "Void",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2022/01/Jingwon.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Jingwon.json?raw=true"
+    },
     "Jintoro": {
         "faction": "Shadowkin",
         "rarity": "Legendary",
@@ -2479,6 +2511,14 @@
         "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Krisk-the-Ageless-Portrait.jpg",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Krisk_the_Ageless.json?raw=true"
     },
+    "Kunoichi": {
+        "faction": "Shadowkin",
+        "rarity": "Epic",
+        "role": "Defense",
+        "affinity": "Force",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2022/01/Kunoichi.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Kunoichi.json?raw=true"
+    },
     "Kurzad Deepheart": {
         "faction": "Dwarves",
         "rarity": "Rare",
@@ -2518,6 +2558,14 @@
         "affinity": "Magic",
         "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Lady-Kimi-Portrait.jpg",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Lady_Kimi.json?raw=true"
+    },
+    "Lady Quilen": {
+        "faction": "Banner Lords",
+        "rarity": "Epic",
+        "role": "Attack",
+        "affinity": "Force",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2022/01/Lady-Quilen.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Lady_Quilen.json?raw=true"
     },
     "Lamellar": {
         "faction": "The Sacred Order",
@@ -3143,6 +3191,14 @@
         "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Oldbeard-Portrait.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Oldbeard.json?raw=true"
     },
+    "Old Ghrukkus": {
+        "faction": "Ogryn Tribes",
+        "rarity": "Epic",
+        "role": "Support",
+        "affinity": "Force",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2022/01/Old-Ghrukkus.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Old_Ghrukkus.json?raw=true"
+    },
     "Old Hermit Jorrg": {
         "faction": "Orcs",
         "rarity": "Epic",
@@ -3150,6 +3206,14 @@
         "affinity": "Magic",
         "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Old-Hermit-Jorgg-Portrait.jpg",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Old_Hermit_Jorrg.json?raw=true"
+    },
+    "Opardin Clanfather": {
+        "faction": "Barbarians",
+        "rarity": "Legendary",
+        "role": "HP",
+        "affinity": "Magic",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2022/01/Opardin-Clanfather.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Opardin_Clanfather.json?raw=true"
     },
     "Ordinator": {
         "faction": "Dark Elves",
@@ -4508,7 +4572,7 @@
         "rarity": "Rare",
         "role": "Attack",
         "affinity": "Spirit",
-        "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Tigersoul-Portrait.png",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Tigersoul.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Tigersoul.json?raw=true"
     },
     "Tolf the Maimed": {

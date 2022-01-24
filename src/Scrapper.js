@@ -265,7 +265,6 @@ async function extractChampionDetails(championObject) {
         }  else if(columns[0].querySelector("img").hasAttribute('src')) {
             console.log('src')
             imageUrl = columns[0].querySelector("img").getAttribute('src').substr(2);
-
         } else {
             imageUrl = 'https://www.pinclipart.com/picdir/middle/559-5592431_pokemon-unown-exclamation-mark-unknown-pokemon-question-mark.png';
         }
@@ -551,23 +550,35 @@ let seer =  {
 
 
 
+
 /*
 extractChampionDetails(seer).then( async (res) =>{
-   /!* storeChampion(res);
+/!*    storeChampion(res);
    storeImage(res);*!/
-    let list = await champList('https://ayumilove.net/raid-shadow-legends-patch-notes-2021/#patch500-20211221');
-    console.log(res.skills);
-    console.log(list)
+    let list = await champList('https://ayumilove.net/raid-shadow-legends-patch-notes-2022/#patch510-20220117');
+
+    console.table(list)
 
 
 }).catch((error) => {
     console.log(error.message);
 });
+*/
+
+/*
+const extractPatch = async () => {
+    let list = await champList('https://ayumilove.net/raid-shadow-legends-patch-notes-2022/#patch510-20220117');
+    console.table(list)
+    list.forEach(champ=> {
+        extractChampionDetails(champ).then(res =>storeChampion(res)).catch(err => console.log(err))
+    })
+
+}
+
+extractPatch().catch(err=>{console.log(err)})
 
 
 */
-
-
 
 
 
