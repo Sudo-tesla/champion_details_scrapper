@@ -517,6 +517,10 @@ function upsertChampionDetails(champ ) {
         console.log(err);
     }
 }
+
+
+
+
 async function main() {
 
     champList('https://ayumilove.net/raid-shadow-legends-patch-notes-2021/#patch480-20211111').then((list) =>{
@@ -533,39 +537,6 @@ async function main() {
 }
 
 
-
-
-
-
-
-
-
-
-
-let seer =  {
-    name: 'Gliseah Soulguide',
-    url: 'https://ayumilove.net/raid-shadow-legends-gliseah-soulguide-skill-mastery-equip-guide/'
-}
-
-
-
-
-
-/*
-extractChampionDetails(seer).then( async (res) =>{
-/!*    storeChampion(res);
-   storeImage(res);*!/
-    let list = await champList('https://ayumilove.net/raid-shadow-legends-patch-notes-2022/#patch510-20220117');
-
-    console.table(list)
-
-
-}).catch((error) => {
-    console.log(error.message);
-});
-*/
-
-/*
 const extractPatch = async () => {
     let list = await champList('https://ayumilove.net/raid-shadow-legends-patch-notes-2022/#patch510-20220117');
     console.table(list)
@@ -576,22 +547,6 @@ const extractPatch = async () => {
 }
 
 extractPatch().catch(err=>{console.log(err)})
-
-
-*/
-
-
-
-
-/*
-
-main().then().catch((error) => {
-    console.log(error.message);
-});
-
-
-*/
-
 
 
 
