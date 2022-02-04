@@ -20,42 +20,6 @@
         {
             "cd": 0,
             "mincd": 0,
-            "dmgscaling": [],
-            "multiplier": [],
-            "abilityname": "Brew Mama",
-            "description": "",
-            "books": []
-        },
-        {
-            "cd": 0,
-            "mincd": 0,
-            "dmgscaling": [],
-            "multiplier": [],
-            "abilityname": "Rotlimb Decoction",
-            "description": "",
-            "books": []
-        },
-        {
-            "cd": 0,
-            "mincd": 0,
-            "dmgscaling": [],
-            "multiplier": [],
-            "abilityname": "Hemlock Surprise",
-            "description": "",
-            "books": []
-        },
-        {
-            "cd": 0,
-            "mincd": 0,
-            "dmgscaling": [],
-            "multiplier": [],
-            "abilityname": "Malign Tendrils",
-            "description": "",
-            "books": []
-        },
-        {
-            "cd": 0,
-            "mincd": 0,
             "dmgscaling": [
                 "ATK"
             ],
