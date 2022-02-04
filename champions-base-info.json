@@ -1855,6 +1855,14 @@
         "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Gurptuk-Moss-Beard-Portrait.png",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Gurptuk_Moss_Beard.json?raw=true"
     },
+    "Guurda Bogbrew": {
+        "faction": "Ogryn Tribes",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Force",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2022/01/Guurda-Bogbrew.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Guurda_Bogbrew.json?raw=true"
+    },
     "Gwynneth": {
         "faction": "Dark Elves",
         "rarity": "Epic",

@@ -1,0 +1,125 @@
+{
+    "name": "Guurda Bogbrew",
+    "class": {
+        "faction": "Ogryn Tribes",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Force"
+    },
+    "stats": {
+        "hp": "20,640",
+        "atk": "892",
+        "def": "1,310",
+        "spd": "97",
+        "crate": "15%",
+        "cdmg": "50%",
+        "resist": "40",
+        "acc": "20"
+    },
+    "skills": [
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Brew Mama",
+            "description": "",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Rotlimb Decoction",
+            "description": "",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Hemlock Surprise",
+            "description": "",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Malign Tendrils",
+            "description": "",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "ATK"
+            ],
+            "multiplier": [
+                "Multiplier: 3.5 ATK"
+            ],
+            "abilityname": "Brew Mama",
+            "description": " Attacks 1 enemy. Has a 60% chance of applying a [Debuff Spread] effect, taking 1 random debuff from the target and placing it on all enemies under [Weaken] debuffs. Decreases the target’s Turn Meter by 10% if they are not under any debuffs.",
+            "books": [
+                "Level 2: Damage +5%",
+                "Level 3: Damage +5%",
+                "Level 4: Damage +5%"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [
+                "Multiplier: 4 ATK"
+            ],
+            "abilityname": "Rotlimb Decoction",
+            "description": " Attacks all enemies. Has an 80% chance of placing a 25% [Weaken] debuff for 2 turns. After attacking, has an 80% chance of placing two 5% [Poison] debuffs for 2 turns on all enemies without [Weaken] debuffs. These [Poison] debuffs cannot be blocked or resisted.",
+            "books": [
+                "Level 2: Damage +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Damage +10%",
+                "Level 5: Buff/Debuff Chance +10%",
+                "Level 6: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 4,
+            "mincd": 3,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Hemlock Surprise",
+            "description": " Has an 80% chance of removing 1 random buff from all enemies, then has an 80% chance of placing two 5% [Poison] debuffs on all enemies for 2 turns. Also removes 2 random debuffs from all allies.",
+            "books": [
+                "Level 2: Buff/Debuff Chance +10%",
+                "Level 3: Buff/Debuff Chance +10%",
+                "Level 4: Cooldown -1"
+            ]
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [
+                "Passive"
+            ],
+            "multiplier": [],
+            "abilityname": "Malign Tendrils",
+            "description": " Whenever an enemy receives a debuff, their Turn Meter is decreased by 3%",
+            "books": []
+        },
+        {
+            "cd": 0,
+            "mincd": 0,
+            "dmgscaling": [],
+            "multiplier": [],
+            "abilityname": "Aura",
+            "description": " Increases Ally RESIST in Arena battles by 65.",
+            "books": []
+        }
+    ],
+    "avatarUrl": "https://hellhades.com/wp-content/uploads/2022/01/Guurda-Bogbrew.png"
+}
