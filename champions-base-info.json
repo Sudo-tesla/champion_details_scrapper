@@ -2999,6 +2999,14 @@
         "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/06/Mistress-of-Hymns-Portrait.jpg",
         "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Mistress_of_Hymns.json?raw=true"
     },
+    "Mithrala Lifebane": {
+        "faction": "Dark Elves",
+        "rarity": "Legendary",
+        "role": "Support",
+        "affinity": "Void",
+        "avatarUrl": "https://hellhades.com/wp-content/uploads/2021/12/Mithrala-Lifebane.png",
+        "detailsUrl": "https://github.com/Sudo-tesla/champion_details_scrapper/blob/master/champion-details/Mithrala_Lifebane.json?raw=true"
+    },
     "Mordecai": {
         "faction": "The Sacred Order",
         "rarity": "Epic",
